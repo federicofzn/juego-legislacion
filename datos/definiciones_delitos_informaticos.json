@@ -1,0 +1,274 @@
+[
+  {
+    "id": "def-di-impuro",
+    "grupo": "figuras",
+    "termino": "Delito informático impuro",
+    "definicion": "Un delito común (amenaza, estafa, calumnia) cometido usando la tecnología como medio.",
+    "ejemplo": "Amenazar a alguien por WhatsApp.",
+    "pista": "Pensá en este ejemplo: alguien manda por WhatsApp un mensaje intimidante.",
+    "libro": "di_puros_impuros"
+  },
+  {
+    "id": "def-di-puro",
+    "grupo": "figuras",
+    "termino": "Delito informático puro",
+    "definicion": "Un delito en el que lo atacado son los propios datos, sistemas o cuentas.",
+    "ejemplo": "Bloquear los servidores de una clínica con un ransomware.",
+    "libro": "di_puros_impuros"
+  },
+  {
+    "id": "def-di-acceso",
+    "grupo": "figuras",
+    "termino": "Acceso ilegítimo (art. 153 bis)",
+    "definicion": "Entrar sin permiso a un sistema o a datos protegidos, aunque no se cambie nada.",
+    "ejemplo": "Un ex empleado que entra con su usuario viejo solo a mirar.",
+    "pista": "Pensá en este ejemplo: un ex empleado usa su usuario viejo solo para mirar el sistema.",
+    "libro": "di_ley_26388"
+  },
+  {
+    "id": "def-di-dano",
+    "grupo": "figuras",
+    "termino": "Daño informático (art. 183)",
+    "definicion": "Borrar, alterar o arruinar datos, programas o sistemas ajenos.",
+    "ejemplo": "Borrar a propósito la base de clientes de la empresa.",
+    "pista": "Pensá en este ejemplo: una empleada enojada elimina a propósito la base de clientes.",
+    "libro": "di_ley_26388"
+  },
+  {
+    "id": "def-di-fraude",
+    "grupo": "figuras",
+    "termino": "Fraude informático (art. 173 inc. 16)",
+    "definicion": "Manipular un sistema informático para quedarse con dinero o bienes ajenos.",
+    "ejemplo": "Cambiar el sistema del banco para desviar centavos a tu cuenta.",
+    "libro": "di_ley_26388"
+  },
+  {
+    "id": "def-di-correspondencia",
+    "grupo": "figuras",
+    "termino": "Violación de correspondencia electrónica (art. 153)",
+    "definicion": "Abrir, leer, quedarse o interceptar mails o mensajes que no están dirigidos a uno.",
+    "ejemplo": "Leer los correos de tu pareja entrando a su cuenta.",
+    "pista": "Pensá en este ejemplo: alguien revisa los correos de su pareja sin permiso.",
+    "libro": "di_ley_26388"
+  },
+  {
+    "id": "def-di-26388",
+    "grupo": "leyes",
+    "termino": "Ley 26.388",
+    "definicion": "Ley de 2008 que actualizó el Código Penal para incluir datos, sistemas y documentos digitales.",
+    "ejemplo": "Gracias a ella borrar datos ajenos es «daño».",
+    "pista": "Pensá en este ejemplo: gracias a ella, eliminar archivos ajenos se castiga como «daño».",
+    "libro": "di_ley_26388"
+  },
+  {
+    "id": "def-di-grooming",
+    "grupo": "leyes",
+    "termino": "Grooming (Ley 26.904)",
+    "definicion": "Cuando un adulto contacta a un menor por medios tecnológicos con intención sexual.",
+    "ejemplo": "Un adulto que se hace pasar por chico en el chat de un videojuego.",
+    "pista": "Pensá en este ejemplo: alguien se hace pasar por un chico de 13 años en el chat de un videojuego.",
+    "libro": "di_otras_leyes"
+  },
+  {
+    "id": "def-di-masi",
+    "grupo": "leyes",
+    "termino": "Ley 27.436 (MASI)",
+    "definicion": "Ley que castiga también tener guardado material de abuso sexual infantil, aunque no se comparta.",
+    "ejemplo": "Encontrar ese material en una computadora ya es delito.",
+    "pista": "Pensá en este ejemplo: encontrar esas imágenes en una computadora ya es delito, aunque nadie las haya enviado.",
+    "libro": "di_otras_leyes"
+  },
+  {
+    "id": "def-di-olimpia",
+    "grupo": "leyes",
+    "termino": "Ley Olimpia (Ley 27.736)",
+    "definicion": "Ley que reconoce la violencia digital como una forma de violencia contra las mujeres.",
+    "ejemplo": "Difundir fotos íntimas de una mujer sin su consentimiento.",
+    "pista": "Pensá en este ejemplo: difundir fotos íntimas de tu ex pareja sin su permiso.",
+    "libro": "di_otras_leyes"
+  },
+  {
+    "id": "def-di-budapest",
+    "grupo": "leyes",
+    "termino": "Convenio de Budapest",
+    "definicion": "Tratado internacional para que los países cooperen en la investigación de ciberdelitos.",
+    "ejemplo": "El servidor del atacante está en otro país.",
+    "libro": "di_otras_leyes"
+  },
+  {
+    "id": "def-di-confid",
+    "grupo": "cid",
+    "termino": "Confidencialidad (tríada CID)",
+    "pregunta": "En la tríada CID, ¿qué es la confidencialidad?",
+    "definicion": "Que la información solo la pueda ver quien tiene permiso.",
+    "ejemplo": "Se rompe cuando se filtran los diagnósticos de un hospital.",
+    "libro": "di_cid_capas"
+  },
+  {
+    "id": "def-di-integridad",
+    "grupo": "cid",
+    "termino": "Integridad (tríada CID)",
+    "pregunta": "En la tríada CID, ¿qué es la integridad?",
+    "definicion": "Que la información no se pueda cambiar sin permiso.",
+    "ejemplo": "Se rompe cuando un alumno cambia su nota en el sistema.",
+    "pista": "Pensá en este ejemplo: un alumno entra al sistema y pasa su nota de 2 a 8.",
+    "libro": "di_cid_capas"
+  },
+  {
+    "id": "def-di-dispon",
+    "grupo": "cid",
+    "termino": "Disponibilidad (tríada CID)",
+    "pregunta": "En la tríada CID, ¿qué es la disponibilidad?",
+    "definicion": "Que los sistemas y datos se puedan usar cuando hacen falta.",
+    "ejemplo": "Se rompe cuando una tienda online queda caída todo el día.",
+    "libro": "di_cid_capas"
+  },
+  {
+    "id": "def-di-cid",
+    "grupo": "cid",
+    "termino": "Tríada CID",
+    "definicion": "Las tres cosas que hay que cuidar de la información: que no la vea quien no debe, que no se altere y que se pueda usar.",
+    "ejemplo": "Confidencialidad, integridad y disponibilidad.",
+    "libro": "di_cid_capas"
+  },
+  {
+    "id": "def-di-profundidad",
+    "grupo": "cid",
+    "termino": "Defensa en profundidad",
+    "definicion": "Poner varias capas de protección para que, si una falla, las otras sigan protegiendo.",
+    "ejemplo": "Un castillo con foso, muralla y guardias.",
+    "libro": "di_cid_capas"
+  },
+  {
+    "id": "def-di-seginfo",
+    "grupo": "cid",
+    "termino": "Seguridad de la información",
+    "definicion": "Proteger la información en cualquier formato, también papel o conversaciones.",
+    "ejemplo": "Guardar expedientes en papel bajo llave.",
+    "pista": "Pensá en este ejemplo: guardar expedientes bajo llave y no hablar de los casos en el ascensor.",
+    "libro": "di_cid_capas"
+  },
+  {
+    "id": "def-di-seginf",
+    "grupo": "cid",
+    "termino": "Seguridad informática",
+    "definicion": "Proteger computadoras, programas y datos digitales, aunque no estén conectados a internet.",
+    "ejemplo": "Cifrar el disco de una notebook que nunca se conecta.",
+    "libro": "di_cid_capas"
+  },
+  {
+    "id": "def-di-ciber",
+    "grupo": "cid",
+    "termino": "Ciberseguridad",
+    "definicion": "Proteger sistemas y redes conectados frente a ataques que llegan por la red.",
+    "ejemplo": "Frenar un ataque que viene desde internet.",
+    "pista": "Pensá en este ejemplo: frenar a alguien que intenta entrar desde internet.",
+    "libro": "di_cid_capas"
+  },
+  {
+    "id": "def-di-ingsocial",
+    "grupo": "ataques",
+    "termino": "Ingeniería social",
+    "definicion": "Engañar o manipular a una persona para que entregue información o haga algo indebido.",
+    "ejemplo": "Una llamada falsa de «soporte técnico» que pide un código.",
+    "libro": "di_ataques"
+  },
+  {
+    "id": "def-di-phishing",
+    "grupo": "ataques",
+    "termino": "Phishing",
+    "definicion": "Mensaje falso que imita a alguien confiable para llevarte a una página trucha y robarte datos.",
+    "ejemplo": "Un mail «del banco» para «validar tu cuenta».",
+    "libro": "di_ataques"
+  },
+  {
+    "id": "def-di-malware",
+    "grupo": "ataques",
+    "termino": "Malware",
+    "definicion": "Cualquier programa malicioso hecho para dañar, espiar, robar o controlar un equipo.",
+    "ejemplo": "Un programa oculto que registra todo lo que escribís.",
+    "libro": "di_ataques"
+  },
+  {
+    "id": "def-di-ransomware",
+    "grupo": "ataques",
+    "termino": "Ransomware",
+    "definicion": "Programa malicioso que bloquea los archivos de la víctima y pide un rescate para liberarlos.",
+    "ejemplo": "Los servidores de una clínica quedan cifrados con un pedido de pago.",
+    "libro": "di_ataques"
+  },
+  {
+    "id": "def-di-doble",
+    "grupo": "ataques",
+    "termino": "Doble extorsión",
+    "definicion": "Además de bloquear los archivos, el atacante se los lleva y amenaza con publicarlos.",
+    "ejemplo": "La empresa recupera su respaldo, pero igual la amenazan con filtrar datos.",
+    "pista": "Pensá en este ejemplo: la empresa recupera su respaldo, pero igual le piden plata para no difundir sus datos.",
+    "libro": "di_ataques"
+  },
+  {
+    "id": "def-di-red",
+    "grupo": "roles",
+    "termino": "Red Team",
+    "definicion": "Equipo que ataca con permiso, como lo haría un delincuente, para probar las defensas.",
+    "ejemplo": "Un banco los contrata para intentar entrar a sus sistemas.",
+    "libro": "di_roles_pentest"
+  },
+  {
+    "id": "def-di-blue",
+    "grupo": "roles",
+    "termino": "Blue Team",
+    "definicion": "Equipo que vigila los sistemas, detecta ataques y responde a ellos.",
+    "ejemplo": "Quienes monitorean alertas las 24 horas.",
+    "libro": "di_roles_pentest"
+  },
+  {
+    "id": "def-di-purple",
+    "grupo": "roles",
+    "termino": "Purple Team",
+    "definicion": "Equipo que coordina a atacantes y defensores para mejorar las defensas.",
+    "ejemplo": "Traduce lo que descubre el equipo atacante en nuevas defensas.",
+    "libro": "di_roles_pentest"
+  },
+  {
+    "id": "def-di-vciso",
+    "grupo": "roles",
+    "termino": "vCISO",
+    "definicion": "Responsable de la estrategia de seguridad contratado como servicio externo o a tiempo parcial.",
+    "ejemplo": "Una especialista que dos días por semana define la seguridad de una pyme.",
+    "pista": "Pensá en este ejemplo: una especialista que va dos días por semana y define las reglas de una pyme.",
+    "libro": "di_roles_pentest"
+  },
+  {
+    "id": "def-di-retest",
+    "grupo": "roles",
+    "termino": "Retest",
+    "definicion": "Volver a probar después de corregir, para confirmar que las correcciones funcionan.",
+    "ejemplo": "Se hace después de arreglar lo que encontró el pentest.",
+    "libro": "di_roles_pentest"
+  },
+  {
+    "id": "def-di-gap",
+    "grupo": "roles",
+    "termino": "Gap (brecha)",
+    "definicion": "Diferencia entre cómo está la organización hoy y cómo debería estar según sus reglas.",
+    "ejemplo": "La política exige doble factor para todos, pero solo lo usa el 30%.",
+    "libro": "di_roles_pentest"
+  },
+  {
+    "id": "def-di-vuln",
+    "grupo": "roles",
+    "termino": "Vulnerabilidad",
+    "definicion": "Una falla concreta de un sistema que un atacante puede aprovechar.",
+    "ejemplo": "Un formulario web que permite meter comandos en la base de datos.",
+    "libro": "di_roles_pentest"
+  },
+  {
+    "id": "def-di-grayhat",
+    "grupo": "roles",
+    "termino": "Gray hat",
+    "definicion": "Hacker que entra sin permiso, aunque sin intención de dañar.",
+    "ejemplo": "Encuentra una falla en una web municipal y después avisa.",
+    "libro": "di_ataques"
+  }
+]

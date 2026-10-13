@@ -1,0 +1,257 @@
+[
+  {
+    "id": "def-dye-moral",
+    "grupo": "normas",
+    "termino": "Norma moral",
+    "definicion": "Regla que nace de la propia conciencia; si no se cumple, la consecuencia es sentir culpa.",
+    "ejemplo": "No mentirle a un amigo.",
+    "libro": "dye_normas"
+  },
+  {
+    "id": "def-dye-social",
+    "grupo": "normas",
+    "termino": "Norma social",
+    "definicion": "Costumbre de trato de un grupo; si no se cumple, el grupo te mira mal o te deja de lado.",
+    "ejemplo": "Saludar al llegar a la oficina.",
+    "libro": "dye_normas"
+  },
+  {
+    "id": "def-dye-religiosa",
+    "grupo": "normas",
+    "termino": "Norma religiosa",
+    "definicion": "Regla que viene de una creencia y obliga solo a quienes forman parte de esa religión.",
+    "ejemplo": "Ayunar en ciertas fechas.",
+    "libro": "dye_normas"
+  },
+  {
+    "id": "def-dye-juridica",
+    "grupo": "normas",
+    "termino": "Norma jurídica",
+    "definicion": "Regla dictada por el Estado que es obligatoria para todos y que el Estado puede imponer por la fuerza.",
+    "ejemplo": "Pagar los impuestos.",
+    "libro": "dye_normas"
+  },
+  {
+    "id": "def-dye-coercible",
+    "grupo": "normas",
+    "termino": "Coercibilidad",
+    "definicion": "Posibilidad de que el Estado obligue a cumplir una norma y sancione a quien no la cumple.",
+    "ejemplo": "Un embargo por una multa que no se pagó.",
+    "libro": "dye_normas"
+  },
+  {
+    "id": "def-dye-ley",
+    "grupo": "fuentes",
+    "termino": "Ley (como fuente del Derecho)",
+    "definicion": "Norma escrita dictada por la autoridad competente, como el Congreso; es la fuente principal.",
+    "ejemplo": "El Código Penal.",
+    "libro": "dye_derecho_fuentes"
+  },
+  {
+    "id": "def-dye-costumbre",
+    "grupo": "fuentes",
+    "termino": "Costumbre (como fuente del Derecho)",
+    "definicion": "Algo que la gente hace repetidamente durante mucho tiempo y siente como obligatorio.",
+    "ejemplo": "Una práctica comercial que todos respetan desde hace décadas.",
+    "libro": "dye_derecho_fuentes"
+  },
+  {
+    "id": "def-dye-jurisprudencia",
+    "grupo": "fuentes",
+    "termino": "Jurisprudencia",
+    "definicion": "Los criterios que surgen de las sentencias de los jueces al resolver casos parecidos.",
+    "ejemplo": "Varios fallos de la Corte Suprema que interpretan igual una ley.",
+    "libro": "dye_derecho_fuentes"
+  },
+  {
+    "id": "def-dye-doctrina",
+    "grupo": "fuentes",
+    "termino": "Doctrina",
+    "definicion": "Lo que escriben los especialistas en Derecho para explicar e interpretar las normas.",
+    "ejemplo": "El manual de un profesor de Derecho Constitucional.",
+    "pista": "Pensá en este ejemplo: el manual de un profesor universitario.",
+    "libro": "dye_derecho_fuentes"
+  },
+  {
+    "id": "def-dye-natural",
+    "grupo": "fuentes",
+    "termino": "Derecho Natural",
+    "definicion": "Principios justos que existen por el solo hecho de ser personas, aunque nadie los escriba.",
+    "ejemplo": "La dignidad humana.",
+    "libro": "dye_derecho_fuentes"
+  },
+  {
+    "id": "def-dye-positivo",
+    "grupo": "fuentes",
+    "termino": "Derecho Positivo",
+    "definicion": "Las normas que efectivamente están vigentes en un país porque las dictó una autoridad.",
+    "ejemplo": "El Código Penal argentino actual.",
+    "libro": "dye_derecho_fuentes"
+  },
+  {
+    "id": "def-dye-publico",
+    "grupo": "fuentes",
+    "termino": "Derecho Público",
+    "definicion": "Normas para situaciones en las que el Estado actúa con autoridad sobre las personas.",
+    "ejemplo": "El cobro de impuestos.",
+    "libro": "dye_derecho_fuentes"
+  },
+  {
+    "id": "def-dye-privado",
+    "grupo": "fuentes",
+    "termino": "Derecho Privado",
+    "definicion": "Normas para relaciones entre particulares que están en igualdad de condiciones.",
+    "ejemplo": "Un contrato de alquiler entre dos personas.",
+    "libro": "dye_derecho_fuentes"
+  },
+  {
+    "id": "def-dye-nacion",
+    "grupo": "estado",
+    "termino": "Nación",
+    "definicion": "Grupo de personas unidas por historia, cultura o identidad, aunque no tenga un Estado propio.",
+    "ejemplo": "Un pueblo con idioma y tradiciones comunes, sin territorio propio.",
+    "libro": "dye_estado_gobierno"
+  },
+  {
+    "id": "def-dye-estado",
+    "grupo": "estado",
+    "termino": "Estado",
+    "definicion": "Organización política permanente de un país, con población, territorio, gobierno y soberanía.",
+    "ejemplo": "El Estado argentino sigue siendo el mismo aunque cambie el presidente.",
+    "libro": "dye_estado_gobierno"
+  },
+  {
+    "id": "def-dye-gobierno",
+    "grupo": "estado",
+    "termino": "Gobierno",
+    "definicion": "Las personas y órganos que dirigen el Estado durante un período; cambia con las elecciones.",
+    "ejemplo": "El presidente y sus ministros durante su mandato.",
+    "libro": "dye_estado_gobierno"
+  },
+  {
+    "id": "def-dye-representativa",
+    "grupo": "estado",
+    "termino": "Forma representativa",
+    "definicion": "El pueblo no decide todo directamente: elige representantes que deciden en su nombre.",
+    "ejemplo": "Votar a diputados y senadores.",
+    "libro": "dye_estado_gobierno"
+  },
+  {
+    "id": "def-dye-republicana",
+    "grupo": "estado",
+    "termino": "Forma republicana",
+    "definicion": "El poder está dividido en tres para que ninguno concentre todo, y cada uno controla a los otros.",
+    "ejemplo": "Un juez puede declarar inválido un decreto del presidente.",
+    "libro": "dye_estado_gobierno"
+  },
+  {
+    "id": "def-dye-federal",
+    "grupo": "estado",
+    "termino": "Forma federal",
+    "definicion": "El poder se reparte entre el Estado nacional y las provincias, que tienen su propio gobierno.",
+    "ejemplo": "Cada provincia tiene su constitución y su gobernador.",
+    "pista": "No se trata de cuántos poderes hay (Ejecutivo, Legislativo, Judicial), sino de cómo se divide el poder entre distintos lugares del país.",
+    "libro": "dye_estado_gobierno"
+  },
+  {
+    "id": "def-dye-iniciativa",
+    "grupo": "estado",
+    "termino": "Iniciativa popular",
+    "definicion": "Los ciudadanos juntan firmas y presentan ellos mismos un proyecto de ley al Congreso.",
+    "ejemplo": "Una ONG presenta un proyecto con miles de firmas.",
+    "pista": "Es una forma de participar directamente: la gente propone, en lugar de solo votar.",
+    "libro": "dye_estado_gobierno"
+  },
+  {
+    "id": "def-dye-supremacia",
+    "grupo": "constitucion",
+    "termino": "Supremacía constitucional (art. 31)",
+    "definicion": "La Constitución está por encima de todas las demás normas: si una la contradice, no vale.",
+    "ejemplo": "Una ley provincial que prohíbe criticar al gobernador no vale.",
+    "pista": "Pensá en qué pasa con una ley provincial que choca con la Constitución.",
+    "libro": "dye_constitucion"
+  },
+  {
+    "id": "def-dye-dogmatica",
+    "grupo": "constitucion",
+    "termino": "Parte dogmática de la Constitución",
+    "definicion": "La parte de la Constitución que reconoce los derechos de las personas y sus garantías.",
+    "ejemplo": "El artículo que reconoce la libertad de expresión.",
+    "pista": "Pensá en este ejemplo: el artículo de la libertad de expresión.",
+    "libro": "dye_constitucion"
+  },
+  {
+    "id": "def-dye-organica",
+    "grupo": "constitucion",
+    "termino": "Parte orgánica de la Constitución",
+    "definicion": "La parte de la Constitución que organiza los poderes del Estado y sus mandatos.",
+    "ejemplo": "El artículo que dice cuánto duran los senadores.",
+    "libro": "dye_constitucion"
+  },
+  {
+    "id": "def-dye-jerarquia",
+    "grupo": "constitucion",
+    "termino": "Jerarquía constitucional (art. 75 inc. 22)",
+    "definicion": "Rango que tienen ciertos tratados de derechos humanos: el mismo nivel que la Constitución.",
+    "ejemplo": "La Convención sobre los Derechos del Niño.",
+    "libro": "dye_tratados_generaciones"
+  },
+  {
+    "id": "def-dye-garantia",
+    "grupo": "constitucion",
+    "termino": "Garantía constitucional",
+    "definicion": "Herramienta para defender un derecho cuando alguien lo viola.",
+    "ejemplo": "El habeas corpus protege la libertad física.",
+    "libro": "dye_glosario"
+  },
+  {
+    "id": "def-dye-control",
+    "grupo": "constitucion",
+    "termino": "Control de constitucionalidad",
+    "definicion": "Cuando un juez revisa si una ley respeta la Constitución y no la aplica si no la respeta.",
+    "ejemplo": "Un juez declara inconstitucional una ley y no la aplica al caso.",
+    "pista": "Pensá en este ejemplo: un tribunal decide que una norma va contra la Constitución y la deja de lado en ese caso.",
+    "libro": "dye_poderes"
+  },
+  {
+    "id": "def-dye-hcorpus",
+    "grupo": "garantias",
+    "termino": "Habeas corpus",
+    "definicion": "Acción judicial rápida para proteger la libertad física ante una detención ilegal.",
+    "ejemplo": "Te detienen sin orden ni motivo.",
+    "libro": "dye_garantias"
+  },
+  {
+    "id": "def-dye-hdata",
+    "grupo": "garantias",
+    "termino": "Habeas data",
+    "definicion": "Acción judicial para conocer, corregir o borrar tus datos personales guardados por otros.",
+    "ejemplo": "Una base te muestra como deudor por una deuda que no existe.",
+    "libro": "dye_garantias"
+  },
+  {
+    "id": "def-dye-amparo",
+    "grupo": "garantias",
+    "termino": "Amparo",
+    "definicion": "Acción judicial rápida para frenar una violación arbitraria de cualquier otro derecho.",
+    "ejemplo": "La obra social niega sin razón un tratamiento urgente.",
+    "libro": "dye_garantias"
+  },
+  {
+    "id": "def-dye-juez",
+    "grupo": "garantias",
+    "termino": "Juez natural (art. 18)",
+    "definicion": "Derecho a ser juzgado por los jueces que ya existían antes del hecho, no por un tribunal especial.",
+    "ejemplo": "No se puede crear un tribunal solo para juzgar un escándalo puntual.",
+    "pista": "Pensá en este ejemplo: después de un escándalo, el gobierno quiere elegir quién va a decidir ese caso.",
+    "libro": "dye_art18_19"
+  },
+  {
+    "id": "def-dye-reserva",
+    "grupo": "garantias",
+    "termino": "Acciones privadas (art. 19)",
+    "definicion": "Lo que una persona hace en privado sin dañar a otros no le incumbe al Estado.",
+    "ejemplo": "Cómo se tiñe el pelo un adulto en su casa.",
+    "libro": "dye_art18_19"
+  }
+]

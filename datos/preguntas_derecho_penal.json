@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "dp-dolo-01",
+    "tipo": "clasificar",
+    "titulo": "El socio traicionado",
+    "situacion": "Ana descubre que su socio le robó durante años. Compra un arma, lo espera a la salida de la oficina y le dispara tres veces con la idea de matarlo. El socio muere.",
+    "pregunta": "¿Con qué clase de dolo o culpa actuó Ana?",
+    "correcta": "Dolo directo de primer grado",
+    "incorrectas": [
+      "Dolo directo de segundo grado",
+      "Dolo eventual",
+      "Culpa con representación",
+      "Culpa sin representación",
+      "No hay dolo ni culpa: fue un caso fortuito"
+    ],
+    "pista": "Preguntate: la muerte del socio, ¿era el objetivo de Ana o una consecuencia secundaria de otra cosa que buscaba?",
+    "explicacion": "Ana quería que su socio muriera, y eso es exactamente lo que pasó. Cuando el daño causado es justamente lo que la persona buscaba, hay dolo directo de primer grado.",
+    "libro": "dp_dolo"
+  },
+  {
+    "id": "dp-dolo-02",
+    "tipo": "clasificar",
+    "titulo": "La bomba en el auto",
+    "situacion": "Bruno quiere matar a un empresario y coloca una bomba en su auto. Sabe que el empresario nunca maneja: siempre lo lleva el mismo chofer. La bomba explota y mueren los dos. A Bruno el chofer no le importaba, pero sabía que iba a estar ahí.",
+    "pregunta": "Respecto de la muerte del CHOFER, ¿qué clase de dolo hay?",
+    "correcta": "Dolo directo de segundo grado",
+    "incorrectas": [
+      "Dolo directo de primer grado",
+      "Dolo eventual",
+      "Culpa con representación",
+      "Culpa sin representación",
+      "No hay responsabilidad por el chofer porque no era el objetivo"
+    ],
+    "pista": "Bruno no buscaba matar al chofer. Pero ¿la muerte del chofer era solo posible o era inevitable con ese plan?",
+    "explicacion": "Bruno quería matar al empresario. Al chofer no quería matarlo, pero sabía que con la bomba iba a morir seguro, y siguió adelante igual. Un daño que no es tu meta pero sabés que va a pasar sí o sí es dolo directo de segundo grado.",
+    "libro": "dp_dolo"
+  },
+  {
+    "id": "dp-dolo-03",
+    "tipo": "clasificar",
+    "titulo": "La picada en la avenida",
+    "situacion": "Carla corre una picada a 180 km/h por una avenida llena de peatones un sábado a la noche. Un amigo le advierte que puede matar a alguien y ella responde: «si cruza alguien, mala suerte, no pienso frenar». Atropella y mata a un peatón.",
+    "pregunta": "¿Qué clase de dolo o culpa hay?",
+    "correcta": "Dolo eventual",
+    "incorrectas": [
+      "Dolo directo de primer grado",
+      "Dolo directo de segundo grado",
+      "Culpa con representación",
+      "Culpa sin representación",
+      "Impericia"
+    ],
+    "pista": "Carla se dio cuenta de que podía matar a alguien. Lo decisivo es qué pensó después: ¿confiaba en que no iba a pasar, o le daba lo mismo?",
+    "explicacion": "Carla no quería matar a nadie (quería ganar) y no era seguro que pasara. Pero se dio cuenta de que podía pasar y le dio lo mismo («mala suerte»). Darse cuenta de que algo puede pasar y aceptarlo es dolo eventual.",
+    "libro": "dp_dolo"
+  },
+  {
+    "id": "dp-dolo-04",
+    "tipo": "clasificar",
+    "titulo": "El conductor confiado",
+    "situacion": "Diego, chofer con 20 años de experiencia, adelanta a un camión en una curva con poca visibilidad. Piensa: «es arriesgado, pero manejo muy bien, seguro paso a tiempo». Choca con un auto que venía de frente y muere su conductor.",
+    "pregunta": "¿Qué clase de dolo o culpa hay?",
+    "correcta": "Culpa con representación",
+    "incorrectas": [
+      "Dolo eventual",
+      "Dolo directo de primer grado",
+      "Dolo directo de segundo grado",
+      "Culpa sin representación",
+      "No hay dolo ni culpa: fue un caso fortuito"
+    ],
+    "pista": "Diego vio el riesgo. ¿Lo aceptó («que pase») o confió en que podía evitarlo?",
+    "explicacion": "Diego se dio cuenta de que podía chocar, pero confió en que su experiencia iba a alcanzar para evitarlo. No le daba lo mismo: creía que no iba a pasar. Eso es culpa con representación (un descuido, no una intención).",
+    "libro": "dp_culpa"
+  },
+  {
+    "id": "dp-dolo-05",
+    "tipo": "clasificar",
+    "titulo": "El remedio en la mesa baja",
+    "situacion": "Elena deja un frasco de pastillas abierto en la mesa ratona del living, donde juega su hijo de 3 años. Nunca se le cruzó por la cabeza que el nene pudiera tomarlas. El chico las ingiere y termina internado.",
+    "pregunta": "¿Qué clase de culpa hay?",
+    "correcta": "Culpa sin representación",
+    "incorrectas": [
+      "Culpa con representación",
+      "Dolo eventual",
+      "Dolo directo de segundo grado",
+      "Dolo directo de primer grado",
+      "No hay culpa porque ella no lo pensó"
+    ],
+    "pista": "¿Elena se imaginó el riesgo? Y si no, ¿era algo que cualquiera debería haber previsto?",
+    "explicacion": "A Elena ni se le ocurrió que el nene podía tomar las pastillas, pero cualquier persona atenta lo habría pensado. No haberlo pensado no la libera: es culpa sin representación.",
+    "libro": "dp_culpa"
+  },
+  {
+    "id": "dp-dolo-06",
+    "tipo": "clasificar",
+    "titulo": "El script del viernes",
+    "situacion": "Un administrador de sistemas quiere irse temprano y ejecuta en producción un script que no probó. Su compañera le avisa que podría borrar la base de clientes. Él responde: «es un cambio chico, no va a fallar». El script falla y borra la base.",
+    "pregunta": "¿Con qué clase de dolo o culpa actuó el administrador?",
+    "correcta": "Culpa con representación",
+    "incorrectas": [
+      "Dolo eventual",
+      "Culpa sin representación",
+      "Dolo directo de primer grado",
+      "Dolo directo de segundo grado",
+      "No hay dolo ni culpa: fue un caso fortuito"
+    ],
+    "pista": "Le avisaron del riesgo, así que lo previó. ¿Qué pensó frente a ese riesgo?",
+    "explicacion": "Le avisaron que el programa podía borrar la base, así que él sabía que podía pasar. Pero confió en que no iba a fallar. Saber que algo puede pasar y confiar en que no pasará es culpa con representación. Si hubiera dicho «si borra todo, no me importa», sería dolo eventual.",
+    "libro": "dp_culpa"
+  },
+  {
+    "id": "dp-dolo-07",
+    "tipo": "clasificar",
+    "titulo": "El script del viernes, versión 2",
+    "situacion": "Mismo administrador, mismo script sin probar. Esta vez, cuando su compañera le advierte que podría borrar la base de clientes, responde: «si la borra, que la borre; yo me voy igual». La base se borra.",
+    "pregunta": "¿Y ahora qué clase de dolo o culpa hay?",
+    "correcta": "Dolo eventual",
+    "incorrectas": [
+      "Culpa con representación",
+      "Culpa sin representación",
+      "Dolo directo de primer grado",
+      "Negligencia",
+      "Dolo directo de segundo grado"
+    ],
+    "pista": "Compará con la versión anterior: lo único que cambió es la actitud frente al riesgo.",
+    "explicacion": "Esta vez sabía que la base podía borrarse y le dio lo mismo («que la borre»). Ya no es un descuido: aceptar que el daño pase es dolo eventual.",
+    "libro": "dp_dolo"
+  },
+  {
+    "id": "dp-dolo-08",
+    "tipo": "clasificar",
+    "titulo": "Borrar las huellas",
+    "situacion": "Un empleado infiel quiere eliminar los registros que prueban que copió información. Esos registros están en un servidor compartido donde también se guardan los trabajos de otros diez clientes. Formatea el servidor completo sabiendo que todo se va a perder.",
+    "pregunta": "Respecto de los datos de los OTROS clientes, ¿qué clase de dolo hay?",
+    "correcta": "Dolo directo de segundo grado",
+    "incorrectas": [
+      "Dolo directo de primer grado",
+      "Dolo eventual",
+      "Culpa con representación",
+      "Culpa sin representación",
+      "No hay dolo: los otros clientes no eran su objetivo"
+    ],
+    "pista": "Su objetivo eran sus registros. Lo de los otros clientes, ¿era posible o era seguro?",
+    "explicacion": "Lo que el empleado quería era borrar SUS registros. Los datos de los otros clientes no le interesaban, pero sabía que al formatear se iban a borrar seguro. Un daño que no es tu meta pero que sabés que va a pasar sí o sí es dolo directo de segundo grado.",
+    "libro": "dp_dolo"
+  },
+  {
+    "id": "dp-dolo-09",
+    "tipo": "concepto",
+    "titulo": "La frontera más difícil",
+    "situacion": "Un estudiante te dice: «No entiendo la diferencia entre dolo eventual y culpa con representación. En los dos la persona sabe que algo malo puede pasar».",
+    "pregunta": "¿Qué le explicás?",
+    "correcta": "Que en el dolo eventual acepta el resultado posible; en la culpa con representación confía en que no ocurrirá",
+    "incorrectas": [
+      "Que en el dolo eventual la persona busca el resultado, y en la culpa con representación ni siquiera lo prevé",
+      "Que en el dolo eventual el resultado es seguro, y en la culpa con representación es solamente posible",
+      "Que la diferencia depende de si el resultado finalmente ocurrió o quedó en un simple riesgo",
+      "Que la diferencia está en la pena: si supera 3 años se llama dolo eventual y si no, culpa",
+      "Que son sinónimos y el juez elige libremente cuál usar en cada sentencia"
+    ],
+    "pista": "En los dos casos la persona prevé el resultado. Fijate en la frase que se diría a sí misma.",
+    "explicacion": "En los dos casos la persona se da cuenta de que el daño puede pasar. Dolo eventual: piensa «si pasa, que pase» (lo acepta). Culpa con representación: piensa «no va a pasar» (confía en evitarlo).",
+    "libro": "dp_dolo"
+  },
+  {
+    "id": "dp-dolo-10",
+    "tipo": "concepto",
+    "titulo": "Ordenar la escalera",
+    "situacion": "Para el examen te piden ordenar las cinco variantes de dolo y de culpa, desde la que está MÁS cerca de querer causar el resultado hasta la que está MÁS lejos.",
+    "pregunta": "¿Cuál es el orden correcto?",
+    "correcta": "Dolo de primer grado, dolo de segundo grado, dolo eventual, culpa con representación, culpa sin representación",
+    "incorrectas": [
+      "Dolo eventual, dolo de primer grado, dolo de segundo grado, culpa sin representación, culpa con representación",
+      "Dolo de primer grado, dolo eventual, dolo de segundo grado, culpa con representación, culpa sin representación",
+      "Culpa con representación, dolo eventual, dolo de primer grado, dolo de segundo grado, culpa sin representación",
+      "Dolo de segundo grado, dolo de primer grado, culpa con representación, dolo eventual, culpa sin representación",
+      "Dolo de primer grado, culpa con representación, dolo de segundo grado, dolo eventual, culpa sin representación"
+    ],
+    "pista": "Arriba está quien quería causar el daño; abajo, quien ni siquiera se imaginó que podía pasar.",
+    "explicacion": "De más intención a menos: «quiero que pase», «no lo busco, pero va a pasar seguro», «puede pasar y no me importa», «puede pasar, pero confío en que no», «ni se me ocurrió, aunque debí pensarlo».",
+    "libro": "dp_dolo"
+  },
+  {
+    "id": "dp-culpa-01",
+    "tipo": "clasificar",
+    "titulo": "A 140 por el barrio",
+    "situacion": "Un conductor maneja a 140 km/h por una calle de barrio para llegar a tiempo a una reunión. Pierde el control y lesiona a un ciclista.",
+    "pregunta": "¿Qué forma de culpa se ve más claramente?",
+    "correcta": "Imprudencia",
+    "incorrectas": [
+      "Negligencia",
+      "Impericia",
+      "Dolo directo de primer grado",
+      "Dolo directo de segundo grado",
+      "Caso fortuito"
+    ],
+    "pista": "¿El conductor hizo algo de más, dejó de hacer algo o no sabía manejar?",
+    "explicacion": "Manejar a 140 km/h por un barrio es hacer algo peligroso que no había que hacer. Hacer «de más» algo arriesgado es imprudencia.",
+    "libro": "dp_culpa"
+  },
+  {
+    "id": "dp-culpa-02",
+    "tipo": "clasificar",
+    "titulo": "El control que no se hizo",
+    "situacion": "Después de una operación, el médico de guardia debía controlar cada dos horas la presión del paciente. No lo hace en toda la noche y el paciente sufre una complicación grave.",
+    "pregunta": "¿Qué forma de culpa se ve más claramente?",
+    "correcta": "Negligencia",
+    "incorrectas": [
+      "Imprudencia",
+      "Impericia",
+      "Dolo eventual",
+      "Dolo directo de primer grado",
+      "Caso fortuito"
+    ],
+    "pista": "¿El problema fue algo que hizo o algo que dejó de hacer?",
+    "explicacion": "El médico tenía que controlar al paciente y no lo hizo. No hacer algo que había que hacer es negligencia.",
+    "libro": "dp_culpa"
+  },
+  {
+    "id": "dp-culpa-03",
+    "tipo": "clasificar",
+    "titulo": "El electricista improvisado",
+    "situacion": "Un vecino que nunca estudió electricidad acepta cobrar por hacer la instalación eléctrica de un local. Conecta mal los cables y se produce un incendio.",
+    "pregunta": "¿Qué forma de culpa se ve más claramente?",
+    "correcta": "Impericia",
+    "incorrectas": [
+      "Imprudencia",
+      "Negligencia",
+      "Dolo eventual",
+      "Dolo directo de segundo grado",
+      "Caso fortuito"
+    ],
+    "pista": "El problema central, ¿es descuido o falta de conocimientos para esa tarea?",
+    "explicacion": "El vecino no sabía hacer instalaciones eléctricas y aceptó hacerla igual. Hacer una tarea sin los conocimientos que exige es impericia.",
+    "libro": "dp_culpa"
+  },
+  {
+    "id": "dp-culpa-04",
+    "tipo": "clasificar",
+    "titulo": "El protocolo de respaldo",
+    "situacion": "El reglamento interno del hospital exige hacer una copia de seguridad antes de cualquier migración del sistema de historias clínicas. El técnico no cumple ese paso escrito, la migración falla y se pierden registros médicos.",
+    "pregunta": "¿Qué forma de culpa se ve más claramente?",
+    "correcta": "Inobservancia de los reglamentos",
+    "incorrectas": [
+      "Imprudencia",
+      "Impericia",
+      "Dolo eventual",
+      "Dolo directo de primer grado",
+      "Caso fortuito: nadie podía preverlo"
+    ],
+    "pista": "Hay una regla ESCRITA en juego. ¿Qué pasó con ella?",
+    "explicacion": "Había una regla escrita (el reglamento del hospital) que obligaba a hacer una copia de seguridad, y el técnico no la cumplió. No respetar una regla escrita es inobservancia de los reglamentos.",
+    "libro": "dp_culpa"
+  },
+  {
+    "id": "dp-culpa-05",
+    "tipo": "clasificar",
+    "titulo": "El firewall que nadie sabía configurar",
+    "situacion": "Una empresa contrata a un «técnico» que dice saber de redes, aunque jamás configuró un firewall. Lo configura mal, deja expuesta la base de clientes y se filtran datos.",
+    "pregunta": "¿Qué forma de culpa se ve más claramente en el técnico?",
+    "correcta": "Impericia",
+    "incorrectas": [
+      "Imprudencia",
+      "Inobservancia de los reglamentos",
+      "Dolo directo de primer grado",
+      "Dolo directo de segundo grado",
+      "Caso fortuito"
+    ],
+    "pista": "¿Le faltó cuidado o le faltó saber?",
+    "explicacion": "El técnico nunca había configurado un firewall y aceptó el trabajo igual. Hacer una tarea sin los conocimientos que exige es impericia.",
+    "libro": "dp_culpa"
+  },
+  {
+    "id": "dp-culpa-06",
+    "tipo": "concepto",
+    "titulo": "¿Culpa o dolo?",
+    "situacion": "Un cliente te pregunta por qué a su hermano, que atropelló a alguien sin querer, lo acusan de «homicidio culposo» y no de «homicidio».",
+    "pregunta": "¿Qué le respondés?",
+    "correcta": "Porque no quiso la muerte, pero la causó por falta del cuidado debido",
+    "incorrectas": [
+      "Porque quiso la muerte, pero no la planificó con anticipación",
+      "Porque aceptó que alguien podía morir y siguió manejando igual",
+      "Porque la víctima tuvo parte de la culpa del accidente de tránsito",
+      "Porque los accidentes de tránsito nunca son delito, solo infracción",
+      "Porque actuó en legítima defensa frente a otro conductor"
+    ],
+    "pista": "El nombre lo dice: culposo viene de culpa. ¿Qué la caracteriza?",
+    "explicacion": "«Culposo» viene de culpa: el hermano no quería matar a nadie, pero la muerte pasó por un descuido al manejar. Por eso la pena es mucho menor que cuando alguien mata a propósito.",
+    "libro": "dp_culpa"
+  },
+  {
+    "id": "dp-teoria-01",
+    "tipo": "caso",
+    "titulo": "El cuchillo en la parada",
+    "situacion": "Un hombre ataca con un cuchillo a Laura en una parada de colectivo. Ella lo empuja con fuerza para defenderse; el agresor cae y se fractura un brazo.",
+    "pregunta": "¿Qué elemento del delito falla en la conducta de Laura?",
+    "correcta": "La antijuridicidad, porque actuó en legítima defensa",
+    "incorrectas": [
+      "La tipicidad, porque empujar a alguien nunca es delito",
+      "La culpabilidad, porque Laura es inimputable por el miedo",
+      "La acción, porque fue un acto reflejo involuntario",
+      "La punibilidad, porque el agresor no hizo la denuncia",
+      "Ninguno: Laura cometió lesiones y debe ser penada"
+    ],
+    "pista": "Empujar y lastimar a alguien normalmente es delito. Pero ¿la ley permite hacerlo en esta situación?",
+    "explicacion": "Lastimar a alguien es un delito, pero la ley permite defenderse de un ataque (legítima defensa). Como en esta situación lo que hizo Laura estaba permitido, no hay delito. Técnicamente: falla la «antijuridicidad», que es la pregunta de si el Derecho prohíbe o permite lo que se hizo.",
+    "libro": "dp_teoria_delito"
+  },
+  {
+    "id": "dp-teoria-02",
+    "tipo": "caso",
+    "titulo": "El brote",
+    "situacion": "Durante un brote psicótico diagnosticado, Martín rompe la vidriera de un comercio convencido de que adentro lo esperan para matarlo. Los peritos confirman que no podía comprender lo que hacía.",
+    "pregunta": "¿Qué ocurre con la responsabilidad penal de Martín?",
+    "correcta": "Falla la culpabilidad: es inimputable porque no podía comprender lo que hacía",
+    "incorrectas": [
+      "Falla la tipicidad: romper una vidriera no está previsto en el Código Penal",
+      "Falla la antijuridicidad: actuó en legítima defensa frente a una amenaza",
+      "Es reincidente y su pena se agrava por tener antecedentes psiquiátricos",
+      "Hay tentativa de daño porque no llegó a lastimar a ninguna persona",
+      "Hay dolo eventual porque aceptó romper la vidriera del comercio"
+    ],
+    "pista": "Pensá si Martín podía entender lo que estaba haciendo.",
+    "explicacion": "Romper una vidriera es un delito y no había ninguna razón que lo permitiera. Pero Martín, por su brote, no podía entender lo que hacía: es inimputable, y por eso no se le puede reprochar como a cualquier otra persona (falla la «culpabilidad»).",
+    "libro": "dp_teoria_delito"
+  },
+  {
+    "id": "dp-teoria-03",
+    "tipo": "caso",
+    "titulo": "La ley que llegó tarde",
+    "situacion": "En 2025 una persona realiza una conducta que en ese momento no estaba prohibida. En 2026 el Congreso sanciona una ley que la convierte en delito. El fiscal quiere acusarla por lo que hizo en 2025.",
+    "pregunta": "¿Qué le respondés al fiscal?",
+    "correcta": "No se puede: por el principio de legalidad, no hay delito sin ley anterior al hecho",
+    "incorrectas": [
+      "Se puede, porque la ley ya está vigente al momento en que se hace el juicio",
+      "Se puede, aplicando analogía con otro delito parecido que sí existía",
+      "Se puede, si la conducta ya era considerada inmoral por la sociedad en 2025",
+      "Se puede, porque el Derecho Penal es la primera herramienta del Estado",
+      "Se puede, pero solo como tentativa y con la pena reducida a la mitad"
+    ],
+    "pista": "¿Qué tiene que existir primero: la ley que prohíbe algo o la conducta?",
+    "explicacion": "Por el principio de legalidad, solo se puede castigar algo que ya era delito cuando se hizo. Si la ley que lo prohíbe es posterior, no se aplica hacia atrás (también lo garantiza el art. 18 de la Constitución).",
+    "libro": "dp_que_es"
+  },
+  {
+    "id": "dp-teoria-04",
+    "tipo": "caso",
+    "titulo": "Grooming sin pantalla",
+    "situacion": "El art. 131 del Código Penal (incorporado por la Ley 26.904, de grooming) castiga el contacto con un menor con fines sexuales «por medio de comunicaciones electrónicas, telecomunicaciones o cualquier otra tecnología de transmisión de datos». Un fiscal quiere aplicarlo a un caso de contacto exclusivamente presencial, «porque es igual de grave».",
+    "pregunta": "¿Qué problema tiene ese planteo?",
+    "correcta": "Sería aplicar analogía para ampliar un tipo penal, lo que viola la legalidad",
+    "incorrectas": [
+      "Ninguno: es una interpretación válida y amplia del artículo 131",
+      "Que el grooming solo se aplica cuando la víctima es mayor de edad",
+      "Que el art. 131 es de acción privada y lo debe impulsar la propia víctima",
+      "Que el grooming no es un delito sino una contravención municipal",
+      "Que habría que aplicar primero la Ley de Protección de Datos Personales"
+    ],
+    "pista": "¿Se está precisando lo que la ley dice o se la está estirando a un caso que no menciona?",
+    "explicacion": "Un chat de videojuego entra en el artículo, porque es una «tecnología de transmisión de datos» (eso es interpretar la ley). Pero un contacto cara a cara no está mencionado: aplicarle el artículo «porque es parecido» es analogía, y en Derecho Penal está prohibida para castigar.",
+    "libro": "dp_que_es"
+  },
+  {
+    "id": "dp-teoria-05",
+    "tipo": "concepto",
+    "titulo": "La lista de filtros",
+    "situacion": "Un pasante te pregunta qué tiene que tener una conducta para ser delito.",
+    "pregunta": "¿Qué le contestás?",
+    "correcta": "Ser una acción humana, tipificada, antijurídica, culpable y punible",
+    "incorrectas": [
+      "Causar un daño a alguien y que la víctima lo denuncie",
+      "Ser inmoral, grave y conocida públicamente por la sociedad",
+      "Tener prevista una pena mayor a tres años de prisión",
+      "Estar tipificada y haber sido cometida por una persona reincidente",
+      "Estar prevista en la Constitución y en un tratado internacional"
+    ],
+    "pista": "Son cinco filtros que se revisan en orden.",
+    "explicacion": "Son cinco filtros, en orden: que lo haya hecho una persona con voluntad (acción); que esté escrito como delito (tipicidad); que no haya una razón que lo permita, como la legítima defensa (antijuridicidad); que se le pueda reprochar a esa persona (culpabilidad); y que corresponda una pena (punibilidad).",
+    "libro": "dp_teoria_delito"
+  },
+  {
+    "id": "dp-teoria-06",
+    "tipo": "concepto",
+    "titulo": "¿Qué es tipificar?",
+    "situacion": "En una reunión, un cliente escucha que «esa conducta no está tipificada» y te pide que se lo traduzcas.",
+    "pregunta": "¿Qué significa tipificar una conducta?",
+    "correcta": "Describirla en una ley como delito, con sus elementos y su pena",
+    "incorrectas": [
+      "Clasificarla según su gravedad social y su impacto mediático",
+      "Que un juez la declare inconstitucional en un fallo de la Corte",
+      "Que un perito informe cómo ocurrió el hecho y quién lo hizo",
+      "Registrarla en la base nacional de antecedentes penales del autor",
+      "Sancionarla con una multa administrativa municipal o provincial"
+    ],
+    "pista": "Pensá en la ley escribiendo, con detalle, qué conducta está prohibida.",
+    "explicacion": "Tipificar es escribir en una ley que cierta conducta es delito y qué pena tiene. Si una conducta no está escrita así, no se puede castigar penalmente, aunque parezca mala.",
+    "libro": "dp_que_es"
+  },
+  {
+    "id": "dp-teoria-07",
+    "tipo": "concepto",
+    "titulo": "Ultima ratio",
+    "situacion": "Un concejal propone crear un delito para castigar con prisión a quien no recoja la caca de su perro. Te pide opinión.",
+    "pregunta": "¿Qué principio usarías para objetar la propuesta?",
+    "correcta": "El Derecho Penal como última ratio",
+    "incorrectas": [
+      "El principio de reincidencia",
+      "El principio de supremacía constitucional del art. 31",
+      "El principio de finalidad de los datos",
+      "La acción privada",
+      "El concurso ideal"
+    ],
+    "pista": "¿Conviene usar la cárcel para cualquier problema, o solo cuando nada más funciona?",
+    "explicacion": "El Derecho Penal puede mandar gente presa: es la herramienta más dura del Estado. Por eso se usa solo para ataques graves («última ratio» = último recurso). Una falta menor se resuelve con una multa u otra sanción.",
+    "libro": "dp_que_es"
+  },
+  {
+    "id": "dp-teoria-08",
+    "tipo": "concepto",
+    "titulo": "Parte general y especial",
+    "situacion": "Estás armando un índice de estudio del Código Penal y tenés que ubicar el tema «dolo y culpa».",
+    "pregunta": "¿En qué parte va y por qué?",
+    "correcta": "En la parte general, porque son reglas comunes a todos los delitos",
+    "incorrectas": [
+      "En la parte especial, porque cada delito tiene su propio dolo",
+      "En la parte especial, junto con el homicidio y las lesiones",
+      "En la Constitución, porque es una garantía del imputado",
+      "En el Código Civil, porque trata de responsabilidad por daños",
+      "En la Ley 26.388, porque se usa en los delitos informáticos"
+    ],
+    "pista": "¿El dolo y la culpa sirven para un solo delito o para analizar cualquiera?",
+    "explicacion": "La parte general tiene las reglas que valen para todos los delitos (cuándo hay intención, cuándo hay descuido, qué pasa si el delito no se completa). La parte especial es la lista de delitos uno por uno (homicidio, hurto, estafa).",
+    "libro": "dp_que_es"
+  },
+  {
+    "id": "dp-etapas-01",
+    "tipo": "caso",
+    "titulo": "La ambulancia a tiempo",
+    "situacion": "Raúl dispara a su vecino con la intención de matarlo. La ambulancia llega rápido y el vecino sobrevive.",
+    "pregunta": "¿Cómo se califica el hecho?",
+    "correcta": "Tentativa de homicidio",
+    "incorrectas": [
+      "Homicidio consumado",
+      "Homicidio culposo",
+      "Lesiones culposas",
+      "No es delito porque nadie murió",
+      "Concurso real de homicidio y lesiones"
+    ],
+    "pista": "Raúl empezó a ejecutar el delito. ¿Se completó? ¿Por qué no?",
+    "explicacion": "Raúl quería matar y empezó a hacerlo (disparó), pero el vecino sobrevivió por algo que no dependía de Raúl (la ambulancia). Empezar un delito y no completarlo por algo ajeno es tentativa (art. 42 del Código Penal).",
+    "libro": "dp_etapas_concurso"
+  },
+  {
+    "id": "dp-etapas-02",
+    "tipo": "caso",
+    "titulo": "Dos hechos, dos fechas",
+    "situacion": "En enero, Sofía se lleva un celular de una mesa de bar. En marzo, vende por internet una moto que no existe y cobra la seña.",
+    "pregunta": "¿Qué relación hay entre los dos delitos?",
+    "correcta": "Concurso real: son hechos distintos, cada uno con su delito",
+    "incorrectas": [
+      "Concurso ideal: un solo hecho encaja en dos figuras distintas",
+      "Reincidencia, porque cometió dos delitos en el mismo año",
+      "Tentativa, porque el segundo hecho no llegó a completarse",
+      "Delito continuado de estafa, porque ambos afectan la propiedad",
+      "No hay delito porque pasaron más de dos meses entre los hechos"
+    ],
+    "pista": "Contá cuántos HECHOS hay, no cuántos delitos.",
+    "explicacion": "Sofía hizo dos cosas distintas, en momentos distintos (llevarse el celular y estafar). Varios hechos separados, cada uno con su delito, es concurso real. No es reincidencia porque no había sido condenada antes.",
+    "libro": "dp_etapas_concurso"
+  },
+  {
+    "id": "dp-etapas-03",
+    "tipo": "caso",
+    "titulo": "Un solo golpe",
+    "situacion": "En una discusión, Tomás le da un único golpe en la cara a otra persona: le rompe los anteojos y le provoca un corte en la ceja.",
+    "pregunta": "¿Qué tipo de concurso hay entre el daño y las lesiones?",
+    "correcta": "Concurso ideal: un mismo hecho encaja en más de una figura penal",
+    "incorrectas": [
+      "Concurso real: hay varios hechos distintos y separados",
+      "Reincidencia, porque comete dos delitos al mismo tiempo",
+      "Tentativa de lesiones, porque el corte fue superficial",
+      "No hay concurso: el daño absorbe por completo a las lesiones",
+      "Delito de acción privada, porque fue en una discusión"
+    ],
+    "pista": "¿Cuántos movimientos hizo Tomás?",
+    "explicacion": "Tomás hizo una sola cosa (un golpe), pero ese golpe es dos delitos a la vez: daño (rompió los anteojos) y lesiones (lastimó a la persona). Un solo hecho que es varios delitos es concurso ideal (art. 54 del Código Penal).",
+    "libro": "dp_etapas_concurso"
+  },
+  {
+    "id": "dp-etapas-04",
+    "tipo": "caso",
+    "titulo": "Otra vez",
+    "situacion": "Julián fue condenado a prisión por robo y cumplió su pena. Un año después de salir, comete una estafa.",
+    "pregunta": "¿Cómo se llama esta situación en Derecho Penal?",
+    "correcta": "Reincidencia",
+    "incorrectas": [
+      "Concurso real",
+      "Concurso ideal",
+      "Tentativa",
+      "Agravante por vínculo",
+      "Inimputabilidad"
+    ],
+    "pista": "Lo importante es que ya hubo una condena cumplida antes del nuevo delito.",
+    "explicacion": "Julián ya había sido condenado y cumplió su pena en prisión. Volver a cometer un delito después de eso es reincidencia (art. 50 del Código Penal).",
+    "libro": "dp_etapas_concurso"
+  },
+  {
+    "id": "dp-etapas-05",
+    "tipo": "caso",
+    "titulo": "El firewall atento",
+    "situacion": "Un atacante prueba miles de contraseñas robadas contra el sistema de un banco para entrar sin permiso. El firewall detecta el patrón y lo bloquea antes de que logre acceder.",
+    "pregunta": "¿Cómo se analiza penalmente el intento?",
+    "correcta": "Como tentativa de acceso ilegítimo",
+    "incorrectas": [
+      "Como acceso ilegítimo consumado",
+      "Como conducta atípica porque no entró",
+      "Como culpa con representación",
+      "Como delito impuro de acción privada",
+      "Como reincidencia informática"
+    ],
+    "pista": "¿Comenzó a ejecutar? ¿Por qué no terminó?",
+    "explicacion": "El atacante empezó a intentar entrar al sistema, pero el firewall lo frenó: no logró entrar por algo que no dependía de él. Empezar un delito y no completarlo por algo ajeno es tentativa.",
+    "libro": "dp_etapas_concurso"
+  },
+  {
+    "id": "dp-etapas-06",
+    "tipo": "concepto",
+    "titulo": "Agravantes",
+    "situacion": "Un cliente leyó que el homicidio de un familiar directo tiene prisión perpetua y el homicidio simple de 8 a 25 años. Te pregunta por qué cambia tanto.",
+    "pregunta": "¿Qué le explicás?",
+    "correcta": "Que el vínculo es una agravante: sube la pena del homicidio",
+    "incorrectas": [
+      "Que el vínculo es un atenuante que baja la pena",
+      "Que en el homicidio de un familiar siempre hay dolo eventual",
+      "Que se trata de un concurso real entre dos homicidios",
+      "Que es una regla procesal sobre excarcelación",
+      "Que depende de si la acción es pública o privada"
+    ],
+    "pista": "Hay circunstancias que suben la pena y otras que la bajan.",
+    "explicacion": "Una agravante es una circunstancia que hace más grave el delito y sube la pena. Matar a un familiar directo es una de ellas, igual que matar con crueldad o por dinero.",
+    "libro": "dp_etapas_concurso"
+  },
+  {
+    "id": "dp-personas-01",
+    "tipo": "concepto",
+    "titulo": "Emoción violenta",
+    "situacion": "Un acusado dice: «Estaba muy enojado porque me chocaron el auto, así que es emoción violenta y me tienen que bajar la pena».",
+    "pregunta": "¿Qué le respondés?",
+    "correcta": "Que el enojo no alcanza: se requiere una alteración intensa y excusable",
+    "incorrectas": [
+      "Que tiene razón: cualquier enojo fuerte configura emoción violenta",
+      "Que la emoción violenta lo vuelve inimputable y no recibe ninguna pena",
+      "Que la emoción violenta solo existe en delitos culposos, no dolosos",
+      "Que la emoción violenta es una agravante que sube la pena",
+      "Que solo se aplica si la víctima es un familiar directo del autor"
+    ],
+    "pista": "¿Cualquier enojo sirve para bajar la pena? ¿Y la emoción violenta borra la responsabilidad o solo la reduce?",
+    "explicacion": "La emoción violenta exige una alteración muy fuerte, provocada por algo que la ley considera comprensible. Un enojo por un choque no alcanza. Y aunque se diera, solo baja la pena: la persona sigue siendo responsable.",
+    "libro": "dp_personas"
+  },
+  {
+    "id": "dp-personas-02",
+    "tipo": "clasificar",
+    "titulo": "La mano lastimada",
+    "situacion": "Tras una agresión, a la víctima le queda la mano derecha con menos fuerza y movilidad, pero todavía puede escribir y agarrar objetos.",
+    "pregunta": "¿Cómo se describe esa consecuencia?",
+    "correcta": "Debilitación permanente: la función sigue, pero reducida",
+    "incorrectas": [
+      "Inutilidad permanente: la función dejó de servir",
+      "Daño: afecta una cosa ajena, no a la persona",
+      "Lesión leve sin consecuencias permanentes",
+      "Tentativa de lesiones, porque la mano funciona",
+      "Homicidio en grado de tentativa por la agresión"
+    ],
+    "pista": "¿La mano todavía sirve, aunque peor, o ya no sirve?",
+    "explicacion": "La mano sigue sirviendo, aunque peor que antes: eso es debilitación permanente (una lesión grave). Si la mano ya no sirviera para nada, sería inutilidad permanente (lesión gravísima).",
+    "libro": "dp_personas"
+  },
+  {
+    "id": "dp-personas-03",
+    "tipo": "clasificar",
+    "titulo": "Lesión o daño",
+    "situacion": "En una pelea, alguien le arranca el celular a otra persona y lo estrella contra el piso, que queda destruido. Nadie resulta herido.",
+    "pregunta": "Respecto del celular destruido, ¿qué figura corresponde?",
+    "correcta": "Daño, porque afecta una cosa ajena",
+    "incorrectas": [
+      "Lesión, porque afecta a la persona dueña del celular",
+      "Lesión grave por debilitación permanente",
+      "Usurpación",
+      "Calumnia",
+      "Falso testimonio"
+    ],
+    "pista": "¿Qué resultó afectado: el cuerpo de una persona o un objeto?",
+    "explicacion": "Lesión es cuando se lastima a una persona; daño es cuando se rompe una cosa. Romper un celular ajeno es daño.",
+    "libro": "dp_personas"
+  },
+  {
+    "id": "dp-personas-04",
+    "tipo": "norma",
+    "titulo": "La pena del homicidio simple",
+    "situacion": "Un periodista te consulta qué pena prevé el Código Penal para quien mata a otro con intención, sin agravantes ni atenuantes.",
+    "pregunta": "¿Qué le contestás?",
+    "correcta": "De 8 a 25 años de prisión (homicidio simple, art. 79)",
+    "incorrectas": [
+      "Prisión perpetua en todos los casos",
+      "De 1 a 5 años, como el homicidio culposo",
+      "De 3 a 6 años, como el homicidio por emoción violenta",
+      "Solo una multa si es la primera vez",
+      "No tiene pena fija: la decide el jurado sin límites"
+    ],
+    "pista": "Pensá en el homicidio común, sin nada que lo haga más o menos grave.",
+    "explicacion": "Matar a alguien a propósito, sin circunstancias especiales, es homicidio simple (art. 79 del Código Penal): de 8 a 25 años de prisión. Si hay agravantes puede llegar a prisión perpetua; si hay emoción violenta, la pena baja.",
+    "libro": "dp_personas"
+  },
+  {
+    "id": "dp-prop-01",
+    "tipo": "clasificar",
+    "titulo": "El celular olvidado",
+    "situacion": "En un café, Lucas ve un celular que alguien dejó en la mesa de al lado. Espera que nadie mire, se lo guarda en el bolsillo y se va.",
+    "pregunta": "¿Qué delito cometió?",
+    "correcta": "Hurto",
+    "incorrectas": [
+      "Robo",
+      "Estafa",
+      "Usurpación",
+      "Extorsión",
+      "Daño"
+    ],
+    "pista": "¿Hubo fuerza sobre una cosa o violencia contra una persona?",
+    "explicacion": "Lucas se llevó algo ajeno sin romper nada y sin lastimar ni amenazar a nadie. Eso es hurto (art. 162 del Código Penal).",
+    "libro": "dp_propiedad"
+  },
+  {
+    "id": "dp-prop-02",
+    "tipo": "clasificar",
+    "titulo": "La ventanilla rota",
+    "situacion": "Un hombre rompe la ventanilla de un auto estacionado y se lleva la mochila que estaba en el asiento.",
+    "pregunta": "¿Qué delito cometió?",
+    "correcta": "Robo, porque usó fuerza en las cosas",
+    "incorrectas": [
+      "Hurto, porque no había nadie en el auto",
+      "Daño solamente",
+      "Usurpación del vehículo",
+      "Estafa",
+      "Extorsión"
+    ],
+    "pista": "No hubo violencia contra una persona, pero ¿rompió algo para llevarse la mochila?",
+    "explicacion": "Para llevarse la mochila rompió la ventanilla: usó fuerza sobre una cosa. Llevarse algo ajeno con fuerza sobre las cosas o violencia sobre las personas es robo (art. 164 del Código Penal).",
+    "libro": "dp_propiedad"
+  },
+  {
+    "id": "dp-prop-03",
+    "tipo": "clasificar",
+    "titulo": "El arrebato",
+    "situacion": "En la parada del colectivo, un joven empuja a una mujer, ella cae, y él le arranca la cartera y sale corriendo.",
+    "pregunta": "¿Qué delito cometió?",
+    "correcta": "Robo",
+    "incorrectas": [
+      "Hurto",
+      "Estafa",
+      "Chantaje",
+      "Usura",
+      "Usurpación"
+    ],
+    "pista": "Fijate en cómo obtuvo la cartera.",
+    "explicacion": "El joven empujó a la mujer para sacarle la cartera: usó violencia contra una persona. Por eso no es hurto sino robo.",
+    "libro": "dp_propiedad"
+  },
+  {
+    "id": "dp-prop-04",
+    "tipo": "clasificar",
+    "titulo": "La casa del abuelo",
+    "situacion": "Mientras la familia está de viaje, un grupo de personas entra a una casa, cambia la cerradura y se instala a vivir.",
+    "pregunta": "¿Qué delito describe mejor el hecho?",
+    "correcta": "Usurpación",
+    "incorrectas": [
+      "Hurto",
+      "Robo",
+      "Estafa",
+      "Daño informático",
+      "Apología del crimen"
+    ],
+    "pista": "Lo afectado no es una cosa que se pueda trasladar.",
+    "explicacion": "Una casa no se puede llevar, así que no puede ser hurto ni robo. Quitarle a alguien un inmueble (casa, terreno) metiéndose en él es usurpación (art. 181 del Código Penal).",
+    "libro": "dp_propiedad"
+  },
+  {
+    "id": "dp-prop-05",
+    "tipo": "clasificar",
+    "titulo": "La moto que no existía",
+    "situacion": "Un vendedor publica en Marketplace una moto con fotos sacadas de internet. Convence a un comprador de que la moto existe y le pide una seña por transferencia. Cobra y desaparece.",
+    "pregunta": "¿Qué delito cometió?",
+    "correcta": "Estafa",
+    "incorrectas": [
+      "Hurto",
+      "Robo",
+      "Extorsión",
+      "Usura",
+      "Usurpación"
+    ],
+    "pista": "La víctima entregó el dinero por su cuenta. ¿Por qué lo hizo?",
+    "explicacion": "El vendedor mintió, el comprador le creyó y por eso le pagó él mismo, y perdió su dinero. Engañar a alguien para que te entregue su dinero es estafa (art. 172 del Código Penal).",
+    "libro": "dp_propiedad"
+  },
+  {
+    "id": "dp-prop-06",
+    "tipo": "clasificar",
+    "titulo": "«Pagá o te quemo el local»",
+    "situacion": "Un comerciante recibe un mensaje: «Si no me transferís 500.000 pesos antes del viernes, te prendo fuego el local».",
+    "pregunta": "¿Qué delito describe mejor la conducta?",
+    "correcta": "Extorsión",
+    "incorrectas": [
+      "Chantaje",
+      "Estafa",
+      "Usura",
+      "Amenaza simple, sin pedido de dinero",
+      "Hurto"
+    ],
+    "pista": "La amenaza ¿es de hacerle un daño o de revelar algo?",
+    "explicacion": "Le exige plata amenazándolo con hacerle un daño (quemarle el local). Obligar a alguien a pagar metiéndole miedo con un daño es extorsión (art. 168 del Código Penal).",
+    "libro": "dp_propiedad"
+  },
+  {
+    "id": "dp-prop-07",
+    "tipo": "clasificar",
+    "titulo": "El secreto",
+    "situacion": "Una persona le escribe a un empresario: «Tengo pruebas de que tenés otra familia. Si no me pagás, se lo cuento a tu esposa y a la prensa».",
+    "pregunta": "¿Qué delito describe mejor la conducta?",
+    "correcta": "Chantaje",
+    "incorrectas": [
+      "Extorsión con amenaza de violencia física",
+      "Estafa",
+      "Usura",
+      "Injuria",
+      "Robo"
+    ],
+    "pista": "Esta vez la amenaza no es de lastimar ni de romper algo.",
+    "explicacion": "Le exige plata amenazándolo con contar algo que lo perjudica. Obligar a pagar amenazando con revelar un secreto es chantaje (art. 169 del Código Penal).",
+    "libro": "dp_propiedad"
+  },
+  {
+    "id": "dp-prop-08",
+    "tipo": "clasificar",
+    "titulo": "El prestamista del barrio",
+    "situacion": "Una familia necesita urgente dinero para una operación. Un prestamista, sabiendo su desesperación, les presta con un interés del 80% mensual y la garantía de su casa. No los engañó en nada: les explicó todas las condiciones.",
+    "pregunta": "¿Qué delito puede configurarse?",
+    "correcta": "Usura",
+    "incorrectas": [
+      "Estafa",
+      "Extorsión",
+      "Hurto agravado",
+      "Usurpación",
+      "Chantaje"
+    ],
+    "pista": "No hubo engaño ni amenaza. ¿De qué se aprovechó el prestamista?",
+    "explicacion": "El prestamista no mintió ni amenazó: se aprovechó de que la familia estaba desesperada para cobrar un interés abusivo. Eso es usura (art. 175 bis del Código Penal).",
+    "libro": "dp_propiedad"
+  },
+  {
+    "id": "dp-prop-09",
+    "tipo": "clasificar",
+    "titulo": "La camioneta en la calle",
+    "situacion": "Un hombre se lleva una camioneta estacionada en la vía pública que tenía las llaves puestas, sin forzar nada ni amenazar a nadie.",
+    "pregunta": "¿Cómo se califica?",
+    "correcta": "Hurto agravado (vehículo dejado en la vía pública)",
+    "incorrectas": [
+      "Robo, porque se trata de un vehículo automotor",
+      "Hurto simple, porque no hubo fuerza ni violencia",
+      "Usurpación, porque el vehículo es un bien registrable",
+      "Estafa, porque engañó al dueño dejándolo en la calle",
+      "No es delito porque las llaves estaban puestas en el auto"
+    ],
+    "pista": "No hay fuerza ni violencia. Pero la ley castiga más llevarse ciertas cosas en ciertas situaciones.",
+    "explicacion": "Se llevó la camioneta sin romper nada ni amenazar a nadie, así que es hurto. Pero la ley castiga más llevarse un vehículo dejado en la calle: es hurto agravado (art. 163 del Código Penal).",
+    "libro": "dp_propiedad"
+  },
+  {
+    "id": "dp-prop-10",
+    "tipo": "concepto",
+    "titulo": "Cosa mueble",
+    "situacion": "Un estudiante pregunta por qué el hurto habla de «cosa mueble» si nadie roba sillones.",
+    "pregunta": "¿Qué significa cosa mueble en este contexto?",
+    "correcta": "Una cosa que puede trasladarse de un lugar a otro",
+    "incorrectas": [
+      "Solo los muebles del hogar: sillas, mesas, camas y roperos",
+      "Cualquier bien, incluidas las casas y los terrenos",
+      "Solo bienes de valor superior a un monto mínimo legal",
+      "Los bienes registrables, como los autos y los inmuebles",
+      "Los datos y archivos digitales, exclusivamente"
+    ],
+    "pista": "Lo contrario es «inmueble».",
+    "explicacion": "Mueble es todo lo que se puede trasladar de un lugar a otro (dinero, celular, auto). Una casa o un terreno son inmuebles; por eso quitarle una casa a alguien es usurpación y no hurto.",
+    "libro": "dp_propiedad"
+  },
+  {
+    "id": "dp-honor-01",
+    "tipo": "clasificar",
+    "titulo": "El tuit del tesorero",
+    "situacion": "Un vecino publica en X: «El tesorero del club, Pérez, se robó la plata de la cuota social». Es falso.",
+    "pregunta": "¿Qué delito contra el honor se configura?",
+    "correcta": "Calumnia",
+    "incorrectas": [
+      "Injuria",
+      "Falso testimonio",
+      "Apología del crimen",
+      "Estafa",
+      "Chantaje"
+    ],
+    "pista": "¿Lo insulta o le atribuye un delito concreto?",
+    "explicacion": "Se acusa falsamente a Pérez de un delito concreto (robar la plata del club). Acusar falsamente a alguien de un delito es calumnia (art. 109 del Código Penal).",
+    "libro": "dp_honor_justicia"
+  },
+  {
+    "id": "dp-honor-02",
+    "tipo": "clasificar",
+    "titulo": "El comentario hiriente",
+    "situacion": "En un grupo de padres, una persona escribe: «La maestra Gómez es una inútil, una mentirosa y una vergüenza». No la acusa de ningún hecho concreto.",
+    "pregunta": "¿Qué delito contra el honor puede configurarse?",
+    "correcta": "Injuria",
+    "incorrectas": [
+      "Calumnia",
+      "Falso testimonio",
+      "Apología del crimen",
+      "Extorsión",
+      "Usura"
+    ],
+    "pista": "¿Le atribuye un delito o la desacredita?",
+    "explicacion": "No se acusa a la maestra de ningún delito, solo se la ofende y desprestigia. Eso es injuria (art. 110 del Código Penal). Si la acusaran falsamente de un delito, sería calumnia.",
+    "libro": "dp_honor_justicia"
+  },
+  {
+    "id": "dp-honor-03",
+    "tipo": "clasificar",
+    "titulo": "El testigo amigo",
+    "situacion": "En un juicio, un testigo declara bajo juramento que el acusado estuvo con él toda la noche. En realidad no lo vio ese día: solo quiere ayudarlo.",
+    "pregunta": "¿Qué delito comete el testigo?",
+    "correcta": "Falso testimonio",
+    "incorrectas": [
+      "Calumnia",
+      "Injuria",
+      "Estafa procesal",
+      "Apología del crimen",
+      "Encubrimiento por imprudencia"
+    ],
+    "pista": "Miente ante una autoridad cuando tiene el deber de decir la verdad.",
+    "explicacion": "El testigo mintió en un juicio, donde estaba obligado a decir la verdad. Eso es falso testimonio (art. 275 del Código Penal), un delito que perjudica el funcionamiento de la justicia.",
+    "libro": "dp_honor_justicia"
+  },
+  {
+    "id": "dp-honor-04",
+    "tipo": "clasificar",
+    "titulo": "El elogio público",
+    "situacion": "Durante un acto transmitido en vivo, un orador dice: «Lo que hizo el que incendió la comisaría estuvo perfecto; ojalá muchos lo imiten».",
+    "pregunta": "¿Qué delito podría estar cometiendo el orador?",
+    "correcta": "Apología del crimen",
+    "incorrectas": [
+      "Calumnia",
+      "Injuria",
+      "Falso testimonio",
+      "Instigación culposa",
+      "Usurpación"
+    ],
+    "pista": "Está elogiando públicamente un delito.",
+    "explicacion": "Elogiar en público un delito, alentando a que otros lo repitan, puede ser apología del crimen (art. 213 del Código Penal). Opinar o analizar un delito no lo es.",
+    "libro": "dp_honor_justicia"
+  },
+  {
+    "id": "dp-bien-01",
+    "tipo": "clasificar",
+    "titulo": "El certificado trucho",
+    "situacion": "Un empleado falsifica un certificado médico con firma y sello de un profesional para justificar faltas en el trabajo.",
+    "pregunta": "¿Qué bien jurídico afecta principalmente?",
+    "correcta": "La fe pública",
+    "incorrectas": [
+      "La propiedad",
+      "El honor",
+      "La integridad física",
+      "La administración de justicia",
+      "La seguridad pública"
+    ],
+    "pista": "Un certificado, una firma o un sello existen para que los demás confíen en ellos.",
+    "explicacion": "Los certificados, firmas y sellos existen para que todos podamos confiar en ellos. Falsificarlos ataca esa confianza, que la ley llama «fe pública».",
+    "libro": "dp_bienes_codigo"
+  },
+  {
+    "id": "dp-bien-02",
+    "tipo": "clasificar",
+    "titulo": "¿Qué se protege?",
+    "situacion": "Estás ordenando delitos según el bien jurídico. Te toca la calumnia.",
+    "pregunta": "¿Qué bien jurídico protege?",
+    "correcta": "El honor",
+    "incorrectas": [
+      "La fe pública",
+      "La propiedad",
+      "La libertad",
+      "La administración pública",
+      "La integridad sexual"
+    ],
+    "pista": "Pensá en qué sufre la víctima cuando alguien la acusa falsamente.",
+    "explicacion": "Una acusación falsa daña la reputación de la víctima. Eso que se protege, la buena reputación, se llama «honor».",
+    "libro": "dp_bienes_codigo"
+  },
+  {
+    "id": "dp-bien-03",
+    "tipo": "concepto",
+    "titulo": "Cómo buscar en el Código",
+    "situacion": "Un cliente quiere encontrar él mismo el artículo del hurto en el Código Penal y no sabe por dónde empezar.",
+    "pregunta": "¿Cómo le explicás que está organizado?",
+    "correcta": "Por Libro, Título, Capítulo y Artículo; los Títulos agrupan por bien jurídico",
+    "incorrectas": [
+      "Por orden alfabético del nombre de cada delito, de la A a la Z",
+      "Por gravedad de la pena, desde los delitos más graves a los más leves",
+      "Por el año en que se sancionó cada delito, del más antiguo al más nuevo",
+      "Por la provincia en la que se aplica cada delito del Código",
+      "Por tipo de acción: pública, de instancia privada y privada"
+    ],
+    "pista": "Si sabés qué protege cada delito, ¿sabés en qué parte del Código buscar?",
+    "explicacion": "El Código se divide en Libros, Títulos, Capítulos y Artículos. Cada Título agrupa los delitos que protegen lo mismo (la vida, la propiedad, el honor...). El hurto está en el Título de los delitos contra la propiedad.",
+    "libro": "dp_bienes_codigo"
+  },
+  {
+    "id": "dp-bien-04",
+    "tipo": "concepto",
+    "titulo": "La fuente oficial",
+    "situacion": "Una compañera quiere citar el texto vigente del Código Penal en un trabajo y encontró versiones distintas en blogs.",
+    "pregunta": "¿Qué fuente le recomendás?",
+    "correcta": "InfoLEG, el sitio oficial de leyes nacionales actualizadas",
+    "incorrectas": [
+      "Wikipedia, porque se actualiza más rápido que el Estado",
+      "El blog jurídico con más visitas, porque es el más leído",
+      "Un resumen de la cursada del año pasado, porque ya fue revisado",
+      "Las redes sociales del Ministerio de Justicia de la Nación",
+      "Cualquier PDF del Código, porque el texto no cambia nunca"
+    ],
+    "pista": "Buscás una página del propio Estado, donde el texto esté al día.",
+    "explicacion": "InfoLEG es el sitio oficial del Estado donde están las leyes nacionales actualizadas, con todos sus cambios, incluido el Código Penal.",
+    "libro": "dp_bienes_codigo"
+  },
+  {
+    "id": "dp-accion-01",
+    "tipo": "caso",
+    "titulo": "¿Quién mueve el expediente? (I)",
+    "situacion": "Pérez, el tesorero acusado falsamente de robar en un tuit, quiere que el autor del tuit sea condenado por calumnia.",
+    "pregunta": "¿Qué tipo de acción penal corresponde y qué implica?",
+    "correcta": "Acción privada: Pérez debe iniciar y llevar adelante el caso",
+    "incorrectas": [
+      "Acción pública: la fiscalía actúa por su cuenta aunque Pérez no quiera",
+      "Instancia privada: Pérez denuncia y después el Estado sigue solo",
+      "No hay acción posible porque el hecho ocurrió en una red social",
+      "La acción la inicia el juez de oficio apenas lee el tuit",
+      "Acción pública dependiente de la intervención de la AAIP"
+    ],
+    "pista": "Las calumnias e injurias son el ejemplo clásico de un tipo de acción.",
+    "explicacion": "En las calumnias e injurias, la víctima tiene que iniciar el juicio y llevarlo adelante ella misma (acción privada, art. 73 del Código Penal). Si deja de hacerlo, el caso termina.",
+    "libro": "dp_acciones_vocabulario"
+  },
+  {
+    "id": "dp-accion-02",
+    "tipo": "caso",
+    "titulo": "¿Quién mueve el expediente? (II)",
+    "situacion": "Después de una discusión de tránsito, un hombre sufre lesiones leves. No hizo la denuncia todavía y la fiscalía se enteró por un video.",
+    "pregunta": "¿Puede la fiscalía avanzar sola?",
+    "correcta": "No: son de instancia privada; la víctima denuncia y luego el Estado continúa",
+    "incorrectas": [
+      "Sí: todas las lesiones son de acción pública y la fiscalía actúa por su cuenta",
+      "No: son de acción privada y la víctima debe llevar adelante todo el juicio",
+      "Sí: el video publicado en redes reemplaza la denuncia de la víctima",
+      "No: las lesiones leves no son delito sino una contravención de tránsito",
+      "Sí, pero solamente si el agresor es reincidente o tiene antecedentes"
+    ],
+    "pista": "La víctima tiene que dar el primer paso. ¿Y después, quién sigue?",
+    "explicacion": "En las lesiones leves, el caso solo empieza si la víctima hace la denuncia. Después de eso, el Estado lo sigue por su cuenta (acción de instancia privada, art. 72 del Código Penal).",
+    "libro": "dp_acciones_vocabulario"
+  },
+  {
+    "id": "dp-accion-03",
+    "tipo": "concepto",
+    "titulo": "Acción pública",
+    "situacion": "La familia de la víctima de un homicidio pregunta si el caso se cae si ellos no quieren seguir.",
+    "pregunta": "¿Qué les respondés?",
+    "correcta": "No: es de acción pública y el Estado sigue aunque la familia no intervenga",
+    "incorrectas": [
+      "Sí: si no hay un querellante particular, el caso se archiva",
+      "Sí: es de instancia privada y la familia debe ratificarla cada mes",
+      "Depende de si el homicidio fue doloso o culposo según el fiscal",
+      "Sí: la familia puede perdonar al autor y así termina el proceso",
+      "No, pero si la familia se retira la pena se reduce a la mitad"
+    ],
+    "pista": "¿Quién empuja un caso de homicidio: la familia o el fiscal?",
+    "explicacion": "El homicidio es de acción pública: el fiscal (el Estado) investiga y acusa por su cuenta, sin depender de lo que quiera la familia.",
+    "libro": "dp_acciones_vocabulario"
+  },
+  {
+    "id": "dp-vocab-01",
+    "tipo": "concepto",
+    "titulo": "¿Delito o crimen?",
+    "situacion": "Un compañero afirma: «Si la pena supera los 3 años es un crimen; si no, es un delito».",
+    "pregunta": "¿Es correcto?",
+    "correcta": "No: el término técnico es «delito» y esa regla de 3 años no existe",
+    "incorrectas": [
+      "Sí: es la regla que establece el art. 1 del Código Penal",
+      "Sí, pero solo se aplica a los delitos informáticos",
+      "No: es al revés, más de 3 años es delito y menos es crimen",
+      "Sí: los crímenes son los de acción pública y los delitos, privados",
+      "No: crimen es cuando hay dolo y delito cuando hay culpa"
+    ],
+    "pista": "Pensá en qué palabra usa el propio Código Penal.",
+    "explicacion": "El Código Penal argentino habla siempre de «delitos». «Crimen» es una palabra del lenguaje común para hechos graves, y no existe una regla de «más de 3 años».",
+    "libro": "dp_acciones_vocabulario"
+  },
+  {
+    "id": "dp-vocab-02",
+    "tipo": "concepto",
+    "titulo": "El experto del juicio",
+    "situacion": "En un juicio por un ataque informático, el juez designa a una ingeniera para analizar los registros del servidor y explicar qué pasó.",
+    "pregunta": "¿Qué rol cumple la ingeniera?",
+    "correcta": "Perita",
+    "incorrectas": [
+      "Testigo de concepto del acusado",
+      "Querellante",
+      "Fiscal especializada",
+      "Magistrada suplente",
+      "Defensora oficial"
+    ],
+    "pista": "Sinónimo: experto o especialista.",
+    "explicacion": "Un perito es un experto (médico, informático, contador) al que se llama en un juicio para que explique cuestiones técnicas que el juez no conoce.",
+    "libro": "dp_honor_justicia"
+  }
+]

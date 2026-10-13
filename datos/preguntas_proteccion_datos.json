@@ -1,0 +1,542 @@
+[
+  {
+    "id": "pd-dato-01",
+    "tipo": "clasificar",
+    "titulo": "Los resfriados con nombre",
+    "situacion": "La preceptora manda al grupo de padres: «Juan Pérez, Ana Gómez y Pedro Ruiz faltaron por gripe».",
+    "pregunta": "¿Qué tipo de dato se compartió?",
+    "correcta": "Dato personal sensible: salud de personas identificadas",
+    "incorrectas": [
+      "Dato estadístico, porque es información general de un curso",
+      "Dato personal no sensible, porque la gripe es una enfermedad leve",
+      "No es un dato personal porque el mensaje no incluye el DNI",
+      "Dato público, porque se compartió en un grupo de muchos padres",
+      "Dato disociado, porque no se dio el diagnóstico completo"
+    ],
+    "pista": "¿Se puede saber de quién es la información? ¿Y de qué trata?",
+    "explicacion": "Se nombra a personas concretas y se cuenta algo de su salud: es un dato personal y, además, sensible. Si dijera «tres alumnos faltaron por gripe» sin poder saber quiénes, sería un dato estadístico.",
+    "libro": "pd_conceptos"
+  },
+  {
+    "id": "pd-dato-02",
+    "tipo": "clasificar",
+    "titulo": "Los resfriados sin nombre",
+    "situacion": "La escuela publica en su web: «Esta semana tres alumnos de 4° año faltaron por gripe». En el curso hay 35 alumnos y no se da ningún otro detalle.",
+    "pregunta": "¿Qué tipo de dato es?",
+    "correcta": "Dato estadístico",
+    "incorrectas": [
+      "Dato personal sensible",
+      "Dato personal no sensible",
+      "Dato crediticio",
+      "Dato biométrico",
+      "Dato de categoría especial según el RGPD"
+    ],
+    "pista": "¿Alguien puede saber quiénes son esos tres alumnos?",
+    "explicacion": "Nadie puede saber quiénes son esos tres alumnos: es información sobre un grupo, en números. Eso es un dato estadístico.",
+    "libro": "pd_conceptos"
+  },
+  {
+    "id": "pd-dato-03",
+    "tipo": "clasificar",
+    "titulo": "La ficha del gremio",
+    "situacion": "Una empresa arma una planilla interna con los nombres de los empleados afiliados al sindicato.",
+    "pregunta": "¿Qué tipo de dato es la afiliación sindical?",
+    "correcta": "Dato sensible",
+    "incorrectas": [
+      "Dato personal común, sin protección especial",
+      "Dato estadístico",
+      "Dato público por naturaleza",
+      "Dato crediticio",
+      "No es un dato personal"
+    ],
+    "pista": "Es información que puede usarse para discriminar.",
+    "explicacion": "La afiliación a un sindicato está en la lista de datos sensibles, porque podría usarse para discriminar. La ley los protege más.",
+    "libro": "pd_conceptos"
+  },
+  {
+    "id": "pd-dato-04",
+    "tipo": "clasificar",
+    "titulo": "El mail del cliente",
+    "situacion": "Una tienda online guarda el correo electrónico juanperez@mail.com de cada cliente para enviarle la factura.",
+    "pregunta": "¿Qué tipo de dato es?",
+    "correcta": "Dato personal, pero no sensible",
+    "incorrectas": [
+      "Dato sensible",
+      "Dato estadístico",
+      "No es un dato personal porque es un mail",
+      "Dato biométrico",
+      "Dato crediticio"
+    ],
+    "pista": "¿Identifica a una persona? ¿Revela salud, religión, política, origen o vida sexual?",
+    "explicacion": "El mail permite saber de quién se trata, así que es un dato personal. Pero no habla de salud, religión, política ni otros temas íntimos: no es sensible.",
+    "libro": "pd_conceptos"
+  },
+  {
+    "id": "pd-dato-05",
+    "tipo": "concepto",
+    "titulo": "Privacidad no es esconder",
+    "situacion": "Un usuario dice: «Yo no tengo nada que esconder, así que la privacidad no me importa».",
+    "pregunta": "¿Qué le explicarías?",
+    "correcta": "Que la privacidad también es controlar el uso de la propia información",
+    "incorrectas": [
+      "Que tiene razón: la privacidad solo protege a quien hace algo malo",
+      "Que la privacidad solo se aplica a los datos bancarios y financieros",
+      "Que la privacidad es un tema exclusivamente técnico de seguridad",
+      "Que la privacidad solo existe en Europa gracias al RGPD",
+      "Que los datos pertenecen a la empresa que los almacena, no a él"
+    ],
+    "pista": "¿La privacidad es solo esconder cosas, o también decidir qué se hace con tus datos?",
+    "explicacion": "La privacidad no es solo esconder: es poder decidir qué se hace con tu información (quién la junta, para qué, cuánto tiempo, con quién la comparte). Los datos son tuyos, no de la empresa.",
+    "libro": "pd_conceptos"
+  },
+  {
+    "id": "pd-princ-01",
+    "tipo": "clasificar",
+    "titulo": "El gimnasio que vende",
+    "situacion": "Un gimnasio pide nombre, teléfono y peso de sus socios para la inscripción. Un año después vende esa base a una aseguradora para que les ofrezca seguros.",
+    "pregunta": "¿Qué principio de la ley de datos personales se viola principalmente?",
+    "correcta": "Finalidad",
+    "incorrectas": [
+      "Calidad",
+      "Seguridad",
+      "Derecho de acceso",
+      "Supremacía constitucional",
+      "Legalidad penal"
+    ],
+    "pista": "¿Para qué se pidieron los datos y para qué se usaron?",
+    "explicacion": "Los datos se pidieron para inscribirse al gimnasio, no para venderlos. Usarlos para otra cosa viola el principio de finalidad (y además haría falta tu autorización).",
+    "libro": "pd_ley_principios"
+  },
+  {
+    "id": "pd-princ-02",
+    "tipo": "clasificar",
+    "titulo": "Zapatillas y religión",
+    "situacion": "Para comprar zapatillas en una tienda online, el formulario obliga a completar religión, afiliación política y estado de salud.",
+    "pregunta": "¿Qué principio de la ley de datos personales se viola principalmente?",
+    "correcta": "Calidad",
+    "incorrectas": [
+      "Finalidad",
+      "Confidencialidad",
+      "Derecho de rectificación",
+      "Derecho al olvido",
+      "Principio de reserva (art. 19)"
+    ],
+    "pista": "¿Hace falta esa información para vender zapatillas?",
+    "explicacion": "Para vender zapatillas no hace falta saber religión, política ni salud. Pedir datos de más viola el principio de calidad. Además son datos sensibles: nadie puede ser obligado a darlos.",
+    "libro": "pd_ley_principios"
+  },
+  {
+    "id": "pd-princ-03",
+    "tipo": "clasificar",
+    "titulo": "La vecina curiosa",
+    "situacion": "Una administrativa de una clínica entra al sistema y lee, por curiosidad, la historia clínica de su vecina. No la comparte con nadie.",
+    "pregunta": "¿Qué principio o deber de la ley de datos personales se viola?",
+    "correcta": "Confidencialidad",
+    "incorrectas": [
+      "Ninguno: tenía usuario autorizado",
+      "Calidad",
+      "Derecho de acceso",
+      "Finalidad, solo si la comparte",
+      "Última ratio"
+    ],
+    "pista": "Tener permiso técnico para entrar no es lo mismo que tener un motivo legítimo.",
+    "explicacion": "Tener acceso al sistema por trabajo no autoriza a mirar datos por curiosidad. Hacerlo viola la confidencialidad (el deber de guardar secreto).",
+    "libro": "pd_ley_principios"
+  },
+  {
+    "id": "pd-princ-04",
+    "tipo": "clasificar",
+    "titulo": "La casilla tildada",
+    "situacion": "En el registro de una app, la casilla «Acepto compartir mis datos con empresas asociadas» ya viene tildada y está escondida al final de los términos.",
+    "pregunta": "¿Qué requisito falla?",
+    "correcta": "El consentimiento, que debe ser libre, expreso e informado",
+    "incorrectas": [
+      "La finalidad, porque los datos se borran al cerrar la cuenta",
+      "La seguridad, porque la app no cifra los datos del registro",
+      "El derecho de acceso, porque no se muestra qué datos se guardan",
+      "Ninguno: el usuario siempre pudo destildar la casilla",
+      "El principio de legalidad penal del art. 18 de la Constitución"
+    ],
+    "pista": "¿El usuario realmente dijo que sí?",
+    "explicacion": "Una casilla que ya viene tildada y escondida no es un «sí» claro e informado del usuario. Falla el consentimiento, que tiene que ser libre, expreso e informado (art. 5 de la Ley 25.326).",
+    "libro": "pd_ley_principios"
+  },
+  {
+    "id": "pd-princ-05",
+    "tipo": "clasificar",
+    "titulo": "Contraseñas en texto plano",
+    "situacion": "Una empresa guarda las contraseñas de sus clientes sin cifrar, en una planilla compartida a la que accede todo el personal.",
+    "pregunta": "¿Qué obligación de la Ley 25.326 incumple?",
+    "correcta": "La de seguridad (art. 9)",
+    "incorrectas": [
+      "La de calidad de los datos",
+      "El derecho de rectificación (art. 16)",
+      "El plazo de acceso (art. 14)",
+      "El derecho al olvido crediticio",
+      "Ninguna: la ley no habla de seguridad"
+    ],
+    "pista": "Pensá en el artículo que obliga a proteger las bases.",
+    "explicacion": "El art. 9 de la Ley 25.326 obliga a proteger las bases de datos. Guardar contraseñas sin cifrar y dejar que todos las vean es no protegerlas.",
+    "libro": "pd_ley_principios"
+  },
+  {
+    "id": "pd-ley-01",
+    "tipo": "norma",
+    "titulo": "La ley central",
+    "situacion": "Una startup te pregunta qué ley argentina tiene que leer antes de armar su base de clientes.",
+    "pregunta": "¿Cuál le recomendás?",
+    "correcta": "La Ley 25.326 de Protección de Datos Personales",
+    "incorrectas": [
+      "La Ley 26.388 de delitos informáticos",
+      "La Ley 26.904 de grooming",
+      "La Ley 27.411 del Convenio de Budapest",
+      "El RGPD, porque es la ley argentina vigente",
+      "La Ley Olimpia 27.736 de violencia digital"
+    ],
+    "pista": "Es del año 2000 y se vincula con el habeas data.",
+    "explicacion": "La Ley 25.326 es la ley argentina de protección de datos personales: dice cómo se pueden juntar, guardar y usar los datos de las personas.",
+    "libro": "pd_ley_principios"
+  },
+  {
+    "id": "pd-der-01",
+    "tipo": "caso",
+    "titulo": "¿Qué saben de mí?",
+    "situacion": "Una clienta quiere saber qué datos suyos tiene guardados una app de delivery y para qué los usa. Le envía una carta documento.",
+    "pregunta": "¿Qué derecho de la Ley 25.326 ejerce y cuánto tiempo tiene la empresa para responder?",
+    "correcta": "Derecho de acceso (art. 14): 10 días corridos",
+    "incorrectas": [
+      "Derecho de acceso (art. 14): 5 días hábiles",
+      "Derecho de rectificación (art. 16): 10 días corridos",
+      "Derecho de supresión: 30 días hábiles",
+      "Derecho al olvido: 5 años",
+      "Habeas corpus: 24 horas"
+    ],
+    "pista": "Quiere CONOCER, no corregir. Fijate si el plazo es en días corridos o hábiles.",
+    "explicacion": "Quiere SABER qué datos tienen de ella: eso es el derecho de acceso (art. 14 de la Ley 25.326). La empresa tiene 10 días corridos (contando todos los días del calendario) para responder.",
+    "libro": "pd_derechos_plazos"
+  },
+  {
+    "id": "pd-der-02",
+    "tipo": "caso",
+    "titulo": "El DNI equivocado",
+    "situacion": "Un cliente descubre que una financiera tiene mal cargado su DNI y por eso le rechazan un préstamo. Reclama la corrección.",
+    "pregunta": "¿Qué derecho de la Ley 25.326 ejerce y qué plazo tiene la financiera?",
+    "correcta": "Derecho de rectificación (art. 16): 5 días hábiles",
+    "incorrectas": [
+      "Derecho de acceso (art. 14): 10 días corridos",
+      "Derecho de rectificación (art. 16): 10 días corridos",
+      "Derecho de supresión: 2 años",
+      "Habeas corpus: 48 horas",
+      "Derecho de acceso: 5 días hábiles"
+    ],
+    "pista": "Quiere CORREGIR un dato falso.",
+    "explicacion": "Quiere CORREGIR un dato equivocado: eso es rectificación (art. 16 de la Ley 25.326). La financiera tiene 5 días hábiles (solo días laborables) para hacerlo.",
+    "libro": "pd_derechos_plazos"
+  },
+  {
+    "id": "pd-der-03",
+    "tipo": "clasificar",
+    "titulo": "La mudanza",
+    "situacion": "Una persona se mudó hace dos años y su banco sigue mandando todo al domicilio anterior. El dato era correcto, pero quedó viejo.",
+    "pregunta": "¿Qué derecho corresponde ejercer?",
+    "correcta": "Actualización",
+    "incorrectas": [
+      "Rectificación",
+      "Supresión",
+      "Acceso",
+      "Habeas corpus",
+      "Derecho al olvido crediticio"
+    ],
+    "pista": "El dato no era falso: cambió con el tiempo.",
+    "explicacion": "El domicilio no estaba mal cargado: era correcto, pero cambió. Poner al día un dato viejo es actualización. Corregir un dato que siempre estuvo mal sería rectificación.",
+    "libro": "pd_derechos_plazos"
+  },
+  {
+    "id": "pd-der-04",
+    "tipo": "caso",
+    "titulo": "La empresa que no contesta",
+    "situacion": "Tu clienta pidió la supresión de un dato que una empresa no debería tener. Pasaron 15 días hábiles y la empresa no respondió.",
+    "pregunta": "¿Qué podés hacer?",
+    "correcta": "Iniciar una acción de habeas data",
+    "incorrectas": [
+      "Iniciar un habeas corpus",
+      "Esperar 5 años al derecho al olvido",
+      "Presentar una iniciativa popular",
+      "Nada: la empresa decide si borra o no",
+      "Hacer una denuncia por calumnia"
+    ],
+    "pista": "Hay una garantía constitucional específica para los datos.",
+    "explicacion": "Si la empresa no responde ni corrige en el plazo, la persona puede ir a la justicia con una acción de habeas data (art. 43 de la Constitución).",
+    "libro": "pd_derechos_plazos"
+  },
+  {
+    "id": "pd-der-05",
+    "tipo": "concepto",
+    "titulo": "Corridos o hábiles",
+    "situacion": "Para el examen tenés que recordar dos plazos de la Ley 25.326: el del derecho de acceso y el de rectificación.",
+    "pregunta": "¿Qué plazo corresponde a cada uno?",
+    "correcta": "Acceso: 10 días corridos. Rectificación: 5 días hábiles",
+    "incorrectas": [
+      "Acceso: 5 días hábiles. Rectificación: 10 días corridos",
+      "Acceso: 10 días hábiles. Rectificación: 5 días corridos",
+      "Acceso: 10 días corridos. Rectificación: 10 días corridos",
+      "Acceso: 5 días hábiles. Rectificación: 5 días hábiles",
+      "Acceso: 30 días corridos. Rectificación: 15 días hábiles"
+    ],
+    "pista": "El número más grande va con «corridos».",
+    "explicacion": "Según la Ley 25.326, para saber qué datos tienen (acceso, art. 14): 10 días corridos. Para corregir, actualizar o borrar (art. 16): 5 días hábiles.",
+    "libro": "pd_derechos_plazos"
+  },
+  {
+    "id": "pd-cred-01",
+    "tipo": "caso",
+    "titulo": "La deuda pagada hace 3 años",
+    "situacion": "Un cliente pagó una deuda con una tarjeta hace 3 años y todavía aparece en Veraz como antecedente negativo.",
+    "pregunta": "¿Debería seguir figurando?",
+    "correcta": "No: una deuda pagada puede informarse hasta 2 años desde el pago",
+    "incorrectas": [
+      "Sí: toda deuda se informa 5 años, aunque se haya pagado",
+      "Sí: las deudas se informan durante 10 años desde que nacen",
+      "Sí, hasta que el cliente pida un nuevo crédito y lo aprueben",
+      "No: una deuda pagada no puede informarse ni un solo día",
+      "Depende exclusivamente de lo que decida Veraz en cada caso"
+    ],
+    "pista": "El plazo se acorta si la deuda se canceló.",
+    "explicacion": "Cuando una deuda se paga, solo puede informarse durante 2 años desde el pago. Ya pasaron 3, así que no debería aparecer.",
+    "libro": "pd_crediticios"
+  },
+  {
+    "id": "pd-cred-02",
+    "tipo": "caso",
+    "titulo": "La deuda impaga de hace 6 años",
+    "situacion": "Una persona tiene una deuda impaga de hace 6 años. Pregunta si puede seguir apareciendo como deudora en Veraz y si la deuda «desapareció».",
+    "pregunta": "¿Qué le respondés?",
+    "correcta": "No debería figurar, pero la deuda sigue existiendo",
+    "incorrectas": [
+      "Debe seguir figurando hasta que pague la totalidad de la deuda",
+      "No debe figurar y, además, la deuda quedó cancelada por el tiempo",
+      "Debe figurar durante 10 años desde que se generó la deuda",
+      "Debe figurar 2 años más, porque la deuda sigue sin pagarse",
+      "Solo deja de figurar si inicia una acción de habeas corpus"
+    ],
+    "pista": "Derecho al olvido: ¿qué se olvida, el antecedente o la deuda?",
+    "explicacion": "Una deuda sin pagar puede informarse durante 5 años. Después ya no debe aparecer (derecho al olvido), pero la persona sigue debiendo la plata.",
+    "libro": "pd_crediticios"
+  },
+  {
+    "id": "pd-cred-03",
+    "tipo": "concepto",
+    "titulo": "¿Para qué existe Veraz?",
+    "situacion": "Un cliente pregunta por qué un banco puede consultar su historial antes de darle una tarjeta.",
+    "pregunta": "¿Qué función cumplen empresas como Veraz?",
+    "correcta": "Informar antecedentes de pago para evaluar si alguien es buen pagador",
+    "incorrectas": [
+      "Cobrar las deudas en nombre de los bancos y las financieras",
+      "Registrar los antecedentes penales de cada persona del país",
+      "Guardar las historias clínicas de las prepagas y obras sociales",
+      "Fijar las tasas de interés de todo el sistema financiero",
+      "Controlar que las empresas cumplan con el RGPD europeo"
+    ],
+    "pista": "Piensan en el riesgo de prestarte dinero.",
+    "explicacion": "Veraz y empresas parecidas informan si una persona suele pagar sus deudas, para que los bancos decidan si prestarle. Por eso la ley les pone plazos y permite pedir correcciones.",
+    "libro": "pd_crediticios"
+  },
+  {
+    "id": "pd-seg-01",
+    "tipo": "concepto",
+    "titulo": "¿Obligatorio o recomendado?",
+    "situacion": "Un gerente dice: «La Resolución AAIP 47/2018 son solo recomendaciones, así que no tengo ninguna obligación de proteger la base».",
+    "pregunta": "¿Qué le corregís?",
+    "correcta": "Que obliga el art. 9 de la Ley 25.326; la resolución dice cómo cumplirlo",
+    "incorrectas": [
+      "Nada: si no hay una norma obligatoria, no hay que proteger nada",
+      "Que la Resolución 47/2018 es una ley penal de cumplimiento obligatorio",
+      "Que la obligación surge solamente de la norma internacional ISO 27001",
+      "Que solo los organismos públicos están obligados a proteger sus bases",
+      "Que la obligación de proteger vence a los 5 años de creada la base"
+    ],
+    "pista": "Distinguí la ley de la resolución.",
+    "explicacion": "La obligación de proteger los datos la impone el art. 9 de la Ley 25.326. La Resolución AAIP 47/2018 propone medidas concretas para cumplir esa obligación.",
+    "libro": "pd_seguridad"
+  },
+  {
+    "id": "pd-seg-02",
+    "tipo": "caso",
+    "titulo": "Testing con datos reales",
+    "situacion": "Para probar un sistema nuevo, el equipo de desarrollo copia la base real de pacientes, sin anonimizar, en un servidor de pruebas al que acceden programadores externos.",
+    "pregunta": "¿Qué área de la Resolución AAIP 47/2018 aborda este riesgo?",
+    "correcta": "Entornos de desarrollo",
+    "incorrectas": [
+      "Destrucción de la información",
+      "Recolección",
+      "Respaldo y recuperación",
+      "Habeas data",
+      "Gestión de la tríada CID"
+    ],
+    "pista": "El problema aparece mientras se construye el sistema.",
+    "explicacion": "Usar datos reales de pacientes para probar un sistema, y que los vean programadores externos, es un riesgo que la Resolución 47/2018 trata en el área «entornos de desarrollo».",
+    "libro": "pd_seguridad"
+  },
+  {
+    "id": "pd-seg-03",
+    "tipo": "caso",
+    "titulo": "Los discos a la basura",
+    "situacion": "Una clínica tira a un contenedor discos viejos con historias clínicas, sin borrarlos.",
+    "pregunta": "¿Qué área de la Resolución AAIP 47/2018 se descuidó?",
+    "correcta": "Destrucción de la información",
+    "incorrectas": [
+      "Entornos de desarrollo",
+      "Control de cambios",
+      "Recolección de los datos",
+      "Gestión de vulnerabilidades",
+      "Respaldo y recuperación"
+    ],
+    "pista": "El problema está al final del ciclo de vida del dato.",
+    "explicacion": "Cuando los datos ya no se necesitan, hay que eliminarlos de forma segura. La Resolución 47/2018 lo trata en el área «destrucción de la información».",
+    "libro": "pd_seguridad"
+  },
+  {
+    "id": "pd-seg-04",
+    "tipo": "concepto",
+    "titulo": "ISO o AAIP",
+    "situacion": "Una consultora te pregunta en qué se diferencia la ISO 27001 de la Resolución AAIP 47/2018.",
+    "pregunta": "¿Qué le respondés?",
+    "correcta": "La ISO 27001 cubre toda la información; la 47/2018, solo datos personales",
+    "incorrectas": [
+      "Son idénticas: la AAIP tradujo la ISO 27001 al castellano",
+      "La ISO 27001 es una ley argentina obligatoria y la 47/2018 no lo es",
+      "La Resolución 47/2018 solo trata la información guardada en papel",
+      "La ISO 27001 solo se aplica a bancos y entidades financieras",
+      "La Resolución 47/2018 reemplazó a la ISO 27001 en la Argentina"
+    ],
+    "pista": "Una es general; la otra, específica.",
+    "explicacion": "La ISO 27001 sirve para organizar la seguridad de toda la información de una empresa. La Resolución 47/2018 se enfoca solo en los datos personales.",
+    "libro": "pd_seguridad"
+  },
+  {
+    "id": "pd-seg-05",
+    "tipo": "norma",
+    "titulo": "La norma vieja",
+    "situacion": "Un manual de 2015 de una empresa cita la Disposición DNPDP 11/2006 con sus niveles básico, medio y crítico.",
+    "pregunta": "¿Qué deberías advertir?",
+    "correcta": "Que fue abrogada por la Resolución AAIP 47/2018",
+    "incorrectas": [
+      "Que sigue vigente y reemplazó a la Ley 25.326",
+      "Que fue incorporada al RGPD de la Unión Europea",
+      "Que es un artículo del Código Penal sobre datos",
+      "Que solo rige en la Ciudad de Buenos Aires",
+      "Que la reemplazó la norma internacional ISO 27001"
+    ],
+    "pista": "Fijate si esa norma de 2006 sigue vigente o si otra la reemplazó.",
+    "explicacion": "La Disposición 11/2006 ya no está vigente: la reemplazó (abrogó) la Resolución AAIP 47/2018.",
+    "libro": "pd_seguridad"
+  },
+  {
+    "id": "pd-rgpd-01",
+    "tipo": "norma",
+    "titulo": "Fechas europeas",
+    "situacion": "En un repaso te preguntan cuándo empezó a aplicarse el RGPD.",
+    "pregunta": "¿Cuál es la respuesta correcta?",
+    "correcta": "El 25 de mayo de 2018",
+    "incorrectas": [
+      "El 27 de abril de 2016",
+      "El 4 de octubre de 2000",
+      "El 1 de enero de 2020",
+      "El 25 de mayo de 2016",
+      "El 2 de noviembre de 2000"
+    ],
+    "pista": "Hubo dos años entre su aprobación y su aplicación.",
+    "explicacion": "El RGPD se aprobó el 27 de abril de 2016 y empezó a aplicarse el 25 de mayo de 2018. Las fechas del año 2000 son de la ley argentina 25.326.",
+    "libro": "pd_rgpd"
+  },
+  {
+    "id": "pd-rgpd-02",
+    "tipo": "concepto",
+    "titulo": "Los cuatro requisitos",
+    "situacion": "Te piden completar: según el RGPD, el consentimiento debe ser libre, informado y...",
+    "pregunta": "¿Cuáles son los cuatro requisitos generales?",
+    "correcta": "Libre, específico, informado e inequívoco",
+    "incorrectas": [
+      "Libre, expreso, informado y escrito",
+      "Libre, gratuito, informado y notarial",
+      "Expreso, tácito, informado y verbal",
+      "Libre, informado, anual y renovable",
+      "Específico, presunto, informado e irrevocable"
+    ],
+    "pista": "No confundas con la ley argentina, que dice «libre, expreso e informado».",
+    "explicacion": "Para el RGPD, el consentimiento tiene que ser libre (sin presiones), específico (para un uso concreto), informado (sabiendo para qué) e inequívoco (sin dudas de que dijo que sí).",
+    "libro": "pd_rgpd"
+  },
+  {
+    "id": "pd-rgpd-03",
+    "tipo": "clasificar",
+    "titulo": "La huella en la puerta",
+    "situacion": "Una oficina en España instala un lector de huellas digitales para identificar a cada empleado al entrar.",
+    "pregunta": "¿Qué tipo de dato trata según el RGPD?",
+    "correcta": "Un dato biométrico, que es categoría especial",
+    "incorrectas": [
+      "Un dato estadístico, porque se usa en una oficina",
+      "Un dato común, sin protección especial",
+      "Un dato crediticio del empleado",
+      "No es un dato personal: es solo una huella",
+      "Un dato de contacto, como el correo"
+    ],
+    "pista": "Identifica de forma única a una persona por una característica física.",
+    "explicacion": "La huella digital identifica a una persona por una característica de su cuerpo: es un dato biométrico, una de las «categorías especiales» (datos sensibles) del RGPD.",
+    "libro": "pd_rgpd"
+  },
+  {
+    "id": "pd-rgpd-04",
+    "tipo": "norma",
+    "titulo": "La multa máxima",
+    "situacion": "Una multinacional con facturación anual de 10.000 millones de euros pregunta cuál es el tope de las multas más graves del RGPD.",
+    "pregunta": "¿Qué le respondés?",
+    "correcta": "20 millones de euros o el 4% de la facturación mundial, lo que sea mayor",
+    "incorrectas": [
+      "20 millones de euros como tope fijo, sin importar la facturación",
+      "El 4% de la facturación mundial o 20 millones, lo que sea menor",
+      "Un monto fijo de 100.000 euros por cada infracción comprobada",
+      "No hay multas: el RGPD solo prevé advertencias y apercibimientos",
+      "El 1% de la ganancia neta que la empresa obtuvo en Europa"
+    ],
+    "pista": "Para una empresa muy grande, ¿qué tope le dolería más: un monto fijo o un porcentaje de lo que factura?",
+    "explicacion": "El tope es 20 millones de euros o el 4% de lo que la empresa factura por año en el mundo, lo que sea MAYOR. Para esta empresa, el 4% son 400 millones, así que ese es el tope.",
+    "libro": "pd_rgpd"
+  },
+  {
+    "id": "pd-dis-01",
+    "tipo": "caso",
+    "titulo": "El botón de borrar",
+    "situacion": "Estás diseñando una app. El equipo propone agregar «más adelante» la forma de que un usuario consulte, corrija o elimine sus datos.",
+    "pregunta": "¿Qué principio te lleva a incluirlo desde el inicio?",
+    "correcta": "Privacidad desde el diseño",
+    "incorrectas": [
+      "Última ratio",
+      "Supremacía constitucional",
+      "Defensa en profundidad física",
+      "Principio de legalidad penal",
+      "Concurso ideal"
+    ],
+    "pista": "No es un parche que se agrega al final.",
+    "explicacion": "Pensar en la protección de los datos desde el inicio del proyecto, y no como un agregado al final, es «privacidad desde el diseño». Si el sistema no puede encontrar ni borrar los datos de una persona, no va a poder cumplir la ley.",
+    "libro": "pd_diseno"
+  },
+  {
+    "id": "pd-dis-02",
+    "tipo": "concepto",
+    "titulo": "¿Por qué le importa a un programador?",
+    "situacion": "Un estudiante de sistemas pregunta por qué tiene que estudiar protección de datos si él «solo programa».",
+    "pregunta": "¿Qué le respondés?",
+    "correcta": "Porque al diseñar decide qué datos se piden, quién los ve y cuándo se borran",
+    "incorrectas": [
+      "Porque los programadores son los únicos responsables penales de toda filtración",
+      "Porque la ley solo se aplica a programadores",
+      "No tiene por qué: es un tema exclusivo de abogados",
+      "Porque el RGPD exige un título de abogado para programar",
+      "Porque la Ley 25.326 regula los lenguajes de programación"
+    ],
+    "pista": "Las decisiones técnicas afectan derechos de personas reales.",
+    "explicacion": "Al diseñar un sistema se decide qué datos se piden, quién los ve y cuándo se borran. Esas decisiones técnicas afectan los derechos de personas reales y tienen consecuencias legales.",
+    "libro": "pd_diseno"
+  }
+]

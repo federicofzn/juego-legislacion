@@ -1,0 +1,130 @@
+[
+  {
+    "id": "err-di-puros",
+    "titulo": "Delitos informáticos puros e impuros",
+    "oraciones": [
+      "En un delito informático impuro, la tecnología es solo el medio para cometer un delito común.",
+      "Amenazar a alguien por WhatsApp es un delito informático impuro.",
+      "Borrar los archivos de una empresa es un delito informático impuro, porque se usó una computadora.",
+      "En un delito informático puro, lo atacado son los propios sistemas, datos o cuentas.",
+      "Vender por internet un producto que no existe es una estafa cometida por medios digitales."
+    ],
+    "incorrecta": 2,
+    "correccion": "Borrar los archivos de una empresa es un delito informático puro, porque lo atacado son los datos.",
+    "pista": "Preguntate qué se dañó en cada caso: ¿una persona o los datos?",
+    "explicacion": "Cuando lo que se daña son los datos o los sistemas, la tecnología es el objeto del ataque: es un delito puro. Usar una computadora no alcanza para que sea impuro.",
+    "libro": "di_puros_impuros"
+  },
+  {
+    "id": "err-di-26388",
+    "titulo": "La Ley 26.388",
+    "oraciones": [
+      "La Ley 26.388 creó un código aparte, separado del Código Penal, para los delitos informáticos.",
+      "Desde esa ley, un archivo digital también puede ser un documento (art. 77 del Código Penal).",
+      "Entrar sin permiso a un sistema con contraseña es acceso ilegítimo, aunque no se toque nada.",
+      "Borrar datos o sistemas ajenos a propósito es daño informático (art. 183 del Código Penal).",
+      "Leer correos electrónicos dirigidos a otra persona es violación de correspondencia."
+    ],
+    "incorrecta": 0,
+    "correccion": "La Ley 26.388 modificó artículos del Código Penal para que también cubran los datos y los sistemas.",
+    "pista": "Fijate en qué lugar quedaron escritos los delitos informáticos.",
+    "explicacion": "La Ley 26.388, de 2008, no es un código aparte: actualizó el Código Penal para que los delitos de siempre también incluyan lo digital.",
+    "libro": "di_ley_26388"
+  },
+  {
+    "id": "err-di-leyes",
+    "titulo": "Grooming, Ley Olimpia y Budapest",
+    "oraciones": [
+      "El grooming es el contacto de un adulto con un menor, por medios tecnológicos, con fines sexuales.",
+      "El grooming está en el art. 131 del Código Penal y lo incorporó la Ley 26.904.",
+      "La Ley 27.436 castiga también la simple tenencia de material de abuso sexual infantil.",
+      "La Ley Olimpia reconoce la violencia digital como una forma de violencia contra las mujeres.",
+      "El Convenio de Budapest es una ley argentina de 2017 que reemplazó a la Ley 26.388."
+    ],
+    "incorrecta": 4,
+    "correccion": "El Convenio de Budapest es un tratado internacional para que los países cooperen contra los ciberdelitos.",
+    "pista": "Una de estas normas no es una ley nacional.",
+    "explicacion": "El Convenio de Budapest es un tratado entre países sobre ciberdelitos; la Argentina se sumó con la Ley 27.411. No reemplazó a la Ley 26.388.",
+    "libro": "di_otras_leyes"
+  },
+  {
+    "id": "err-di-ataques",
+    "titulo": "Técnicas de ataque",
+    "oraciones": [
+      "La ingeniería social engaña a una persona para que haga algo que no debería.",
+      "El phishing es un programa que cifra los archivos de la víctima y pide un rescate.",
+      "Un keylogger es un malware que registra todo lo que se escribe en el teclado.",
+      "En la doble extorsión, el atacante además amenaza con publicar los datos que se llevó.",
+      "Un hacker white hat trabaja con permiso, para proteger los sistemas."
+    ],
+    "incorrecta": 1,
+    "correccion": "El ransomware es un programa que cifra los archivos de la víctima y pide un rescate.",
+    "pista": "«Ransom» significa rescate en inglés.",
+    "explicacion": "El phishing es un mensaje falso que imita a alguien confiable, como tu banco, para robarte datos. El programa que cifra archivos y pide rescate es el ransomware.",
+    "libro": "di_ataques"
+  },
+  {
+    "id": "err-di-cid",
+    "titulo": "La tríada CID",
+    "oraciones": [
+      "La tríada CID está formada por la confidencialidad, la integridad y la disponibilidad.",
+      "La confidencialidad se rompe cuando alguien sin permiso lee la información.",
+      "La disponibilidad se rompe cuando un sistema deja de funcionar y no se puede usar.",
+      "Si un alumno cambia su nota en el sistema de la facultad, se rompe la confidencialidad.",
+      "La defensa en profundidad pone varias capas de protección, por si una falla."
+    ],
+    "incorrecta": 3,
+    "correccion": "Si un alumno cambia su nota en el sistema de la facultad, se rompe la integridad.",
+    "pista": "C = quién puede verlo. I = quién puede cambiarlo. D = si se puede usar.",
+    "explicacion": "Cambiar información sin permiso afecta la integridad. La confidencialidad se rompe cuando alguien ve lo que no debía.",
+    "libro": "di_cid_capas"
+  },
+  {
+    "id": "err-di-roles",
+    "titulo": "Equipos y pruebas de seguridad",
+    "oraciones": [
+      "Un pentest es un ataque simulado, autorizado y con límites acordados.",
+      "El Purple Team coordina a los equipos de ataque y de defensa.",
+      "El Blue Team intenta entrar a los sistemas como lo haría un delincuente, pero con autorización.",
+      "Un retest vuelve a probar los sistemas para confirmar que las fallas se corrigieron.",
+      "Un vCISO cumple la función de director de seguridad como servicio externo o a tiempo parcial."
+    ],
+    "incorrecta": 2,
+    "correccion": "El Red Team intenta entrar a los sistemas como lo haría un delincuente, pero con autorización.",
+    "pista": "Revisá el color de cada equipo: uno ataca y otro defiende.",
+    "explicacion": "El Red Team hace de atacante, siempre con autorización. El Blue Team defiende: vigila los sistemas, detecta ataques y responde.",
+    "libro": "di_roles_pentest"
+  },
+  {
+    "id": "err-di-prueba",
+    "titulo": "La prueba digital",
+    "oraciones": [
+      "Ante un ataque, lo primero es formatear los equipos para que el sistema quede limpio.",
+      "La prueba digital es frágil: se puede borrar o cambiar con mucha facilidad.",
+      "Los registros de actividad, llamados logs, pueden sobrescribirse en poco tiempo.",
+      "Si la evidencia se modifica sin cuidado, puede perder valor en un juicio.",
+      "Un perito informático ayuda a obtener la prueba digital y a explicarla."
+    ],
+    "incorrecta": 0,
+    "correccion": "Ante un ataque, lo primero es preservar la evidencia, sin borrar nada.",
+    "pista": "Pensá qué se pierde si se limpia todo antes de denunciar.",
+    "explicacion": "Si se formatea antes de denunciar, se pierden los registros que muestran cómo entró el atacante. Primero hay que preservar la evidencia.",
+    "libro": "di_prueba"
+  },
+  {
+    "id": "err-di-analisis",
+    "titulo": "Del ataque al análisis legal",
+    "oraciones": [
+      "La ciberseguridad explica cómo ocurrió un ataque; el Derecho Penal decide si es delito.",
+      "Un informe técnico sobre el ataque alcanza por sí solo para condenar a una persona.",
+      "El Derecho Penal también mira si hubo dolo o culpa y si el delito se consumó.",
+      "Que un sistema sea inseguro no hace legal entrar sin permiso.",
+      "Un mismo ataque puede incluir acceso ilegítimo, daño informático y extorsión."
+    ],
+    "incorrecta": 1,
+    "correccion": "Un informe técnico solo no alcanza: hay que identificar a la persona y probar qué hizo.",
+    "pista": "Para condenar a alguien hace falta más que saber cómo fue el ataque.",
+    "explicacion": "El informe técnico explica el ataque, pero para condenar hay que encontrar a una persona, probar su conducta y ver si encaja en algún delito.",
+    "libro": "di_analisis_penal"
+  }
+]

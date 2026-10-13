@@ -1,0 +1,958 @@
+{
+  "unidades": [
+    {
+      "key": "derecho_y_estado",
+      "titulo": "Derecho y Estado"
+    },
+    {
+      "key": "derecho_penal",
+      "titulo": "Derecho Penal"
+    },
+    {
+      "key": "delitos_informaticos",
+      "titulo": "Delitos Informáticos"
+    },
+    {
+      "key": "proteccion_datos",
+      "titulo": "Protección de Datos Personales"
+    }
+  ],
+  "entradas": {
+    "dye_glosario": {
+      "unidad": "derecho_y_estado",
+      "categoria": "Empezá por acá",
+      "titulo": "Palabras básicas de Derecho y Estado",
+      "intro": [
+        "Estas palabras aparecen en toda la unidad. Si en otra entrada encontrás una que no entendés, volvé acá."
+      ],
+      "notas": [
+        "Norma: una regla que dice cómo hay que comportarse. Ejemplo: «hay que frenar en el semáforo en rojo».",
+        "Derecho: el conjunto de normas que el Estado puede hacer cumplir. Sirve para organizar la vida en sociedad.",
+        "Ley: una norma escrita que aprueba el Congreso (el Poder Legislativo). Es obligatoria para todos.",
+        "Constitución Nacional: la ley más importante del país. Organiza el Estado y reconoce los derechos de las personas. Ninguna otra norma puede contradecirla.",
+        "Artículo: cada una de las partes numeradas de una ley o de la Constitución. Ejemplo: el «art. 18» de la Constitución.",
+        "Estado: la organización política de un país, con su gente, su territorio, su gobierno y su poder de decidir sin depender de otro país.",
+        "Gobierno: las personas y los órganos que, durante un tiempo, dirigen el Estado (el presidente, los legisladores, los jueces).",
+        "Derecho (como facultad): algo que una persona puede hacer o exigir. Ejemplo: el derecho a expresarse o a trabajar.",
+        "Garantía: una herramienta para defender un derecho cuando alguien lo viola. Ejemplo: si te detienen ilegalmente, existe una acción judicial (el habeas corpus) para recuperar la libertad.",
+        "Tratado: un acuerdo firmado entre países. Algunos tratados sobre derechos humanos tienen el mismo nivel que la Constitución.",
+        "Juez o magistrado: la persona que resuelve los conflictos aplicando el Derecho."
+      ],
+      "ejemplos": [
+        "La Constitución reconoce el derecho a la libertad (un derecho) y crea el habeas corpus para defenderlo (una garantía)."
+      ],
+      "ojo": "«Derecho» tiene dos sentidos: el sistema de normas (el Derecho argentino) y algo que una persona puede exigir (mi derecho a trabajar)."
+    },
+    "dye_normas": {
+      "unidad": "derecho_y_estado",
+      "categoria": "Normas",
+      "titulo": "Los cuatro tipos de normas",
+      "intro": [
+        "Vivimos con otras personas, y para convivir necesitamos reglas. Esas reglas se llaman normas.",
+        "Hay cuatro tipos de normas. Para distinguirlas, hacete dos preguntas: ¿de dónde viene la regla? y ¿qué pasa si no la cumplo?"
+      ],
+      "notas": [
+        "Normas morales: vienen de la propia conciencia y de valores como la honestidad o la justicia. Si no las cumplís, la consecuencia es sentir culpa o que otros te reprochen. Nadie te obliga por la fuerza. Ejemplo: no mentirle a un amigo.",
+        "Normas sociales: son costumbres de trato que se esperan en un grupo. Si no las cumplís, la consecuencia es que te miren mal o te dejen de lado. Ejemplo: saludar al llegar a la oficina, vestirse formal en un casamiento.",
+        "Normas religiosas: vienen de una creencia religiosa y obligan solo a quienes forman parte de esa religión. Ejemplo: ayunar en ciertas fechas.",
+        "Normas jurídicas: las dicta o las reconoce el Estado (por ejemplo, las leyes). Tienen tres características: son OBLIGATORIAS (hay que cumplirlas aunque no estés de acuerdo), GENERALES (valen para todas las personas que están en esa situación) y COERCIBLES (si no las cumplís, el Estado puede obligarte y castigarte).",
+        "Coercible: significa que el Estado puede usar su poder para hacer cumplir la norma: cobrarte una multa, embargarte la cuenta del banco, o incluso llevarte preso. Esta es la característica que diferencia a la norma jurídica de las otras tres."
+      ],
+      "pasos": [
+        "¿Si no la cumplo, el Estado puede obligarme o sancionarme (multa, embargo, prisión)? → norma jurídica.",
+        "¿La consecuencia es sentir culpa? → norma moral.",
+        "¿La consecuencia es que el grupo me rechace o me mire mal? → norma social.",
+        "¿Viene de una religión y obliga a sus fieles? → norma religiosa."
+      ],
+      "ejemplos": [
+        "Si no saludás, te miran mal (norma social). Si no pagás una multa de tránsito, te la pueden cobrar a la fuerza con un embargo (norma jurídica)."
+      ],
+      "ojo": "Una misma conducta puede estar en varias normas a la vez: «no matar» es moral, religiosa y jurídica. Lo que la vuelve jurídica es que el Estado puede obligar a cumplirla."
+    },
+    "dye_derecho_fuentes": {
+      "unidad": "derecho_y_estado",
+      "categoria": "Derecho",
+      "titulo": "Qué es el Derecho, de dónde sale y cómo se divide",
+      "intro": [
+        "El Derecho es el conjunto de normas jurídicas (las que el Estado puede hacer cumplir) que organiza la vida en sociedad: las relaciones entre las personas, con las empresas y con el Estado.",
+        "Esta entrada explica tres cosas: dos formas de pensar qué es el Derecho, de dónde salen las reglas jurídicas (las «fuentes») y cómo se divide el Derecho (las «ramas»)."
+      ],
+      "notas": [
+        "Derecho Natural: la idea de que hay principios justos que existen por el solo hecho de ser humanos, aunque ninguna ley los escriba. Ejemplo: la dignidad de cada persona.",
+        "Derecho Positivo: las normas que efectivamente están vigentes en un país en un momento determinado, porque las dictó una autoridad. Ejemplo: el Código Penal argentino actual.",
+        "Fuentes del Derecho: los lugares de donde salen las reglas jurídicas. Son cuatro:",
+        "Ley: una norma escrita que dicta la autoridad competente (por ejemplo, el Congreso). Es la fuente principal.",
+        "Costumbre: algo que la gente hace repetidamente durante mucho tiempo y que siente como obligatorio. Vale como regla jurídica cuando el Derecho la acepta.",
+        "Jurisprudencia: los criterios que surgen de las sentencias de los jueces. Cuando los tribunales, sobre todo los más altos, resuelven casos parecidos de la misma manera, esa forma de resolver orienta a otros jueces.",
+        "Doctrina: lo que escriben los especialistas en Derecho (profesores, investigadores) en libros y artículos para explicar e interpretar las normas.",
+        "Derecho Público: las normas que regulan situaciones en las que el Estado actúa con autoridad, «desde arriba». Ejemplo: cuando el Estado cobra impuestos o cuando castiga un delito.",
+        "Derecho Privado: las normas que regulan relaciones entre particulares que están en igualdad de condiciones. Ejemplo: un contrato de alquiler entre dos personas."
+      ],
+      "ejemplos": [
+        "Un abogado cita varios fallos de la Corte Suprema que resolvieron casos iguales: está usando jurisprudencia.",
+        "Una abogada cita el libro de un profesor de Derecho: está usando doctrina."
+      ],
+      "ojo": "Jurisprudencia viene de los JUECES (sentencias). Doctrina viene de los ESTUDIOSOS (libros)."
+    },
+    "dye_constitucion": {
+      "unidad": "derecho_y_estado",
+      "categoria": "Constitución",
+      "titulo": "La Constitución: por qué es la ley más importante y cómo está armada",
+      "intro": [
+        "La Constitución Nacional es la ley más importante de la Argentina. Todas las demás normas (leyes, decretos, resoluciones) tienen que respetarla. Si una norma la contradice, esa norma no vale.",
+        "A esta idea se la llama «supremacía constitucional»: la Constitución está por encima de todo lo demás."
+      ],
+      "notas": [
+        "Artículo 31: es el artículo que establece la supremacía. Dice que la Constitución, las leyes nacionales que se dicten de acuerdo con ella y los tratados con otros países son la ley suprema de la Nación, y que las provincias tienen que respetarlas.",
+        "Pirámide normativa: una forma de dibujar qué norma está por encima de cuál. Arriba de todo: la Constitución y los tratados de derechos humanos que tienen su mismo nivel. Debajo: los demás tratados. Después: las leyes nacionales. Luego: las constituciones de cada provincia y las leyes provinciales. Abajo: los decretos, reglamentos y resoluciones.",
+        "Las sentencias de los jueces no son un escalón de la pirámide: resuelven un caso concreto entre partes concretas e interpretan las normas, pero no son reglas generales para todos como una ley.",
+        "Cómo está armada la Constitución: tiene un Preámbulo (el texto inicial, que dice para qué se dicta: afianzar la justicia, consolidar la paz, asegurar la libertad...), una Parte dogmática, una Parte orgánica y unas disposiciones transitorias.",
+        "Parte dogmática: la parte que habla de las PERSONAS. Contiene declaraciones (principios básicos del país), derechos (lo que las personas pueden hacer o exigir, como trabajar o expresarse) y garantías (las herramientas para defender esos derechos, como el amparo).",
+        "Parte orgánica: la parte que habla de cómo se ORGANIZA el Estado: cómo se forman el Congreso, la Presidencia y el Poder Judicial, cuánto duran los mandatos, qué puede hacer cada uno."
+      ],
+      "ejemplos": [
+        "Una provincia dicta una ley que prohíbe criticar al gobernador. Esa ley contradice la libertad de expresión que reconoce la Constitución: por el art. 31, la Constitución prevalece.",
+        "El artículo que dice cuántos años duran los senadores está en la parte orgánica. El que reconoce la libertad de expresión, en la parte dogmática."
+      ],
+      "ojo": "Parte dogmática = las personas y sus derechos. Parte orgánica = el Estado y sus poderes."
+    },
+    "dye_tratados_generaciones": {
+      "unidad": "derecho_y_estado",
+      "categoria": "Constitución",
+      "titulo": "Tratados de derechos humanos y «generaciones» de derechos",
+      "intro": [
+        "Un tratado es un acuerdo entre países. En 1994 se reformó la Constitución y se decidió que algunos tratados sobre derechos humanos tengan el mismo nivel que la propia Constitución.",
+        "Además, para estudiar los derechos se los suele agrupar en «generaciones», según la época en que se reconocieron y el tipo de necesidad que protegen. Es una forma de ordenarlos, no una regla legal."
+      ],
+      "notas": [
+        "Artículo 75 inciso 22: es la parte de la Constitución que enumera los tratados de derechos humanos con «jerarquía constitucional», es decir, con el MISMO nivel que la Constitución. Ejemplos: la Convención Americana sobre Derechos Humanos y la Convención sobre los Derechos del Niño. Están al mismo nivel, no por encima.",
+        "Primera generación (referencia argentina: 1853, año de la Constitución original): derechos que protegen la libertad de cada persona frente al Estado y su participación política. Ejemplos: vida, libertad, igualdad, votar, expresarse libremente.",
+        "Segunda generación (referencias: Constitución de 1949 y reforma de 1957, que agregó el art. 14 bis): derechos que buscan condiciones de vida dignas. Ejemplos: trabajo con condiciones justas, educación, salud, vivienda, jubilación.",
+        "Tercera generación (referencia: reforma de 1994): derechos que pertenecen a toda la sociedad a la vez, no a una sola persona. Ejemplos: ambiente sano (art. 41), derechos de los consumidores (art. 42), paz, desarrollo.",
+        "Posible cuarta generación (no hay una lista oficial): derechos nuevos ligados a la tecnología. Ejemplos: protección de los datos personales, privacidad en internet, acceso a internet, identidad digital, protección frente a decisiones tomadas por inteligencia artificial."
+      ],
+      "pasos": [
+        "¿Protege la libertad individual o la participación política? → primera generación.",
+        "¿Busca condiciones de vida dignas (trabajo, salud, educación)? → segunda generación.",
+        "¿Pertenece a toda la comunidad (ambiente, consumidores)? → tercera generación.",
+        "¿Tiene que ver con tecnología y datos? → posible cuarta generación."
+      ],
+      "ejemplos": [
+        "Vecinos reclaman porque una fábrica contamina el río del pueblo: ambiente sano, tercera generación."
+      ],
+      "ojo": "Las fechas de cada generación son referencias para estudiar, no fechas exactas."
+    },
+    "dye_estado_gobierno": {
+      "unidad": "derecho_y_estado",
+      "categoria": "Estado",
+      "titulo": "Nación, Estado, gobierno y cómo se organiza la Argentina",
+      "intro": [
+        "En la vida diaria usamos «nación», «Estado» y «gobierno» como si fueran lo mismo, pero en Derecho son cosas distintas.",
+        "Además, la Constitución dice que la Argentina adopta una forma de gobierno «representativa, republicana y federal». Cada palabra significa algo concreto."
+      ],
+      "notas": [
+        "Nación: un grupo de personas unidas por una historia, una cultura, un idioma o una identidad en común. Puede existir aunque no tenga un Estado propio.",
+        "Estado: la organización política de un país. Tiene cuatro elementos: población (la gente), territorio (el lugar), gobierno (quienes lo dirigen) y soberanía (el poder de decidir sin obedecer a otro país). Es permanente.",
+        "Gobierno: las personas y los órganos que dirigen el Estado durante un período. Es temporal: cambia con cada elección. El Estado sigue siendo el mismo.",
+        "Representativa: el pueblo no decide todo directamente; elige representantes (presidente, diputados, senadores) que deciden en su nombre.",
+        "Republicana: el poder está dividido en tres (Ejecutivo, Legislativo y Judicial) para que ninguno concentre todo. Además, los mandatos duran un tiempo limitado, los actos de gobierno son públicos y los funcionarios tienen que rendir cuentas.",
+        "Federal: el poder se reparte entre el Estado nacional y las provincias (y la Ciudad de Buenos Aires). Cada provincia tiene su propia constitución, su gobernador y su legislatura.",
+        "Democracia semidirecta: además de votar representantes, la Constitución permite que la gente participe directamente en algunos casos. Iniciativa popular: los ciudadanos juntan firmas y presentan un proyecto de ley. Consulta popular: se le pregunta a la población su opinión sobre un tema."
+      ],
+      "ejemplos": [
+        "Cuando cambia el presidente, cambia el gobierno, no el Estado.",
+        "Que Córdoba tenga su propia constitución y su gobernador muestra que el país es federal."
+      ],
+      "ojo": "Republicana = el poder dividido en tres. Federal = el poder repartido entre Nación y provincias. No son lo mismo."
+    },
+    "dye_poderes": {
+      "unidad": "derecho_y_estado",
+      "categoria": "Estado",
+      "titulo": "Los tres poderes y cuánto duran los mandatos",
+      "intro": [
+        "El poder del Estado está dividido en tres para que ninguna persona o grupo lo concentre todo. Cada poder tiene una tarea y además controla a los otros.",
+        "«Mandato» es el tiempo que una persona elegida ocupa su cargo."
+      ],
+      "notas": [
+        "Poder Ejecutivo: lo ejerce el Presidente. Administra el país, aplica las leyes y lleva adelante las políticas del gobierno.",
+        "Poder Legislativo: es el Congreso, formado por dos cámaras: la Cámara de Diputados (representan al pueblo) y el Senado (representan a las provincias). Su tarea principal es hacer las leyes.",
+        "Poder Judicial: la Corte Suprema y los demás tribunales. Resuelve conflictos aplicando las leyes y controla que las leyes y los actos del gobierno respeten la Constitución. Si un juez decide que una ley va contra la Constitución y no la aplica, eso se llama «control de constitucionalidad».",
+        "Presidente y vicepresidente (art. 90): duran 4 años. Pueden ser reelegidos UNA sola vez seguida. Después de dos mandatos seguidos, tienen que esperar un mandato (4 años) antes de volver a presentarse.",
+        "Diputados (art. 50): duran 4 años y pueden ser reelegidos. La Cámara se renueva por MITADES cada 2 años (cada elección cambia la mitad de los diputados).",
+        "Senadores (art. 56): duran 6 años y pueden ser reelegidos sin límite. El Senado se renueva por TERCIOS cada 2 años (cada elección cambia un tercio).",
+        "Cantidad de diputados (art. 45): la Constitución fija una regla: un diputado cada 33.000 habitantes (o fracción de por lo menos 16.500), y el Congreso puede actualizarla después de cada censo. Hoy la Cámara tiene 257 diputados."
+      ],
+      "ejemplos": [
+        "Un juez declara que un decreto del presidente viola la Constitución: es el Poder Judicial controlando al Ejecutivo."
+      ],
+      "ojo": "Diputados: 4 años, se renuevan por mitades. Senadores: 6 años, se renuevan por tercios. En los dos casos hay elecciones cada 2 años."
+    },
+    "dye_art18_19": {
+      "unidad": "derecho_y_estado",
+      "categoria": "Garantías",
+      "titulo": "Artículos 18 y 19: protecciones frente al Estado",
+      "intro": [
+        "Estos dos artículos protegen a las personas frente al poder del Estado. El art. 18 se ocupa sobre todo de lo que pasa cuando el Estado quiere acusar, juzgar o investigar a alguien. El art. 19 protege la vida privada."
+      ],
+      "notas": [
+        "Juicio previo y ley anterior (art. 18): a nadie se lo puede castigar sin hacerle antes un juicio, y ese juicio tiene que basarse en una ley que ya existía cuando ocurrió el hecho.",
+        "Juez natural (art. 18): a cada persona la tienen que juzgar los jueces que la ley ya había designado ANTES de que ocurriera el hecho. Está prohibido crear un tribunal especial, después, para juzgar un caso en particular.",
+        "Nadie puede ser obligado a declarar contra sí mismo (art. 18): una persona acusada no está obligada a confesar ni a dar información que la perjudique. Una confesión arrancada con presiones no vale.",
+        "Arresto con orden escrita (art. 18): nadie puede ser detenido sin una orden escrita de una autoridad competente (salvo excepciones legales, como ser sorprendido cometiendo un delito).",
+        "Defensa en juicio (art. 18): toda persona tiene derecho a defenderse en un juicio, por ejemplo con un abogado.",
+        "Inviolabilidad del domicilio y la correspondencia (art. 18): nadie puede entrar a tu casa ni leer tus cartas o papeles privados, salvo en los casos y con los requisitos que fije una ley (por ejemplo, una orden de allanamiento de un juez).",
+        "Cárceles (art. 18): tienen que ser sanas y limpias, y sirven para mantener a las personas detenidas de forma segura, no para hacerlas sufrir. Si un juez autoriza tratos que las hacen sufrir más de lo necesario, ese juez es responsable.",
+        "Acciones privadas (art. 19): lo que una persona hace en su vida privada, si no daña a otros ni afecta el orden público, no le incumbe al Estado. El texto dice que esas acciones están «reservadas a Dios y exentas de la autoridad de los magistrados» (magistrado = juez).",
+        "Principio de reserva (art. 19): nadie está obligado a hacer algo que la ley no le ordena, ni se le puede prohibir algo que la ley no prohíbe."
+      ],
+      "ejemplos": [
+        "Después de un escándalo, el gobierno crea un tribunal especial solo para ese caso: viola el juez natural (art. 18).",
+        "Un municipio quiere multar a adultos por cómo se tiñen el pelo en su casa: viola el art. 19, porque es una acción privada que no daña a nadie."
+      ],
+      "ojo": "Art. 18 = protecciones cuando el Estado te investiga o te juzga. Art. 19 = tu vida privada, mientras no dañes a otros."
+    },
+    "dye_garantias": {
+      "unidad": "derecho_y_estado",
+      "categoria": "Garantías",
+      "titulo": "Habeas corpus, habeas data y amparo",
+      "intro": [
+        "Son tres acciones judiciales, es decir, pedidos que una persona le hace a un juez para que la proteja rápido cuando le están violando un derecho. Están en el artículo 43 de la Constitución.",
+        "Para saber cuál usar, preguntate: ¿qué derecho está en peligro?"
+      ],
+      "notas": [
+        "Habeas corpus: protege la LIBERTAD FÍSICA, es decir, poder moverse libremente y no estar preso sin motivo legal. Se usa si te detienen sin orden ni razón, si te amenazan con detenerte ilegalmente, o si estando preso te empeoran las condiciones sin motivo. «Habeas corpus» viene del latín y significa, más o menos, «que traigas el cuerpo»: la idea es que el juez pida ver a la persona detenida.",
+        "Habeas data: protege los DATOS PERSONALES, es decir, la información sobre vos que guardan empresas u organismos. Sirve para saber qué datos tuyos tienen y para exigir que corrijan, actualicen o borren los que son falsos, viejos o que no deberían tener. «Data» significa datos.",
+        "Amparo: protege los DEMÁS derechos de la Constitución (salud, trabajo, propiedad, etc.) cuando una autoridad o un particular los viola de forma claramente arbitraria o ilegal, y no hay otro camino más rápido para frenarlo."
+      ],
+      "pasos": [
+        "¿Está en juego la libertad física (alguien detenido o amenazado de detención)? → habeas corpus.",
+        "¿Está en juego información personal guardada en una base de datos? → habeas data.",
+        "¿Es otro derecho violado de forma arbitraria (salud, trabajo, etc.)? → amparo."
+      ],
+      "ejemplos": [
+        "Te detienen en la calle sin orden y sin explicación: habeas corpus.",
+        "Una base de deudores te muestra como moroso por una deuda que no existe y no la corrigen: habeas data.",
+        "La obra social se niega sin razón a cubrir un tratamiento urgente que la ley la obliga a cubrir: amparo."
+      ],
+      "ojo": "Corpus = cuerpo (libertad física). Data = datos. Amparo = cualquier otro derecho."
+    },
+    "dp_glosario": {
+      "unidad": "derecho_penal",
+      "categoria": "Empezá por acá",
+      "titulo": "Palabras básicas del Derecho Penal",
+      "intro": [
+        "Antes de leer el resto de la unidad, conviene conocer estas palabras. Aparecen en todas las entradas y en casi todos los casos del juego.",
+        "Si en otra entrada encontrás una palabra que no entendés, volvé acá."
+      ],
+      "notas": [
+        "Delito: una acción que la ley prohíbe y que se castiga con una pena. Por ejemplo, matar a alguien o robarle el celular.",
+        "Pena: el castigo que el Estado le aplica a quien comete un delito. La más conocida es la prisión (ir preso), pero también existen multas (pagar dinero) o inhabilitaciones (por ejemplo, no poder manejar o ejercer una profesión por un tiempo).",
+        "Código Penal: el libro de leyes donde están escritos casi todos los delitos y sus penas en la Argentina. Está dividido en artículos numerados (art. 79, art. 162, etc.). Cada artículo describe un delito o una regla.",
+        "Conducta: lo que la persona HIZO (o dejó de hacer). Por ejemplo: disparar un arma, manejar rápido, ejecutar un programa, no controlar a un paciente.",
+        "Resultado: lo que PASÓ en el mundo por culpa de esa conducta. Por ejemplo: alguien murió, alguien quedó herido, se rompió un auto, se borraron los datos de una empresa. Muchas veces el Derecho Penal castiga porque una conducta causó un resultado dañino.",
+        "Autor: la persona que cometió el hecho.",
+        "Víctima: la persona que sufrió el daño.",
+        "Imputado: la persona acusada de un delito mientras se la investiga o se la juzga. Todavía no fue declarada culpable.",
+        "Condenado: la persona a la que un juez, al final del juicio, declaró culpable y le aplicó una pena.",
+        "Juez: quien decide si la persona es culpable o inocente y qué pena le corresponde.",
+        "Fiscal: el abogado del Estado que investiga el delito y acusa al imputado.",
+        "Querellante: la víctima (o su abogado) cuando participa en el juicio acusando ella también.",
+        "Intención: lo que la persona tenía en la cabeza al actuar, lo que quería lograr. Es clave para distinguir el dolo de la culpa."
+      ],
+      "ejemplos": [
+        "Juan (autor) le pega a Pedro (víctima). La conducta es pegar; el resultado es que Pedro termina con la nariz rota. Mientras dura el juicio, Juan es imputado; si el juez lo declara culpable, pasa a ser condenado."
+      ],
+      "ojo": "Conducta = lo que hice. Resultado = lo que pasó por lo que hice."
+    },
+    "dp_que_es": {
+      "unidad": "derecho_penal",
+      "categoria": "Bases",
+      "titulo": "Qué es el Derecho Penal y qué límites tiene",
+      "intro": [
+        "El Derecho Penal es la parte del Derecho que decide qué acciones son delitos y qué castigo (pena) corresponde a cada una.",
+        "Es la herramienta más fuerte que tiene el Estado: puede mandar a una persona a la cárcel. Por eso, para evitar abusos, tiene reglas muy estrictas sobre cuándo y cómo se puede castigar."
+      ],
+      "notas": [
+        "Bien jurídico: es aquello valioso que la ley quiere cuidar cuando prohíbe algo. Por ejemplo, la ley prohíbe matar porque quiere proteger la VIDA; prohíbe robar porque quiere proteger la PROPIEDAD (las cosas de cada uno); prohíbe insultar públicamente porque quiere proteger el HONOR (la buena reputación). Cada delito protege un bien jurídico.",
+        "Tipificar: escribir en una ley, con detalle, qué conducta es delito y qué pena tiene. A esa descripción se la llama «tipo penal». Ejemplo: el art. 79 tipifica el homicidio: «el que matare a otro» tendrá prisión de 8 a 25 años. Si una conducta no está descripta en ninguna ley, no es delito, aunque nos parezca mala o desagradable.",
+        "Principio de legalidad: nadie puede ser castigado por algo que no era delito en el momento en que lo hizo. La ley que lo prohíbe tiene que existir ANTES del hecho. Ejemplo: si en 2026 se crea un delito nuevo, no se puede castigar a quien hizo eso en 2025, cuando todavía era legal.",
+        "Prohibición de analogía: «analogía» significa aplicar una regla a un caso que la regla no menciona, solo porque se parece. En Derecho Penal está prohibido hacerlo para castigar: el juez no puede decir «esto no está en la ley, pero es parecido a un delito, así que lo castigo igual». Lo que sí puede hacer es interpretar, es decir, precisar qué significan las palabras que la ley usa.",
+        "Última ratio: significa «último recurso». El Derecho Penal debe usarse solo para los ataques más graves. Los conflictos menores se resuelven con otras herramientas: una multa, una demanda por dinero, una sanción administrativa.",
+        "Parte general: la primera parte del Código Penal. Tiene las reglas que valen para TODOS los delitos: cuándo hay intención (dolo), cuándo hay descuido (culpa), qué pasa si el delito no se termina (tentativa), quién no puede ser castigado (inimputable), etc.",
+        "Parte especial: la segunda parte del Código Penal. Es la lista de delitos concretos, uno por uno: homicidio, lesiones, hurto, robo, estafa, calumnia, etc."
+      ],
+      "ejemplos": [
+        "Legalidad: Marta hizo algo en marzo de 2025. En enero de 2026 una ley nueva lo convierte en delito. A Marta no se la puede castigar.",
+        "Interpretación permitida: el delito de grooming habla de contactar a un menor por «cualquier tecnología de transmisión de datos». Un chat de videojuego es una tecnología de transmisión de datos, así que entra.",
+        "Analogía prohibida: aplicar ese mismo delito a un contacto cara a cara, sin tecnología, porque «es igual de grave». La ley no lo menciona, así que no se puede."
+      ],
+      "ojo": "Que algo sea inmoral o molesto no lo convierte en delito: tiene que estar escrito en una ley anterior al hecho."
+    },
+    "dp_teoria_delito": {
+      "unidad": "derecho_penal",
+      "categoria": "Parte general",
+      "titulo": "Cuándo hay delito: los cinco filtros",
+      "intro": [
+        "Que alguien cause un daño no significa automáticamente que cometió un delito. Para que haya delito, el hecho tiene que pasar cinco «filtros», en orden. Si no pasa alguno, no hay delito (o no se puede castigar).",
+        "Pensalo como un control de calidad: el hecho entra por el primer filtro y tiene que superar los cinco."
+      ],
+      "notas": [
+        "1. Acción: tiene que haber un comportamiento de una persona, hecho con voluntad. Un rayo que incendia una casa no es un delito, porque no lo hizo una persona. Tampoco lo es un movimiento totalmente involuntario (por ejemplo, una convulsión).",
+        "2. Tipicidad: lo que la persona hizo tiene que coincidir con lo que describe algún artículo del Código Penal. Si no coincide con ningún delito escrito, se dice que la conducta es «atípica» y ahí termina el análisis.",
+        "3. Antijuridicidad: la palabra asusta, pero la idea es simple: ¿el Derecho prohíbe lo que hizo, o en esa situación lo permite? Hay situaciones en las que la ley permite hacer algo que normalmente es delito. Se llaman «causas de justificación». La más conocida es la legítima defensa: si alguien te ataca, podés defenderte, aunque al hacerlo lo lastimes.",
+        "4. Culpabilidad: ¿se le puede reprochar el hecho a esa persona? Para eso, la persona tiene que haber podido entender que lo que hacía estaba mal y controlar lo que hacía. Esa capacidad se llama imputabilidad.",
+        "Inimputable: la persona que, en el momento del hecho, no podía entender que lo que hacía estaba mal o no podía controlar sus actos. Por ejemplo, alguien en pleno brote psicótico. El hecho sigue estando prohibido, pero a esa persona no se le puede aplicar una pena como a cualquier otra.",
+        "5. Punibilidad: finalmente, que corresponda aplicar una pena. En casi todos los casos, si se pasaron los cuatro filtros anteriores, se pasa también este."
+      ],
+      "pasos": [
+        "¿Lo hizo una persona, con voluntad? Si no → no hay delito.",
+        "¿Lo que hizo coincide con algún delito del Código Penal? Si no → no hay delito (atípico).",
+        "¿Había una razón que la ley acepta, como defenderse de un ataque? Si sí → no hay delito (está justificado).",
+        "¿La persona podía entender lo que hacía y controlarse? Si no → no se le puede reprochar (inimputable).",
+        "Si pasó todo lo anterior → hay delito y corresponde una pena."
+      ],
+      "ejemplos": [
+        "Legítima defensa: un hombre ataca a Laura con un cuchillo. Ella lo empuja para salvarse y él se rompe un brazo. Lastimar a alguien es delito, pero Laura se estaba defendiendo: la ley lo permite. Falla el filtro 3.",
+        "Inimputabilidad: Martín, en un brote psicótico, rompe una vidriera convencido de que adentro lo quieren matar. No podía entender lo que hacía. Falla el filtro 4.",
+        "Atípico: mirar fijo a alguien en el colectivo puede ser molesto, pero no está escrito como delito. Falla el filtro 2."
+      ],
+      "ojo": "Legítima defensa e inimputabilidad no son lo mismo. En la legítima defensa, lo que hiciste estaba PERMITIDO. En la inimputabilidad, lo que hiciste estaba prohibido, pero VOS no podías entenderlo."
+    },
+    "dp_dolo": {
+      "unidad": "derecho_penal",
+      "categoria": "Parte general",
+      "titulo": "El dolo: cuando la persona actúa a propósito",
+      "intro": [
+        "Recordá dos palabras: conducta es lo que la persona HIZO (disparar, manejar, borrar un archivo) y resultado es el daño que PASÓ por eso (alguien murió, alguien quedó herido, se perdieron datos).",
+        "Para castigar a alguien, la ley no mira solo qué pasó: también mira qué tenía en la cabeza la persona sobre ese daño. ¿Lo quería? ¿Sabía que iba a pasar? ¿Ni se le ocurrió?",
+        "Hay DOLO cuando la persona actuó sabiendo que iba a causar el daño (o que podía causarlo) y aun así lo hizo. En palabras simples: lo hizo a propósito, o le dio lo mismo que pasara. Lo contrario es la CULPA (ver la entrada siguiente): cuando el daño pasó por un descuido, sin que la persona lo quisiera.",
+        "Hay tres clases de dolo. Van de más intención a menos intención. Para distinguirlas hay que contestar dos preguntas: ¿el daño era lo que la persona quería lograr? Y si no lo era, ¿sabía que iba a pasar seguro o solo que podía pasar?"
+      ],
+      "notas": [
+        "Dolo directo de primer grado (la intención más fuerte): el daño que se produjo es exactamente lo que la persona quería lograr. Era su meta, el motivo por el que actuó. Ejemplo: Ana está furiosa con su socio y quiere que muera. Le dispara y lo mata. ¿Qué quería Ana? Que su socio muriera. ¿Qué pasó? Su socio murió. Lo que quería y lo que pasó son lo mismo: primer grado.",
+        "Dolo directo de segundo grado (también llamado «de consecuencias necesarias»): la persona quería lograr OTRA cosa, pero sabía que, para lograrla, iba a causar SÍ O SÍ un daño adicional. Ese daño adicional no le interesaba, no era su meta, pero sabía que era inevitable y siguió adelante igual. Ejemplo: Bruno quiere matar a un empresario y pone una bomba en su auto. Sabe que el empresario nunca maneja: siempre lo lleva su chofer. Bruno no tiene nada contra el chofer, pero sabe que la bomba lo va a matar seguro. Respecto del empresario hay primer grado (era su meta); respecto del chofer, segundo grado (no era su meta, pero era seguro).",
+        "Dolo eventual (la intención más débil, pero sigue siendo dolo): la persona quería otra cosa y el daño NO era seguro: era solo una posibilidad. La persona se dio cuenta de que podía pasar y decidió seguir igual porque no le importó, lo aceptó. Ejemplo: Carla corre una picada a 180 km/h por una avenida llena de gente. Ella no quiere matar a nadie: quiere ganar la carrera. Pero sabe que puede atropellar a alguien y piensa «si pasa, mala suerte». Atropella a un peatón: dolo eventual.",
+        "Por qué importa: un delito cometido con dolo se castiga mucho más que uno cometido por descuido. Por ejemplo, matar con dolo (homicidio simple) tiene una pena de 8 a 25 años de prisión; matar por descuido (homicidio culposo) tiene una pena muchísimo menor."
+      ],
+      "pasos": [
+        "Identificá el daño por el que te preguntan (por ejemplo, la muerte del chofer, no la del empresario).",
+        "Preguntate: ¿ese daño era lo que la persona quería lograr? Si sí → dolo directo de primer grado.",
+        "Si no era su meta: ¿la persona sabía que ese daño iba a pasar SEGURO con lo que hizo? Si sí → dolo directo de segundo grado.",
+        "Si no era seguro, solo posible: ¿la persona se dio cuenta de que podía pasar y le dio lo mismo («si pasa, que pase»)? Si sí → dolo eventual.",
+        "Si se dio cuenta de que podía pasar pero confiaba en que no iba a pasar («no va a pasar, yo controlo») → ya no es dolo: es culpa con representación (ver la entrada de la culpa).",
+        "Si ni siquiera se le ocurrió que podía pasar, pero debería haberlo pensado → culpa sin representación."
+      ],
+      "ejemplos": [
+        "Caso informático: un empleado quiere borrar los registros que prueban que copió información de la empresa. Esos registros están en un servidor donde también se guardan los trabajos de otros diez clientes. Formatea el servidor completo sabiendo que todo se va a borrar. Su meta eran SUS registros (primer grado respecto de eso). Los datos de los otros clientes no le interesaban, pero sabía que se iban a borrar seguro: segundo grado respecto de esos datos."
+      ],
+      "ojo": "El dolo eventual y la culpa con representación se parecen mucho: en los dos casos la persona se dio cuenta de que el daño PODÍA pasar. La diferencia es qué pensó después. Dolo eventual: «puede pasar, y si pasa, no me importa». Culpa con representación: «puede pasar, pero confío en que no va a pasar»."
+    },
+    "dp_culpa": {
+      "unidad": "derecho_penal",
+      "categoria": "Parte general",
+      "titulo": "La culpa: cuando el daño pasa por un descuido",
+      "intro": [
+        "Recordá: conducta es lo que la persona hizo y resultado es el daño que pasó por eso.",
+        "Hay CULPA cuando la persona NO quería causar el daño, pero el daño pasó porque no tuvo el cuidado que tenía que tener. No se la castiga por querer hacer daño (no lo quería), sino por haber sido descuidada.",
+        "«Tener el cuidado debido» significa actuar con la prudencia que tendría una persona razonable en esa misma situación: respetar el semáforo, revisar antes de operar, hacer una copia de seguridad antes de tocar un sistema.",
+        "Importante: un hecho por descuido solo es delito si la ley lo dice expresamente. Por ejemplo, existe el homicidio culposo (matar por descuido) y las lesiones culposas (herir por descuido). Las penas son mucho menores que cuando hay dolo."
+      ],
+      "notas": [
+        "Culpa con representación (o «culpa consciente»): la persona SE DIO CUENTA de que el daño podía pasar, pero confió, sin buenos motivos, en que no iba a pasar o en que ella iba a poder evitarlo. Ejemplo: Diego, chofer con mucha experiencia, adelanta a un camión en una curva sin visibilidad pensando «es arriesgado, pero manejo bien, seguro paso». Choca y mata a otro conductor. Diego vio el riesgo, pero confió en que no iba a pasar.",
+        "Culpa sin representación (o «culpa inconsciente»): a la persona NI SIQUIERA SE LE OCURRIÓ que el daño podía pasar, aunque cualquiera que prestara un poco de atención lo habría pensado. Ejemplo: Elena deja un frasco de pastillas abierto en la mesa baja donde juega su hijo de 3 años. Nunca pensó que el nene podía tomarlas, pero era algo que debía prever.",
+        "Además, la ley nombra cuatro formas de ser descuidado. Sirven para describir QUÉ tipo de descuido hubo:",
+        "Imprudencia (hacer de más): hacer algo arriesgado que no había que hacer. Ejemplo: manejar a 140 km/h por una calle de barrio.",
+        "Negligencia (hacer de menos): NO hacer algo que había que hacer. Ejemplo: el médico de guardia que debía controlar al paciente operado cada dos horas y no lo hizo en toda la noche.",
+        "Impericia (no saber): hacer una tarea sin tener los conocimientos o la habilidad que esa tarea exige. Ejemplo: alguien que nunca estudió electricidad hace la instalación eléctrica de un local y provoca un incendio.",
+        "Inobservancia de los reglamentos o deberes (no cumplir la regla escrita): no respetar una norma, reglamento o protocolo que había que cumplir. Ejemplo: el reglamento del hospital exige hacer una copia de seguridad antes de cambiar el sistema; el técnico no la hace y se pierden historias clínicas."
+      ],
+      "pasos": [
+        "Primero confirmá que la persona NO quería el daño ni le daba lo mismo (si no, es dolo).",
+        "¿Se dio cuenta de que podía pasar y confió en que no? → culpa con representación.",
+        "¿Ni se le ocurrió, pero debió pensarlo? → culpa sin representación.",
+        "Para la forma del descuido: ¿hizo algo de más? → imprudencia. ¿Dejó de hacer algo? → negligencia. ¿No sabía hacerlo? → impericia. ¿No cumplió una regla escrita? → inobservancia."
+      ],
+      "ejemplos": [
+        "Mismo hecho, distinta cabeza: un administrador de sistemas ejecuta en producción un programa sin probarlo. Su compañera le avisa que puede borrar la base de clientes. Si responde «es un cambio chico, no va a fallar» y se borra todo → culpa con representación. Si responde «si la borra, que la borre, yo me voy igual» → ya no es culpa: es dolo eventual."
+      ],
+      "ojo": "Las cuatro formas en una frase: imprudencia = hice de más; negligencia = hice de menos; impericia = no sabía hacerlo; inobservancia = no cumplí la regla escrita."
+    },
+    "dp_etapas_concurso": {
+      "unidad": "derecho_penal",
+      "categoria": "Parte general",
+      "titulo": "Tentativa, concurso, reincidencia y agravantes",
+      "intro": [
+        "Estas palabras responden preguntas muy prácticas: ¿qué pasa si alguien empieza un delito pero no lo termina? ¿Y si comete varios delitos? ¿Y si ya había sido condenado antes? ¿Qué cosas hacen que la pena sea más alta o más baja?"
+      ],
+      "notas": [
+        "Delito consumado: el delito se completó. Pasó todo lo que describe la ley. Ejemplo: en un homicidio, la víctima murió.",
+        "Tentativa (art. 42 del Código Penal): la persona EMPEZÓ a cometer el delito con intención de hacerlo, pero no lo terminó por algo que no dependía de ella. Ejemplo: Raúl dispara para matar a su vecino, pero la ambulancia llega a tiempo y el vecino sobrevive. Raúl quería matar y empezó a hacerlo; no lo logró por algo ajeno a él (la ambulancia). La tentativa se castiga, pero con una pena menor que el delito completo.",
+        "Concurso: se usa esta palabra cuando en un mismo caso hay más de un delito. Hay dos clases.",
+        "Concurso real (art. 55): la persona hizo VARIOS hechos separados, y cada uno es un delito distinto. Ejemplo: en enero Sofía se lleva un celular ajeno de una mesa y en marzo estafa a un vecino. Son dos hechos, dos delitos.",
+        "Concurso ideal (art. 54): la persona hizo UN SOLO hecho, pero ese único hecho encaja en dos delitos a la vez. Ejemplo: Tomás le da una sola trompada a alguien: le rompe los anteojos (eso es el delito de daño, porque rompió una cosa) y le corta la ceja (eso es el delito de lesiones, porque lastimó a una persona). Un solo golpe, dos delitos.",
+        "Reincidencia (art. 50): una persona que ya fue condenada a prisión y cumplió esa pena (toda o una parte) vuelve a cometer un delito. Tiene consecuencias más duras, por ejemplo para salir antes de la cárcel.",
+        "Agravante: una circunstancia que la ley considera que hace al delito MÁS grave, y por eso sube la pena. Ejemplo: matar a un familiar directo, o matar con crueldad, tiene más pena que un homicidio común.",
+        "Atenuante: una circunstancia que hace al delito MENOS grave, y por eso baja la pena. Ejemplo: la emoción violenta en el homicidio (ver la entrada de delitos contra las personas)."
+      ],
+      "pasos": [
+        "¿El delito se completó? Si no, ¿empezó a cometerlo y algo ajeno lo frenó? → tentativa.",
+        "¿Hay varios delitos? Contá cuántos HECHOS hay: varios hechos → concurso real; un solo hecho con varios delitos → concurso ideal.",
+        "¿Ya había sido condenado y cumplió pena antes de este nuevo delito? → reincidencia."
+      ],
+      "ejemplos": [
+        "Tentativa en informática: un atacante prueba miles de contraseñas robadas para entrar al sistema de un banco, pero el sistema de seguridad lo bloquea antes de que logre entrar. Empezó a cometer el delito y algo ajeno lo frenó."
+      ],
+      "ojo": "Concurso real = varios hechos. Concurso ideal = un solo hecho con varios delitos. Reincidencia no es concurso: requiere una condena anterior ya cumplida."
+    },
+    "dp_personas": {
+      "unidad": "derecho_penal",
+      "categoria": "Parte especial",
+      "titulo": "Delitos contra las personas: homicidio y lesiones",
+      "intro": [
+        "Estos delitos protegen la vida y el cuerpo de las personas. Homicidio significa matar a otra persona. Lesión significa lastimar o dañar el cuerpo o la salud de alguien.",
+        "La pena cambia mucho según lo que la persona tenía en la cabeza (si lo hizo a propósito o por descuido) y según las circunstancias del caso."
+      ],
+      "notas": [
+        "Homicidio simple (art. 79): matar a otra persona a propósito (con dolo), sin circunstancias especiales. Pena: de 8 a 25 años de prisión. El juez elige un número dentro de ese rango según el caso.",
+        "Homicidio agravado (art. 80): matar a propósito en circunstancias que la ley considera especialmente graves. Por ejemplo: matar al cónyuge o a un hijo, con crueldad («ensañamiento»), a traición o sobre seguro («alevosía»), por dinero («por precio»), por odio a un grupo, o para ocultar otro delito. Pena: prisión perpetua.",
+        "Homicidio por emoción violenta (art. 81): matar estando en un estado de alteración emocional muy intensa, provocado por algo que la ley considera comprensible («excusable»). No alcanza con estar enojado. La pena es más baja, pero la persona sí es responsable: sabía lo que hacía. No es lo mismo que ser inimputable.",
+        "Homicidio culposo (art. 84): causar la muerte de alguien SIN quererlo, por un descuido (imprudencia, negligencia, impericia o no cumplir un reglamento). El caso típico es el accidente de tránsito por manejar mal.",
+        "Lesiones: se clasifican según qué tan grave fue el daño en el cuerpo: leves (art. 89), graves (art. 90) y gravísimas (art. 91).",
+        "Debilitación permanente (es una lesión grave): una parte del cuerpo queda funcionando, pero peor que antes, para siempre. Ejemplo: la mano queda con menos fuerza, pero se puede usar. «Funciona, pero menos».",
+        "Inutilidad permanente (es una lesión gravísima): una parte del cuerpo deja de servir para lo que servía. Ejemplo: la mano ya no se puede usar. «Ya no sirve».",
+        "Abandono de persona (art. 106): dejar sola, en peligro, a una persona que no puede cuidarse por sí misma (un bebé, un anciano, un enfermo). La pena sube si la persona sufre un daño o si quien la abandonó tenía la obligación de cuidarla."
+      ],
+      "ejemplos": [
+        "Raúl mata a su vecino a propósito: homicidio simple. Si el vecino fuera su padre: homicidio agravado por el vínculo.",
+        "Un conductor que maneja borracho atropella y mata a un peatón sin quererlo: homicidio culposo."
+      ],
+      "ojo": "Lesión es un daño a una PERSONA (su cuerpo o salud). Daño (el delito) es contra una COSA. Romper un celular ajeno es daño, no lesión."
+    },
+    "dp_propiedad": {
+      "unidad": "derecho_penal",
+      "categoria": "Parte especial",
+      "titulo": "Delitos contra la propiedad",
+      "intro": [
+        "Estos delitos protegen las cosas y el dinero de las personas (la ley lo llama «propiedad» o «patrimonio»).",
+        "Para saber cuál es cada uno, la pregunta clave es: ¿CÓMO consiguió el autor la cosa o el dinero? ¿Se la llevó sin que nadie lo notara? ¿Rompió algo o lastimó a alguien para llevársela? ¿Engañó a la víctima? ¿La amenazó? ¿Se aprovechó de que estaba desesperada?"
+      ],
+      "notas": [
+        "Cosa mueble: cualquier cosa que se puede trasladar de un lugar a otro: un celular, dinero, un auto, una notebook. No tiene nada que ver con los muebles de la casa. Lo contrario son los inmuebles: una casa, un departamento, un terreno.",
+        "Hurto (art. 162): llevarse una cosa mueble ajena SIN romper nada y SIN lastimar ni amenazar a nadie. Ejemplo: alguien ve un celular olvidado en la mesa de un bar y se lo guarda.",
+        "Hurto agravado (art. 163): un hurto que la ley castiga más por alguna circunstancia especial. Por ejemplo: llevarse un auto estacionado en la calle, aprovechar una inundación o un incendio para llevarse cosas, o llevarse cables de un servicio público.",
+        "Robo (art. 164): llevarse una cosa mueble ajena usando fuerza sobre las cosas (romper una ventanilla, forzar una cerradura) o violencia sobre las personas (empujar, golpear, amenazar con un arma). La diferencia con el hurto es justamente la fuerza o la violencia.",
+        "Usurpación (art. 181): quitarle a alguien un INMUEBLE, por ejemplo metiéndose a vivir en su casa y cambiando la cerradura. Como una casa no se puede llevar, no es hurto ni robo.",
+        "Extorsión (art. 168): obligar a alguien a dar dinero o bienes metiéndole miedo con un daño. El mensaje típico es: «si no me pagás, te hago daño» (te quemo el local, lastimo a tu familia).",
+        "Chantaje (art. 169): obligar a alguien a dar dinero o bienes amenazándolo con contar algo que lo perjudica o con revelar un secreto. El mensaje típico es: «si no me pagás, cuento lo que sé de vos».",
+        "Estafa (art. 172): engañar a alguien para que, creyendo algo falso, entregue él mismo su dinero o sus cosas. Los pasos son: 1) el autor miente o engaña; 2) la víctima se cree el engaño; 3) la víctima entrega el dinero «por su propia voluntad»; 4) la víctima pierde ese dinero. Ejemplo: vender por internet una moto que no existe y cobrar una seña.",
+        "Defraudación: es la categoría general de los perjuicios económicos causados con trampas o fraudes. La estafa es la defraudación más conocida, pero hay otras, como el fraude informático (manipular un sistema informático para quedarse con dinero ajeno).",
+        "Usura (art. 175 bis): aprovecharse de que alguien está desesperado, o no entiende bien, para cobrarle intereses o condiciones abusivas. Ejemplo: prestarle plata a una familia que necesita una operación urgente con un interés del 80% mensual. No hace falta mentir: el delito es aprovecharse de la necesidad.",
+        "Daño (art. 183): romper, destruir o inutilizar una cosa ajena. Ejemplo: rayar un auto con una llave. Desde 2008 incluye también borrar o arruinar datos, programas o sistemas informáticos."
+      ],
+      "pasos": [
+        "¿Lo que se perdió es un inmueble (casa, terreno)? → usurpación.",
+        "¿El autor se llevó la cosa? Si lo hizo sin fuerza ni violencia → hurto. Si rompió algo o lastimó o amenazó a alguien para llevársela → robo.",
+        "¿La víctima entregó ella misma el dinero? Preguntate por qué: si fue engañada → estafa. Si tenía miedo de un daño → extorsión. Si tenía miedo de que contaran algo → chantaje. Si estaba desesperada y el otro se aprovechó → usura.",
+        "¿No se llevó nada, pero rompió algo ajeno? → daño."
+      ],
+      "ejemplos": [
+        "Romper la ventanilla de un auto para llevarse una mochila: robo (hubo fuerza sobre una cosa: la ventanilla).",
+        "Arrancarle la cartera a una mujer empujándola: robo (hubo violencia sobre una persona).",
+        "«Si no transferís, publico tus fotos íntimas»: chantaje."
+      ],
+      "ojo": "En la estafa la víctima entrega porque la engañaron; en la extorsión entrega porque tiene miedo; en la usura no hay engaño ni amenaza, hay abuso de una necesidad."
+    },
+    "dp_honor_justicia": {
+      "unidad": "derecho_penal",
+      "categoria": "Parte especial",
+      "titulo": "Honor, justicia y orden público",
+      "intro": [
+        "Estos delitos protegen la buena reputación de las personas (el «honor»), el correcto funcionamiento de los juicios (la «administración de justicia») y la tranquilidad de la sociedad (el «orden público»)."
+      ],
+      "notas": [
+        "Calumnia (art. 109): acusar FALSAMENTE a una persona concreta de haber cometido un DELITO concreto. Ejemplo: publicar «Pérez, el tesorero del club, se robó la plata de las cuotas», cuando es mentira. Se le atribuye un delito (robar) que no cometió.",
+        "Injuria (art. 110): ofender o desprestigiar a una persona SIN acusarla de un delito. Ejemplo: «La maestra Gómez es una inútil y una mentirosa». No se le atribuye ningún delito, pero se ataca su reputación.",
+        "Falso testimonio (art. 275): mentir cuando uno declara ante un juez u otra autoridad y tiene la obligación de decir la verdad. Lo pueden cometer los testigos (personas que cuentan lo que vieron), los peritos (expertos) y los intérpretes (traductores). Incluye afirmar algo falso, negar algo verdadero o callar lo que uno sabe.",
+        "Apología del crimen (art. 213): elogiar o defender en PÚBLICO un delito, o a una persona condenada por un delito, de una forma que incentiva a otros. Ejemplo: decir en un acto transmitido en vivo «estuvo perfecto lo que hizo el que incendió la comisaría, ojalá lo imiten». Opinar o analizar un delito no es apología.",
+        "Perito: una persona experta en algún tema (medicina, informática, contabilidad) a la que se llama en un juicio para que explique cuestiones técnicas que el juez no conoce. Ejemplo: una ingeniera que analiza los registros de un servidor para explicar cómo ocurrió un ataque informático."
+      ],
+      "pasos": [
+        "Alguien dijo algo contra otra persona: ¿la acusó de haber cometido un delito, y es falso? → calumnia. ¿La ofendió sin acusarla de un delito? → injuria.",
+        "Alguien mintió declarando ante un juez o autoridad → falso testimonio.",
+        "Alguien elogió públicamente un delito → posible apología del crimen."
+      ],
+      "ejemplos": [
+        "Un tuit falso que dice «Gómez le robó a sus alumnos»: calumnia, porque le atribuye un delito.",
+        "Un comentario que dice «Gómez es una vergüenza de profesor»: injuria, porque solo lo ofende."
+      ],
+      "ojo": "Calumnia = te acuso de un DELITO que no cometiste. Injuria = te ofendo, sin acusarte de un delito."
+    },
+    "dp_bienes_codigo": {
+      "unidad": "derecho_penal",
+      "categoria": "Herramientas",
+      "titulo": "Bien jurídico y cómo buscar en el Código Penal",
+      "intro": [
+        "El «bien jurídico» es lo valioso que la ley quiere proteger con cada delito: la vida, la salud, las cosas de cada uno, la reputación, etc.",
+        "El Código Penal agrupa los delitos según el bien jurídico que protegen. Por eso, si sabés QUÉ se dañó, sabés en qué parte del Código buscar."
+      ],
+      "notas": [
+        "Cómo está ordenado el Código: en Libros, que se dividen en Títulos, que se dividen en Capítulos, que se dividen en Artículos. Los Títulos llevan números romanos (I, II, III...) y cada uno reúne los delitos que protegen un mismo bien jurídico.",
+        "Vida: homicidio (matar a otro).",
+        "Integridad física (el cuerpo y la salud): lesiones.",
+        "Honor (la reputación): calumnias e injurias.",
+        "Integridad sexual: abuso sexual, grooming.",
+        "Libertad: amenazas, secuestros, y también violar la correspondencia o la privacidad de otro.",
+        "Propiedad (las cosas y el dinero): hurto, robo, estafa, extorsión, usurpación, daño.",
+        "Seguridad pública: incendios, explosiones.",
+        "Fe pública (la confianza que todos depositamos en documentos, firmas, sellos y billetes): falsificar un documento, un certificado o dinero. Importa en informática porque un documento digital o una firma digital también tienen que ser confiables.",
+        "Administración pública (el buen funcionamiento del Estado): por ejemplo, el cohecho (pagar una coima a un funcionario).",
+        "Administración de justicia (el buen funcionamiento de los juicios): por ejemplo, el falso testimonio.",
+        "InfoLEG: el sitio web oficial del Estado argentino donde se pueden leer las leyes nacionales actualizadas, incluido el Código Penal con todas sus modificaciones."
+      ],
+      "ejemplos": [
+        "Falsificar un certificado médico para justificar faltas: afecta la fe pública (la confianza en los certificados).",
+        "Mentir como testigo en un juicio: afecta la administración de justicia."
+      ],
+      "ojo": "El bien jurídico no es un delito: es lo valioso que el delito ataca."
+    },
+    "dp_acciones_vocabulario": {
+      "unidad": "derecho_penal",
+      "categoria": "Proceso",
+      "titulo": "Quién pone en marcha un caso penal",
+      "intro": [
+        "Cuando se comete un delito, alguien tiene que iniciar el proceso judicial y empujarlo hasta el final. A eso se le llama «acción penal».",
+        "No todos los delitos funcionan igual: en algunos el Estado actúa solo, en otros necesita que la víctima lo pida, y en otros todo depende de la víctima. Esto no cambia la pena: solo cambia quién mueve el caso."
+      ],
+      "notas": [
+        "Acción pública: el Estado (a través del fiscal) inicia el caso y lo lleva adelante por su cuenta, aunque la víctima no quiera. Es la regla general: homicidio, robo, estafa y la mayoría de los delitos.",
+        "Acción pública dependiente de instancia privada (art. 72): el caso solo arranca si la víctima hace la denuncia. Pero una vez que denunció, el Estado sigue adelante por su cuenta. Ejemplo: las lesiones leves.",
+        "Acción privada (art. 73): la víctima tiene que iniciar el caso y llevarlo adelante ella misma, con su abogado, como «querellante». Si la víctima abandona, el caso termina. Ejemplo: calumnias e injurias.",
+        "Delito y crimen: en el Código Penal argentino la palabra técnica es «delito». «Crimen» se usa en el lenguaje común para hechos graves. No existe una regla que diga que «más de 3 años de pena es un crimen».",
+        "Delincuente y criminal: no son categorías legales distintas. En un proceso se habla de «imputado» (persona acusada) y «condenado» (persona declarada culpable). Nadie es culpable hasta que un juez lo declara en una sentencia definitiva.",
+        "Excarcelación: que la persona acusada pueda esperar el juicio en libertad, en lugar de estar presa. Depende de las reglas del proceso de cada jurisdicción y del riesgo de que se escape o entorpezca la investigación, no de un número fijo de años."
+      ],
+      "pasos": [
+        "Estado inicia y Estado sigue → acción pública.",
+        "Víctima inicia (denuncia) y Estado sigue → instancia privada.",
+        "Víctima inicia y víctima sigue → acción privada."
+      ],
+      "ejemplos": [
+        "Si alguien te calumnia en Twitter, tenés que iniciar vos el juicio (acción privada).",
+        "Si roban un comercio, el fiscal investiga aunque el dueño no quiera (acción pública)."
+      ],
+      "ojo": "Que un delito sea de acción privada no lo hace «menos delito»: solo cambia quién lo impulsa."
+    },
+    "di_glosario": {
+      "unidad": "delitos_informaticos",
+      "categoria": "Empezá por acá",
+      "titulo": "Palabras básicas de Delitos Informáticos",
+      "intro": [
+        "Esta unidad mezcla palabras del Derecho y de la informática. Si encontrás una que no entendés, volvé acá. Para las palabras del Derecho Penal (delito, pena, dolo...) mirá también «Palabras básicas» en la unidad de Derecho Penal."
+      ],
+      "notas": [
+        "Sistema informático: cualquier conjunto de equipos y programas que procesa información: una computadora, un servidor, el sistema de un banco, una app.",
+        "Dato informático: información guardada en formato digital: un archivo, un registro en una base de datos, una foto, un correo.",
+        "Servidor: una computadora que guarda información o presta servicios a otras computadoras por una red (por ejemplo, la que aloja una página web o la base de clientes de una empresa).",
+        "Credenciales: los datos que permiten entrar a una cuenta o sistema: usuario, contraseña, códigos de verificación.",
+        "Acceso: entrar a un sistema o a una cuenta. Es «sin autorización» cuando nadie te dio permiso para entrar.",
+        "Cifrar: transformar la información para que no se pueda leer sin una clave. Se usa para proteger datos, pero también lo usan los atacantes para bloquear archivos ajenos.",
+        "Logs (registros): archivos donde un sistema anota lo que pasa: quién entró, cuándo, desde dónde, qué hizo. Son una prueba muy importante en una investigación.",
+        "Incidente de seguridad: un hecho que pone en riesgo la información o los sistemas: un hackeo, una filtración, un virus.",
+        "Vulnerabilidad: una falla o debilidad en un sistema que un atacante puede aprovechar para entrar o causar daño.",
+        "Ley 26.388: la ley de 2008 que actualizó el Código Penal para incluir delitos contra datos y sistemas informáticos."
+      ],
+      "ejemplos": [
+        "Un atacante roba las credenciales de un empleado, entra al servidor de la empresa y cifra los archivos. Los logs muestran desde dónde y a qué hora entró."
+      ],
+      "ojo": "Que un sistema tenga una vulnerabilidad no hace legal entrar sin permiso."
+    },
+    "di_puros_impuros": {
+      "unidad": "delitos_informaticos",
+      "categoria": "Clasificación",
+      "titulo": "Delitos informáticos puros e impuros",
+      "intro": [
+        "La tecnología puede aparecer en un delito de dos maneras distintas.",
+        "A veces la tecnología es solo la HERRAMIENTA para cometer un delito de toda la vida: por ejemplo, amenazar a alguien por WhatsApp en lugar de en persona. Otras veces lo que se ataca ES la tecnología misma: por ejemplo, borrar los archivos de una empresa o meterse en una cuenta ajena.",
+        "La pregunta clave es: ¿qué fue lo que se dañó? ¿Una persona o su dinero (y la tecnología fue el medio)? ¿O los datos, sistemas o cuentas en sí?"
+      ],
+      "notas": [
+        "Delito informático impuro: un delito común (amenaza, estafa, calumnia, extorsión, discriminación) que se comete usando tecnología. La tecnología es solo el MEDIO. Si sacás la tecnología de la historia, el delito igual existiría (se podría amenazar por carta o estafar en persona).",
+        "Delito informático puro: lo atacado son los propios sistemas, datos, programas, redes o comunicaciones electrónicas. La tecnología es el OBJETO del ataque. Ejemplos: entrar sin permiso a una cuenta o a un sistema, borrar o arruinar datos ajenos, leer correos ajenos, bloquear un sistema.",
+        "Por qué se hizo esta distinción: antes de 2008, muchas conductas puras no encajaban bien en los delitos tradicionales. Por ejemplo, el delito de daño hablaba de romper «cosas», y no quedaba claro si borrar un archivo era romper una cosa. Por eso se dictó la Ley 26.388.",
+        "Qué protegen los delitos puros: que la información sea confidencial (que solo la vea quien debe), íntegra (que nadie la altere) y disponible (que se pueda usar cuando se necesita). Ver la entrada de la tríada CID."
+      ],
+      "pasos": [
+        "Identificá qué se dañó.",
+        "Si se dañó a una persona, su reputación o su dinero, y la tecnología fue solo el canal → impuro.",
+        "Si se dañaron o invadieron datos, sistemas, cuentas o comunicaciones electrónicas → puro."
+      ],
+      "ejemplos": [
+        "Amenazar a alguien por WhatsApp: impuro (la amenaza es el delito; WhatsApp es el medio).",
+        "Instalar un programa que bloquea los servidores de una clínica: puro (lo atacado son el sistema y los datos).",
+        "Vender por Marketplace un producto que no existe: impuro (es una estafa de siempre, por internet)."
+      ],
+      "ojo": "Tecnología como MEDIO = impuro. Tecnología como OBJETO atacado = puro."
+    },
+    "di_ley_26388": {
+      "unidad": "delitos_informaticos",
+      "categoria": "Ley 26.388",
+      "titulo": "Ley 26.388: el Código Penal se actualiza a lo digital",
+      "intro": [
+        "La Ley 26.388 (del año 2008) no es un código aparte. Lo que hizo fue modificar artículos del Código Penal para que los delitos de siempre también cubran los datos, los sistemas y las comunicaciones electrónicas.",
+        "Abajo están las figuras principales. Los números de artículo sirven para buscarlas en el Código Penal (por ejemplo, en InfoLEG)."
+      ],
+      "notas": [
+        "Documento y firma digital (art. 77): antes, «documento» se entendía como un papel. Desde esta ley, un archivo digital también es un documento, y una firma digital también es una firma. Por eso falsificar un contrato en PDF puede ser delito igual que falsificarlo en papel.",
+        "Violación de correspondencia (art. 153): abrir, leer, quedarse con, desviar o interceptar una comunicación que no está dirigida a uno. La ley aclaró que incluye las comunicaciones electrónicas, como el correo electrónico o los mensajes.",
+        "Acceso ilegítimo (art. 153 bis): entrar a sabiendas y sin permiso a un sistema o a datos que tienen acceso restringido (con contraseña o con permisos). También cuenta entrar a partes del sistema donde no te autorizaron. No hace falta romper ni robar nada: el delito es entrar donde no te dieron permiso.",
+        "Publicación indebida (art. 155): publicar una comunicación electrónica (un mail, un chat) que no estaba pensada para ser pública, si eso puede perjudicar a alguien.",
+        "Acceso a bancos de datos personales (art. 157 bis): entrar sin permiso a una base de datos con información de personas, o revelar información de esa base que debía mantenerse en secreto.",
+        "Fraude informático (art. 173 inc. 16): quedarse con dinero o bienes ajenos manipulando un sistema informático (por ejemplo, alterando un programa para que transfiera plata a tu cuenta).",
+        "Daño informático (art. 183): alterar, destruir o inutilizar datos, documentos, programas o sistemas informáticos ajenos. También distribuir programas hechos para causar daños (por ejemplo, virus).",
+        "Interrupción de comunicaciones (art. 197): interrumpir o entorpecer comunicaciones, incluidas las electrónicas."
+      ],
+      "pasos": [
+        "¿Entró a un sistema o cuenta sin permiso? → acceso ilegítimo.",
+        "¿Leyó, tomó o interceptó comunicaciones ajenas (mails, chats)? → violación de correspondencia.",
+        "¿Borró, alteró o arruinó datos o sistemas? → daño informático.",
+        "¿Manipuló un sistema para quedarse con dinero? → fraude informático.",
+        "Pueden darse varios a la vez: por ejemplo, entrar sin permiso (acceso ilegítimo) y después borrar todo (daño informático)."
+      ],
+      "ejemplos": [
+        "Un ex empleado usa su contraseña vieja, que nadie dio de baja, para entrar al sistema de la empresa y solo mirar: acceso ilegítimo.",
+        "Ese mismo ex empleado, una vez adentro, borra la base de clientes: además, daño informático.",
+        "Alguien entra a la cuenta de mail de su pareja y lee sus mensajes: violación de correspondencia electrónica (y acceso ilegítimo)."
+      ],
+      "ojo": "Que la empresa se haya olvidado de dar de baja tu usuario no te da permiso para entrar."
+    },
+    "di_otras_leyes": {
+      "unidad": "delitos_informaticos",
+      "categoria": "Normativa",
+      "titulo": "Grooming, material de abuso infantil, Ley Olimpia y Convenio de Budapest",
+      "intro": [
+        "Además de la Ley 26.388, la unidad presenta otras normas pensadas para problemas específicos del mundo digital: la protección de chicos y chicas, la violencia digital contra las mujeres y la cooperación entre países para investigar."
+      ],
+      "notas": [
+        "Grooming (Ley 26.904, art. 131 del Código Penal): cuando un adulto contacta a una persona menor de edad por cualquier medio tecnológico (chat, red social, videojuego en línea) con el objetivo de cometer un abuso sexual contra ella. Muchas veces el adulto se hace pasar por alguien de la misma edad para ganarse su confianza.",
+        "Material de abuso sexual infantil, MASI (Ley 27.436, art. 128): castiga producir, distribuir o comercializar imágenes de abuso sexual de menores, y desde esta ley también la simple tenencia (tenerlas guardadas aunque no se compartan).",
+        "Ley Olimpia (Ley 27.736): reconoce la violencia digital como una forma de violencia contra las mujeres. Por ejemplo: difundir fotos íntimas sin consentimiento, acosar o vigilar a una mujer a través de redes o dispositivos. Lleva el nombre de Olimpia Coral Melo, activista mexicana.",
+        "Convenio de Budapest: un tratado internacional sobre ciberdelitos. Busca que los países tengan leyes parecidas y que cooperen entre sí para investigar y conservar pruebas digitales. La Argentina se sumó con la Ley 27.411 (2017).",
+        "Por qué hace falta cooperación: en un ciberdelito, el atacante, la víctima, los servidores y las pruebas pueden estar en países distintos. Sin acuerdos entre países, la investigación se traba."
+      ],
+      "ejemplos": [
+        "Un adulto se hace pasar por un chico de 13 años en el chat de un videojuego y le pide fotos a una nena de 11: grooming.",
+        "La víctima está en Rosario, el atacante en otro continente y el servidor en un tercer país: hace falta cooperación internacional (Convenio de Budapest)."
+      ],
+      "ojo": "Grooming = el contacto con el menor con fin sexual. MASI = el material. Son delitos distintos."
+    },
+    "di_prueba": {
+      "unidad": "delitos_informaticos",
+      "categoria": "Investigación",
+      "titulo": "La prueba digital",
+      "intro": [
+        "«Prueba» es todo lo que sirve para demostrar en un juicio qué pasó y quién lo hizo. En los delitos informáticos, la prueba suele ser digital: registros, correos, archivos, conexiones.",
+        "El problema es que la prueba digital es frágil: se puede borrar, cambiar o perder muy fácilmente, y a veces se borra sola con el tiempo."
+      ],
+      "notas": [
+        "Hay que actuar rápido: los logs (registros de actividad), las conexiones, las cuentas y los metadatos (datos sobre los archivos, como fecha de creación o autor) pueden desaparecer o sobrescribirse en poco tiempo.",
+        "Hay que preservarla bien: si la evidencia se toca o se modifica sin cuidado, puede perder valor en un juicio, porque no se puede asegurar que sea la original. Un perito informático (un experto) ayuda a obtenerla y explicarla.",
+        "La seguridad informática también genera responsabilidades: no proteger los sistemas, exponer datos, manejar mal las contraseñas o responder mal a un incidente puede tener consecuencias legales para quien estaba a cargo."
+      ],
+      "ejemplos": [
+        "Una empresa sufre un ataque y el encargado formatea todas las computadoras «para que quede limpio» antes de denunciar. Así se pierden los registros que mostraban cómo entró el atacante."
+      ],
+      "ojo": "Ante un incidente, lo primero es preservar la evidencia, no borrar."
+    },
+    "di_ataques": {
+      "unidad": "delitos_informaticos",
+      "categoria": "Ciberseguridad",
+      "titulo": "Cómo atacan: ingeniería social, phishing, malware y ransomware",
+      "intro": [
+        "Estas son las técnicas de ataque más comunes. Muchas veces se combinan: primero engañan a una persona para robarle la contraseña, con esa contraseña entran a la red, y adentro instalan un programa que bloquea todo."
+      ],
+      "notas": [
+        "Ingeniería social: engañar o manipular a una PERSONA para que haga algo que no debería: dar una contraseña, abrir un archivo, transferir dinero. No ataca a la computadora: ataca la confianza, el miedo o la urgencia de la gente. Puede ser por mail, por teléfono, por mensaje o cara a cara.",
+        "Phishing: un tipo de ingeniería social que usa un mensaje falso (casi siempre un mail o un SMS) que imita a alguien confiable, como tu banco, para llevarte a una página trucha donde dejás tus datos. Viene de «fishing» (pescar): el atacante tira el anzuelo y espera.",
+        "Malware: cualquier programa malicioso, hecho para dañar, espiar, robar o tomar control de un equipo. Ejemplos: virus, troyanos, keyloggers (programas que registran todo lo que escribís).",
+        "Ransomware: un tipo de malware que cifra (bloquea) los archivos o sistemas de la víctima y le pide un rescate (normalmente en criptomonedas) para devolverle el acceso. «Ransom» significa rescate en inglés.",
+        "Doble extorsión: el atacante, además de bloquear los archivos, se lleva una copia y amenaza con publicarla si no le pagan. Así, aunque la víctima recupere sus archivos desde un respaldo, sigue en riesgo.",
+        "Hacker: una persona con conocimientos técnicos para encontrar formas no evidentes de usar o entrar a sistemas. No todos son delincuentes. White hat (sombrero blanco): trabaja con permiso, para proteger. Black hat (sombrero negro): actúa para dañar o lucrar. Gray hat (sombrero gris): entra sin permiso, aunque sin querer dañar (por ejemplo, para avisar de una falla)."
+      ],
+      "ejemplos": [
+        "Te llaman haciéndose pasar por soporte técnico y te piden el código que te llegó por SMS: ingeniería social.",
+        "Te llega un mail «del banco» con un link a una página igual a la real para «validar tu cuenta»: phishing."
+      ],
+      "ojo": "Todo phishing es ingeniería social, pero no toda ingeniería social es phishing (por ejemplo, una llamada telefónica engañosa)."
+    },
+    "di_cid_capas": {
+      "unidad": "delitos_informaticos",
+      "categoria": "Ciberseguridad",
+      "titulo": "La tríada CID, las capas de defensa y los tipos de seguridad",
+      "intro": [
+        "Cuando se habla de proteger información, se busca cuidar tres cosas, que juntas se llaman «tríada CID»: Confidencialidad, Integridad y Disponibilidad. En cualquier incidente, la pregunta es: ¿cuál de las tres se rompió?",
+        "Para protegerlas se usan varias barreras a la vez, lo que se llama «defensa en profundidad»."
+      ],
+      "notas": [
+        "Confidencialidad: que la información la VEA solo quien tiene permiso. Se rompe cuando alguien no autorizado la lee o cuando se filtra. Ejemplo: se publican en internet los diagnósticos de los pacientes de un hospital.",
+        "Integridad: que la información no se CAMBIE sin permiso. Se rompe cuando alguien la altera. Ejemplo: un alumno entra al sistema y cambia su nota de 2 a 8.",
+        "Disponibilidad: que la información y los sistemas se puedan USAR cuando hacen falta. Se rompe cuando el sistema deja de funcionar o los archivos quedan bloqueados. Ejemplo: una tienda online queda caída todo el día por un ataque.",
+        "Defensa en profundidad: poner varias capas de protección, una detrás de la otra, para que si una falla las demás sigan protegiendo. Como un castillo con foso, muralla y guardias. No hay una cantidad oficial de capas; en clase se vio un modelo de siete:",
+        "Las siete capas: 1) física: quién puede entrar al edificio o a la sala de servidores; 2) red: firewalls (filtros de tráfico) y separación de redes; 3) endpoints: las computadoras y celulares de los usuarios; 4) aplicaciones: los programas; 5) datos: cifrado y copias de seguridad; 6) identidad y accesos: contraseñas, doble factor, permisos; 7) personas y procesos: capacitación y reglas internas.",
+        "Seguridad de la información: protege la información en CUALQUIER formato, también papel o conversaciones. Ejemplo: guardar expedientes bajo llave.",
+        "Seguridad informática: protege computadoras, programas y datos digitales, aunque no estén conectados a internet. Ejemplo: cifrar el disco de una notebook que nunca se conecta.",
+        "Ciberseguridad: protege sistemas y redes conectados frente a ataques que llegan por la red. Ejemplo: frenar un ataque que viene de internet."
+      ],
+      "pasos": [
+        "¿Alguien vio o se llevó información que no debía? → se afectó la confidencialidad.",
+        "¿Alguien modificó información sin permiso? → se afectó la integridad.",
+        "¿El sistema o los datos dejaron de poder usarse? → se afectó la disponibilidad."
+      ],
+      "ejemplos": [
+        "Un ransomware bloquea los archivos: se afecta la disponibilidad. Si además se los llevan y amenazan con publicarlos: también la confidencialidad."
+      ],
+      "ojo": "C = quién puede VERLO. I = quién puede CAMBIARLO. D = si puedo USARLO cuando lo necesito."
+    },
+    "di_roles_pentest": {
+      "unidad": "delitos_informaticos",
+      "categoria": "Ciberseguridad",
+      "titulo": "Equipos, roles y pruebas de seguridad",
+      "intro": [
+        "En una organización, la seguridad la hacen varios equipos: algunos atacan a propósito y con permiso para encontrar fallas, otros defienden, y alguien dirige la estrategia.",
+        "Un pentest (prueba de penetración) es un ataque simulado, autorizado y con límites acordados, que se hace para encontrar debilidades antes de que las encuentre un delincuente."
+      ],
+      "notas": [
+        "Red Team (equipo rojo): hace de atacante. Intenta entrar a los sistemas como lo haría un delincuente, pero con autorización, para probar las defensas.",
+        "Blue Team (equipo azul): defiende. Vigila los sistemas, detecta ataques y responde.",
+        "Purple Team (equipo violeta): coordina a los dos anteriores para que lo que descubre el rojo sirva para mejorar las defensas del azul.",
+        "CISO: el director o directora de seguridad de la información de una organización. Decide la estrategia, las reglas internas, los riesgos a atender y controla que se cumpla. vCISO: la misma función, pero contratada como servicio externo o a tiempo parcial (la «v» viene de «virtual»).",
+        "Informe de pentest: el documento que se entrega al terminar la prueba. Incluye qué se probó y cómo, qué fallas se encontraron, pruebas de cada falla, qué tan graves son, qué daño podrían causar, cómo reproducirlas y cómo corregirlas.",
+        "Retest: después de que la organización corrige las fallas, se vuelve a probar para confirmar que las correcciones funcionan. El orden es: pentest → informe → correcciones → retest.",
+        "Vulnerabilidad: una falla concreta que un atacante puede aprovechar. Ejemplo: un formulario web que permite meter comandos en la base de datos.",
+        "Gap (brecha): la diferencia entre cómo está la organización hoy y cómo debería estar según sus propias reglas o un estándar. Ejemplo: la política dice que todos deben usar doble factor de autenticación, pero solo lo usa el 30% del personal."
+      ],
+      "ejemplos": [
+        "Una pyme contrata a una especialista externa que dos días por semana define las reglas de seguridad y reporta a los dueños: es una vCISO.",
+        "Sin autorización, un «pentest» deja de serlo y puede ser el delito de acceso ilegítimo."
+      ],
+      "ojo": "Una vulnerabilidad es una falla que se puede aprovechar. Un gap es una diferencia contra un objetivo."
+    },
+    "di_analisis_penal": {
+      "unidad": "delitos_informaticos",
+      "categoria": "Integración",
+      "titulo": "Del ataque informático al análisis legal",
+      "intro": [
+        "La ciberseguridad explica CÓMO ocurrió un ataque. El Derecho Penal decide si eso es un delito, de quién es la responsabilidad y qué consecuencias tiene. Son dos miradas sobre el mismo hecho.",
+        "Un informe técnico solo no alcanza para condenar a alguien: hay que encontrar a una persona, probar qué hizo y ver si eso encaja en algún delito."
+      ],
+      "notas": [
+        "Conducta: ¿qué hizo concretamente la persona?",
+        "Tipicidad: ¿eso coincide con algún delito del Código Penal? (acceso ilegítimo, daño informático, extorsión...)",
+        "Bien jurídico: ¿qué se dañó? (la privacidad, el patrimonio, los datos...)",
+        "Dolo o culpa: ¿lo hizo a propósito o fue un descuido?",
+        "Consumación o tentativa: ¿lo logró o quedó en el intento?",
+        "Autoría y participación: ¿quién lo hizo y quién ayudó?",
+        "Concurso: ¿hay uno o varios delitos?",
+        "Imputabilidad: ¿la persona podía entender lo que hacía?",
+        "Acción penal: ¿quién tiene que impulsar el caso?",
+        "Prueba: ¿qué evidencia hay para demostrarlo?"
+      ],
+      "ejemplos": [
+        "Un atacante manda un mail trucho (phishing), roba una contraseña, entra a la red y bloquea los servidores pidiendo rescate (ransomware). Legalmente puede haber acceso ilegítimo, daño informático y extorsión."
+      ],
+      "ojo": "Que un sistema sea inseguro no hace legal entrar sin permiso."
+    },
+    "pd_glosario": {
+      "unidad": "proteccion_datos",
+      "categoria": "Empezá por acá",
+      "titulo": "Palabras básicas de Protección de Datos",
+      "intro": [
+        "Estas palabras aparecen en toda la unidad. Si en otra entrada encontrás una que no entendés, volvé acá."
+      ],
+      "notas": [
+        "Dato personal: cualquier información sobre una persona que se pueda identificar. Ejemplo: tu nombre, tu DNI, tu dirección, tu mail, tu foto.",
+        "Titular de los datos: la persona a la que se refieren los datos. Si una empresa guarda tu nombre y tu mail, vos sos el titular.",
+        "Base de datos: cualquier conjunto ordenado de datos, en papel o digital. Ejemplo: la lista de clientes de un comercio, el sistema de pacientes de una clínica.",
+        "Responsable de la base de datos: la persona o empresa que decide qué datos guardar y para qué, y que tiene que cuidarlos.",
+        "Tratamiento de datos: cualquier cosa que se haga con los datos: pedirlos, guardarlos, ordenarlos, usarlos, compartirlos, borrarlos.",
+        "Consentimiento: la autorización que da el titular para que se usen sus datos.",
+        "Ley 25.326: la ley argentina de protección de datos personales, del año 2000.",
+        "AAIP (Agencia de Acceso a la Información Pública): el organismo del Estado que controla que se cumpla la ley de datos personales en la Argentina.",
+        "RGPD: el reglamento de protección de datos de la Unión Europea. En inglés se llama GDPR.",
+        "Habeas data: la acción judicial para defender tus datos personales (ver la unidad Derecho y Estado)."
+      ],
+      "ejemplos": [
+        "Te anotás en un gimnasio: vos sos el titular, el gimnasio es el responsable, la ficha de inscripción entra en su base de datos, y guardarla es un tratamiento de datos."
+      ],
+      "ojo": "Los datos pertenecen a su titular, no a la empresa que los guarda."
+    },
+    "pd_conceptos": {
+      "unidad": "proteccion_datos",
+      "categoria": "Conceptos",
+      "titulo": "Dato personal, dato sensible y dato estadístico",
+      "intro": [
+        "Todo lo que hacemos en internet (comprar, chatear, buscar, usar una app) deja rastros que terminan guardados en bases de datos de empresas y organismos.",
+        "La ley protege esa información cuando permite saber de QUIÉN se trata. Por eso, la pregunta clave para cualquier dato es: ¿con esto puedo saber a qué persona se refiere?"
+      ],
+      "notas": [
+        "Dato personal: información sobre una persona identificada (con nombre, DNI) o identificable (no se dice el nombre, pero cruzando datos se puede saber quién es). Ejemplos: nombre, DNI, domicilio, mail, teléfono, ubicación, una foto de la cara.",
+        "Dato sensible: un tipo especial de dato personal que revela cosas muy íntimas, que podrían usarse para discriminar a alguien. Son: origen racial o étnico, opiniones políticas, creencias religiosas, filosóficas o morales, afiliación a un sindicato, información sobre la salud y sobre la vida sexual. La ley los protege más.",
+        "Dato estadístico (o disociado): información sobre un grupo, expresada en números, que NO permite saber quién es cada persona. Ejemplo: «tres alumnos del curso faltaron por gripe», si no hay forma de saber quiénes fueron.",
+        "Privacidad: no es solo esconder cosas. Es poder CONTROLAR tu información: saber qué datos tuyos se juntan, para qué se usan, cuánto tiempo se guardan, con quién se comparten y cómo se protegen."
+      ],
+      "pasos": [
+        "¿Puedo saber a qué persona se refiere el dato? Si no → dato estadístico (no lo protege esta ley).",
+        "Si sí → es dato personal. ¿Habla de salud, religión, política, origen étnico, sindicato o vida sexual? Si sí → además es dato sensible."
+      ],
+      "ejemplos": [
+        "«Juan, Ana y Pedro faltaron por gripe»: dato personal y sensible (salud de personas identificadas).",
+        "«Tres alumnos faltaron por gripe», sin forma de saber quiénes: dato estadístico.",
+        "El mail de un cliente: dato personal, pero no sensible."
+      ],
+      "ojo": "Un dato de salud deja de ser personal solo si es imposible saber a quién pertenece."
+    },
+    "pd_ley_principios": {
+      "unidad": "proteccion_datos",
+      "categoria": "Ley 25.326",
+      "titulo": "Ley 25.326: las reglas para usar datos ajenos",
+      "intro": [
+        "La Ley 25.326 es la ley argentina de protección de datos personales. Se aplica a cualquier base de datos, pública o privada, que contenga información de personas.",
+        "La ley no prohíbe usar datos: dice bajo qué REGLAS se pueden usar. Esas reglas se llaman «principios». Si una empresa no cumple alguno, está violando la ley."
+      ],
+      "notas": [
+        "Consentimiento (art. 5): para usar los datos de una persona, hace falta que ella lo autorice, y esa autorización tiene que ser LIBRE (sin presiones), EXPRESA (que diga claramente que sí, no que se suponga) e INFORMADA (sabiendo para qué se van a usar). Hay algunas excepciones en la ley. Una casilla que ya viene tildada, o el silencio, no son un consentimiento expreso.",
+        "Finalidad: los datos solo se pueden usar para el objetivo para el que se pidieron. Si te pidieron el mail para mandarte la factura, no lo pueden usar para venderlo a otra empresa.",
+        "Calidad: los datos que se guardan tienen que ser verdaderos, estar actualizados y ser los NECESARIOS para el objetivo, sin pedir de más. Pedir la religión para venderte zapatillas es pedir de más.",
+        "Seguridad (art. 9): quien guarda la base tiene que protegerla con medidas técnicas (contraseñas, cifrado, copias de seguridad) y organizativas (reglas internas, permisos), para que nadie entre sin permiso, ni se pierdan ni se alteren los datos.",
+        "Confidencialidad: quien tiene acceso a datos por su trabajo tiene que guardar el secreto. Tener permiso para entrar al sistema no te autoriza a mirar o usar los datos para cosas personales.",
+        "Datos sensibles: nadie puede ser obligado a darlos, y como regla general no se pueden armar bases de datos que los revelen, salvo excepciones de la ley.",
+        "Artículos que conviene ubicar: art. 1 (para qué existe la ley), art. 2 (definiciones como dato personal y dato sensible), art. 5 (consentimiento), art. 9 (seguridad), art. 14 (derecho de acceso) y art. 16 (corrección y borrado)."
+      ],
+      "pasos": [
+        "¿Usaron los datos sin que la persona lo autorice claramente? → falla el consentimiento.",
+        "¿Usaron los datos para algo distinto de lo que se dijo? → falla la finalidad.",
+        "¿Pidieron datos de más, o los tienen mal o desactualizados? → falla la calidad.",
+        "¿Los guardaron sin proteger? → falla la seguridad.",
+        "¿Alguien con acceso por su trabajo los miró o usó para otra cosa? → falla la confidencialidad."
+      ],
+      "ejemplos": [
+        "Un gimnasio pide tus datos para la inscripción y después se los vende a una aseguradora: falla la finalidad.",
+        "Una empleada de una clínica mira por curiosidad la historia clínica de su vecina: falla la confidencialidad."
+      ],
+      "ojo": "Finalidad = PARA QUÉ se usa el dato. Calidad = QUÉ datos se piden y si están bien."
+    },
+    "pd_derechos_plazos": {
+      "unidad": "proteccion_datos",
+      "categoria": "Derechos",
+      "titulo": "Tus derechos sobre tus datos y los plazos para responder",
+      "intro": [
+        "La ley no solo le pone obligaciones a las empresas: también te da herramientas concretas para controlar tus datos, con plazos cortos que la empresa tiene que respetar.",
+        "Atención a dos tipos de días: «días corridos» cuenta todos los días del calendario (incluidos sábados, domingos y feriados); «días hábiles» cuenta solo los días laborables."
+      ],
+      "notas": [
+        "Derecho de acceso (art. 14): pedirle a una empresa u organismo que te diga qué datos tuyos tiene y para qué los usa. Es gratis si lo pedís cada seis meses o más.",
+        "Plazo para responder el acceso: 10 DÍAS CORRIDOS desde que la empresa recibió el pedido de forma fehaciente (es decir, de una forma que deje constancia, como una carta documento).",
+        "Rectificación (art. 16): pedir que corrijan un dato que está MAL. Ejemplo: tienen mal cargado tu DNI.",
+        "Actualización (art. 16): pedir que pongan al día un dato que era correcto pero CAMBIÓ. Ejemplo: te mudaste y siguen teniendo la dirección vieja.",
+        "Supresión (art. 16): pedir que BORREN un dato que no deberían tener o que ya no corresponde que guarden.",
+        "Plazo para rectificar, actualizar o suprimir: 5 DÍAS HÁBILES desde que recibieron el reclamo o desde que se dieron cuenta del error.",
+        "Habeas data: si la empresa no te responde o no corrige dentro del plazo, podés ir a la justicia con una acción de habeas data (art. 43 de la Constitución)."
+      ],
+      "pasos": [
+        "¿La persona quiere SABER qué datos tienen? → acceso, 10 días corridos.",
+        "¿Quiere CORREGIR, ACTUALIZAR o BORRAR un dato? → art. 16, 5 días hábiles.",
+        "¿Pasó el plazo y no respondieron? → habeas data."
+      ],
+      "ejemplos": [
+        "Querés saber qué datos tuyos guarda una app de delivery: derecho de acceso, 10 días corridos.",
+        "Una financiera tiene mal tu DNI y te rechazan un préstamo: rectificación, 5 días hábiles."
+      ],
+      "ojo": "Acceso = 10 días CORRIDOS. Corregir, actualizar o borrar = 5 días HÁBILES."
+    },
+    "pd_crediticios": {
+      "unidad": "proteccion_datos",
+      "categoria": "Datos crediticios",
+      "titulo": "Veraz, deudas y «derecho al olvido»",
+      "intro": [
+        "Hay empresas, como Veraz, que juntan información sobre si las personas pagan o no sus deudas. Los bancos las consultan antes de darte un préstamo o una tarjeta.",
+        "Como aparecer como «deudor» puede impedirte conseguir un crédito, la ley pone límites de tiempo: después de cierto plazo, la deuda ya no se puede informar."
+      ],
+      "notas": [
+        "Para qué sirve Veraz: informar los antecedentes de pago de una persona (si pagó a tiempo, si debe plata) para que un banco evalúe si es confiable prestarle.",
+        "Deuda que NUNCA se pagó: se puede informar durante 5 AÑOS. Pasados los 5 años, ya no tiene que aparecer. A esto se lo llama «derecho al olvido».",
+        "Ojo: el derecho al olvido no borra la deuda. La persona sigue debiendo la plata; lo único que cambia es que deja de figurar como antecedente.",
+        "Deuda que SÍ se pagó: el plazo se acorta a 2 AÑOS desde el día del pago, y tiene que figurar que fue pagada.",
+        "Si la información es falsa o está desactualizada: primero se le pide a la empresa que la corrija o la borre (5 días hábiles). Si no lo hace, se puede iniciar un habeas data."
+      ],
+      "pasos": [
+        "¿La deuda se pagó? Si sí: ¿pasaron más de 2 años desde el pago? → ya no debería figurar.",
+        "Si no se pagó: ¿pasaron más de 5 años? → ya no debería figurar, aunque la deuda siga existiendo."
+      ],
+      "ejemplos": [
+        "Pagaste una deuda hace 3 años y seguís apareciendo en Veraz: no deberías figurar (pasaron más de 2 años).",
+        "Tenés una deuda sin pagar de hace 6 años: no deberías figurar como deudor, pero la deuda sigue existiendo."
+      ],
+      "ojo": "5 años = deuda sin pagar. 2 años = deuda pagada. El derecho al olvido borra el antecedente, no la deuda."
+    },
+    "pd_seguridad": {
+      "unidad": "proteccion_datos",
+      "categoria": "Seguridad",
+      "titulo": "Cómo hay que proteger las bases: art. 9, Resolución AAIP 47/2018 e ISO 27001",
+      "intro": [
+        "Proteger una base de datos personales no es una opción: es una obligación legal. Pero hay varias normas sobre el tema, y conviene distinguir cuál OBLIGA y cuál RECOMIENDA cómo hacerlo."
+      ],
+      "notas": [
+        "Artículo 9 de la Ley 25.326 (la obligación): obliga a quien tiene una base de datos a tomar medidas técnicas y organizativas para protegerla, para que los datos no se alteren, se pierdan, ni los vea o use alguien sin permiso.",
+        "Resolución AAIP 47/2018 (las recomendaciones): una norma de la AAIP que propone medidas de seguridad concretas para cumplir con esa obligación cuando los datos están en sistemas informáticos. Son medidas recomendadas.",
+        "Las ocho áreas de la Resolución 47/2018: A) cómo se recolectan los datos; B) quién puede acceder; C) cómo se registran los cambios; D) copias de seguridad y recuperación; E) cómo se buscan y corrigen fallas de seguridad; F) cómo se destruye la información cuando ya no se necesita; G) qué hacer ante un incidente; H) cómo se cuidan los datos mientras se desarrolla un sistema (entornos de desarrollo).",
+        "Norma anterior: la Resolución 47/2018 reemplazó (abrogó) a la Disposición DNPDP 11/2006, que clasificaba la seguridad en niveles básico, medio y crítico.",
+        "ISO/IEC 27001: un estándar internacional (no una ley) para organizar la seguridad de TODA la información de una empresa, no solo de los datos personales. La Resolución 47/2018, en cambio, se enfoca específicamente en datos personales."
+      ],
+      "ejemplos": [
+        "El equipo de programación copia la base real de pacientes, sin ocultar los nombres, para probar un sistema nuevo con programadores externos: es un riesgo del área «entornos de desarrollo».",
+        "Una clínica tira a la basura discos viejos con historias clínicas sin borrarlos: falla el área de «destrucción»."
+      ],
+      "ojo": "La OBLIGACIÓN de proteger viene del art. 9 de la ley. La Resolución AAIP 47/2018 RECOMIENDA cómo cumplirla."
+    },
+    "pd_rgpd": {
+      "unidad": "proteccion_datos",
+      "categoria": "Europa",
+      "titulo": "RGPD: el reglamento europeo de datos",
+      "intro": [
+        "El RGPD (Reglamento General de Protección de Datos) es la norma de la Unión Europea sobre datos personales. En inglés se llama GDPR. Es una referencia en todo el mundo y suele compararse con la ley argentina."
+      ],
+      "notas": [
+        "Fechas: se aprobó el 27 de abril de 2016 y empezó a aplicarse el 25 de mayo de 2018 (hubo dos años para que las empresas se adaptaran).",
+        "Consentimiento: tiene que ser LIBRE (sin presiones), ESPECÍFICO (para un uso concreto), INFORMADO (sabiendo qué se va a hacer) e INEQUÍVOCO (que no deje dudas de que la persona dijo que sí). Además, la persona puede retirarlo tan fácil como lo dio.",
+        "Consentimiento explícito: un sí todavía más claro y directo, que el RGPD exige solo en casos especiales, por ejemplo para tratar ciertos datos sensibles.",
+        "Categorías especiales: así llama el RGPD a los datos sensibles. Son: origen racial o étnico, opiniones políticas, creencias religiosas o filosóficas, afiliación sindical, datos genéticos, datos biométricos que identifican a una persona (como la huella digital o el reconocimiento facial), salud, vida sexual u orientación sexual.",
+        "Principios: los datos se tienen que usar de forma legal y transparente, solo para fines concretos, pidiendo lo mínimo necesario, manteniéndolos correctos, guardándolos solo el tiempo necesario y protegiéndolos.",
+        "Multas: hasta 20 millones de euros o hasta el 4% de lo que la empresa factura en un año en todo el mundo, lo que sea MAYOR. Se puede multar no solo por filtrar datos, sino también por no protegerlos bien."
+      ],
+      "ejemplos": [
+        "Una oficina en España usa un lector de huellas para que entren sus empleados: trata datos biométricos, una categoría especial."
+      ],
+      "ojo": "Ley argentina: consentimiento libre, expreso e informado. RGPD: libre, específico, informado e inequívoco."
+    },
+    "pd_diseno": {
+      "unidad": "proteccion_datos",
+      "categoria": "Práctica profesional",
+      "titulo": "Privacidad desde el diseño: el rol de quien hace sistemas",
+      "intro": [
+        "Quien diseña o programa un sistema decide, aunque no lo note, qué datos se piden, quién los puede ver, cómo se guardan y cuándo se borran. Esas decisiones técnicas tienen consecuencias legales.",
+        "«Privacidad desde el diseño» significa pensar en la protección de los datos desde el primer día del proyecto, y no agregarla como un parche al final."
+      ],
+      "notas": [
+        "Pedir solo lo necesario: si un dato no hace falta para lo que hace el sistema, no se pide (esto se llama «minimización»).",
+        "Definir para qué se usan los datos antes de empezar a juntarlos.",
+        "Permisos: cada usuario del sistema tiene que poder ver solo lo que necesita para su tarea.",
+        "Medidas técnicas habituales: control de acceso, contraseñas y doble factor, registros de actividad (logs), cifrado, copias de seguridad, reglas internas, capacitación y evaluación de riesgos.",
+        "Respetar los derechos del titular: el sistema tiene que permitir encontrar, corregir, actualizar o borrar los datos de una persona cuando lo pide.",
+        "Impacto en personas reales: los términos y condiciones, los algoritmos, los puntajes de riesgo (scoring) y la inteligencia artificial pueden afectar derechos concretos de la gente."
+      ],
+      "ejemplos": [
+        "Incluir desde el inicio un botón «borrar mi cuenta» que realmente elimine los datos: privacidad desde el diseño."
+      ],
+      "ojo": "Si el sistema no puede encontrar ni borrar los datos de una persona, no va a poder cumplir la ley cuando ella lo pida."
+    }
+  }
+}

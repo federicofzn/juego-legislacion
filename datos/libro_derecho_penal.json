@@ -1,0 +1,300 @@
+{
+  "unidad": { "key": "derecho_penal", "titulo": "Derecho Penal" },
+  "entradas": {
+    "dp_glosario": {
+      "categoria": "Empezá por acá",
+      "titulo": "Palabras básicas del Derecho Penal",
+      "intro": [
+        "Antes de leer el resto de la unidad, conviene conocer estas palabras. Aparecen en todas las entradas y en casi todos los casos del juego.",
+        "Si en otra entrada encontrás una palabra que no entendés, volvé acá."
+      ],
+      "notas": [
+        "Delito: una acción que la ley prohíbe y que se castiga con una pena. Por ejemplo, matar a alguien o robarle el celular.",
+        "Pena: el castigo que el Estado le aplica a quien comete un delito. La más conocida es la prisión (ir preso), pero también existen multas (pagar dinero) o inhabilitaciones (por ejemplo, no poder manejar o ejercer una profesión por un tiempo).",
+        "Código Penal: el libro de leyes donde están escritos casi todos los delitos y sus penas en la Argentina. Está dividido en artículos numerados (art. 79, art. 162, etc.). Cada artículo describe un delito o una regla.",
+        "Conducta: lo que la persona HIZO (o dejó de hacer). Por ejemplo: disparar un arma, manejar rápido, ejecutar un programa, no controlar a un paciente.",
+        "Resultado: lo que PASÓ en el mundo por culpa de esa conducta. Por ejemplo: alguien murió, alguien quedó herido, se rompió un auto, se borraron los datos de una empresa. Muchas veces el Derecho Penal castiga porque una conducta causó un resultado dañino.",
+        "Autor: la persona que cometió el hecho.",
+        "Víctima: la persona que sufrió el daño.",
+        "Imputado: la persona acusada de un delito mientras se la investiga o se la juzga. Todavía no fue declarada culpable.",
+        "Condenado: la persona a la que un juez, al final del juicio, declaró culpable y le aplicó una pena.",
+        "Juez: quien decide si la persona es culpable o inocente y qué pena le corresponde.",
+        "Fiscal: el abogado del Estado que investiga el delito y acusa al imputado.",
+        "Querellante: la víctima (o su abogado) cuando participa en el juicio acusando ella también.",
+        "Intención: lo que la persona tenía en la cabeza al actuar, lo que quería lograr. Es clave para distinguir el dolo de la culpa."
+      ],
+      "ejemplos": [
+        "Juan (autor) le pega a Pedro (víctima). La conducta es pegar; el resultado es que Pedro termina con la nariz rota. Mientras dura el juicio, Juan es imputado; si el juez lo declara culpable, pasa a ser condenado."
+      ],
+      "ojo": "Conducta = lo que hice. Resultado = lo que pasó por lo que hice."
+    },
+    "dp_que_es": {
+      "categoria": "Bases",
+      "titulo": "Qué es el Derecho Penal y qué límites tiene",
+      "intro": [
+        "El Derecho Penal es la parte del Derecho que decide qué acciones son delitos y qué castigo (pena) corresponde a cada una.",
+        "Es la herramienta más fuerte que tiene el Estado: puede mandar a una persona a la cárcel. Por eso, para evitar abusos, tiene reglas muy estrictas sobre cuándo y cómo se puede castigar."
+      ],
+      "notas": [
+        "Bien jurídico: es aquello valioso que la ley quiere cuidar cuando prohíbe algo. Por ejemplo, la ley prohíbe matar porque quiere proteger la VIDA; prohíbe robar porque quiere proteger la PROPIEDAD (las cosas de cada uno); prohíbe insultar públicamente porque quiere proteger el HONOR (la buena reputación). Cada delito protege un bien jurídico.",
+        "Tipificar: escribir en una ley, con detalle, qué conducta es delito y qué pena tiene. A esa descripción se la llama «tipo penal». Ejemplo: el art. 79 tipifica el homicidio: «el que matare a otro» tendrá prisión de 8 a 25 años. Si una conducta no está descripta en ninguna ley, no es delito, aunque nos parezca mala o desagradable.",
+        "Principio de legalidad: nadie puede ser castigado por algo que no era delito en el momento en que lo hizo. La ley que lo prohíbe tiene que existir ANTES del hecho. Ejemplo: si en 2026 se crea un delito nuevo, no se puede castigar a quien hizo eso en 2025, cuando todavía era legal.",
+        "Prohibición de analogía: «analogía» significa aplicar una regla a un caso que la regla no menciona, solo porque se parece. En Derecho Penal está prohibido hacerlo para castigar: el juez no puede decir «esto no está en la ley, pero es parecido a un delito, así que lo castigo igual». Lo que sí puede hacer es interpretar, es decir, precisar qué significan las palabras que la ley usa.",
+        "Última ratio: significa «último recurso». El Derecho Penal debe usarse solo para los ataques más graves. Los conflictos menores se resuelven con otras herramientas: una multa, una demanda por dinero, una sanción administrativa.",
+        "Parte general: la primera parte del Código Penal. Tiene las reglas que valen para TODOS los delitos: cuándo hay intención (dolo), cuándo hay descuido (culpa), qué pasa si el delito no se termina (tentativa), quién no puede ser castigado (inimputable), etc.",
+        "Parte especial: la segunda parte del Código Penal. Es la lista de delitos concretos, uno por uno: homicidio, lesiones, hurto, robo, estafa, calumnia, etc."
+      ],
+      "ejemplos": [
+        "Legalidad: Marta hizo algo en marzo de 2025. En enero de 2026 una ley nueva lo convierte en delito. A Marta no se la puede castigar.",
+        "Interpretación permitida: el delito de grooming habla de contactar a un menor por «cualquier tecnología de transmisión de datos». Un chat de videojuego es una tecnología de transmisión de datos, así que entra.",
+        "Analogía prohibida: aplicar ese mismo delito a un contacto cara a cara, sin tecnología, porque «es igual de grave». La ley no lo menciona, así que no se puede."
+      ],
+      "ojo": "Que algo sea inmoral o molesto no lo convierte en delito: tiene que estar escrito en una ley anterior al hecho."
+    },
+    "dp_teoria_delito": {
+      "categoria": "Parte general",
+      "titulo": "Cuándo hay delito: los cinco filtros",
+      "intro": [
+        "Que alguien cause un daño no significa automáticamente que cometió un delito. Para que haya delito, el hecho tiene que pasar cinco «filtros», en orden. Si no pasa alguno, no hay delito (o no se puede castigar).",
+        "Pensalo como un control de calidad: el hecho entra por el primer filtro y tiene que superar los cinco."
+      ],
+      "notas": [
+        "1. Acción: tiene que haber un comportamiento de una persona, hecho con voluntad. Un rayo que incendia una casa no es un delito, porque no lo hizo una persona. Tampoco lo es un movimiento totalmente involuntario (por ejemplo, una convulsión).",
+        "2. Tipicidad: lo que la persona hizo tiene que coincidir con lo que describe algún artículo del Código Penal. Si no coincide con ningún delito escrito, se dice que la conducta es «atípica» y ahí termina el análisis.",
+        "3. Antijuridicidad: la palabra asusta, pero la idea es simple: ¿el Derecho prohíbe lo que hizo, o en esa situación lo permite? Hay situaciones en las que la ley permite hacer algo que normalmente es delito. Se llaman «causas de justificación». La más conocida es la legítima defensa: si alguien te ataca, podés defenderte, aunque al hacerlo lo lastimes.",
+        "4. Culpabilidad: ¿se le puede reprochar el hecho a esa persona? Para eso, la persona tiene que haber podido entender que lo que hacía estaba mal y controlar lo que hacía. Esa capacidad se llama imputabilidad.",
+        "Inimputable: la persona que, en el momento del hecho, no podía entender que lo que hacía estaba mal o no podía controlar sus actos. Por ejemplo, alguien en pleno brote psicótico. El hecho sigue estando prohibido, pero a esa persona no se le puede aplicar una pena como a cualquier otra.",
+        "5. Punibilidad: finalmente, que corresponda aplicar una pena. En casi todos los casos, si se pasaron los cuatro filtros anteriores, se pasa también este."
+      ],
+      "pasos": [
+        "¿Lo hizo una persona, con voluntad? Si no → no hay delito.",
+        "¿Lo que hizo coincide con algún delito del Código Penal? Si no → no hay delito (atípico).",
+        "¿Había una razón que la ley acepta, como defenderse de un ataque? Si sí → no hay delito (está justificado).",
+        "¿La persona podía entender lo que hacía y controlarse? Si no → no se le puede reprochar (inimputable).",
+        "Si pasó todo lo anterior → hay delito y corresponde una pena."
+      ],
+      "ejemplos": [
+        "Legítima defensa: un hombre ataca a Laura con un cuchillo. Ella lo empuja para salvarse y él se rompe un brazo. Lastimar a alguien es delito, pero Laura se estaba defendiendo: la ley lo permite. Falla el filtro 3.",
+        "Inimputabilidad: Martín, en un brote psicótico, rompe una vidriera convencido de que adentro lo quieren matar. No podía entender lo que hacía. Falla el filtro 4.",
+        "Atípico: mirar fijo a alguien en el colectivo puede ser molesto, pero no está escrito como delito. Falla el filtro 2."
+      ],
+      "ojo": "Legítima defensa e inimputabilidad no son lo mismo. En la legítima defensa, lo que hiciste estaba PERMITIDO. En la inimputabilidad, lo que hiciste estaba prohibido, pero VOS no podías entenderlo."
+    },
+    "dp_dolo": {
+      "categoria": "Parte general",
+      "titulo": "El dolo: cuando la persona actúa a propósito",
+      "intro": [
+        "Recordá dos palabras: conducta es lo que la persona HIZO (disparar, manejar, borrar un archivo) y resultado es el daño que PASÓ por eso (alguien murió, alguien quedó herido, se perdieron datos).",
+        "Para castigar a alguien, la ley no mira solo qué pasó: también mira qué tenía en la cabeza la persona sobre ese daño. ¿Lo quería? ¿Sabía que iba a pasar? ¿Ni se le ocurrió?",
+        "Hay DOLO cuando la persona actuó sabiendo que iba a causar el daño (o que podía causarlo) y aun así lo hizo. En palabras simples: lo hizo a propósito, o le dio lo mismo que pasara. Lo contrario es la CULPA (ver la entrada siguiente): cuando el daño pasó por un descuido, sin que la persona lo quisiera.",
+        "Hay tres clases de dolo. Van de más intención a menos intención. Para distinguirlas hay que contestar dos preguntas: ¿el daño era lo que la persona quería lograr? Y si no lo era, ¿sabía que iba a pasar seguro o solo que podía pasar?"
+      ],
+      "notas": [
+        "Dolo directo de primer grado (la intención más fuerte): el daño que se produjo es exactamente lo que la persona quería lograr. Era su meta, el motivo por el que actuó. Ejemplo: Ana está furiosa con su socio y quiere que muera. Le dispara y lo mata. ¿Qué quería Ana? Que su socio muriera. ¿Qué pasó? Su socio murió. Lo que quería y lo que pasó son lo mismo: primer grado.",
+        "Dolo directo de segundo grado (también llamado «de consecuencias necesarias»): la persona quería lograr OTRA cosa, pero sabía que, para lograrla, iba a causar SÍ O SÍ un daño adicional. Ese daño adicional no le interesaba, no era su meta, pero sabía que era inevitable y siguió adelante igual. Ejemplo: Bruno quiere matar a un empresario y pone una bomba en su auto. Sabe que el empresario nunca maneja: siempre lo lleva su chofer. Bruno no tiene nada contra el chofer, pero sabe que la bomba lo va a matar seguro. Respecto del empresario hay primer grado (era su meta); respecto del chofer, segundo grado (no era su meta, pero era seguro).",
+        "Dolo eventual (la intención más débil, pero sigue siendo dolo): la persona quería otra cosa y el daño NO era seguro: era solo una posibilidad. La persona se dio cuenta de que podía pasar y decidió seguir igual porque no le importó, lo aceptó. Ejemplo: Carla corre una picada a 180 km/h por una avenida llena de gente. Ella no quiere matar a nadie: quiere ganar la carrera. Pero sabe que puede atropellar a alguien y piensa «si pasa, mala suerte». Atropella a un peatón: dolo eventual.",
+        "Por qué importa: un delito cometido con dolo se castiga mucho más que uno cometido por descuido. Por ejemplo, matar con dolo (homicidio simple) tiene una pena de 8 a 25 años de prisión; matar por descuido (homicidio culposo) tiene una pena muchísimo menor."
+      ],
+      "pasos": [
+        "Identificá el daño por el que te preguntan (por ejemplo, la muerte del chofer, no la del empresario).",
+        "Preguntate: ¿ese daño era lo que la persona quería lograr? Si sí → dolo directo de primer grado.",
+        "Si no era su meta: ¿la persona sabía que ese daño iba a pasar SEGURO con lo que hizo? Si sí → dolo directo de segundo grado.",
+        "Si no era seguro, solo posible: ¿la persona se dio cuenta de que podía pasar y le dio lo mismo («si pasa, que pase»)? Si sí → dolo eventual.",
+        "Si se dio cuenta de que podía pasar pero confiaba en que no iba a pasar («no va a pasar, yo controlo») → ya no es dolo: es culpa con representación (ver la entrada de la culpa).",
+        "Si ni siquiera se le ocurrió que podía pasar, pero debería haberlo pensado → culpa sin representación."
+      ],
+      "ejemplos": [
+        "Caso informático: un empleado quiere borrar los registros que prueban que copió información de la empresa. Esos registros están en un servidor donde también se guardan los trabajos de otros diez clientes. Formatea el servidor completo sabiendo que todo se va a borrar. Su meta eran SUS registros (primer grado respecto de eso). Los datos de los otros clientes no le interesaban, pero sabía que se iban a borrar seguro: segundo grado respecto de esos datos."
+      ],
+      "ojo": "El dolo eventual y la culpa con representación se parecen mucho: en los dos casos la persona se dio cuenta de que el daño PODÍA pasar. La diferencia es qué pensó después. Dolo eventual: «puede pasar, y si pasa, no me importa». Culpa con representación: «puede pasar, pero confío en que no va a pasar»."
+    },
+    "dp_culpa": {
+      "categoria": "Parte general",
+      "titulo": "La culpa: cuando el daño pasa por un descuido",
+      "intro": [
+        "Recordá: conducta es lo que la persona hizo y resultado es el daño que pasó por eso.",
+        "Hay CULPA cuando la persona NO quería causar el daño, pero el daño pasó porque no tuvo el cuidado que tenía que tener. No se la castiga por querer hacer daño (no lo quería), sino por haber sido descuidada.",
+        "«Tener el cuidado debido» significa actuar con la prudencia que tendría una persona razonable en esa misma situación: respetar el semáforo, revisar antes de operar, hacer una copia de seguridad antes de tocar un sistema.",
+        "Importante: un hecho por descuido solo es delito si la ley lo dice expresamente. Por ejemplo, existe el homicidio culposo (matar por descuido) y las lesiones culposas (herir por descuido). Las penas son mucho menores que cuando hay dolo."
+      ],
+      "notas": [
+        "Culpa con representación (o «culpa consciente»): la persona SE DIO CUENTA de que el daño podía pasar, pero confió, sin buenos motivos, en que no iba a pasar o en que ella iba a poder evitarlo. Ejemplo: Diego, chofer con mucha experiencia, adelanta a un camión en una curva sin visibilidad pensando «es arriesgado, pero manejo bien, seguro paso». Choca y mata a otro conductor. Diego vio el riesgo, pero confió en que no iba a pasar.",
+        "Culpa sin representación (o «culpa inconsciente»): a la persona NI SIQUIERA SE LE OCURRIÓ que el daño podía pasar, aunque cualquiera que prestara un poco de atención lo habría pensado. Ejemplo: Elena deja un frasco de pastillas abierto en la mesa baja donde juega su hijo de 3 años. Nunca pensó que el nene podía tomarlas, pero era algo que debía prever.",
+        "Además, la ley nombra cuatro formas de ser descuidado. Sirven para describir QUÉ tipo de descuido hubo:",
+        "Imprudencia (hacer de más): hacer algo arriesgado que no había que hacer. Ejemplo: manejar a 140 km/h por una calle de barrio.",
+        "Negligencia (hacer de menos): NO hacer algo que había que hacer. Ejemplo: el médico de guardia que debía controlar al paciente operado cada dos horas y no lo hizo en toda la noche.",
+        "Impericia (no saber): hacer una tarea sin tener los conocimientos o la habilidad que esa tarea exige. Ejemplo: alguien que nunca estudió electricidad hace la instalación eléctrica de un local y provoca un incendio.",
+        "Inobservancia de los reglamentos o deberes (no cumplir la regla escrita): no respetar una norma, reglamento o protocolo que había que cumplir. Ejemplo: el reglamento del hospital exige hacer una copia de seguridad antes de cambiar el sistema; el técnico no la hace y se pierden historias clínicas."
+      ],
+      "pasos": [
+        "Primero confirmá que la persona NO quería el daño ni le daba lo mismo (si no, es dolo).",
+        "¿Se dio cuenta de que podía pasar y confió en que no? → culpa con representación.",
+        "¿Ni se le ocurrió, pero debió pensarlo? → culpa sin representación.",
+        "Para la forma del descuido: ¿hizo algo de más? → imprudencia. ¿Dejó de hacer algo? → negligencia. ¿No sabía hacerlo? → impericia. ¿No cumplió una regla escrita? → inobservancia."
+      ],
+      "ejemplos": [
+        "Mismo hecho, distinta cabeza: un administrador de sistemas ejecuta en producción un programa sin probarlo. Su compañera le avisa que puede borrar la base de clientes. Si responde «es un cambio chico, no va a fallar» y se borra todo → culpa con representación. Si responde «si la borra, que la borre, yo me voy igual» → ya no es culpa: es dolo eventual."
+      ],
+      "ojo": "Las cuatro formas en una frase: imprudencia = hice de más; negligencia = hice de menos; impericia = no sabía hacerlo; inobservancia = no cumplí la regla escrita."
+    },
+    "dp_etapas_concurso": {
+      "categoria": "Parte general",
+      "titulo": "Tentativa, concurso, reincidencia y agravantes",
+      "intro": [
+        "Estas palabras responden preguntas muy prácticas: ¿qué pasa si alguien empieza un delito pero no lo termina? ¿Y si comete varios delitos? ¿Y si ya había sido condenado antes? ¿Qué cosas hacen que la pena sea más alta o más baja?"
+      ],
+      "notas": [
+        "Delito consumado: el delito se completó. Pasó todo lo que describe la ley. Ejemplo: en un homicidio, la víctima murió.",
+        "Tentativa (art. 42 del Código Penal): la persona EMPEZÓ a cometer el delito con intención de hacerlo, pero no lo terminó por algo que no dependía de ella. Ejemplo: Raúl dispara para matar a su vecino, pero la ambulancia llega a tiempo y el vecino sobrevive. Raúl quería matar y empezó a hacerlo; no lo logró por algo ajeno a él (la ambulancia). La tentativa se castiga, pero con una pena menor que el delito completo.",
+        "Concurso: se usa esta palabra cuando en un mismo caso hay más de un delito. Hay dos clases.",
+        "Concurso real (art. 55): la persona hizo VARIOS hechos separados, y cada uno es un delito distinto. Ejemplo: en enero Sofía se lleva un celular ajeno de una mesa y en marzo estafa a un vecino. Son dos hechos, dos delitos.",
+        "Concurso ideal (art. 54): la persona hizo UN SOLO hecho, pero ese único hecho encaja en dos delitos a la vez. Ejemplo: Tomás le da una sola trompada a alguien: le rompe los anteojos (eso es el delito de daño, porque rompió una cosa) y le corta la ceja (eso es el delito de lesiones, porque lastimó a una persona). Un solo golpe, dos delitos.",
+        "Reincidencia (art. 50): una persona que ya fue condenada a prisión y cumplió esa pena (toda o una parte) vuelve a cometer un delito. Tiene consecuencias más duras, por ejemplo para salir antes de la cárcel.",
+        "Agravante: una circunstancia que la ley considera que hace al delito MÁS grave, y por eso sube la pena. Ejemplo: matar a un familiar directo, o matar con crueldad, tiene más pena que un homicidio común.",
+        "Atenuante: una circunstancia que hace al delito MENOS grave, y por eso baja la pena. Ejemplo: la emoción violenta en el homicidio (ver la entrada de delitos contra las personas)."
+      ],
+      "pasos": [
+        "¿El delito se completó? Si no, ¿empezó a cometerlo y algo ajeno lo frenó? → tentativa.",
+        "¿Hay varios delitos? Contá cuántos HECHOS hay: varios hechos → concurso real; un solo hecho con varios delitos → concurso ideal.",
+        "¿Ya había sido condenado y cumplió pena antes de este nuevo delito? → reincidencia."
+      ],
+      "ejemplos": [
+        "Tentativa en informática: un atacante prueba miles de contraseñas robadas para entrar al sistema de un banco, pero el sistema de seguridad lo bloquea antes de que logre entrar. Empezó a cometer el delito y algo ajeno lo frenó."
+      ],
+      "ojo": "Concurso real = varios hechos. Concurso ideal = un solo hecho con varios delitos. Reincidencia no es concurso: requiere una condena anterior ya cumplida."
+    },
+    "dp_personas": {
+      "categoria": "Parte especial",
+      "titulo": "Delitos contra las personas: homicidio y lesiones",
+      "intro": [
+        "Estos delitos protegen la vida y el cuerpo de las personas. Homicidio significa matar a otra persona. Lesión significa lastimar o dañar el cuerpo o la salud de alguien.",
+        "La pena cambia mucho según lo que la persona tenía en la cabeza (si lo hizo a propósito o por descuido) y según las circunstancias del caso."
+      ],
+      "notas": [
+        "Homicidio simple (art. 79): matar a otra persona a propósito (con dolo), sin circunstancias especiales. Pena: de 8 a 25 años de prisión. El juez elige un número dentro de ese rango según el caso.",
+        "Homicidio agravado (art. 80): matar a propósito en circunstancias que la ley considera especialmente graves. Por ejemplo: matar al cónyuge o a un hijo, con crueldad («ensañamiento»), a traición o sobre seguro («alevosía»), por dinero («por precio»), por odio a un grupo, o para ocultar otro delito. Pena: prisión perpetua.",
+        "Homicidio por emoción violenta (art. 81): matar estando en un estado de alteración emocional muy intensa, provocado por algo que la ley considera comprensible («excusable»). No alcanza con estar enojado. La pena es más baja, pero la persona sí es responsable: sabía lo que hacía. No es lo mismo que ser inimputable.",
+        "Homicidio culposo (art. 84): causar la muerte de alguien SIN quererlo, por un descuido (imprudencia, negligencia, impericia o no cumplir un reglamento). El caso típico es el accidente de tránsito por manejar mal.",
+        "Lesiones: se clasifican según qué tan grave fue el daño en el cuerpo: leves (art. 89), graves (art. 90) y gravísimas (art. 91).",
+        "Debilitación permanente (es una lesión grave): una parte del cuerpo queda funcionando, pero peor que antes, para siempre. Ejemplo: la mano queda con menos fuerza, pero se puede usar. «Funciona, pero menos».",
+        "Inutilidad permanente (es una lesión gravísima): una parte del cuerpo deja de servir para lo que servía. Ejemplo: la mano ya no se puede usar. «Ya no sirve».",
+        "Abandono de persona (art. 106): dejar sola, en peligro, a una persona que no puede cuidarse por sí misma (un bebé, un anciano, un enfermo). La pena sube si la persona sufre un daño o si quien la abandonó tenía la obligación de cuidarla."
+      ],
+      "ejemplos": [
+        "Raúl mata a su vecino a propósito: homicidio simple. Si el vecino fuera su padre: homicidio agravado por el vínculo.",
+        "Un conductor que maneja borracho atropella y mata a un peatón sin quererlo: homicidio culposo."
+      ],
+      "ojo": "Lesión es un daño a una PERSONA (su cuerpo o salud). Daño (el delito) es contra una COSA. Romper un celular ajeno es daño, no lesión."
+    },
+    "dp_propiedad": {
+      "categoria": "Parte especial",
+      "titulo": "Delitos contra la propiedad",
+      "intro": [
+        "Estos delitos protegen las cosas y el dinero de las personas (la ley lo llama «propiedad» o «patrimonio»).",
+        "Para saber cuál es cada uno, la pregunta clave es: ¿CÓMO consiguió el autor la cosa o el dinero? ¿Se la llevó sin que nadie lo notara? ¿Rompió algo o lastimó a alguien para llevársela? ¿Engañó a la víctima? ¿La amenazó? ¿Se aprovechó de que estaba desesperada?"
+      ],
+      "notas": [
+        "Cosa mueble: cualquier cosa que se puede trasladar de un lugar a otro: un celular, dinero, un auto, una notebook. No tiene nada que ver con los muebles de la casa. Lo contrario son los inmuebles: una casa, un departamento, un terreno.",
+        "Hurto (art. 162): llevarse una cosa mueble ajena SIN romper nada y SIN lastimar ni amenazar a nadie. Ejemplo: alguien ve un celular olvidado en la mesa de un bar y se lo guarda.",
+        "Hurto agravado (art. 163): un hurto que la ley castiga más por alguna circunstancia especial. Por ejemplo: llevarse un auto estacionado en la calle, aprovechar una inundación o un incendio para llevarse cosas, o llevarse cables de un servicio público.",
+        "Robo (art. 164): llevarse una cosa mueble ajena usando fuerza sobre las cosas (romper una ventanilla, forzar una cerradura) o violencia sobre las personas (empujar, golpear, amenazar con un arma). La diferencia con el hurto es justamente la fuerza o la violencia.",
+        "Usurpación (art. 181): quitarle a alguien un INMUEBLE, por ejemplo metiéndose a vivir en su casa y cambiando la cerradura. Como una casa no se puede llevar, no es hurto ni robo.",
+        "Extorsión (art. 168): obligar a alguien a dar dinero o bienes metiéndole miedo con un daño. El mensaje típico es: «si no me pagás, te hago daño» (te quemo el local, lastimo a tu familia).",
+        "Chantaje (art. 169): obligar a alguien a dar dinero o bienes amenazándolo con contar algo que lo perjudica o con revelar un secreto. El mensaje típico es: «si no me pagás, cuento lo que sé de vos».",
+        "Estafa (art. 172): engañar a alguien para que, creyendo algo falso, entregue él mismo su dinero o sus cosas. Los pasos son: 1) el autor miente o engaña; 2) la víctima se cree el engaño; 3) la víctima entrega el dinero «por su propia voluntad»; 4) la víctima pierde ese dinero. Ejemplo: vender por internet una moto que no existe y cobrar una seña.",
+        "Defraudación: es la categoría general de los perjuicios económicos causados con trampas o fraudes. La estafa es la defraudación más conocida, pero hay otras, como el fraude informático (manipular un sistema informático para quedarse con dinero ajeno).",
+        "Usura (art. 175 bis): aprovecharse de que alguien está desesperado, o no entiende bien, para cobrarle intereses o condiciones abusivas. Ejemplo: prestarle plata a una familia que necesita una operación urgente con un interés del 80% mensual. No hace falta mentir: el delito es aprovecharse de la necesidad.",
+        "Daño (art. 183): romper, destruir o inutilizar una cosa ajena. Ejemplo: rayar un auto con una llave. Desde 2008 incluye también borrar o arruinar datos, programas o sistemas informáticos."
+      ],
+      "pasos": [
+        "¿Lo que se perdió es un inmueble (casa, terreno)? → usurpación.",
+        "¿El autor se llevó la cosa? Si lo hizo sin fuerza ni violencia → hurto. Si rompió algo o lastimó o amenazó a alguien para llevársela → robo.",
+        "¿La víctima entregó ella misma el dinero? Preguntate por qué: si fue engañada → estafa. Si tenía miedo de un daño → extorsión. Si tenía miedo de que contaran algo → chantaje. Si estaba desesperada y el otro se aprovechó → usura.",
+        "¿No se llevó nada, pero rompió algo ajeno? → daño."
+      ],
+      "ejemplos": [
+        "Romper la ventanilla de un auto para llevarse una mochila: robo (hubo fuerza sobre una cosa: la ventanilla).",
+        "Arrancarle la cartera a una mujer empujándola: robo (hubo violencia sobre una persona).",
+        "«Si no transferís, publico tus fotos íntimas»: chantaje."
+      ],
+      "ojo": "En la estafa la víctima entrega porque la engañaron; en la extorsión entrega porque tiene miedo; en la usura no hay engaño ni amenaza, hay abuso de una necesidad."
+    },
+    "dp_honor_justicia": {
+      "categoria": "Parte especial",
+      "titulo": "Honor, justicia y orden público",
+      "intro": [
+        "Estos delitos protegen la buena reputación de las personas (el «honor»), el correcto funcionamiento de los juicios (la «administración de justicia») y la tranquilidad de la sociedad (el «orden público»)."
+      ],
+      "notas": [
+        "Calumnia (art. 109): acusar FALSAMENTE a una persona concreta de haber cometido un DELITO concreto. Ejemplo: publicar «Pérez, el tesorero del club, se robó la plata de las cuotas», cuando es mentira. Se le atribuye un delito (robar) que no cometió.",
+        "Injuria (art. 110): ofender o desprestigiar a una persona SIN acusarla de un delito. Ejemplo: «La maestra Gómez es una inútil y una mentirosa». No se le atribuye ningún delito, pero se ataca su reputación.",
+        "Falso testimonio (art. 275): mentir cuando uno declara ante un juez u otra autoridad y tiene la obligación de decir la verdad. Lo pueden cometer los testigos (personas que cuentan lo que vieron), los peritos (expertos) y los intérpretes (traductores). Incluye afirmar algo falso, negar algo verdadero o callar lo que uno sabe.",
+        "Apología del crimen (art. 213): elogiar o defender en PÚBLICO un delito, o a una persona condenada por un delito, de una forma que incentiva a otros. Ejemplo: decir en un acto transmitido en vivo «estuvo perfecto lo que hizo el que incendió la comisaría, ojalá lo imiten». Opinar o analizar un delito no es apología.",
+        "Perito: una persona experta en algún tema (medicina, informática, contabilidad) a la que se llama en un juicio para que explique cuestiones técnicas que el juez no conoce. Ejemplo: una ingeniera que analiza los registros de un servidor para explicar cómo ocurrió un ataque informático."
+      ],
+      "pasos": [
+        "Alguien dijo algo contra otra persona: ¿la acusó de haber cometido un delito, y es falso? → calumnia. ¿La ofendió sin acusarla de un delito? → injuria.",
+        "Alguien mintió declarando ante un juez o autoridad → falso testimonio.",
+        "Alguien elogió públicamente un delito → posible apología del crimen."
+      ],
+      "ejemplos": [
+        "Un tuit falso que dice «Gómez le robó a sus alumnos»: calumnia, porque le atribuye un delito.",
+        "Un comentario que dice «Gómez es una vergüenza de profesor»: injuria, porque solo lo ofende."
+      ],
+      "ojo": "Calumnia = te acuso de un DELITO que no cometiste. Injuria = te ofendo, sin acusarte de un delito."
+    },
+    "dp_bienes_codigo": {
+      "categoria": "Herramientas",
+      "titulo": "Bien jurídico y cómo buscar en el Código Penal",
+      "intro": [
+        "El «bien jurídico» es lo valioso que la ley quiere proteger con cada delito: la vida, la salud, las cosas de cada uno, la reputación, etc.",
+        "El Código Penal agrupa los delitos según el bien jurídico que protegen. Por eso, si sabés QUÉ se dañó, sabés en qué parte del Código buscar."
+      ],
+      "notas": [
+        "Cómo está ordenado el Código: en Libros, que se dividen en Títulos, que se dividen en Capítulos, que se dividen en Artículos. Los Títulos llevan números romanos (I, II, III...) y cada uno reúne los delitos que protegen un mismo bien jurídico.",
+        "Vida: homicidio (matar a otro).",
+        "Integridad física (el cuerpo y la salud): lesiones.",
+        "Honor (la reputación): calumnias e injurias.",
+        "Integridad sexual: abuso sexual, grooming.",
+        "Libertad: amenazas, secuestros, y también violar la correspondencia o la privacidad de otro.",
+        "Propiedad (las cosas y el dinero): hurto, robo, estafa, extorsión, usurpación, daño.",
+        "Seguridad pública: incendios, explosiones.",
+        "Fe pública (la confianza que todos depositamos en documentos, firmas, sellos y billetes): falsificar un documento, un certificado o dinero. Importa en informática porque un documento digital o una firma digital también tienen que ser confiables.",
+        "Administración pública (el buen funcionamiento del Estado): por ejemplo, el cohecho (pagar una coima a un funcionario).",
+        "Administración de justicia (el buen funcionamiento de los juicios): por ejemplo, el falso testimonio.",
+        "InfoLEG: el sitio web oficial del Estado argentino donde se pueden leer las leyes nacionales actualizadas, incluido el Código Penal con todas sus modificaciones."
+      ],
+      "ejemplos": [
+        "Falsificar un certificado médico para justificar faltas: afecta la fe pública (la confianza en los certificados).",
+        "Mentir como testigo en un juicio: afecta la administración de justicia."
+      ],
+      "ojo": "El bien jurídico no es un delito: es lo valioso que el delito ataca."
+    },
+    "dp_acciones_vocabulario": {
+      "categoria": "Proceso",
+      "titulo": "Quién pone en marcha un caso penal",
+      "intro": [
+        "Cuando se comete un delito, alguien tiene que iniciar el proceso judicial y empujarlo hasta el final. A eso se le llama «acción penal».",
+        "No todos los delitos funcionan igual: en algunos el Estado actúa solo, en otros necesita que la víctima lo pida, y en otros todo depende de la víctima. Esto no cambia la pena: solo cambia quién mueve el caso."
+      ],
+      "notas": [
+        "Acción pública: el Estado (a través del fiscal) inicia el caso y lo lleva adelante por su cuenta, aunque la víctima no quiera. Es la regla general: homicidio, robo, estafa y la mayoría de los delitos.",
+        "Acción pública dependiente de instancia privada (art. 72): el caso solo arranca si la víctima hace la denuncia. Pero una vez que denunció, el Estado sigue adelante por su cuenta. Ejemplo: las lesiones leves.",
+        "Acción privada (art. 73): la víctima tiene que iniciar el caso y llevarlo adelante ella misma, con su abogado, como «querellante». Si la víctima abandona, el caso termina. Ejemplo: calumnias e injurias.",
+        "Delito y crimen: en el Código Penal argentino la palabra técnica es «delito». «Crimen» se usa en el lenguaje común para hechos graves. No existe una regla que diga que «más de 3 años de pena es un crimen».",
+        "Delincuente y criminal: no son categorías legales distintas. En un proceso se habla de «imputado» (persona acusada) y «condenado» (persona declarada culpable). Nadie es culpable hasta que un juez lo declara en una sentencia definitiva.",
+        "Excarcelación: que la persona acusada pueda esperar el juicio en libertad, en lugar de estar presa. Depende de las reglas del proceso de cada jurisdicción y del riesgo de que se escape o entorpezca la investigación, no de un número fijo de años."
+      ],
+      "pasos": [
+        "Estado inicia y Estado sigue → acción pública.",
+        "Víctima inicia (denuncia) y Estado sigue → instancia privada.",
+        "Víctima inicia y víctima sigue → acción privada."
+      ],
+      "ejemplos": [
+        "Si alguien te calumnia en Twitter, tenés que iniciar vos el juicio (acción privada).",
+        "Si roban un comercio, el fiscal investiga aunque el dueño no quiera (acción pública)."
+      ],
+      "ojo": "Que un delito sea de acción privada no lo hace «menos delito»: solo cambia quién lo impulsa."
+    }
+  }
+}

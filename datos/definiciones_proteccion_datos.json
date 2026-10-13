@@ -1,0 +1,197 @@
+[
+  {
+    "id": "def-pd-personal",
+    "grupo": "datos",
+    "termino": "Dato personal",
+    "definicion": "Cualquier información que permite saber a qué persona se refiere.",
+    "ejemplo": "Tu nombre, tu DNI, tu mail o una foto de tu cara.",
+    "libro": "pd_conceptos"
+  },
+  {
+    "id": "def-pd-sensible",
+    "grupo": "datos",
+    "termino": "Dato sensible",
+    "definicion": "Dato personal muy íntimo que podría usarse para discriminar, como la salud o la religión.",
+    "ejemplo": "Que una persona identificada está afiliada a un sindicato.",
+    "libro": "pd_conceptos"
+  },
+  {
+    "id": "def-pd-estadistico",
+    "grupo": "datos",
+    "termino": "Dato estadístico",
+    "definicion": "Información sobre un grupo, en números, que no permite saber quién es cada persona.",
+    "ejemplo": "«Tres alumnos faltaron por gripe», sin decir quiénes.",
+    "libro": "pd_conceptos"
+  },
+  {
+    "id": "def-pd-titular",
+    "grupo": "datos",
+    "termino": "Titular de los datos",
+    "definicion": "La persona a la que se refieren los datos y a quien le pertenecen.",
+    "ejemplo": "Si un gimnasio guarda tu ficha, vos sos el titular.",
+    "libro": "pd_glosario"
+  },
+  {
+    "id": "def-pd-responsable",
+    "grupo": "datos",
+    "termino": "Responsable de la base de datos",
+    "definicion": "La persona o empresa que decide qué datos guardar y tiene que cuidarlos.",
+    "ejemplo": "El gimnasio que guarda las fichas de sus socios.",
+    "pista": "Pensá en este ejemplo: el gimnasio que tiene las fichas de sus socios.",
+    "libro": "pd_glosario"
+  },
+  {
+    "id": "def-pd-privacidad",
+    "grupo": "datos",
+    "termino": "Privacidad",
+    "definicion": "Poder controlar quién junta tu información, para qué la usa y con quién la comparte.",
+    "ejemplo": "Decidir si una app puede compartir tus datos con otras empresas.",
+    "pista": "Pensá en este ejemplo: decidir si una app puede pasar tus datos a otras empresas.",
+    "libro": "pd_conceptos"
+  },
+  {
+    "id": "def-pd-consent",
+    "grupo": "principios",
+    "termino": "Consentimiento (Ley 25.326)",
+    "definicion": "Autorización libre, expresa e informada del titular para que se usen sus datos.",
+    "ejemplo": "Una casilla que ya viene tildada no cuenta.",
+    "libro": "pd_ley_principios"
+  },
+  {
+    "id": "def-pd-finalidad",
+    "grupo": "principios",
+    "termino": "Principio de finalidad",
+    "definicion": "Los datos solo se pueden usar para el objetivo para el que se pidieron.",
+    "ejemplo": "El mail pedido para la factura no se puede vender.",
+    "libro": "pd_ley_principios"
+  },
+  {
+    "id": "def-pd-calidad",
+    "grupo": "principios",
+    "termino": "Principio de calidad",
+    "definicion": "Los datos tienen que ser verdaderos, actualizados y solo los necesarios.",
+    "ejemplo": "Pedir la religión para vender zapatillas es pedir de más.",
+    "libro": "pd_ley_principios"
+  },
+  {
+    "id": "def-pd-seguridad",
+    "grupo": "principios",
+    "termino": "Principio de seguridad (art. 9)",
+    "definicion": "Quien guarda los datos tiene que protegerlos para que no se pierdan ni los use alguien sin permiso.",
+    "ejemplo": "No guardar contraseñas sin cifrar en una planilla compartida.",
+    "libro": "pd_ley_principios"
+  },
+  {
+    "id": "def-pd-confid",
+    "grupo": "principios",
+    "termino": "Deber de confidencialidad (Ley 25.326)",
+    "definicion": "Quien accede a datos por su trabajo tiene que guardar secreto y no usarlos para otra cosa.",
+    "ejemplo": "Una empleada de una clínica no puede mirar la historia clínica de su vecina.",
+    "libro": "pd_ley_principios"
+  },
+  {
+    "id": "def-pd-acceso",
+    "grupo": "derechos",
+    "termino": "Derecho de acceso",
+    "definicion": "Pedir que te informen qué datos tuyos tienen y para qué los usan; plazo de 10 días corridos.",
+    "ejemplo": "Preguntarle a una app qué guarda sobre vos.",
+    "libro": "pd_derechos_plazos"
+  },
+  {
+    "id": "def-pd-rectif",
+    "grupo": "derechos",
+    "termino": "Rectificación",
+    "definicion": "Pedir que corrijan un dato tuyo que está mal cargado; plazo de 5 días hábiles.",
+    "ejemplo": "Tienen mal tu número de DNI.",
+    "libro": "pd_derechos_plazos"
+  },
+  {
+    "id": "def-pd-actualiz",
+    "grupo": "derechos",
+    "termino": "Actualización",
+    "definicion": "Pedir que pongan al día un dato tuyo que era correcto pero cambió; plazo de 5 días hábiles.",
+    "ejemplo": "Te mudaste y siguen teniendo tu dirección vieja.",
+    "libro": "pd_derechos_plazos"
+  },
+  {
+    "id": "def-pd-supresion",
+    "grupo": "derechos",
+    "termino": "Supresión",
+    "definicion": "Pedir que borren un dato tuyo que no deberían tener; plazo de 5 días hábiles.",
+    "ejemplo": "Una empresa guarda tu religión sin motivo.",
+    "libro": "pd_derechos_plazos"
+  },
+  {
+    "id": "def-pd-olvido",
+    "grupo": "derechos",
+    "termino": "Derecho al olvido (datos crediticios)",
+    "definicion": "Una deuda impaga deja de informarse después de 5 años, aunque se siga debiendo.",
+    "ejemplo": "Una deuda de hace 6 años ya no debería figurar en Veraz.",
+    "pista": "Pensá en este ejemplo: algo que debías hace mucho tiempo ya no debería aparecer en Veraz.",
+    "libro": "pd_crediticios"
+  },
+  {
+    "id": "def-pd-hdata",
+    "grupo": "derechos",
+    "termino": "Habeas data",
+    "definicion": "Acción judicial para defender tus datos cuando la empresa no responde o no corrige.",
+    "ejemplo": "Pasó el plazo y siguen informando una deuda falsa.",
+    "libro": "pd_derechos_plazos"
+  },
+  {
+    "id": "def-pd-ley",
+    "grupo": "normas",
+    "termino": "Ley 25.326",
+    "definicion": "La ley argentina, del año 2000, que regula cómo se pueden juntar, guardar y usar datos personales.",
+    "ejemplo": "Es la que hay que leer antes de armar una base de clientes.",
+    "libro": "pd_ley_principios"
+  },
+  {
+    "id": "def-pd-rgpd",
+    "grupo": "normas",
+    "termino": "RGPD",
+    "definicion": "Reglamento de protección de datos de la Unión Europea, que se aplica desde 2018.",
+    "ejemplo": "En inglés se llama GDPR.",
+    "libro": "pd_rgpd"
+  },
+  {
+    "id": "def-pd-aaip47",
+    "grupo": "normas",
+    "termino": "Resolución AAIP 47/2018",
+    "definicion": "Norma argentina que recomienda medidas de seguridad concretas para bases de datos personales.",
+    "ejemplo": "Trata la destrucción segura y los entornos de desarrollo.",
+    "libro": "pd_seguridad"
+  },
+  {
+    "id": "def-pd-iso",
+    "grupo": "normas",
+    "termino": "ISO 27001",
+    "definicion": "Estándar internacional para organizar la seguridad de toda la información de una empresa.",
+    "ejemplo": "No es una ley: es una norma técnica de gestión.",
+    "libro": "pd_seguridad"
+  },
+  {
+    "id": "def-pd-aaip",
+    "grupo": "normas",
+    "termino": "AAIP",
+    "definicion": "Organismo del Estado argentino que controla que se cumpla la ley de datos personales.",
+    "ejemplo": "Agencia de Acceso a la Información Pública.",
+    "libro": "pd_glosario"
+  },
+  {
+    "id": "def-pd-diseno",
+    "grupo": "normas",
+    "termino": "Privacidad desde el diseño",
+    "definicion": "Pensar la protección de los datos desde el inicio de un sistema, no como un parche al final.",
+    "ejemplo": "Incluir desde el principio un botón para borrar la cuenta.",
+    "libro": "pd_diseno"
+  },
+  {
+    "id": "def-pd-biometrico",
+    "grupo": "normas",
+    "termino": "Dato biométrico (RGPD)",
+    "definicion": "Dato del cuerpo que identifica a una persona y el RGPD considera categoría especial.",
+    "ejemplo": "La huella digital o el reconocimiento facial.",
+    "libro": "pd_rgpd"
+  }
+]

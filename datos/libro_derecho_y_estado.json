@@ -1,0 +1,214 @@
+{
+  "unidad": { "key": "derecho_y_estado", "titulo": "Derecho y Estado" },
+  "entradas": {
+    "dye_glosario": {
+      "categoria": "Empezá por acá",
+      "titulo": "Palabras básicas de Derecho y Estado",
+      "intro": [
+        "Estas palabras aparecen en toda la unidad. Si en otra entrada encontrás una que no entendés, volvé acá."
+      ],
+      "notas": [
+        "Norma: una regla que dice cómo hay que comportarse. Ejemplo: «hay que frenar en el semáforo en rojo».",
+        "Derecho: el conjunto de normas que el Estado puede hacer cumplir. Sirve para organizar la vida en sociedad.",
+        "Ley: una norma escrita que aprueba el Congreso (el Poder Legislativo). Es obligatoria para todos.",
+        "Constitución Nacional: la ley más importante del país. Organiza el Estado y reconoce los derechos de las personas. Ninguna otra norma puede contradecirla.",
+        "Artículo: cada una de las partes numeradas de una ley o de la Constitución. Ejemplo: el «art. 18» de la Constitución.",
+        "Estado: la organización política de un país, con su gente, su territorio, su gobierno y su poder de decidir sin depender de otro país.",
+        "Gobierno: las personas y los órganos que, durante un tiempo, dirigen el Estado (el presidente, los legisladores, los jueces).",
+        "Derecho (como facultad): algo que una persona puede hacer o exigir. Ejemplo: el derecho a expresarse o a trabajar.",
+        "Garantía: una herramienta para defender un derecho cuando alguien lo viola. Ejemplo: si te detienen ilegalmente, existe una acción judicial (el habeas corpus) para recuperar la libertad.",
+        "Tratado: un acuerdo firmado entre países. Algunos tratados sobre derechos humanos tienen el mismo nivel que la Constitución.",
+        "Juez o magistrado: la persona que resuelve los conflictos aplicando el Derecho."
+      ],
+      "ejemplos": [
+        "La Constitución reconoce el derecho a la libertad (un derecho) y crea el habeas corpus para defenderlo (una garantía)."
+      ],
+      "ojo": "«Derecho» tiene dos sentidos: el sistema de normas (el Derecho argentino) y algo que una persona puede exigir (mi derecho a trabajar)."
+    },
+    "dye_normas": {
+      "categoria": "Normas",
+      "titulo": "Los cuatro tipos de normas",
+      "intro": [
+        "Vivimos con otras personas, y para convivir necesitamos reglas. Esas reglas se llaman normas.",
+        "Hay cuatro tipos de normas. Para distinguirlas, hacete dos preguntas: ¿de dónde viene la regla? y ¿qué pasa si no la cumplo?"
+      ],
+      "notas": [
+        "Normas morales: vienen de la propia conciencia y de valores como la honestidad o la justicia. Si no las cumplís, la consecuencia es sentir culpa o que otros te reprochen. Nadie te obliga por la fuerza. Ejemplo: no mentirle a un amigo.",
+        "Normas sociales: son costumbres de trato que se esperan en un grupo. Si no las cumplís, la consecuencia es que te miren mal o te dejen de lado. Ejemplo: saludar al llegar a la oficina, vestirse formal en un casamiento.",
+        "Normas religiosas: vienen de una creencia religiosa y obligan solo a quienes forman parte de esa religión. Ejemplo: ayunar en ciertas fechas.",
+        "Normas jurídicas: las dicta o las reconoce el Estado (por ejemplo, las leyes). Tienen tres características: son OBLIGATORIAS (hay que cumplirlas aunque no estés de acuerdo), GENERALES (valen para todas las personas que están en esa situación) y COERCIBLES (si no las cumplís, el Estado puede obligarte y castigarte).",
+        "Coercible: significa que el Estado puede usar su poder para hacer cumplir la norma: cobrarte una multa, embargarte la cuenta del banco, o incluso llevarte preso. Esta es la característica que diferencia a la norma jurídica de las otras tres."
+      ],
+      "pasos": [
+        "¿Si no la cumplo, el Estado puede obligarme o sancionarme (multa, embargo, prisión)? → norma jurídica.",
+        "¿La consecuencia es sentir culpa? → norma moral.",
+        "¿La consecuencia es que el grupo me rechace o me mire mal? → norma social.",
+        "¿Viene de una religión y obliga a sus fieles? → norma religiosa."
+      ],
+      "ejemplos": [
+        "Si no saludás, te miran mal (norma social). Si no pagás una multa de tránsito, te la pueden cobrar a la fuerza con un embargo (norma jurídica)."
+      ],
+      "ojo": "Una misma conducta puede estar en varias normas a la vez: «no matar» es moral, religiosa y jurídica. Lo que la vuelve jurídica es que el Estado puede obligar a cumplirla."
+    },
+    "dye_derecho_fuentes": {
+      "categoria": "Derecho",
+      "titulo": "Qué es el Derecho, de dónde sale y cómo se divide",
+      "intro": [
+        "El Derecho es el conjunto de normas jurídicas (las que el Estado puede hacer cumplir) que organiza la vida en sociedad: las relaciones entre las personas, con las empresas y con el Estado.",
+        "Esta entrada explica tres cosas: dos formas de pensar qué es el Derecho, de dónde salen las reglas jurídicas (las «fuentes») y cómo se divide el Derecho (las «ramas»)."
+      ],
+      "notas": [
+        "Derecho Natural: la idea de que hay principios justos que existen por el solo hecho de ser humanos, aunque ninguna ley los escriba. Ejemplo: la dignidad de cada persona.",
+        "Derecho Positivo: las normas que efectivamente están vigentes en un país en un momento determinado, porque las dictó una autoridad. Ejemplo: el Código Penal argentino actual.",
+        "Fuentes del Derecho: los lugares de donde salen las reglas jurídicas. Son cuatro:",
+        "Ley: una norma escrita que dicta la autoridad competente (por ejemplo, el Congreso). Es la fuente principal.",
+        "Costumbre: algo que la gente hace repetidamente durante mucho tiempo y que siente como obligatorio. Vale como regla jurídica cuando el Derecho la acepta.",
+        "Jurisprudencia: los criterios que surgen de las sentencias de los jueces. Cuando los tribunales, sobre todo los más altos, resuelven casos parecidos de la misma manera, esa forma de resolver orienta a otros jueces.",
+        "Doctrina: lo que escriben los especialistas en Derecho (profesores, investigadores) en libros y artículos para explicar e interpretar las normas.",
+        "Derecho Público: las normas que regulan situaciones en las que el Estado actúa con autoridad, «desde arriba». Ejemplo: cuando el Estado cobra impuestos o cuando castiga un delito.",
+        "Derecho Privado: las normas que regulan relaciones entre particulares que están en igualdad de condiciones. Ejemplo: un contrato de alquiler entre dos personas."
+      ],
+      "ejemplos": [
+        "Un abogado cita varios fallos de la Corte Suprema que resolvieron casos iguales: está usando jurisprudencia.",
+        "Una abogada cita el libro de un profesor de Derecho: está usando doctrina."
+      ],
+      "ojo": "Jurisprudencia viene de los JUECES (sentencias). Doctrina viene de los ESTUDIOSOS (libros)."
+    },
+    "dye_constitucion": {
+      "categoria": "Constitución",
+      "titulo": "La Constitución: por qué es la ley más importante y cómo está armada",
+      "intro": [
+        "La Constitución Nacional es la ley más importante de la Argentina. Todas las demás normas (leyes, decretos, resoluciones) tienen que respetarla. Si una norma la contradice, esa norma no vale.",
+        "A esta idea se la llama «supremacía constitucional»: la Constitución está por encima de todo lo demás."
+      ],
+      "notas": [
+        "Artículo 31: es el artículo que establece la supremacía. Dice que la Constitución, las leyes nacionales que se dicten de acuerdo con ella y los tratados con otros países son la ley suprema de la Nación, y que las provincias tienen que respetarlas.",
+        "Pirámide normativa: una forma de dibujar qué norma está por encima de cuál. Arriba de todo: la Constitución y los tratados de derechos humanos que tienen su mismo nivel. Debajo: los demás tratados. Después: las leyes nacionales. Luego: las constituciones de cada provincia y las leyes provinciales. Abajo: los decretos, reglamentos y resoluciones.",
+        "Las sentencias de los jueces no son un escalón de la pirámide: resuelven un caso concreto entre partes concretas e interpretan las normas, pero no son reglas generales para todos como una ley.",
+        "Cómo está armada la Constitución: tiene un Preámbulo (el texto inicial, que dice para qué se dicta: afianzar la justicia, consolidar la paz, asegurar la libertad...), una Parte dogmática, una Parte orgánica y unas disposiciones transitorias.",
+        "Parte dogmática: la parte que habla de las PERSONAS. Contiene declaraciones (principios básicos del país), derechos (lo que las personas pueden hacer o exigir, como trabajar o expresarse) y garantías (las herramientas para defender esos derechos, como el amparo).",
+        "Parte orgánica: la parte que habla de cómo se ORGANIZA el Estado: cómo se forman el Congreso, la Presidencia y el Poder Judicial, cuánto duran los mandatos, qué puede hacer cada uno."
+      ],
+      "ejemplos": [
+        "Una provincia dicta una ley que prohíbe criticar al gobernador. Esa ley contradice la libertad de expresión que reconoce la Constitución: por el art. 31, la Constitución prevalece.",
+        "El artículo que dice cuántos años duran los senadores está en la parte orgánica. El que reconoce la libertad de expresión, en la parte dogmática."
+      ],
+      "ojo": "Parte dogmática = las personas y sus derechos. Parte orgánica = el Estado y sus poderes."
+    },
+    "dye_tratados_generaciones": {
+      "categoria": "Constitución",
+      "titulo": "Tratados de derechos humanos y «generaciones» de derechos",
+      "intro": [
+        "Un tratado es un acuerdo entre países. En 1994 se reformó la Constitución y se decidió que algunos tratados sobre derechos humanos tengan el mismo nivel que la propia Constitución.",
+        "Además, para estudiar los derechos se los suele agrupar en «generaciones», según la época en que se reconocieron y el tipo de necesidad que protegen. Es una forma de ordenarlos, no una regla legal."
+      ],
+      "notas": [
+        "Artículo 75 inciso 22: es la parte de la Constitución que enumera los tratados de derechos humanos con «jerarquía constitucional», es decir, con el MISMO nivel que la Constitución. Ejemplos: la Convención Americana sobre Derechos Humanos y la Convención sobre los Derechos del Niño. Están al mismo nivel, no por encima.",
+        "Primera generación (referencia argentina: 1853, año de la Constitución original): derechos que protegen la libertad de cada persona frente al Estado y su participación política. Ejemplos: vida, libertad, igualdad, votar, expresarse libremente.",
+        "Segunda generación (referencias: Constitución de 1949 y reforma de 1957, que agregó el art. 14 bis): derechos que buscan condiciones de vida dignas. Ejemplos: trabajo con condiciones justas, educación, salud, vivienda, jubilación.",
+        "Tercera generación (referencia: reforma de 1994): derechos que pertenecen a toda la sociedad a la vez, no a una sola persona. Ejemplos: ambiente sano (art. 41), derechos de los consumidores (art. 42), paz, desarrollo.",
+        "Posible cuarta generación (no hay una lista oficial): derechos nuevos ligados a la tecnología. Ejemplos: protección de los datos personales, privacidad en internet, acceso a internet, identidad digital, protección frente a decisiones tomadas por inteligencia artificial."
+      ],
+      "pasos": [
+        "¿Protege la libertad individual o la participación política? → primera generación.",
+        "¿Busca condiciones de vida dignas (trabajo, salud, educación)? → segunda generación.",
+        "¿Pertenece a toda la comunidad (ambiente, consumidores)? → tercera generación.",
+        "¿Tiene que ver con tecnología y datos? → posible cuarta generación."
+      ],
+      "ejemplos": [
+        "Vecinos reclaman porque una fábrica contamina el río del pueblo: ambiente sano, tercera generación."
+      ],
+      "ojo": "Las fechas de cada generación son referencias para estudiar, no fechas exactas."
+    },
+    "dye_estado_gobierno": {
+      "categoria": "Estado",
+      "titulo": "Nación, Estado, gobierno y cómo se organiza la Argentina",
+      "intro": [
+        "En la vida diaria usamos «nación», «Estado» y «gobierno» como si fueran lo mismo, pero en Derecho son cosas distintas.",
+        "Además, la Constitución dice que la Argentina adopta una forma de gobierno «representativa, republicana y federal». Cada palabra significa algo concreto."
+      ],
+      "notas": [
+        "Nación: un grupo de personas unidas por una historia, una cultura, un idioma o una identidad en común. Puede existir aunque no tenga un Estado propio.",
+        "Estado: la organización política de un país. Tiene cuatro elementos: población (la gente), territorio (el lugar), gobierno (quienes lo dirigen) y soberanía (el poder de decidir sin obedecer a otro país). Es permanente.",
+        "Gobierno: las personas y los órganos que dirigen el Estado durante un período. Es temporal: cambia con cada elección. El Estado sigue siendo el mismo.",
+        "Representativa: el pueblo no decide todo directamente; elige representantes (presidente, diputados, senadores) que deciden en su nombre.",
+        "Republicana: el poder está dividido en tres (Ejecutivo, Legislativo y Judicial) para que ninguno concentre todo. Además, los mandatos duran un tiempo limitado, los actos de gobierno son públicos y los funcionarios tienen que rendir cuentas.",
+        "Federal: el poder se reparte entre el Estado nacional y las provincias (y la Ciudad de Buenos Aires). Cada provincia tiene su propia constitución, su gobernador y su legislatura.",
+        "Democracia semidirecta: además de votar representantes, la Constitución permite que la gente participe directamente en algunos casos. Iniciativa popular: los ciudadanos juntan firmas y presentan un proyecto de ley. Consulta popular: se le pregunta a la población su opinión sobre un tema."
+      ],
+      "ejemplos": [
+        "Cuando cambia el presidente, cambia el gobierno, no el Estado.",
+        "Que Córdoba tenga su propia constitución y su gobernador muestra que el país es federal."
+      ],
+      "ojo": "Republicana = el poder dividido en tres. Federal = el poder repartido entre Nación y provincias. No son lo mismo."
+    },
+    "dye_poderes": {
+      "categoria": "Estado",
+      "titulo": "Los tres poderes y cuánto duran los mandatos",
+      "intro": [
+        "El poder del Estado está dividido en tres para que ninguna persona o grupo lo concentre todo. Cada poder tiene una tarea y además controla a los otros.",
+        "«Mandato» es el tiempo que una persona elegida ocupa su cargo."
+      ],
+      "notas": [
+        "Poder Ejecutivo: lo ejerce el Presidente. Administra el país, aplica las leyes y lleva adelante las políticas del gobierno.",
+        "Poder Legislativo: es el Congreso, formado por dos cámaras: la Cámara de Diputados (representan al pueblo) y el Senado (representan a las provincias). Su tarea principal es hacer las leyes.",
+        "Poder Judicial: la Corte Suprema y los demás tribunales. Resuelve conflictos aplicando las leyes y controla que las leyes y los actos del gobierno respeten la Constitución. Si un juez decide que una ley va contra la Constitución y no la aplica, eso se llama «control de constitucionalidad».",
+        "Presidente y vicepresidente (art. 90): duran 4 años. Pueden ser reelegidos UNA sola vez seguida. Después de dos mandatos seguidos, tienen que esperar un mandato (4 años) antes de volver a presentarse.",
+        "Diputados (art. 50): duran 4 años y pueden ser reelegidos. La Cámara se renueva por MITADES cada 2 años (cada elección cambia la mitad de los diputados).",
+        "Senadores (art. 56): duran 6 años y pueden ser reelegidos sin límite. El Senado se renueva por TERCIOS cada 2 años (cada elección cambia un tercio).",
+        "Cantidad de diputados (art. 45): la Constitución fija una regla: un diputado cada 33.000 habitantes (o fracción de por lo menos 16.500), y el Congreso puede actualizarla después de cada censo. Hoy la Cámara tiene 257 diputados."
+      ],
+      "ejemplos": [
+        "Un juez declara que un decreto del presidente viola la Constitución: es el Poder Judicial controlando al Ejecutivo."
+      ],
+      "ojo": "Diputados: 4 años, se renuevan por mitades. Senadores: 6 años, se renuevan por tercios. En los dos casos hay elecciones cada 2 años."
+    },
+    "dye_art18_19": {
+      "categoria": "Garantías",
+      "titulo": "Artículos 18 y 19: protecciones frente al Estado",
+      "intro": [
+        "Estos dos artículos protegen a las personas frente al poder del Estado. El art. 18 se ocupa sobre todo de lo que pasa cuando el Estado quiere acusar, juzgar o investigar a alguien. El art. 19 protege la vida privada."
+      ],
+      "notas": [
+        "Juicio previo y ley anterior (art. 18): a nadie se lo puede castigar sin hacerle antes un juicio, y ese juicio tiene que basarse en una ley que ya existía cuando ocurrió el hecho.",
+        "Juez natural (art. 18): a cada persona la tienen que juzgar los jueces que la ley ya había designado ANTES de que ocurriera el hecho. Está prohibido crear un tribunal especial, después, para juzgar un caso en particular.",
+        "Nadie puede ser obligado a declarar contra sí mismo (art. 18): una persona acusada no está obligada a confesar ni a dar información que la perjudique. Una confesión arrancada con presiones no vale.",
+        "Arresto con orden escrita (art. 18): nadie puede ser detenido sin una orden escrita de una autoridad competente (salvo excepciones legales, como ser sorprendido cometiendo un delito).",
+        "Defensa en juicio (art. 18): toda persona tiene derecho a defenderse en un juicio, por ejemplo con un abogado.",
+        "Inviolabilidad del domicilio y la correspondencia (art. 18): nadie puede entrar a tu casa ni leer tus cartas o papeles privados, salvo en los casos y con los requisitos que fije una ley (por ejemplo, una orden de allanamiento de un juez).",
+        "Cárceles (art. 18): tienen que ser sanas y limpias, y sirven para mantener a las personas detenidas de forma segura, no para hacerlas sufrir. Si un juez autoriza tratos que las hacen sufrir más de lo necesario, ese juez es responsable.",
+        "Acciones privadas (art. 19): lo que una persona hace en su vida privada, si no daña a otros ni afecta el orden público, no le incumbe al Estado. El texto dice que esas acciones están «reservadas a Dios y exentas de la autoridad de los magistrados» (magistrado = juez).",
+        "Principio de reserva (art. 19): nadie está obligado a hacer algo que la ley no le ordena, ni se le puede prohibir algo que la ley no prohíbe."
+      ],
+      "ejemplos": [
+        "Después de un escándalo, el gobierno crea un tribunal especial solo para ese caso: viola el juez natural (art. 18).",
+        "Un municipio quiere multar a adultos por cómo se tiñen el pelo en su casa: viola el art. 19, porque es una acción privada que no daña a nadie."
+      ],
+      "ojo": "Art. 18 = protecciones cuando el Estado te investiga o te juzga. Art. 19 = tu vida privada, mientras no dañes a otros."
+    },
+    "dye_garantias": {
+      "categoria": "Garantías",
+      "titulo": "Habeas corpus, habeas data y amparo",
+      "intro": [
+        "Son tres acciones judiciales, es decir, pedidos que una persona le hace a un juez para que la proteja rápido cuando le están violando un derecho. Están en el artículo 43 de la Constitución.",
+        "Para saber cuál usar, preguntate: ¿qué derecho está en peligro?"
+      ],
+      "notas": [
+        "Habeas corpus: protege la LIBERTAD FÍSICA, es decir, poder moverse libremente y no estar preso sin motivo legal. Se usa si te detienen sin orden ni razón, si te amenazan con detenerte ilegalmente, o si estando preso te empeoran las condiciones sin motivo. «Habeas corpus» viene del latín y significa, más o menos, «que traigas el cuerpo»: la idea es que el juez pida ver a la persona detenida.",
+        "Habeas data: protege los DATOS PERSONALES, es decir, la información sobre vos que guardan empresas u organismos. Sirve para saber qué datos tuyos tienen y para exigir que corrijan, actualicen o borren los que son falsos, viejos o que no deberían tener. «Data» significa datos.",
+        "Amparo: protege los DEMÁS derechos de la Constitución (salud, trabajo, propiedad, etc.) cuando una autoridad o un particular los viola de forma claramente arbitraria o ilegal, y no hay otro camino más rápido para frenarlo."
+      ],
+      "pasos": [
+        "¿Está en juego la libertad física (alguien detenido o amenazado de detención)? → habeas corpus.",
+        "¿Está en juego información personal guardada en una base de datos? → habeas data.",
+        "¿Es otro derecho violado de forma arbitraria (salud, trabajo, etc.)? → amparo."
+      ],
+      "ejemplos": [
+        "Te detienen en la calle sin orden y sin explicación: habeas corpus.",
+        "Una base de deudores te muestra como moroso por una deuda que no existe y no la corrigen: habeas data.",
+        "La obra social se niega sin razón a cubrir un tratamiento urgente que la ley la obliga a cubrir: amparo."
+      ],
+      "ojo": "Corpus = cuerpo (libertad física). Data = datos. Amparo = cualquier otro derecho."
+    }
+  }
+}

@@ -1,0 +1,632 @@
+[
+  {
+    "id": "dye-normas-01",
+    "tipo": "clasificar",
+    "titulo": "El saludo",
+    "situacion": "En la oficina, un empleado nuevo nunca saluda al llegar. Sus compañeros empiezan a dejarlo de lado.",
+    "pregunta": "¿Qué tipo de norma está incumpliendo?",
+    "correcta": "Una norma social",
+    "incorrectas": [
+      "Una norma jurídica",
+      "Una norma religiosa",
+      "Una norma constitucional",
+      "Una norma penal",
+      "Una norma moral impuesta por el Estado"
+    ],
+    "pista": "¿Qué consecuencia tiene no cumplirla: una sanción del Estado o el rechazo del grupo?",
+    "explicacion": "Saludar es una costumbre de trato entre las personas: una norma social. Si no la cumplís, el grupo te mira mal, pero el Estado no te sanciona.",
+    "libro": "dye_normas"
+  },
+  {
+    "id": "dye-normas-02",
+    "tipo": "clasificar",
+    "titulo": "La multa impaga",
+    "situacion": "Una persona no paga una multa de tránsito. Meses después le llega una intimación y luego un embargo sobre su cuenta bancaria.",
+    "pregunta": "¿Qué tipo de norma incumplió y qué la distingue?",
+    "correcta": "Una norma jurídica, que se distingue por ser coercible",
+    "incorrectas": [
+      "Una norma moral, que se distingue por el remordimiento",
+      "Una norma social, que se distingue por el rechazo del grupo",
+      "Una norma religiosa, que obliga solo a los creyentes",
+      "Una norma jurídica, que se distingue por ser voluntaria",
+      "Una costumbre sin valor jurídico"
+    ],
+    "pista": "El embargo es la pista: ¿quién puede imponerlo?",
+    "explicacion": "Lo que distingue a una norma jurídica es que el Estado puede obligarte a cumplirla y castigarte si no lo hacés. El embargo es un ejemplo: le sacan la plata de la cuenta por la fuerza. Eso se llama «coercibilidad».",
+    "libro": "dye_normas"
+  },
+  {
+    "id": "dye-normas-03",
+    "tipo": "clasificar",
+    "titulo": "La mentira al amigo",
+    "situacion": "Martina le mintió a su mejor amiga sobre algo importante. Nadie se enteró, pero ella no puede dormir de la culpa.",
+    "pregunta": "¿Qué tipo de norma incumplió?",
+    "correcta": "Una norma moral",
+    "incorrectas": [
+      "Una norma jurídica",
+      "Una norma social",
+      "Una norma religiosa obligatoria para todos",
+      "Una garantía constitucional",
+      "Una norma procesal"
+    ],
+    "pista": "La sanción viene de adentro, de la conciencia.",
+    "explicacion": "Mentirle a una amiga va contra los propios valores. Esa es una norma moral: si no la cumplís, la consecuencia es la culpa o el remordimiento, no una sanción del Estado.",
+    "libro": "dye_normas"
+  },
+  {
+    "id": "dye-normas-04",
+    "tipo": "clasificar",
+    "titulo": "El ayuno",
+    "situacion": "Una comunidad de fe establece que sus integrantes deben ayunar en determinadas fechas del año.",
+    "pregunta": "¿Qué tipo de norma es?",
+    "correcta": "Una norma religiosa",
+    "incorrectas": [
+      "Una norma jurídica",
+      "Una norma social",
+      "Una norma moral universal",
+      "Un decreto reglamentario",
+      "Una norma de Derecho Público"
+    ],
+    "pista": "¿De dónde surge y a quiénes obliga?",
+    "explicacion": "El ayuno viene de una creencia religiosa y obliga solo a quienes forman parte de esa religión: es una norma religiosa.",
+    "libro": "dye_normas"
+  },
+  {
+    "id": "dye-derecho-01",
+    "tipo": "clasificar",
+    "titulo": "El fallo de la Corte",
+    "situacion": "Un abogado cita en su escrito varios fallos de la Corte Suprema que interpretaron la misma ley de la misma manera.",
+    "pregunta": "¿Qué fuente del Derecho está usando?",
+    "correcta": "La jurisprudencia",
+    "incorrectas": [
+      "La doctrina",
+      "La costumbre",
+      "La ley",
+      "El Derecho Natural",
+      "La parte dogmática de la Constitución"
+    ],
+    "pista": "La fuente proviene de los jueces.",
+    "explicacion": "Los fallos de los jueces que resuelven casos parecidos de la misma manera forman la «jurisprudencia».",
+    "libro": "dye_derecho_fuentes"
+  },
+  {
+    "id": "dye-derecho-02",
+    "tipo": "clasificar",
+    "titulo": "El manual del profesor",
+    "situacion": "Para fundamentar una interpretación, una abogada cita el libro de un reconocido profesor de Derecho Constitucional.",
+    "pregunta": "¿Qué fuente del Derecho está usando?",
+    "correcta": "La doctrina",
+    "incorrectas": [
+      "La jurisprudencia",
+      "La costumbre",
+      "La ley",
+      "El tratado internacional",
+      "El decreto"
+    ],
+    "pista": "La fuente proviene de los estudiosos, no de los jueces.",
+    "explicacion": "Lo que escriben los especialistas en Derecho (libros, artículos) se llama «doctrina».",
+    "libro": "dye_derecho_fuentes"
+  },
+  {
+    "id": "dye-derecho-03",
+    "tipo": "clasificar",
+    "titulo": "El contrato de alquiler",
+    "situacion": "Dos personas firman un contrato de alquiler de un departamento. Ninguna de las dos es un organismo del Estado.",
+    "pregunta": "¿Qué rama del Derecho regula principalmente esa relación?",
+    "correcta": "El Derecho Privado",
+    "incorrectas": [
+      "El Derecho Público",
+      "El Derecho Penal",
+      "El Derecho Constitucional",
+      "El Derecho Natural",
+      "El Derecho Internacional Público"
+    ],
+    "pista": "¿Alguna de las partes actúa como autoridad?",
+    "explicacion": "Dos personas comunes firmando un contrato están en igualdad de condiciones: eso lo regula el Derecho Privado. Si el Estado actuara con autoridad (por ejemplo, cobrando un impuesto), sería Derecho Público.",
+    "libro": "dye_derecho_fuentes"
+  },
+  {
+    "id": "dye-derecho-04",
+    "tipo": "concepto",
+    "titulo": "Natural o positivo",
+    "situacion": "En un debate, alguien sostiene: «La dignidad humana existiría aunque ninguna ley la escribiera». Otro responde: «Para mí, Derecho es solo lo que está vigente y lo dictó una autoridad».",
+    "pregunta": "¿Qué conceptos están defendiendo cada uno?",
+    "correcta": "El primero, el Derecho Natural; el segundo, el Derecho Positivo",
+    "incorrectas": [
+      "El primero, el Derecho Positivo; el segundo, el Derecho Natural",
+      "Los dos defienden la jurisprudencia",
+      "El primero, el Derecho Público; el segundo, el Derecho Privado",
+      "El primero, la costumbre; el segundo, la doctrina",
+      "Los dos defienden el Derecho Penal"
+    ],
+    "pista": "Uno habla de principios anteriores a la ley escrita; el otro, de normas vigentes dictadas por autoridad.",
+    "explicacion": "Derecho Natural: principios justos que existen por ser personas, aunque no estén escritos. Derecho Positivo: las normas que efectivamente están vigentes porque las dictó una autoridad.",
+    "libro": "dye_derecho_fuentes"
+  },
+  {
+    "id": "dye-cn-01",
+    "tipo": "caso",
+    "titulo": "La ley provincial",
+    "situacion": "Una provincia sanciona una ley que prohíbe publicar cualquier crítica al gobernador. Un periodista te consulta si tiene que cumplirla.",
+    "pregunta": "¿Qué le respondés?",
+    "correcta": "Que la Constitución es suprema (art. 31): una ley provincial no puede contradecirla",
+    "incorrectas": [
+      "Que debe cumplirla, porque las leyes provinciales están por encima de la Constitución Nacional",
+      "Que debe cumplirla hasta que el Congreso nacional la derogue expresamente",
+      "Que solo un tratado internacional podría dejarla sin efecto",
+      "Que es válida porque, al ser federal, cada provincia decide sola",
+      "Que depende de lo que opine la doctrina mayoritaria sobre el tema"
+    ],
+    "pista": "¿Qué norma está en la cima de la pirámide?",
+    "explicacion": "La Constitución es la ley más importante; ninguna otra norma puede contradecirla (art. 31 de la Constitución). La libertad de expresión está en la Constitución, así que una ley provincial que la anula no vale.",
+    "libro": "dye_constitucion"
+  },
+  {
+    "id": "dye-cn-02",
+    "tipo": "clasificar",
+    "titulo": "¿Dogmática u orgánica?",
+    "situacion": "Estás separando artículos de la Constitución. Te toca el que establece cuántos años duran los senadores.",
+    "pregunta": "¿En qué parte de la Constitución está?",
+    "correcta": "En la parte orgánica, porque organiza los poderes del Estado",
+    "incorrectas": [
+      "En la parte dogmática, porque reconoce derechos de los senadores",
+      "En el Preámbulo, porque fija los fines del Congreso",
+      "En las disposiciones transitorias, porque los mandatos son temporales",
+      "En el art. 75 inc. 22, junto a los tratados internacionales",
+      "No está en la Constitución sino en una ley electoral"
+    ],
+    "pista": "¿Ese artículo protege a las personas o arma la estructura del gobierno?",
+    "explicacion": "La duración de los senadores tiene que ver con cómo se organiza el Estado, no con los derechos de las personas. Eso está en la parte orgánica. La parte dogmática es la de los derechos.",
+    "libro": "dye_constitucion"
+  },
+  {
+    "id": "dye-cn-03",
+    "tipo": "concepto",
+    "titulo": "El escalón de la sentencia",
+    "situacion": "Un compañero dibuja la pirámide normativa y pone las sentencias judiciales en un escalón entre las leyes y los decretos.",
+    "pregunta": "¿Qué le corregís?",
+    "correcta": "Que la sentencia resuelve un caso concreto; no es un escalón de la pirámide",
+    "incorrectas": [
+      "Nada: las sentencias van entre las leyes y los decretos",
+      "Que las sentencias de la Corte van por encima de la Constitución",
+      "Que las sentencias van al mismo nivel que los tratados de derechos humanos",
+      "Que las sentencias son parte de la doctrina, no del Derecho",
+      "Que las sentencias solo existen en el Derecho Penal, no en la pirámide"
+    ],
+    "pista": "¿Una sentencia obliga a todo el país como una ley?",
+    "explicacion": "Una sentencia resuelve un caso concreto entre personas concretas; no es una regla para todos como una ley. Por eso no es un escalón de la pirámide.",
+    "libro": "dye_constitucion"
+  },
+  {
+    "id": "dye-cn-04",
+    "tipo": "concepto",
+    "titulo": "Derechos y garantías",
+    "situacion": "Un cliente pregunta cuál es la diferencia entre «derecho» y «garantía» en la Constitución.",
+    "pregunta": "¿Qué le explicás?",
+    "correcta": "El derecho es lo que se tiene; la garantía, el medio para defenderlo",
+    "incorrectas": [
+      "Son sinónimos: la Constitución usa ambas palabras de forma indistinta",
+      "El derecho lo reconocen las provincias y la garantía, la Nación",
+      "La garantía es un derecho de segunda generación, como el trabajo",
+      "El derecho es temporal y la garantía es permanente e irrenunciable",
+      "La garantía solo existe en contratos privados entre particulares"
+    ],
+    "pista": "Una cosa es lo que tenés; otra, cómo lo protegés si te lo quitan.",
+    "explicacion": "El derecho es lo que podés hacer o exigir (por ejemplo, la libertad). La garantía es la herramienta para defenderlo si te lo violan (por ejemplo, el habeas corpus si te detienen ilegalmente).",
+    "libro": "dye_constitucion"
+  },
+  {
+    "id": "dye-trat-01",
+    "tipo": "norma",
+    "titulo": "Los tratados del 94",
+    "situacion": "Una estudiante afirma que, desde 1994, la Convención Americana sobre Derechos Humanos está por encima de la Constitución.",
+    "pregunta": "¿Qué le respondés?",
+    "correcta": "Que tiene jerarquía constitucional: está al mismo nivel, no por encima",
+    "incorrectas": [
+      "Que tiene razón: el art. 75 inc. 22 la pone por encima de la Constitución",
+      "Que está por debajo de las leyes nacionales del Congreso",
+      "Que tiene la misma jerarquía que un decreto del Ejecutivo",
+      "Que no tiene ningún valor jurídico en la Argentina",
+      "Que solo se aplica en las provincias que adhieran a ella"
+    ],
+    "pista": "«Jerarquía constitucional» significa el mismo rango que la Constitución.",
+    "explicacion": "El art. 75 inc. 22 de la Constitución les da a ciertos tratados de derechos humanos el MISMO nivel que la Constitución. Están arriba de todo junto con ella, pero no por encima.",
+    "libro": "dye_tratados_generaciones"
+  },
+  {
+    "id": "dye-trat-02",
+    "tipo": "clasificar",
+    "titulo": "El río contaminado",
+    "situacion": "Un grupo de vecinos reclama porque una fábrica vierte residuos en el río del que toma agua todo el pueblo.",
+    "pregunta": "¿Qué generación de derechos está en juego?",
+    "correcta": "Tercera generación (derechos colectivos, como el ambiente sano)",
+    "incorrectas": [
+      "Primera generación (libertades civiles y políticas)",
+      "Segunda generación (derechos sociales y laborales, art. 14 bis)",
+      "Cuarta generación (derechos digitales y tecnológicos)",
+      "Ninguna: el ambiente no es un derecho sino una política",
+      "Primera generación, porque se afecta la propiedad de los vecinos"
+    ],
+    "pista": "El derecho afectado pertenece a toda la comunidad, no a una sola persona.",
+    "explicacion": "El ambiente sano es un derecho de toda la comunidad, no de una sola persona. Los derechos colectivos son de tercera generación (art. 41 de la Constitución, reforma de 1994).",
+    "libro": "dye_tratados_generaciones"
+  },
+  {
+    "id": "dye-trat-03",
+    "tipo": "clasificar",
+    "titulo": "El despido sin indemnización",
+    "situacion": "Un trabajador reclama condiciones dignas de labor, vacaciones pagas y protección contra el despido arbitrario.",
+    "pregunta": "¿Qué generación de derechos invoca?",
+    "correcta": "Segunda generación (derechos sociales, art. 14 bis)",
+    "incorrectas": [
+      "Primera generación (libertades civiles, referencia 1853)",
+      "Tercera generación (derechos colectivos, reforma de 1994)",
+      "Cuarta generación (derechos digitales emergentes)",
+      "Derechos de consumidores y usuarios (art. 42)",
+      "Ninguna: son derechos contractuales privados"
+    ],
+    "pista": "Pensá en 1949 y 1957 y en el artículo 14 bis.",
+    "explicacion": "Los derechos laborales (condiciones dignas, vacaciones, protección contra el despido) son de segunda generación: buscan condiciones de vida dignas. El art. 14 bis de la Constitución los incorporó en 1957.",
+    "libro": "dye_tratados_generaciones"
+  },
+  {
+    "id": "dye-trat-04",
+    "tipo": "clasificar",
+    "titulo": "El derecho a no ser perfilado",
+    "situacion": "Una ONG reclama que las personas puedan controlar sus datos personales, acceder a internet y protegerse de decisiones automatizadas por inteligencia artificial.",
+    "pregunta": "¿A qué «generación» se suelen asociar estos reclamos?",
+    "correcta": "A una posible cuarta generación de derechos",
+    "incorrectas": [
+      "A la primera generación de 1853, por ser libertades",
+      "A la segunda generación de 1949, por ser sociales",
+      "A la tercera generación de 1994, únicamente",
+      "A ninguna, porque todavía no son derechos",
+      "A los derechos que reconoce cada provincia"
+    ],
+    "pista": "No hay una lista oficial, pero se habla de derechos emergentes ligados a lo digital.",
+    "explicacion": "Los derechos vinculados a la tecnología (datos personales, privacidad en internet, protección frente a la inteligencia artificial) se suelen agrupar en una posible cuarta generación.",
+    "libro": "dye_tratados_generaciones"
+  },
+  {
+    "id": "dye-estado-01",
+    "tipo": "concepto",
+    "titulo": "Cambió el gobierno",
+    "situacion": "Después de una elección, un vecino dice: «Ahora tenemos un Estado nuevo».",
+    "pregunta": "¿Qué le corregís?",
+    "correcta": "Que cambió el gobierno, no el Estado",
+    "incorrectas": [
+      "Nada: cada elección crea un Estado nuevo",
+      "Que cambió la Nación, no el Estado",
+      "Que cambió la Constitución",
+      "Que cambió el territorio",
+      "Que cambió la soberanía"
+    ],
+    "pista": "Uno de los dos conceptos dura un mandato; el otro, siglos.",
+    "explicacion": "Con cada elección cambia el gobierno (las personas que dirigen el país por un tiempo). El Estado (el país organizado, con su gente y su territorio) sigue siendo el mismo.",
+    "libro": "dye_estado_gobierno"
+  },
+  {
+    "id": "dye-estado-02",
+    "tipo": "clasificar",
+    "titulo": "Cada provincia, su constitución",
+    "situacion": "Mendoza y Córdoba tienen su propia constitución, su gobernador y su legislatura.",
+    "pregunta": "¿Qué característica del sistema argentino muestra esto?",
+    "correcta": "Que es federal",
+    "incorrectas": [
+      "Que es representativo",
+      "Que es republicano",
+      "Que es una democracia directa",
+      "Que es unitario",
+      "Que es parlamentario"
+    ],
+    "pista": "Pensá en cómo se reparte el poder en el territorio.",
+    "explicacion": "Que cada provincia tenga su propia constitución, gobernador y legislatura muestra que el poder está repartido entre la Nación y las provincias: eso es el sistema federal.",
+    "libro": "dye_estado_gobierno"
+  },
+  {
+    "id": "dye-estado-03",
+    "tipo": "clasificar",
+    "titulo": "Tres poderes que se controlan",
+    "situacion": "Un juez declara inconstitucional un decreto del Presidente, y el Congreso investiga a un ministro.",
+    "pregunta": "¿Qué característica del sistema argentino se ve en funcionamiento?",
+    "correcta": "Que es republicano (división y control de poderes)",
+    "incorrectas": [
+      "Que es federal (reparto entre Nación y provincias)",
+      "Que es representativo (el pueblo elige autoridades)",
+      "Que es una democracia directa (el pueblo decide todo)",
+      "Que es una monarquía constitucional",
+      "Que es confederal (provincias plenamente soberanas)"
+    ],
+    "pista": "¿Qué característica impide que un solo órgano concentre todo?",
+    "explicacion": "Que el poder esté dividido en tres y que cada uno controle a los otros es lo que hace a un país republicano.",
+    "libro": "dye_estado_gobierno"
+  },
+  {
+    "id": "dye-estado-04",
+    "tipo": "clasificar",
+    "titulo": "El proyecto de los vecinos",
+    "situacion": "Un grupo de ciudadanos junta firmas y presenta al Congreso un proyecto de ley propio.",
+    "pregunta": "¿Qué mecanismo de participación están usando?",
+    "correcta": "La iniciativa popular",
+    "incorrectas": [
+      "La consulta popular",
+      "El habeas data",
+      "El amparo colectivo",
+      "El juicio político",
+      "La democracia directa total"
+    ],
+    "pista": "Los ciudadanos PROPONEN un proyecto.",
+    "explicacion": "Cuando los ciudadanos juntan firmas y presentan su propio proyecto de ley, usan la iniciativa popular, una forma de participar directamente además de votar.",
+    "libro": "dye_estado_gobierno"
+  },
+  {
+    "id": "dye-estado-05",
+    "tipo": "concepto",
+    "titulo": "Nación sin Estado",
+    "situacion": "En clase se menciona a un pueblo con idioma, historia y tradiciones comunes, pero sin territorio ni gobierno propio.",
+    "pregunta": "¿Qué concepto describe a ese pueblo?",
+    "correcta": "Nación",
+    "incorrectas": [
+      "Estado",
+      "Gobierno",
+      "Provincia",
+      "Poder constituyente",
+      "Soberanía"
+    ],
+    "pista": "Le faltan territorio y gobierno, así que no puede ser un Estado.",
+    "explicacion": "Una nación es un grupo con historia, cultura e identidad comunes, aunque no tenga territorio ni gobierno propios. Para ser un Estado le faltarían esos elementos.",
+    "libro": "dye_estado_gobierno"
+  },
+  {
+    "id": "dye-poderes-01",
+    "tipo": "clasificar",
+    "titulo": "¿Quién hace qué?",
+    "situacion": "Un juez federal resuelve que una ley viola la Constitución y no la aplica al caso.",
+    "pregunta": "¿Qué función está cumpliendo?",
+    "correcta": "Control de constitucionalidad, propio del Poder Judicial",
+    "incorrectas": [
+      "Sanción de leyes, propia del Poder Legislativo",
+      "Ejecución de leyes, propia del Poder Ejecutivo",
+      "Promulgación, propia del Presidente de la Nación",
+      "Iniciativa popular, propia de los ciudadanos",
+      "Juicio político, propio del Congreso de la Nación"
+    ],
+    "pista": "Revisar si una norma respeta la Constitución.",
+    "explicacion": "Revisar si una ley respeta la Constitución, y no aplicarla si no la respeta, es «control de constitucionalidad». Lo hacen los jueces: el Poder Judicial.",
+    "libro": "dye_poderes"
+  },
+  {
+    "id": "dye-poderes-02",
+    "tipo": "norma",
+    "titulo": "Los senadores",
+    "situacion": "Un periodista te pide que confirmes los datos del Senado para una nota.",
+    "pregunta": "¿Qué establece el art. 56 de la Constitución?",
+    "correcta": "Duran 6 años, reelegibles sin límite; el Senado se renueva por tercios cada 2 años",
+    "incorrectas": [
+      "Duran 4 años, reelegibles; la Cámara se renueva por mitades cada 2 años",
+      "Duran 6 años y solo pueden ser reelegidos una vez de forma consecutiva",
+      "Duran 4 años y pueden ser reelegidos por un solo período consecutivo",
+      "Duran 6 años y el Senado se renueva completo cada 6 años, sin tercios",
+      "Duran 8 años, no pueden ser reelegidos y el Senado se renueva por mitades"
+    ],
+    "pista": "Senadores: el mandato más largo del Congreso, y renovación en tres partes.",
+    "explicacion": "Art. 56 de la Constitución: los senadores duran 6 años, pueden ser reelegidos sin límite y cada 2 años se renueva un tercio del Senado. (Los diputados duran 4 años y se renuevan por mitades).",
+    "libro": "dye_poderes"
+  },
+  {
+    "id": "dye-poderes-03",
+    "tipo": "norma",
+    "titulo": "Los diputados",
+    "situacion": "En un repaso para el examen te preguntan por la Cámara de Diputados.",
+    "pregunta": "¿Qué establece el art. 50 de la Constitución?",
+    "correcta": "Duran 4 años, reelegibles; la Cámara se renueva por mitades cada 2 años",
+    "incorrectas": [
+      "Duran 6 años, reelegibles; la Cámara se renueva por tercios cada 2 años",
+      "Duran 4 años, no reelegibles; la Cámara se renueva completa cada 4 años",
+      "Duran 2 años, reelegibles una vez; la Cámara se renueva completa",
+      "Duran 4 años y pueden ser reelegidos por un solo período consecutivo",
+      "Duran 6 años, son reelegibles indefinidamente y se renuevan por mitades"
+    ],
+    "pista": "Diputados: renovación en dos partes.",
+    "explicacion": "Art. 50 de la Constitución: los diputados duran 4 años, pueden ser reelegidos y cada 2 años se renueva la mitad de la Cámara.",
+    "libro": "dye_poderes"
+  },
+  {
+    "id": "dye-poderes-04",
+    "tipo": "norma",
+    "titulo": "La reelección presidencial",
+    "situacion": "Una presidenta cumplió dos mandatos seguidos y quiere presentarse por tercera vez consecutiva.",
+    "pregunta": "¿Qué dice el art. 90 de la Constitución?",
+    "correcta": "No puede: solo hay una reelección consecutiva y luego debe esperar un período",
+    "incorrectas": [
+      "Puede: la Constitución permite la reelección presidencial de forma indefinida",
+      "Puede, si el Senado lo aprueba por dos tercios de los votos presentes",
+      "No puede: el mandato es de 6 años y la Constitución no admite reelección",
+      "Puede, pero solamente como candidata a vicepresidenta de la fórmula",
+      "Puede, si una consulta popular vinculante lo autoriza previamente"
+    ],
+    "pista": "¿Cuántas veces seguidas puede ganar la misma persona?",
+    "explicacion": "Art. 90 de la Constitución: el mandato presidencial dura 4 años y se permite una sola reelección seguida. Después de dos mandatos seguidos hay que esperar un mandato antes de volver a presentarse.",
+    "libro": "dye_poderes"
+  },
+  {
+    "id": "dye-poderes-05",
+    "tipo": "norma",
+    "titulo": "¿Cuántos diputados?",
+    "situacion": "Un estudiante mezcla dos datos sobre la Cámara de Diputados: lo que dice la Constitución sobre cuántos diputados se eligen y cuántas bancas hay hoy.",
+    "pregunta": "¿Cuál es la combinación correcta de esos dos datos?",
+    "correcta": "Art. 45: 1 diputado cada 33.000 habitantes (o fracción de 16.500); hoy hay 257",
+    "incorrectas": [
+      "El art. 45 fija exactamente 257 diputados de forma permanente e inmodificable",
+      "Art. 45: 1 diputado cada 100.000 habitantes; hoy hay 72 en total",
+      "El art. 56 fija 257 diputados y el art. 45 la base de los senadores",
+      "Hay 72 diputados: tres por cada provincia y tres por la Ciudad de Buenos Aires",
+      "Art. 45: 1 diputado por provincia más uno por cada censo; hoy hay 24"
+    ],
+    "pista": "Distinguí la base constitucional del número actual.",
+    "explicacion": "La Constitución (art. 45) da una regla: un diputado cada 33.000 habitantes, que el Congreso puede actualizar después de cada censo. Hoy hay 257 diputados.",
+    "libro": "dye_poderes"
+  },
+  {
+    "id": "dye-garant-01",
+    "tipo": "caso",
+    "titulo": "Detenido sin orden",
+    "situacion": "Tu cliente fue detenido hace dos días en la calle. No hay orden escrita de ningún juez y nadie le informa por qué está preso.",
+    "pregunta": "¿Qué acción presentás?",
+    "correcta": "Habeas corpus",
+    "incorrectas": [
+      "Habeas data",
+      "Amparo por mora administrativa",
+      "Acción de rectificación de la Ley 25.326",
+      "Querella por calumnia",
+      "Iniciativa popular"
+    ],
+    "pista": "Está en juego la libertad física.",
+    "explicacion": "Lo que está en juego es la libertad física: está preso sin orden ni motivo. Para eso existe el habeas corpus, que obliga a un juez a revisar la detención.",
+    "libro": "dye_garantias"
+  },
+  {
+    "id": "dye-garant-02",
+    "tipo": "caso",
+    "titulo": "El moroso que no debía",
+    "situacion": "Una base de datos comercial informa que tu clienta tiene una deuda que nunca existió. Ella pidió la corrección y la empresa no respondió.",
+    "pregunta": "¿Qué acción judicial corresponde?",
+    "correcta": "Habeas data",
+    "incorrectas": [
+      "Habeas corpus",
+      "Querella por injurias",
+      "Juicio político",
+      "Acción de inconstitucionalidad del art. 31",
+      "Recurso de casación penal"
+    ],
+    "pista": "Lo que está en juego son sus datos personales.",
+    "explicacion": "Lo que está en juego es información personal guardada en una base de datos. Para conocerla, corregirla o borrarla existe el habeas data (art. 43 de la Constitución).",
+    "libro": "dye_garantias"
+  },
+  {
+    "id": "dye-garant-03",
+    "tipo": "caso",
+    "titulo": "El tratamiento negado",
+    "situacion": "La obra social de un paciente se niega, sin fundamento, a cubrir un tratamiento urgente que su médico indicó y que la ley obliga a cubrir.",
+    "pregunta": "¿Qué acción es la más adecuada?",
+    "correcta": "Amparo",
+    "incorrectas": [
+      "Habeas corpus",
+      "Habeas data",
+      "Querella por calumnia",
+      "Iniciativa popular",
+      "Consulta popular"
+    ],
+    "pista": "No está en juego la libertad física ni los datos personales, sino otro derecho afectado de forma arbitraria.",
+    "explicacion": "No está en juego la libertad física ni datos personales, sino el derecho a la salud, que la obra social viola sin razón. Para eso existe el amparo, una acción rápida para frenar violaciones arbitrarias de derechos.",
+    "libro": "dye_garantias"
+  },
+  {
+    "id": "dye-garant-04",
+    "tipo": "concepto",
+    "titulo": "La palabra «habeas»",
+    "situacion": "Un cliente escuchó hablar de dos acciones judiciales: el «habeas corpus» y el «habeas data». Te pregunta por qué las dos empiezan con la misma palabra, «habeas», si sirven para cosas distintas.",
+    "pregunta": "¿Qué le explicás?",
+    "correcta": "Que «habeas» es latín, «que presentes»: corpus es el cuerpo y data, los datos",
+    "incorrectas": [
+      "Que significa «urgente» en latín, por eso las dos se resuelven rápido",
+      "Que «corpus» significa datos y «data» significa cuerpo, al revés",
+      "Que es la sigla de una ley argentina de garantías sancionada en 1994",
+      "Que significa «derecho» en griego, porque las dos defienden derechos",
+      "Que significa «juez» en latín, porque las dos se presentan ante un juez"
+    ],
+    "pista": "Fijate en la segunda palabra de cada acción: corpus y data. ¿Qué tienen en común?",
+    "explicacion": "«Habeas» es una palabra latina que significa algo así como «que tengas» o «que presentes». La palabra que sigue dice qué se pide presentar ante el juez: en el habeas corpus, el cuerpo de la persona detenida (para controlar que no esté presa sin motivo); en el habeas data, los datos que una empresa u organismo guarda sobre vos.",
+    "libro": "dye_garantias"
+  },
+  {
+    "id": "dye-art18-01",
+    "tipo": "caso",
+    "titulo": "El tribunal a medida",
+    "situacion": "Después de un escándalo, el gobierno crea por decreto un tribunal especial solo para juzgar a los acusados de ese caso.",
+    "pregunta": "¿Qué garantía de la Constitución se viola?",
+    "correcta": "Juez natural (art. 18)",
+    "incorrectas": [
+      "Principio de reserva (art. 19)",
+      "Habeas data (art. 43)",
+      "Supremacía constitucional (art. 31)",
+      "Jerarquía de los tratados (art. 75 inc. 22)",
+      "Ninguna, si el tribunal es imparcial"
+    ],
+    "pista": "El problema es CUÁNDO y para QUÉ se creó el tribunal.",
+    "explicacion": "El art. 18 de la Constitución exige que a cada persona la juzguen los jueces que ya existían antes del hecho. Crear un tribunal especial después, para un caso puntual, viola la garantía del juez natural.",
+    "libro": "dye_art18_19"
+  },
+  {
+    "id": "dye-art18-02",
+    "tipo": "caso",
+    "titulo": "La confesión forzada",
+    "situacion": "Durante un interrogatorio, la policía le dice a un sospechoso que si no confiesa no lo dejan ver a su familia.",
+    "pregunta": "¿Qué garantía del art. 18 de la Constitución está en juego?",
+    "correcta": "Que nadie puede ser obligado a declarar contra sí mismo",
+    "incorrectas": [
+      "Que las cárceles deben ser sanas y limpias, no para castigo",
+      "La garantía del juez natural designado antes del hecho",
+      "La inviolabilidad de la correspondencia y los papeles privados",
+      "El principio de reserva de las acciones privadas del art. 19",
+      "La supremacía de la Constitución sobre las leyes (art. 31)"
+    ],
+    "pista": "¿Qué le están tratando de sacar al sospechoso con esa presión?",
+    "explicacion": "El art. 18 de la Constitución dice que nadie puede ser obligado a declarar contra sí mismo. Una confesión conseguida con presiones no vale.",
+    "libro": "dye_art18_19"
+  },
+  {
+    "id": "dye-art18-03",
+    "tipo": "caso",
+    "titulo": "La celda inundada",
+    "situacion": "Un juez autoriza mantener a detenidos en una celda húmeda, sin luz y sin baño «para que aprendan».",
+    "pregunta": "¿Qué dice la Constitución sobre esto?",
+    "correcta": "Que las cárceles serán sanas y limpias, para seguridad y no castigo (art. 18)",
+    "incorrectas": [
+      "Nada: las condiciones de detención las fija cada provincia sin límites",
+      "Que es válido si el detenido ya fue condenado con sentencia firme y definitiva",
+      "Que solo puede reclamarse mediante una acción de habeas data",
+      "Que el art. 19 permite al juez decidir libremente estas medidas de castigo",
+      "Que es una cuestión moral del juez y no una cuestión jurídica"
+    ],
+    "pista": "El final del art. 18 de la Constitución dice para qué sirven los lugares de detención.",
+    "explicacion": "El art. 18 de la Constitución dice que las cárceles deben ser sanas y limpias, para mantener a las personas detenidas de forma segura y no para hacerlas sufrir. El juez que autorice tratos así es responsable.",
+    "libro": "dye_art18_19"
+  },
+  {
+    "id": "dye-art19-01",
+    "tipo": "caso",
+    "titulo": "Lo que pasa en casa",
+    "situacion": "Un municipio quiere multar a los adultos que, dentro de su casa y sin afectar a nadie, se tiñen el pelo de colores «poco serios».",
+    "pregunta": "¿Qué artículo de la Constitución invocarías?",
+    "correcta": "El art. 19 (acciones privadas que no perjudican a terceros)",
+    "incorrectas": [
+      "El art. 18 (garantía del juez natural y defensa en juicio)",
+      "El art. 31 (supremacía de la Constitución sobre las leyes)",
+      "El art. 56 (duración del mandato de los senadores)",
+      "El art. 75 inc. 22 (tratados de derechos humanos)",
+      "El art. 45 (base de población para elegir a los diputados)"
+    ],
+    "pista": "Pasa dentro de una casa y no afecta a nadie más.",
+    "explicacion": "El art. 19 de la Constitución protege lo que cada persona hace en su vida privada mientras no dañe a otros. Teñirse el pelo en tu casa no le incumbe al Estado. Además, nadie está obligado a hacer lo que la ley no manda.",
+    "libro": "dye_art18_19"
+  },
+  {
+    "id": "dye-art19-02",
+    "tipo": "concepto",
+    "titulo": "Magistrado",
+    "situacion": "Leyendo el art. 19 de la Constitución, un compañero pregunta qué significa «exentas de la autoridad de los magistrados».",
+    "pregunta": "¿Qué es un magistrado en ese texto?",
+    "correcta": "Un juez o autoridad judicial",
+    "incorrectas": [
+      "Un legislador",
+      "Un ministro del Poder Ejecutivo",
+      "Un sacerdote",
+      "Un policía",
+      "Un perito"
+    ],
+    "pista": "El sinónimo más habitual tiene cuatro letras.",
+    "explicacion": "«Magistrado» es otra forma de decir juez.",
+    "libro": "dye_art18_19"
+  }
+]

@@ -1,0 +1,288 @@
+[
+  {
+    "id": "norma",
+    "termino": "Norma",
+    "definicion": "Una regla que dice cómo hay que comportarse.",
+    "patron": "\\bnormas?\\b",
+    "definidoEn": [
+      "dye_normas"
+    ]
+  },
+  {
+    "id": "constitucion",
+    "termino": "Constitución",
+    "definicion": "La ley más importante del país.",
+    "patron": "\\bConstitución\\b",
+    "definidoEn": [
+      "dye_glosario",
+      "dye_constitucion"
+    ]
+  },
+  {
+    "id": "delito",
+    "termino": "Delito",
+    "definicion": "Algo que está penado por la ley, como robar o matar.",
+    "patron": "\\bdelitos?\\b",
+    "definidoEn": [
+      "dp_teoria_delito"
+    ]
+  },
+  {
+    "id": "pena",
+    "termino": "Pena",
+    "definicion": "Lo que le toca a quien hace algo prohibido: por ejemplo, ir preso o pagar una multa.",
+    "patron": "\\bpenas?\\b"
+  },
+  {
+    "id": "forma",
+    "termino": "Forma (de gobierno)",
+    "definicion": "Quiere decir «manera» o «modelo». La forma de gobierno es el modelo que la Argentina adoptó para gobernarse.",
+    "patron": "\\bforma(?=\\s+(?:federal|republicana|representativa|de gobierno|de Estado)\\b)"
+  },
+  {
+    "id": "organo",
+    "termino": "Órgano",
+    "definicion": "Cada parte del Estado con una función propia, como el Congreso o un tribunal. Igual que los órganos del cuerpo.",
+    "patron": "\\bórganos?\\b"
+  },
+  {
+    "id": "organismo",
+    "termino": "Organismo",
+    "definicion": "Oficina o institución del Estado que se ocupa de un tema, como un ministerio o una agencia.",
+    "patron": "\\borganismos?\\b"
+  },
+  {
+    "id": "poder-judicial",
+    "termino": "Poder Judicial",
+    "definicion": "El poder formado por los jueces y tribunales, que resuelve los conflictos aplicando las leyes.",
+    "patron": "\\bPoder Judicial\\b"
+  },
+  {
+    "id": "congreso",
+    "termino": "Congreso",
+    "definicion": "Donde se hacen las leyes del país. Lo forman la Cámara de Diputados y el Senado.",
+    "patron": "\\bCongreso\\b"
+  },
+  {
+    "id": "legislatura",
+    "termino": "Legislatura",
+    "definicion": "El órgano que hace las leyes de una provincia.",
+    "patron": "\\blegislaturas?\\b"
+  },
+  {
+    "id": "sancionar",
+    "termino": "Sancionar (una ley)",
+    "definicion": "Aprobar una ley: el Congreso o una legislatura la vota. Ojo: acá «sancionar» no significa castigar.",
+    "patron": "\\bsanciona(?:r|n|do|da)?\\b(?=\\s+(?:una|la|las|leyes)\\b)"
+  },
+  {
+    "id": "decreto",
+    "termino": "Decreto",
+    "definicion": "Una norma que dicta el Presidente.",
+    "patron": "\\bdecretos?\\b"
+  },
+  {
+    "id": "mandato",
+    "termino": "Mandato",
+    "definicion": "Tiempo durante el cual una persona elegida ocupa su cargo. Viene de «mandar» como encargar: los votantes le encargan la tarea.",
+    "patron": "\\bmandatos?\\b",
+    "definidoEn": [
+      "dye_poderes"
+    ]
+  },
+  {
+    "id": "soberania",
+    "termino": "Soberanía",
+    "definicion": "El poder de un Estado para decidir sin depender de otro país.",
+    "patron": "\\bsoberanía\\b"
+  },
+  {
+    "id": "tratado",
+    "termino": "Tratado (o convención)",
+    "definicion": "Acuerdo firmado entre países, que los obliga a cumplir lo que pactaron.",
+    "patron": "\\b(?:tratados?|convenci(?:ón|ones))\\b",
+    "definidoEn": [
+      "dye_tratados_generaciones"
+    ]
+  },
+  {
+    "id": "inconstitucional",
+    "termino": "Inconstitucional",
+    "definicion": "Que va en contra de lo que dice la Constitución.",
+    "patron": "\\binconstitucional(?:es)?\\b"
+  },
+  {
+    "id": "competente",
+    "termino": "Autoridad competente",
+    "definicion": "La autoridad que, según la ley, tiene el poder de decidir sobre ese tema. Acá «competente» no significa hábil.",
+    "patron": "\\bcompetentes?\\b"
+  },
+  {
+    "id": "vigente",
+    "termino": "Vigente",
+    "definicion": "Que se aplica hoy: la norma sigue valiendo y nadie la reemplazó ni la dejó sin efecto.",
+    "patron": "\\bvigentes?\\b"
+  },
+  {
+    "id": "abrogar",
+    "termino": "Abrogar",
+    "definicion": "Dejar sin efecto una norma por completo.",
+    "patron": "\\babrog\\w*"
+  },
+  {
+    "id": "codigo-penal",
+    "termino": "Código Penal",
+    "definicion": "El conjunto de normas que reúne casi todos los delitos y sus penas en la Argentina.",
+    "patron": "\\bCódigo Penal\\b",
+    "definidoEn": [
+      "dp_bienes_codigo"
+    ]
+  },
+  {
+    "id": "inciso",
+    "termino": "Inciso (inc.)",
+    "definicion": "Cada parte numerada dentro de un artículo de una ley.",
+    "patron": "\\binc\\.(?=\\s*\\d)"
+  },
+  {
+    "id": "bis",
+    "termino": "Bis",
+    "definicion": "Artículo agregado después de otro. «Bis» es latín y significa «dos veces»: el número se repite y la numeración sigue igual.",
+    "patron": "(?<=\\d\\s)bis\\b"
+  },
+  {
+    "id": "figura",
+    "termino": "Figura (penal)",
+    "definicion": "Cada delito descripto en la ley. Se le dice así porque la ley «dibuja» la conducta prohibida. Ej.: el hurto es una figura.",
+    "patron": "\\bfiguras?\\b(?!\\s+(?:como|en)\\b)"
+  },
+  {
+    "id": "corte-suprema",
+    "termino": "Corte Suprema",
+    "definicion": "El tribunal más alto del país. «Corte» es otro nombre para un tribunal, y «suprema», que está por encima de los demás.",
+    "patron": "\\bCorte Suprema\\b"
+  },
+  {
+    "id": "tribunal",
+    "termino": "Tribunal",
+    "definicion": "Órgano formado por uno o varios magistrados que decide los conflictos.",
+    "patron": "\\btribunal(?:es)?\\b"
+  },
+  {
+    "id": "sentencia",
+    "termino": "Sentencia",
+    "definicion": "Decisión que toma un juez al final de un juicio.",
+    "patron": "\\bsentencias?\\b"
+  },
+  {
+    "id": "fallo",
+    "termino": "Fallo",
+    "definicion": "La decisión de un tribunal sobre un caso. Viene de «fallar», que en Derecho significa decidir un juicio, no equivocarse.",
+    "patron": "\\bfallos?\\b(?=\\s+(?:de|del)\\b)"
+  },
+  {
+    "id": "fiscalia",
+    "termino": "Fiscalía",
+    "definicion": "El organismo donde trabajan los fiscales, que investigan los delitos y acusan en los juicios.",
+    "patron": "\\bfiscalía\\b"
+  },
+  {
+    "id": "denuncia",
+    "termino": "Denuncia",
+    "definicion": "Aviso formal a la policía o a la fiscalía de que ocurrió un posible delito.",
+    "patron": "\\bdenuncia(?:r|s)?\\b"
+  },
+  {
+    "id": "allanamiento",
+    "termino": "Allanamiento",
+    "definicion": "Orden de un juez para entrar a un lugar, como una casa, y buscar pruebas.",
+    "patron": "\\ballanamientos?\\b"
+  },
+  {
+    "id": "testigo",
+    "termino": "Testigo",
+    "definicion": "Persona que cuenta en un juicio lo que vio o sabe sobre el hecho.",
+    "patron": "\\btestigos?\\b"
+  },
+  {
+    "id": "juramento",
+    "termino": "Bajo juramento",
+    "definicion": "Después de prometer formalmente ante el juez que se va a decir la verdad.",
+    "patron": "\\bjuramento\\b"
+  },
+  {
+    "id": "coartada",
+    "termino": "Coartada",
+    "definicion": "Explicación de que el acusado estaba en otro lugar cuando ocurrió el hecho.",
+    "patron": "\\bcoartadas?\\b"
+  },
+  {
+    "id": "condena",
+    "termino": "Condena",
+    "definicion": "Decisión del juez que declara culpable a una persona y le aplica una pena.",
+    "patron": "\\bcondena(?:s|do|da|dos|das)?\\b"
+  },
+  {
+    "id": "perpetua",
+    "termino": "Prisión perpetua",
+    "definicion": "La pena de prisión más grave del Código Penal. «Perpetua» significa «para toda la vida», aunque a veces se puede salir tras muchos años.",
+    "patron": "\\bprisión perpetua\\b"
+  },
+  {
+    "id": "antecedente",
+    "termino": "Antecedente",
+    "definicion": "Registro de algo que pasó antes y que se puede tener en cuenta después, como una deuda impaga o una condena.",
+    "patron": "\\bantecedentes?\\b"
+  },
+  {
+    "id": "arbitrario",
+    "termino": "Arbitrario",
+    "definicion": "Que se hace por capricho, sin una razón legal que lo justifique.",
+    "patron": "\\barbitrari(?:o|a|os|as)\\b"
+  },
+  {
+    "id": "patrimonio",
+    "termino": "Patrimonio",
+    "definicion": "El conjunto de bienes y dinero que tiene una persona.",
+    "patron": "\\bpatrimoni(?:o|al|ales)\\b",
+    "definidoEn": [
+      "dp_propiedad"
+    ]
+  },
+  {
+    "id": "inmueble",
+    "termino": "Inmueble",
+    "definicion": "Una casa, un departamento o un terreno: los bienes que están fijos en el suelo.",
+    "patron": "\\binmuebles?\\b"
+  },
+  {
+    "id": "embargo",
+    "termino": "Embargo",
+    "definicion": "Orden de un juez para retener dinero o bienes de una persona y así cubrir una deuda.",
+    "patron": "\\bembarg(?:o|os|ar|an|aron|ado|ada)\\b"
+  },
+  {
+    "id": "intimacion",
+    "termino": "Intimación",
+    "definicion": "Reclamo formal para que alguien cumpla algo, por ejemplo pagar una deuda.",
+    "patron": "\\bintimaci(?:ón|ones)\\b"
+  },
+  {
+    "id": "carta-documento",
+    "termino": "Carta documento",
+    "definicion": "Carta con valor legal: deja constancia de qué se envió, a quién y cuándo.",
+    "patron": "\\bcarta documento\\b"
+  },
+  {
+    "id": "sena",
+    "termino": "Seña",
+    "definicion": "Dinero que se paga por adelantado para reservar una compra.",
+    "patron": "\\bseñas?\\b"
+  },
+  {
+    "id": "coima",
+    "termino": "Coima",
+    "definicion": "Pago ilegal a un funcionario para que haga o deje de hacer algo.",
+    "patron": "\\bcoimas?\\b"
+  }
+]

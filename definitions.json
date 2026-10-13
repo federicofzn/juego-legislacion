@@ -1,0 +1,3278 @@
+[
+  {
+    "id": "def-dye-moral",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "normas",
+    "ejemplo": "No mentirle a un amigo.",
+    "titulo": "Norma moral",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Norma moral»?",
+    "respuestaCorrecta": "Regla que nace de la propia conciencia; si no se cumple, la consecuencia es sentir culpa.",
+    "respuestasIncorrectas": [
+      "Costumbre de trato de un grupo; si no se cumple, el grupo te mira mal o te deja de lado.",
+      "Regla que viene de una creencia y obliga solo a quienes forman parte de esa religión.",
+      "Regla dictada por el Estado que es obligatoria para todos y que el Estado puede imponer por la fuerza.",
+      "Posibilidad de que el Estado obligue a cumplir una norma y sancione a quien no la cumple."
+    ],
+    "pista": "Pensá en este ejemplo: No mentirle a un amigo.",
+    "explicacion": "Norma moral: Regla que nace de la propia conciencia; si no se cumple, la consecuencia es sentir culpa. Ejemplo: No mentirle a un amigo.",
+    "referencia": {
+      "tipo": "Normas",
+      "titulo": "Los cuatro tipos de normas",
+      "entradaLibro": "dye_normas"
+    }
+  },
+  {
+    "id": "def-dye-social",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "normas",
+    "ejemplo": "Saludar al llegar a la oficina.",
+    "titulo": "Norma social",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Norma social»?",
+    "respuestaCorrecta": "Costumbre de trato de un grupo; si no se cumple, el grupo te mira mal o te deja de lado.",
+    "respuestasIncorrectas": [
+      "Regla que nace de la propia conciencia; si no se cumple, la consecuencia es sentir culpa.",
+      "Regla que viene de una creencia y obliga solo a quienes forman parte de esa religión.",
+      "Regla dictada por el Estado que es obligatoria para todos y que el Estado puede imponer por la fuerza.",
+      "Posibilidad de que el Estado obligue a cumplir una norma y sancione a quien no la cumple."
+    ],
+    "pista": "Pensá en este ejemplo: Saludar al llegar a la oficina.",
+    "explicacion": "Norma social: Costumbre de trato de un grupo; si no se cumple, el grupo te mira mal o te deja de lado. Ejemplo: Saludar al llegar a la oficina.",
+    "referencia": {
+      "tipo": "Normas",
+      "titulo": "Los cuatro tipos de normas",
+      "entradaLibro": "dye_normas"
+    }
+  },
+  {
+    "id": "def-dye-religiosa",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "normas",
+    "ejemplo": "Ayunar en ciertas fechas.",
+    "titulo": "Norma religiosa",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Norma religiosa»?",
+    "respuestaCorrecta": "Regla que viene de una creencia y obliga solo a quienes forman parte de esa religión.",
+    "respuestasIncorrectas": [
+      "Regla que nace de la propia conciencia; si no se cumple, la consecuencia es sentir culpa.",
+      "Costumbre de trato de un grupo; si no se cumple, el grupo te mira mal o te deja de lado.",
+      "Regla dictada por el Estado que es obligatoria para todos y que el Estado puede imponer por la fuerza.",
+      "Posibilidad de que el Estado obligue a cumplir una norma y sancione a quien no la cumple."
+    ],
+    "pista": "Pensá en este ejemplo: Ayunar en ciertas fechas.",
+    "explicacion": "Norma religiosa: Regla que viene de una creencia y obliga solo a quienes forman parte de esa religión. Ejemplo: Ayunar en ciertas fechas.",
+    "referencia": {
+      "tipo": "Normas",
+      "titulo": "Los cuatro tipos de normas",
+      "entradaLibro": "dye_normas"
+    }
+  },
+  {
+    "id": "def-dye-juridica",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "normas",
+    "ejemplo": "Pagar los impuestos.",
+    "titulo": "Norma jurídica",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Norma jurídica»?",
+    "respuestaCorrecta": "Regla dictada por el Estado que es obligatoria para todos y que el Estado puede imponer por la fuerza.",
+    "respuestasIncorrectas": [
+      "Regla que nace de la propia conciencia; si no se cumple, la consecuencia es sentir culpa.",
+      "Costumbre de trato de un grupo; si no se cumple, el grupo te mira mal o te deja de lado.",
+      "Regla que viene de una creencia y obliga solo a quienes forman parte de esa religión.",
+      "Posibilidad de que el Estado obligue a cumplir una norma y sancione a quien no la cumple."
+    ],
+    "pista": "Pensá en este ejemplo: Pagar los impuestos.",
+    "explicacion": "Norma jurídica: Regla dictada por el Estado que es obligatoria para todos y que el Estado puede imponer por la fuerza. Ejemplo: Pagar los impuestos.",
+    "referencia": {
+      "tipo": "Normas",
+      "titulo": "Los cuatro tipos de normas",
+      "entradaLibro": "dye_normas"
+    }
+  },
+  {
+    "id": "def-dye-coercible",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "normas",
+    "ejemplo": "Un embargo por una multa que no se pagó.",
+    "titulo": "Coercibilidad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Coercibilidad»?",
+    "respuestaCorrecta": "Posibilidad de que el Estado obligue a cumplir una norma y sancione a quien no la cumple.",
+    "respuestasIncorrectas": [
+      "Regla que nace de la propia conciencia; si no se cumple, la consecuencia es sentir culpa.",
+      "Costumbre de trato de un grupo; si no se cumple, el grupo te mira mal o te deja de lado.",
+      "Regla que viene de una creencia y obliga solo a quienes forman parte de esa religión.",
+      "Regla dictada por el Estado que es obligatoria para todos y que el Estado puede imponer por la fuerza."
+    ],
+    "pista": "Pensá en este ejemplo: Un embargo por una multa que no se pagó.",
+    "explicacion": "Coercibilidad: Posibilidad de que el Estado obligue a cumplir una norma y sancione a quien no la cumple. Ejemplo: Un embargo por una multa que no se pagó.",
+    "referencia": {
+      "tipo": "Normas",
+      "titulo": "Los cuatro tipos de normas",
+      "entradaLibro": "dye_normas"
+    }
+  },
+  {
+    "id": "def-dye-ley",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "fuentes",
+    "ejemplo": "El Código Penal.",
+    "titulo": "Ley (como fuente del Derecho)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Ley (como fuente del Derecho)»?",
+    "respuestaCorrecta": "Norma escrita dictada por la autoridad competente, como el Congreso; es la fuente principal.",
+    "respuestasIncorrectas": [
+      "Algo que la gente hace repetidamente durante mucho tiempo y siente como obligatorio.",
+      "Los criterios que surgen de las sentencias de los jueces al resolver casos parecidos.",
+      "Lo que escriben los especialistas en Derecho para explicar e interpretar las normas.",
+      "Principios justos que existen por el solo hecho de ser personas, aunque nadie los escriba.",
+      "Las normas que efectivamente están vigentes en un país porque las dictó una autoridad.",
+      "Normas para situaciones en las que el Estado actúa con autoridad sobre las personas.",
+      "Normas para relaciones entre particulares que están en igualdad de condiciones."
+    ],
+    "pista": "Pensá en este ejemplo: El Código Penal.",
+    "explicacion": "Ley (como fuente del Derecho): Norma escrita dictada por la autoridad competente, como el Congreso; es la fuente principal. Ejemplo: El Código Penal.",
+    "referencia": {
+      "tipo": "Derecho",
+      "titulo": "Qué es el Derecho, de dónde sale y cómo se divide",
+      "entradaLibro": "dye_derecho_fuentes"
+    }
+  },
+  {
+    "id": "def-dye-costumbre",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "fuentes",
+    "ejemplo": "Una práctica comercial que todos respetan desde hace décadas.",
+    "titulo": "Costumbre (como fuente del Derecho)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Costumbre (como fuente del Derecho)»?",
+    "respuestaCorrecta": "Algo que la gente hace repetidamente durante mucho tiempo y siente como obligatorio.",
+    "respuestasIncorrectas": [
+      "Norma escrita dictada por la autoridad competente, como el Congreso; es la fuente principal.",
+      "Los criterios que surgen de las sentencias de los jueces al resolver casos parecidos.",
+      "Lo que escriben los especialistas en Derecho para explicar e interpretar las normas.",
+      "Principios justos que existen por el solo hecho de ser personas, aunque nadie los escriba.",
+      "Las normas que efectivamente están vigentes en un país porque las dictó una autoridad.",
+      "Normas para situaciones en las que el Estado actúa con autoridad sobre las personas.",
+      "Normas para relaciones entre particulares que están en igualdad de condiciones."
+    ],
+    "pista": "Pensá en este ejemplo: Una práctica comercial que todos respetan desde hace décadas.",
+    "explicacion": "Costumbre (como fuente del Derecho): Algo que la gente hace repetidamente durante mucho tiempo y siente como obligatorio. Ejemplo: Una práctica comercial que todos respetan desde hace décadas.",
+    "referencia": {
+      "tipo": "Derecho",
+      "titulo": "Qué es el Derecho, de dónde sale y cómo se divide",
+      "entradaLibro": "dye_derecho_fuentes"
+    }
+  },
+  {
+    "id": "def-dye-jurisprudencia",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "fuentes",
+    "ejemplo": "Varios fallos de la Corte Suprema que interpretan igual una ley.",
+    "titulo": "Jurisprudencia",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Jurisprudencia»?",
+    "respuestaCorrecta": "Los criterios que surgen de las sentencias de los jueces al resolver casos parecidos.",
+    "respuestasIncorrectas": [
+      "Norma escrita dictada por la autoridad competente, como el Congreso; es la fuente principal.",
+      "Algo que la gente hace repetidamente durante mucho tiempo y siente como obligatorio.",
+      "Lo que escriben los especialistas en Derecho para explicar e interpretar las normas.",
+      "Principios justos que existen por el solo hecho de ser personas, aunque nadie los escriba.",
+      "Las normas que efectivamente están vigentes en un país porque las dictó una autoridad.",
+      "Normas para situaciones en las que el Estado actúa con autoridad sobre las personas.",
+      "Normas para relaciones entre particulares que están en igualdad de condiciones."
+    ],
+    "pista": "Pensá en este ejemplo: Varios fallos de la Corte Suprema que interpretan igual una ley.",
+    "explicacion": "Jurisprudencia: Los criterios que surgen de las sentencias de los jueces al resolver casos parecidos. Ejemplo: Varios fallos de la Corte Suprema que interpretan igual una ley.",
+    "referencia": {
+      "tipo": "Derecho",
+      "titulo": "Qué es el Derecho, de dónde sale y cómo se divide",
+      "entradaLibro": "dye_derecho_fuentes"
+    }
+  },
+  {
+    "id": "def-dye-doctrina",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "fuentes",
+    "ejemplo": "El manual de un profesor de Derecho Constitucional.",
+    "titulo": "Doctrina",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Doctrina»?",
+    "respuestaCorrecta": "Lo que escriben los especialistas en Derecho para explicar e interpretar las normas.",
+    "respuestasIncorrectas": [
+      "Norma escrita dictada por la autoridad competente, como el Congreso; es la fuente principal.",
+      "Algo que la gente hace repetidamente durante mucho tiempo y siente como obligatorio.",
+      "Los criterios que surgen de las sentencias de los jueces al resolver casos parecidos.",
+      "Principios justos que existen por el solo hecho de ser personas, aunque nadie los escriba.",
+      "Las normas que efectivamente están vigentes en un país porque las dictó una autoridad.",
+      "Normas para situaciones en las que el Estado actúa con autoridad sobre las personas.",
+      "Normas para relaciones entre particulares que están en igualdad de condiciones."
+    ],
+    "pista": "Pensá en este ejemplo: el manual de un profesor universitario.",
+    "explicacion": "Doctrina: Lo que escriben los especialistas en Derecho para explicar e interpretar las normas. Ejemplo: El manual de un profesor de Derecho Constitucional.",
+    "referencia": {
+      "tipo": "Derecho",
+      "titulo": "Qué es el Derecho, de dónde sale y cómo se divide",
+      "entradaLibro": "dye_derecho_fuentes"
+    }
+  },
+  {
+    "id": "def-dye-natural",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "fuentes",
+    "ejemplo": "La dignidad humana.",
+    "titulo": "Derecho Natural",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Derecho Natural»?",
+    "respuestaCorrecta": "Principios justos que existen por el solo hecho de ser personas, aunque nadie los escriba.",
+    "respuestasIncorrectas": [
+      "Norma escrita dictada por la autoridad competente, como el Congreso; es la fuente principal.",
+      "Algo que la gente hace repetidamente durante mucho tiempo y siente como obligatorio.",
+      "Los criterios que surgen de las sentencias de los jueces al resolver casos parecidos.",
+      "Lo que escriben los especialistas en Derecho para explicar e interpretar las normas.",
+      "Las normas que efectivamente están vigentes en un país porque las dictó una autoridad.",
+      "Normas para situaciones en las que el Estado actúa con autoridad sobre las personas.",
+      "Normas para relaciones entre particulares que están en igualdad de condiciones."
+    ],
+    "pista": "Pensá en este ejemplo: La dignidad humana.",
+    "explicacion": "Derecho Natural: Principios justos que existen por el solo hecho de ser personas, aunque nadie los escriba. Ejemplo: La dignidad humana.",
+    "referencia": {
+      "tipo": "Derecho",
+      "titulo": "Qué es el Derecho, de dónde sale y cómo se divide",
+      "entradaLibro": "dye_derecho_fuentes"
+    }
+  },
+  {
+    "id": "def-dye-positivo",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "fuentes",
+    "ejemplo": "El Código Penal argentino actual.",
+    "titulo": "Derecho Positivo",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Derecho Positivo»?",
+    "respuestaCorrecta": "Las normas que efectivamente están vigentes en un país porque las dictó una autoridad.",
+    "respuestasIncorrectas": [
+      "Norma escrita dictada por la autoridad competente, como el Congreso; es la fuente principal.",
+      "Algo que la gente hace repetidamente durante mucho tiempo y siente como obligatorio.",
+      "Los criterios que surgen de las sentencias de los jueces al resolver casos parecidos.",
+      "Lo que escriben los especialistas en Derecho para explicar e interpretar las normas.",
+      "Principios justos que existen por el solo hecho de ser personas, aunque nadie los escriba.",
+      "Normas para situaciones en las que el Estado actúa con autoridad sobre las personas.",
+      "Normas para relaciones entre particulares que están en igualdad de condiciones."
+    ],
+    "pista": "Pensá en este ejemplo: El Código Penal argentino actual.",
+    "explicacion": "Derecho Positivo: Las normas que efectivamente están vigentes en un país porque las dictó una autoridad. Ejemplo: El Código Penal argentino actual.",
+    "referencia": {
+      "tipo": "Derecho",
+      "titulo": "Qué es el Derecho, de dónde sale y cómo se divide",
+      "entradaLibro": "dye_derecho_fuentes"
+    }
+  },
+  {
+    "id": "def-dye-publico",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "fuentes",
+    "ejemplo": "El cobro de impuestos.",
+    "titulo": "Derecho Público",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Derecho Público»?",
+    "respuestaCorrecta": "Normas para situaciones en las que el Estado actúa con autoridad sobre las personas.",
+    "respuestasIncorrectas": [
+      "Norma escrita dictada por la autoridad competente, como el Congreso; es la fuente principal.",
+      "Algo que la gente hace repetidamente durante mucho tiempo y siente como obligatorio.",
+      "Los criterios que surgen de las sentencias de los jueces al resolver casos parecidos.",
+      "Lo que escriben los especialistas en Derecho para explicar e interpretar las normas.",
+      "Principios justos que existen por el solo hecho de ser personas, aunque nadie los escriba.",
+      "Las normas que efectivamente están vigentes en un país porque las dictó una autoridad.",
+      "Normas para relaciones entre particulares que están en igualdad de condiciones."
+    ],
+    "pista": "Pensá en este ejemplo: El cobro de impuestos.",
+    "explicacion": "Derecho Público: Normas para situaciones en las que el Estado actúa con autoridad sobre las personas. Ejemplo: El cobro de impuestos.",
+    "referencia": {
+      "tipo": "Derecho",
+      "titulo": "Qué es el Derecho, de dónde sale y cómo se divide",
+      "entradaLibro": "dye_derecho_fuentes"
+    }
+  },
+  {
+    "id": "def-dye-privado",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "fuentes",
+    "ejemplo": "Un contrato de alquiler entre dos personas.",
+    "titulo": "Derecho Privado",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Derecho Privado»?",
+    "respuestaCorrecta": "Normas para relaciones entre particulares que están en igualdad de condiciones.",
+    "respuestasIncorrectas": [
+      "Norma escrita dictada por la autoridad competente, como el Congreso; es la fuente principal.",
+      "Algo que la gente hace repetidamente durante mucho tiempo y siente como obligatorio.",
+      "Los criterios que surgen de las sentencias de los jueces al resolver casos parecidos.",
+      "Lo que escriben los especialistas en Derecho para explicar e interpretar las normas.",
+      "Principios justos que existen por el solo hecho de ser personas, aunque nadie los escriba.",
+      "Las normas que efectivamente están vigentes en un país porque las dictó una autoridad.",
+      "Normas para situaciones en las que el Estado actúa con autoridad sobre las personas."
+    ],
+    "pista": "Pensá en este ejemplo: Un contrato de alquiler entre dos personas.",
+    "explicacion": "Derecho Privado: Normas para relaciones entre particulares que están en igualdad de condiciones. Ejemplo: Un contrato de alquiler entre dos personas.",
+    "referencia": {
+      "tipo": "Derecho",
+      "titulo": "Qué es el Derecho, de dónde sale y cómo se divide",
+      "entradaLibro": "dye_derecho_fuentes"
+    }
+  },
+  {
+    "id": "def-dye-nacion",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "estado",
+    "ejemplo": "Un pueblo con idioma y tradiciones comunes, sin territorio propio.",
+    "titulo": "Nación",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Nación»?",
+    "respuestaCorrecta": "Grupo de personas unidas por historia, cultura o identidad, aunque no tenga un Estado propio.",
+    "respuestasIncorrectas": [
+      "Organización política permanente de un país, con población, territorio, gobierno y soberanía.",
+      "Las personas y órganos que dirigen el Estado durante un período; cambia con las elecciones.",
+      "El pueblo no decide todo directamente: elige representantes que deciden en su nombre.",
+      "El poder está dividido en tres para que ninguno concentre todo, y cada uno controla a los otros.",
+      "El poder se reparte entre el Estado nacional y las provincias, que tienen su propio gobierno.",
+      "Los ciudadanos juntan firmas y presentan ellos mismos un proyecto de ley al Congreso."
+    ],
+    "pista": "Pensá en este ejemplo: Un pueblo con idioma y tradiciones comunes, sin territorio propio.",
+    "explicacion": "Nación: Grupo de personas unidas por historia, cultura o identidad, aunque no tenga un Estado propio. Ejemplo: Un pueblo con idioma y tradiciones comunes, sin territorio propio.",
+    "referencia": {
+      "tipo": "Estado",
+      "titulo": "Nación, Estado, gobierno y cómo se organiza la Argentina",
+      "entradaLibro": "dye_estado_gobierno"
+    }
+  },
+  {
+    "id": "def-dye-estado",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "estado",
+    "ejemplo": "El Estado argentino sigue siendo el mismo aunque cambie el presidente.",
+    "titulo": "Estado",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Estado»?",
+    "respuestaCorrecta": "Organización política permanente de un país, con población, territorio, gobierno y soberanía.",
+    "respuestasIncorrectas": [
+      "Grupo de personas unidas por historia, cultura o identidad, aunque no tenga un Estado propio.",
+      "Las personas y órganos que dirigen el Estado durante un período; cambia con las elecciones.",
+      "El pueblo no decide todo directamente: elige representantes que deciden en su nombre.",
+      "El poder está dividido en tres para que ninguno concentre todo, y cada uno controla a los otros.",
+      "El poder se reparte entre el Estado nacional y las provincias, que tienen su propio gobierno.",
+      "Los ciudadanos juntan firmas y presentan ellos mismos un proyecto de ley al Congreso."
+    ],
+    "pista": "Pensá en este ejemplo: El Estado argentino sigue siendo el mismo aunque cambie el presidente.",
+    "explicacion": "Estado: Organización política permanente de un país, con población, territorio, gobierno y soberanía. Ejemplo: El Estado argentino sigue siendo el mismo aunque cambie el presidente.",
+    "referencia": {
+      "tipo": "Estado",
+      "titulo": "Nación, Estado, gobierno y cómo se organiza la Argentina",
+      "entradaLibro": "dye_estado_gobierno"
+    }
+  },
+  {
+    "id": "def-dye-gobierno",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "estado",
+    "ejemplo": "El presidente y sus ministros durante su mandato.",
+    "titulo": "Gobierno",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Gobierno»?",
+    "respuestaCorrecta": "Las personas y órganos que dirigen el Estado durante un período; cambia con las elecciones.",
+    "respuestasIncorrectas": [
+      "Grupo de personas unidas por historia, cultura o identidad, aunque no tenga un Estado propio.",
+      "Organización política permanente de un país, con población, territorio, gobierno y soberanía.",
+      "El pueblo no decide todo directamente: elige representantes que deciden en su nombre.",
+      "El poder está dividido en tres para que ninguno concentre todo, y cada uno controla a los otros.",
+      "El poder se reparte entre el Estado nacional y las provincias, que tienen su propio gobierno.",
+      "Los ciudadanos juntan firmas y presentan ellos mismos un proyecto de ley al Congreso."
+    ],
+    "pista": "Pensá en este ejemplo: El presidente y sus ministros durante su mandato.",
+    "explicacion": "Gobierno: Las personas y órganos que dirigen el Estado durante un período; cambia con las elecciones. Ejemplo: El presidente y sus ministros durante su mandato.",
+    "referencia": {
+      "tipo": "Estado",
+      "titulo": "Nación, Estado, gobierno y cómo se organiza la Argentina",
+      "entradaLibro": "dye_estado_gobierno"
+    }
+  },
+  {
+    "id": "def-dye-representativa",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "estado",
+    "ejemplo": "Votar a diputados y senadores.",
+    "titulo": "Forma representativa",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Forma representativa»?",
+    "respuestaCorrecta": "El pueblo no decide todo directamente: elige representantes que deciden en su nombre.",
+    "respuestasIncorrectas": [
+      "Grupo de personas unidas por historia, cultura o identidad, aunque no tenga un Estado propio.",
+      "Organización política permanente de un país, con población, territorio, gobierno y soberanía.",
+      "Las personas y órganos que dirigen el Estado durante un período; cambia con las elecciones.",
+      "El poder está dividido en tres para que ninguno concentre todo, y cada uno controla a los otros.",
+      "El poder se reparte entre el Estado nacional y las provincias, que tienen su propio gobierno.",
+      "Los ciudadanos juntan firmas y presentan ellos mismos un proyecto de ley al Congreso."
+    ],
+    "pista": "Pensá en este ejemplo: Votar a diputados y senadores.",
+    "explicacion": "Forma representativa: El pueblo no decide todo directamente: elige representantes que deciden en su nombre. Ejemplo: Votar a diputados y senadores.",
+    "referencia": {
+      "tipo": "Estado",
+      "titulo": "Nación, Estado, gobierno y cómo se organiza la Argentina",
+      "entradaLibro": "dye_estado_gobierno"
+    }
+  },
+  {
+    "id": "def-dye-republicana",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "estado",
+    "ejemplo": "Un juez puede declarar inválido un decreto del presidente.",
+    "titulo": "Forma republicana",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Forma republicana»?",
+    "respuestaCorrecta": "El poder está dividido en tres para que ninguno concentre todo, y cada uno controla a los otros.",
+    "respuestasIncorrectas": [
+      "Grupo de personas unidas por historia, cultura o identidad, aunque no tenga un Estado propio.",
+      "Organización política permanente de un país, con población, territorio, gobierno y soberanía.",
+      "Las personas y órganos que dirigen el Estado durante un período; cambia con las elecciones.",
+      "El pueblo no decide todo directamente: elige representantes que deciden en su nombre.",
+      "El poder se reparte entre el Estado nacional y las provincias, que tienen su propio gobierno.",
+      "Los ciudadanos juntan firmas y presentan ellos mismos un proyecto de ley al Congreso."
+    ],
+    "pista": "Pensá en este ejemplo: Un juez puede declarar inválido un decreto del presidente.",
+    "explicacion": "Forma republicana: El poder está dividido en tres para que ninguno concentre todo, y cada uno controla a los otros. Ejemplo: Un juez puede declarar inválido un decreto del presidente.",
+    "referencia": {
+      "tipo": "Estado",
+      "titulo": "Nación, Estado, gobierno y cómo se organiza la Argentina",
+      "entradaLibro": "dye_estado_gobierno"
+    }
+  },
+  {
+    "id": "def-dye-federal",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "estado",
+    "ejemplo": "Cada provincia tiene su constitución y su gobernador.",
+    "titulo": "Forma federal",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Forma federal»?",
+    "respuestaCorrecta": "El poder se reparte entre el Estado nacional y las provincias, que tienen su propio gobierno.",
+    "respuestasIncorrectas": [
+      "Grupo de personas unidas por historia, cultura o identidad, aunque no tenga un Estado propio.",
+      "Organización política permanente de un país, con población, territorio, gobierno y soberanía.",
+      "Las personas y órganos que dirigen el Estado durante un período; cambia con las elecciones.",
+      "El pueblo no decide todo directamente: elige representantes que deciden en su nombre.",
+      "El poder está dividido en tres para que ninguno concentre todo, y cada uno controla a los otros.",
+      "Los ciudadanos juntan firmas y presentan ellos mismos un proyecto de ley al Congreso."
+    ],
+    "pista": "No se trata de cuántos poderes hay (Ejecutivo, Legislativo, Judicial), sino de cómo se divide el poder entre distintos lugares del país.",
+    "explicacion": "Forma federal: El poder se reparte entre el Estado nacional y las provincias, que tienen su propio gobierno. Ejemplo: Cada provincia tiene su constitución y su gobernador.",
+    "referencia": {
+      "tipo": "Estado",
+      "titulo": "Nación, Estado, gobierno y cómo se organiza la Argentina",
+      "entradaLibro": "dye_estado_gobierno"
+    }
+  },
+  {
+    "id": "def-dye-iniciativa",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "estado",
+    "ejemplo": "Una ONG presenta un proyecto con miles de firmas.",
+    "titulo": "Iniciativa popular",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Iniciativa popular»?",
+    "respuestaCorrecta": "Los ciudadanos juntan firmas y presentan ellos mismos un proyecto de ley al Congreso.",
+    "respuestasIncorrectas": [
+      "Grupo de personas unidas por historia, cultura o identidad, aunque no tenga un Estado propio.",
+      "Organización política permanente de un país, con población, territorio, gobierno y soberanía.",
+      "Las personas y órganos que dirigen el Estado durante un período; cambia con las elecciones.",
+      "El pueblo no decide todo directamente: elige representantes que deciden en su nombre.",
+      "El poder está dividido en tres para que ninguno concentre todo, y cada uno controla a los otros.",
+      "El poder se reparte entre el Estado nacional y las provincias, que tienen su propio gobierno."
+    ],
+    "pista": "Es una forma de participar directamente: la gente propone, en lugar de solo votar.",
+    "explicacion": "Iniciativa popular: Los ciudadanos juntan firmas y presentan ellos mismos un proyecto de ley al Congreso. Ejemplo: Una ONG presenta un proyecto con miles de firmas.",
+    "referencia": {
+      "tipo": "Estado",
+      "titulo": "Nación, Estado, gobierno y cómo se organiza la Argentina",
+      "entradaLibro": "dye_estado_gobierno"
+    }
+  },
+  {
+    "id": "def-dye-supremacia",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "constitucion",
+    "ejemplo": "Una ley provincial que prohíbe criticar al gobernador no vale.",
+    "titulo": "Supremacía constitucional (art. 31)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Supremacía constitucional (art. 31)»?",
+    "respuestaCorrecta": "La Constitución está por encima de todas las demás normas: si una la contradice, no vale.",
+    "respuestasIncorrectas": [
+      "La parte de la Constitución que reconoce los derechos de las personas y sus garantías.",
+      "La parte de la Constitución que organiza los poderes del Estado y sus mandatos.",
+      "Rango que tienen ciertos tratados de derechos humanos: el mismo nivel que la Constitución.",
+      "Herramienta para defender un derecho cuando alguien lo viola.",
+      "Cuando un juez revisa si una ley respeta la Constitución y no la aplica si no la respeta."
+    ],
+    "pista": "Pensá en qué pasa con una ley provincial que choca con la Constitución.",
+    "explicacion": "Supremacía constitucional (art. 31): La Constitución está por encima de todas las demás normas: si una la contradice, no vale. Ejemplo: Una ley provincial que prohíbe criticar al gobernador no vale.",
+    "referencia": {
+      "tipo": "Constitución",
+      "titulo": "La Constitución: por qué es la ley más importante y cómo está armada",
+      "entradaLibro": "dye_constitucion"
+    }
+  },
+  {
+    "id": "def-dye-dogmatica",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "constitucion",
+    "ejemplo": "El artículo que reconoce la libertad de expresión.",
+    "titulo": "Parte dogmática de la Constitución",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Parte dogmática de la Constitución»?",
+    "respuestaCorrecta": "La parte de la Constitución que reconoce los derechos de las personas y sus garantías.",
+    "respuestasIncorrectas": [
+      "La Constitución está por encima de todas las demás normas: si una la contradice, no vale.",
+      "La parte de la Constitución que organiza los poderes del Estado y sus mandatos.",
+      "Rango que tienen ciertos tratados de derechos humanos: el mismo nivel que la Constitución.",
+      "Herramienta para defender un derecho cuando alguien lo viola.",
+      "Cuando un juez revisa si una ley respeta la Constitución y no la aplica si no la respeta."
+    ],
+    "pista": "Pensá en este ejemplo: el artículo de la libertad de expresión.",
+    "explicacion": "Parte dogmática de la Constitución: La parte de la Constitución que reconoce los derechos de las personas y sus garantías. Ejemplo: El artículo que reconoce la libertad de expresión.",
+    "referencia": {
+      "tipo": "Constitución",
+      "titulo": "La Constitución: por qué es la ley más importante y cómo está armada",
+      "entradaLibro": "dye_constitucion"
+    }
+  },
+  {
+    "id": "def-dye-organica",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "constitucion",
+    "ejemplo": "El artículo que dice cuánto duran los senadores.",
+    "titulo": "Parte orgánica de la Constitución",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Parte orgánica de la Constitución»?",
+    "respuestaCorrecta": "La parte de la Constitución que organiza los poderes del Estado y sus mandatos.",
+    "respuestasIncorrectas": [
+      "La Constitución está por encima de todas las demás normas: si una la contradice, no vale.",
+      "La parte de la Constitución que reconoce los derechos de las personas y sus garantías.",
+      "Rango que tienen ciertos tratados de derechos humanos: el mismo nivel que la Constitución.",
+      "Herramienta para defender un derecho cuando alguien lo viola.",
+      "Cuando un juez revisa si una ley respeta la Constitución y no la aplica si no la respeta."
+    ],
+    "pista": "Pensá en este ejemplo: El artículo que dice cuánto duran los senadores.",
+    "explicacion": "Parte orgánica de la Constitución: La parte de la Constitución que organiza los poderes del Estado y sus mandatos. Ejemplo: El artículo que dice cuánto duran los senadores.",
+    "referencia": {
+      "tipo": "Constitución",
+      "titulo": "La Constitución: por qué es la ley más importante y cómo está armada",
+      "entradaLibro": "dye_constitucion"
+    }
+  },
+  {
+    "id": "def-dye-jerarquia",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "constitucion",
+    "ejemplo": "La Convención sobre los Derechos del Niño.",
+    "titulo": "Jerarquía constitucional (art. 75 inc. 22)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Jerarquía constitucional (art. 75 inc. 22)»?",
+    "respuestaCorrecta": "Rango que tienen ciertos tratados de derechos humanos: el mismo nivel que la Constitución.",
+    "respuestasIncorrectas": [
+      "La Constitución está por encima de todas las demás normas: si una la contradice, no vale.",
+      "La parte de la Constitución que reconoce los derechos de las personas y sus garantías.",
+      "La parte de la Constitución que organiza los poderes del Estado y sus mandatos.",
+      "Herramienta para defender un derecho cuando alguien lo viola.",
+      "Cuando un juez revisa si una ley respeta la Constitución y no la aplica si no la respeta."
+    ],
+    "pista": "Pensá en este ejemplo: La Convención sobre los Derechos del Niño.",
+    "explicacion": "Jerarquía constitucional (art. 75 inc. 22): Rango que tienen ciertos tratados de derechos humanos: el mismo nivel que la Constitución. Ejemplo: La Convención sobre los Derechos del Niño.",
+    "referencia": {
+      "tipo": "Constitución",
+      "titulo": "Tratados de derechos humanos y «generaciones» de derechos",
+      "entradaLibro": "dye_tratados_generaciones"
+    }
+  },
+  {
+    "id": "def-dye-garantia",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "constitucion",
+    "ejemplo": "El habeas corpus protege la libertad física.",
+    "titulo": "Garantía constitucional",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Garantía constitucional»?",
+    "respuestaCorrecta": "Herramienta para defender un derecho cuando alguien lo viola.",
+    "respuestasIncorrectas": [
+      "La Constitución está por encima de todas las demás normas: si una la contradice, no vale.",
+      "La parte de la Constitución que reconoce los derechos de las personas y sus garantías.",
+      "La parte de la Constitución que organiza los poderes del Estado y sus mandatos.",
+      "Rango que tienen ciertos tratados de derechos humanos: el mismo nivel que la Constitución.",
+      "Cuando un juez revisa si una ley respeta la Constitución y no la aplica si no la respeta."
+    ],
+    "pista": "Pensá en este ejemplo: El habeas corpus protege la libertad física.",
+    "explicacion": "Garantía constitucional: Herramienta para defender un derecho cuando alguien lo viola. Ejemplo: El habeas corpus protege la libertad física.",
+    "referencia": {
+      "tipo": "Empezá por acá",
+      "titulo": "Palabras básicas de Derecho y Estado",
+      "entradaLibro": "dye_glosario"
+    }
+  },
+  {
+    "id": "def-dye-control",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "constitucion",
+    "ejemplo": "Un juez declara inconstitucional una ley y no la aplica al caso.",
+    "titulo": "Control de constitucionalidad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Control de constitucionalidad»?",
+    "respuestaCorrecta": "Cuando un juez revisa si una ley respeta la Constitución y no la aplica si no la respeta.",
+    "respuestasIncorrectas": [
+      "La Constitución está por encima de todas las demás normas: si una la contradice, no vale.",
+      "La parte de la Constitución que reconoce los derechos de las personas y sus garantías.",
+      "La parte de la Constitución que organiza los poderes del Estado y sus mandatos.",
+      "Rango que tienen ciertos tratados de derechos humanos: el mismo nivel que la Constitución.",
+      "Herramienta para defender un derecho cuando alguien lo viola."
+    ],
+    "pista": "Pensá en este ejemplo: un tribunal decide que una norma va contra la Constitución y la deja de lado en ese caso.",
+    "explicacion": "Control de constitucionalidad: Cuando un juez revisa si una ley respeta la Constitución y no la aplica si no la respeta. Ejemplo: Un juez declara inconstitucional una ley y no la aplica al caso.",
+    "referencia": {
+      "tipo": "Estado",
+      "titulo": "Los tres poderes y cuánto duran los mandatos",
+      "entradaLibro": "dye_poderes"
+    }
+  },
+  {
+    "id": "def-dye-hcorpus",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "garantias",
+    "ejemplo": "Te detienen sin orden ni motivo.",
+    "titulo": "Habeas corpus",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Habeas corpus»?",
+    "respuestaCorrecta": "Acción judicial rápida para proteger la libertad física ante una detención ilegal.",
+    "respuestasIncorrectas": [
+      "Acción judicial para conocer, corregir o borrar tus datos personales guardados por otros.",
+      "Acción judicial rápida para frenar una violación arbitraria de cualquier otro derecho.",
+      "Derecho a ser juzgado por los jueces que ya existían antes del hecho, no por un tribunal especial.",
+      "Lo que una persona hace en privado sin dañar a otros no le incumbe al Estado."
+    ],
+    "pista": "Pensá en este ejemplo: Te detienen sin orden ni motivo.",
+    "explicacion": "Habeas corpus: Acción judicial rápida para proteger la libertad física ante una detención ilegal. Ejemplo: Te detienen sin orden ni motivo.",
+    "referencia": {
+      "tipo": "Garantías",
+      "titulo": "Habeas corpus, habeas data y amparo",
+      "entradaLibro": "dye_garantias"
+    }
+  },
+  {
+    "id": "def-dye-hdata",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "garantias",
+    "ejemplo": "Una base te muestra como deudor por una deuda que no existe.",
+    "titulo": "Habeas data",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Habeas data»?",
+    "respuestaCorrecta": "Acción judicial para conocer, corregir o borrar tus datos personales guardados por otros.",
+    "respuestasIncorrectas": [
+      "Acción judicial rápida para proteger la libertad física ante una detención ilegal.",
+      "Acción judicial rápida para frenar una violación arbitraria de cualquier otro derecho.",
+      "Derecho a ser juzgado por los jueces que ya existían antes del hecho, no por un tribunal especial.",
+      "Lo que una persona hace en privado sin dañar a otros no le incumbe al Estado."
+    ],
+    "pista": "Pensá en este ejemplo: Una base te muestra como deudor por una deuda que no existe.",
+    "explicacion": "Habeas data: Acción judicial para conocer, corregir o borrar tus datos personales guardados por otros. Ejemplo: Una base te muestra como deudor por una deuda que no existe.",
+    "referencia": {
+      "tipo": "Garantías",
+      "titulo": "Habeas corpus, habeas data y amparo",
+      "entradaLibro": "dye_garantias"
+    }
+  },
+  {
+    "id": "def-dye-amparo",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "garantias",
+    "ejemplo": "La obra social niega sin razón un tratamiento urgente.",
+    "titulo": "Amparo",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Amparo»?",
+    "respuestaCorrecta": "Acción judicial rápida para frenar una violación arbitraria de cualquier otro derecho.",
+    "respuestasIncorrectas": [
+      "Acción judicial rápida para proteger la libertad física ante una detención ilegal.",
+      "Acción judicial para conocer, corregir o borrar tus datos personales guardados por otros.",
+      "Derecho a ser juzgado por los jueces que ya existían antes del hecho, no por un tribunal especial.",
+      "Lo que una persona hace en privado sin dañar a otros no le incumbe al Estado."
+    ],
+    "pista": "Pensá en este ejemplo: La obra social niega sin razón un tratamiento urgente.",
+    "explicacion": "Amparo: Acción judicial rápida para frenar una violación arbitraria de cualquier otro derecho. Ejemplo: La obra social niega sin razón un tratamiento urgente.",
+    "referencia": {
+      "tipo": "Garantías",
+      "titulo": "Habeas corpus, habeas data y amparo",
+      "entradaLibro": "dye_garantias"
+    }
+  },
+  {
+    "id": "def-dye-juez",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "garantias",
+    "ejemplo": "No se puede crear un tribunal solo para juzgar un escándalo puntual.",
+    "titulo": "Juez natural (art. 18)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Juez natural (art. 18)»?",
+    "respuestaCorrecta": "Derecho a ser juzgado por los jueces que ya existían antes del hecho, no por un tribunal especial.",
+    "respuestasIncorrectas": [
+      "Acción judicial rápida para proteger la libertad física ante una detención ilegal.",
+      "Acción judicial para conocer, corregir o borrar tus datos personales guardados por otros.",
+      "Acción judicial rápida para frenar una violación arbitraria de cualquier otro derecho.",
+      "Lo que una persona hace en privado sin dañar a otros no le incumbe al Estado."
+    ],
+    "pista": "Pensá en este ejemplo: después de un escándalo, el gobierno quiere elegir quién va a decidir ese caso.",
+    "explicacion": "Juez natural (art. 18): Derecho a ser juzgado por los jueces que ya existían antes del hecho, no por un tribunal especial. Ejemplo: No se puede crear un tribunal solo para juzgar un escándalo puntual.",
+    "referencia": {
+      "tipo": "Garantías",
+      "titulo": "Artículos 18 y 19: protecciones frente al Estado",
+      "entradaLibro": "dye_art18_19"
+    }
+  },
+  {
+    "id": "def-dye-reserva",
+    "unidad": "derecho_y_estado",
+    "tipo": "definicion",
+    "grupo": "garantias",
+    "ejemplo": "Cómo se tiñe el pelo un adulto en su casa.",
+    "titulo": "Acciones privadas (art. 19)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Acciones privadas (art. 19)»?",
+    "respuestaCorrecta": "Lo que una persona hace en privado sin dañar a otros no le incumbe al Estado.",
+    "respuestasIncorrectas": [
+      "Acción judicial rápida para proteger la libertad física ante una detención ilegal.",
+      "Acción judicial para conocer, corregir o borrar tus datos personales guardados por otros.",
+      "Acción judicial rápida para frenar una violación arbitraria de cualquier otro derecho.",
+      "Derecho a ser juzgado por los jueces que ya existían antes del hecho, no por un tribunal especial."
+    ],
+    "pista": "Pensá en este ejemplo: Cómo se tiñe el pelo un adulto en su casa.",
+    "explicacion": "Acciones privadas (art. 19): Lo que una persona hace en privado sin dañar a otros no le incumbe al Estado. Ejemplo: Cómo se tiñe el pelo un adulto en su casa.",
+    "referencia": {
+      "tipo": "Garantías",
+      "titulo": "Artículos 18 y 19: protecciones frente al Estado",
+      "entradaLibro": "dye_art18_19"
+    }
+  },
+  {
+    "id": "def-dp-dolo1",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "dolo-culpa",
+    "ejemplo": "Ana quiere que su socio muera, le dispara y lo mata.",
+    "titulo": "Dolo directo de primer grado",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Dolo directo de primer grado»?",
+    "respuestaCorrecta": "El daño que se produjo es exactamente lo que la persona quería lograr: era su meta.",
+    "respuestasIncorrectas": [
+      "La persona buscaba otra cosa, pero sabía que su plan iba a causar ese daño sí o sí.",
+      "La persona se dio cuenta de que el daño podía pasar y siguió igual porque le daba lo mismo.",
+      "La persona se dio cuenta de que el daño podía pasar, pero confió en que no iba a pasar.",
+      "A la persona ni se le ocurrió que el daño podía pasar, aunque debería haberlo pensado."
+    ],
+    "pista": "Pensá en este ejemplo: Ana quiere que su socio muera, le dispara y lo mata.",
+    "explicacion": "Dolo directo de primer grado: El daño que se produjo es exactamente lo que la persona quería lograr: era su meta. Ejemplo: Ana quiere que su socio muera, le dispara y lo mata.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "El dolo: cuando la persona actúa a propósito",
+      "entradaLibro": "dp_dolo"
+    }
+  },
+  {
+    "id": "def-dp-dolo2",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "dolo-culpa",
+    "ejemplo": "Pone una bomba para matar a un empresario sabiendo que el chofer también va a morir.",
+    "titulo": "Dolo directo de segundo grado",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Dolo directo de segundo grado»?",
+    "respuestaCorrecta": "La persona buscaba otra cosa, pero sabía que su plan iba a causar ese daño sí o sí.",
+    "respuestasIncorrectas": [
+      "El daño que se produjo es exactamente lo que la persona quería lograr: era su meta.",
+      "La persona se dio cuenta de que el daño podía pasar y siguió igual porque le daba lo mismo.",
+      "La persona se dio cuenta de que el daño podía pasar, pero confió en que no iba a pasar.",
+      "A la persona ni se le ocurrió que el daño podía pasar, aunque debería haberlo pensado."
+    ],
+    "pista": "Pensá en este ejemplo: Pone una bomba para matar a un empresario sabiendo que el chofer también va a morir.",
+    "explicacion": "Dolo directo de segundo grado: La persona buscaba otra cosa, pero sabía que su plan iba a causar ese daño sí o sí. Ejemplo: Pone una bomba para matar a un empresario sabiendo que el chofer también va a morir.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "El dolo: cuando la persona actúa a propósito",
+      "entradaLibro": "dp_dolo"
+    }
+  },
+  {
+    "id": "def-dp-doloev",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "dolo-culpa",
+    "ejemplo": "Corre una picada entre peatones pensando «si atropello a alguien, mala suerte».",
+    "titulo": "Dolo eventual",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Dolo eventual»?",
+    "respuestaCorrecta": "La persona se dio cuenta de que el daño podía pasar y siguió igual porque le daba lo mismo.",
+    "respuestasIncorrectas": [
+      "El daño que se produjo es exactamente lo que la persona quería lograr: era su meta.",
+      "La persona buscaba otra cosa, pero sabía que su plan iba a causar ese daño sí o sí.",
+      "La persona se dio cuenta de que el daño podía pasar, pero confió en que no iba a pasar.",
+      "A la persona ni se le ocurrió que el daño podía pasar, aunque debería haberlo pensado."
+    ],
+    "pista": "Pensá en este ejemplo: Corre una picada entre peatones pensando «si atropello a alguien, mala suerte».",
+    "explicacion": "Dolo eventual: La persona se dio cuenta de que el daño podía pasar y siguió igual porque le daba lo mismo. Ejemplo: Corre una picada entre peatones pensando «si atropello a alguien, mala suerte».",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "El dolo: cuando la persona actúa a propósito",
+      "entradaLibro": "dp_dolo"
+    }
+  },
+  {
+    "id": "def-dp-culpacon",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "dolo-culpa",
+    "ejemplo": "Adelanta en una curva pensando «es arriesgado, pero manejo bien».",
+    "titulo": "Culpa con representación",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Culpa con representación»?",
+    "respuestaCorrecta": "La persona se dio cuenta de que el daño podía pasar, pero confió en que no iba a pasar.",
+    "respuestasIncorrectas": [
+      "El daño que se produjo es exactamente lo que la persona quería lograr: era su meta.",
+      "La persona buscaba otra cosa, pero sabía que su plan iba a causar ese daño sí o sí.",
+      "La persona se dio cuenta de que el daño podía pasar y siguió igual porque le daba lo mismo.",
+      "A la persona ni se le ocurrió que el daño podía pasar, aunque debería haberlo pensado."
+    ],
+    "pista": "Pensá en este ejemplo: Adelanta en una curva pensando «es arriesgado, pero manejo bien».",
+    "explicacion": "Culpa con representación: La persona se dio cuenta de que el daño podía pasar, pero confió en que no iba a pasar. Ejemplo: Adelanta en una curva pensando «es arriesgado, pero manejo bien».",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "La culpa: cuando el daño pasa por un descuido",
+      "entradaLibro": "dp_culpa"
+    }
+  },
+  {
+    "id": "def-dp-culpasin",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "dolo-culpa",
+    "ejemplo": "Deja pastillas al alcance de un nene sin pensar que las puede tomar.",
+    "titulo": "Culpa sin representación",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Culpa sin representación»?",
+    "respuestaCorrecta": "A la persona ni se le ocurrió que el daño podía pasar, aunque debería haberlo pensado.",
+    "respuestasIncorrectas": [
+      "El daño que se produjo es exactamente lo que la persona quería lograr: era su meta.",
+      "La persona buscaba otra cosa, pero sabía que su plan iba a causar ese daño sí o sí.",
+      "La persona se dio cuenta de que el daño podía pasar y siguió igual porque le daba lo mismo.",
+      "La persona se dio cuenta de que el daño podía pasar, pero confió en que no iba a pasar."
+    ],
+    "pista": "Pensá en este ejemplo: Deja pastillas al alcance de un nene sin pensar que las puede tomar.",
+    "explicacion": "Culpa sin representación: A la persona ni se le ocurrió que el daño podía pasar, aunque debería haberlo pensado. Ejemplo: Deja pastillas al alcance de un nene sin pensar que las puede tomar.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "La culpa: cuando el daño pasa por un descuido",
+      "entradaLibro": "dp_culpa"
+    }
+  },
+  {
+    "id": "def-dp-imprudencia",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "formas-culpa",
+    "ejemplo": "Manejar a 140 km/h por una calle de barrio.",
+    "titulo": "Imprudencia",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Imprudencia»?",
+    "respuestaCorrecta": "Hacer algo arriesgado que no había que hacer: un descuido por hacer de más.",
+    "respuestasIncorrectas": [
+      "No hacer algo que había que hacer: un descuido por hacer de menos.",
+      "Hacer una tarea sin tener los conocimientos o la habilidad que esa tarea exige.",
+      "No cumplir una regla escrita (reglamento, protocolo o norma) que había que respetar."
+    ],
+    "pista": "Pensá en este ejemplo: Manejar a 140 km/h por una calle de barrio.",
+    "explicacion": "Imprudencia: Hacer algo arriesgado que no había que hacer: un descuido por hacer de más. Ejemplo: Manejar a 140 km/h por una calle de barrio.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "La culpa: cuando el daño pasa por un descuido",
+      "entradaLibro": "dp_culpa"
+    }
+  },
+  {
+    "id": "def-dp-negligencia",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "formas-culpa",
+    "ejemplo": "El médico que no controla al paciente después de operarlo.",
+    "titulo": "Negligencia",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Negligencia»?",
+    "respuestaCorrecta": "No hacer algo que había que hacer: un descuido por hacer de menos.",
+    "respuestasIncorrectas": [
+      "Hacer algo arriesgado que no había que hacer: un descuido por hacer de más.",
+      "Hacer una tarea sin tener los conocimientos o la habilidad que esa tarea exige.",
+      "No cumplir una regla escrita (reglamento, protocolo o norma) que había que respetar."
+    ],
+    "pista": "Pensá en este ejemplo: El médico que no controla al paciente después de operarlo.",
+    "explicacion": "Negligencia: No hacer algo que había que hacer: un descuido por hacer de menos. Ejemplo: El médico que no controla al paciente después de operarlo.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "La culpa: cuando el daño pasa por un descuido",
+      "entradaLibro": "dp_culpa"
+    }
+  },
+  {
+    "id": "def-dp-impericia",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "formas-culpa",
+    "ejemplo": "Alguien que nunca estudió electricidad hace una instalación y causa un incendio.",
+    "titulo": "Impericia",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Impericia»?",
+    "respuestaCorrecta": "Hacer una tarea sin tener los conocimientos o la habilidad que esa tarea exige.",
+    "respuestasIncorrectas": [
+      "Hacer algo arriesgado que no había que hacer: un descuido por hacer de más.",
+      "No hacer algo que había que hacer: un descuido por hacer de menos.",
+      "No cumplir una regla escrita (reglamento, protocolo o norma) que había que respetar."
+    ],
+    "pista": "Pensá en este ejemplo: Alguien que nunca estudió electricidad hace una instalación y causa un incendio.",
+    "explicacion": "Impericia: Hacer una tarea sin tener los conocimientos o la habilidad que esa tarea exige. Ejemplo: Alguien que nunca estudió electricidad hace una instalación y causa un incendio.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "La culpa: cuando el daño pasa por un descuido",
+      "entradaLibro": "dp_culpa"
+    }
+  },
+  {
+    "id": "def-dp-inobservancia",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "formas-culpa",
+    "ejemplo": "El técnico que no hace la copia de seguridad que exige el reglamento del hospital.",
+    "titulo": "Inobservancia de los reglamentos",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Inobservancia de los reglamentos»?",
+    "respuestaCorrecta": "No cumplir una regla escrita (reglamento, protocolo o norma) que había que respetar.",
+    "respuestasIncorrectas": [
+      "Hacer algo arriesgado que no había que hacer: un descuido por hacer de más.",
+      "No hacer algo que había que hacer: un descuido por hacer de menos.",
+      "Hacer una tarea sin tener los conocimientos o la habilidad que esa tarea exige."
+    ],
+    "pista": "Pensá en este ejemplo: El técnico que no hace la copia de seguridad que exige el reglamento del hospital.",
+    "explicacion": "Inobservancia de los reglamentos: No cumplir una regla escrita (reglamento, protocolo o norma) que había que respetar. Ejemplo: El técnico que no hace la copia de seguridad que exige el reglamento del hospital.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "La culpa: cuando el daño pasa por un descuido",
+      "entradaLibro": "dp_culpa"
+    }
+  },
+  {
+    "id": "def-dp-tipicidad",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "teoria",
+    "ejemplo": "Llevarse un celular ajeno coincide con el delito de hurto.",
+    "titulo": "Tipicidad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Tipicidad»?",
+    "respuestaCorrecta": "Que lo que hizo la persona coincida con un delito descripto en el Código Penal.",
+    "respuestasIncorrectas": [
+      "Que lo que hizo esté prohibido por el Derecho y no haya una razón que la ley acepte para permitirlo.",
+      "Que se le pueda reprochar el hecho a la persona, porque podía entender lo que hacía.",
+      "Persona que, al momento del hecho, no podía entender que estaba mal o no podía controlarse.",
+      "Situación en la que la ley permite defenderse de un ataque, aunque al hacerlo se lastime al agresor.",
+      "Nadie puede ser castigado por algo que no era delito según una ley anterior al hecho.",
+      "Lo valioso que la ley quiere proteger con cada delito, como la vida o la propiedad.",
+      "Escribir en una ley, con detalle, qué conducta es delito y qué pena tiene."
+    ],
+    "pista": "Es el filtro que falla cuando una conducta molesta, como mirar fijo a alguien, no figura en ninguna ley.",
+    "explicacion": "Tipicidad: Que lo que hizo la persona coincida con un delito descripto en el Código Penal. Ejemplo: Llevarse un celular ajeno coincide con el delito de hurto.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "Cuándo hay delito: los cinco filtros",
+      "entradaLibro": "dp_teoria_delito"
+    }
+  },
+  {
+    "id": "def-dp-antijuridicidad",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "teoria",
+    "ejemplo": "Lastimar a alguien que te ataca no es antijurídico: es legítima defensa.",
+    "titulo": "Antijuridicidad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Antijuridicidad»?",
+    "respuestaCorrecta": "Que lo que hizo esté prohibido por el Derecho y no haya una razón que la ley acepte para permitirlo.",
+    "respuestasIncorrectas": [
+      "Que lo que hizo la persona coincida con un delito descripto en el Código Penal.",
+      "Que se le pueda reprochar el hecho a la persona, porque podía entender lo que hacía.",
+      "Persona que, al momento del hecho, no podía entender que estaba mal o no podía controlarse.",
+      "Situación en la que la ley permite defenderse de un ataque, aunque al hacerlo se lastime al agresor.",
+      "Nadie puede ser castigado por algo que no era delito según una ley anterior al hecho.",
+      "Lo valioso que la ley quiere proteger con cada delito, como la vida o la propiedad.",
+      "Escribir en una ley, con detalle, qué conducta es delito y qué pena tiene."
+    ],
+    "pista": "Pensá en este ejemplo: Lastimar a alguien que te ataca no es antijurídico: es legítima defensa.",
+    "explicacion": "Antijuridicidad: Que lo que hizo esté prohibido por el Derecho y no haya una razón que la ley acepte para permitirlo. Ejemplo: Lastimar a alguien que te ataca no es antijurídico: es legítima defensa.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "Cuándo hay delito: los cinco filtros",
+      "entradaLibro": "dp_teoria_delito"
+    }
+  },
+  {
+    "id": "def-dp-culpabilidad",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "teoria",
+    "ejemplo": "A alguien en pleno brote psicótico no se le puede reprochar el hecho.",
+    "titulo": "Culpabilidad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Culpabilidad»?",
+    "respuestaCorrecta": "Que se le pueda reprochar el hecho a la persona, porque podía entender lo que hacía.",
+    "respuestasIncorrectas": [
+      "Que lo que hizo la persona coincida con un delito descripto en el Código Penal.",
+      "Que lo que hizo esté prohibido por el Derecho y no haya una razón que la ley acepte para permitirlo.",
+      "Persona que, al momento del hecho, no podía entender que estaba mal o no podía controlarse.",
+      "Situación en la que la ley permite defenderse de un ataque, aunque al hacerlo se lastime al agresor.",
+      "Nadie puede ser castigado por algo que no era delito según una ley anterior al hecho.",
+      "Lo valioso que la ley quiere proteger con cada delito, como la vida o la propiedad.",
+      "Escribir en una ley, con detalle, qué conducta es delito y qué pena tiene."
+    ],
+    "pista": "Es el filtro que falla con alguien que, en pleno brote psicótico, no sabía lo que hacía.",
+    "explicacion": "Culpabilidad: Que se le pueda reprochar el hecho a la persona, porque podía entender lo que hacía. Ejemplo: A alguien en pleno brote psicótico no se le puede reprochar el hecho.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "Cuándo hay delito: los cinco filtros",
+      "entradaLibro": "dp_teoria_delito"
+    }
+  },
+  {
+    "id": "def-dp-inimputable",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "teoria",
+    "ejemplo": "Quien rompe una vidriera durante un brote psicótico.",
+    "titulo": "Inimputable",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Inimputable»?",
+    "respuestaCorrecta": "Persona que, al momento del hecho, no podía entender que estaba mal o no podía controlarse.",
+    "respuestasIncorrectas": [
+      "Que lo que hizo la persona coincida con un delito descripto en el Código Penal.",
+      "Que lo que hizo esté prohibido por el Derecho y no haya una razón que la ley acepte para permitirlo.",
+      "Que se le pueda reprochar el hecho a la persona, porque podía entender lo que hacía.",
+      "Situación en la que la ley permite defenderse de un ataque, aunque al hacerlo se lastime al agresor.",
+      "Nadie puede ser castigado por algo que no era delito según una ley anterior al hecho.",
+      "Lo valioso que la ley quiere proteger con cada delito, como la vida o la propiedad.",
+      "Escribir en una ley, con detalle, qué conducta es delito y qué pena tiene."
+    ],
+    "pista": "Pensá en este ejemplo: Quien rompe una vidriera durante un brote psicótico.",
+    "explicacion": "Inimputable: Persona que, al momento del hecho, no podía entender que estaba mal o no podía controlarse. Ejemplo: Quien rompe una vidriera durante un brote psicótico.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "Cuándo hay delito: los cinco filtros",
+      "entradaLibro": "dp_teoria_delito"
+    }
+  },
+  {
+    "id": "def-dp-legitima",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "teoria",
+    "ejemplo": "Empujar a quien te ataca con un cuchillo.",
+    "titulo": "Legítima defensa",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Legítima defensa»?",
+    "respuestaCorrecta": "Situación en la que la ley permite defenderse de un ataque, aunque al hacerlo se lastime al agresor.",
+    "respuestasIncorrectas": [
+      "Que lo que hizo la persona coincida con un delito descripto en el Código Penal.",
+      "Que lo que hizo esté prohibido por el Derecho y no haya una razón que la ley acepte para permitirlo.",
+      "Que se le pueda reprochar el hecho a la persona, porque podía entender lo que hacía.",
+      "Persona que, al momento del hecho, no podía entender que estaba mal o no podía controlarse.",
+      "Nadie puede ser castigado por algo que no era delito según una ley anterior al hecho.",
+      "Lo valioso que la ley quiere proteger con cada delito, como la vida o la propiedad.",
+      "Escribir en una ley, con detalle, qué conducta es delito y qué pena tiene."
+    ],
+    "pista": "Pensá en este ejemplo: Empujar a quien te ataca con un cuchillo.",
+    "explicacion": "Legítima defensa: Situación en la que la ley permite defenderse de un ataque, aunque al hacerlo se lastime al agresor. Ejemplo: Empujar a quien te ataca con un cuchillo.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "Cuándo hay delito: los cinco filtros",
+      "entradaLibro": "dp_teoria_delito"
+    }
+  },
+  {
+    "id": "def-dp-legalidad",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "teoria",
+    "ejemplo": "Una ley de 2026 no puede castigar algo hecho en 2025.",
+    "titulo": "Principio de legalidad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Principio de legalidad»?",
+    "respuestaCorrecta": "Nadie puede ser castigado por algo que no era delito según una ley anterior al hecho.",
+    "respuestasIncorrectas": [
+      "Que lo que hizo la persona coincida con un delito descripto en el Código Penal.",
+      "Que lo que hizo esté prohibido por el Derecho y no haya una razón que la ley acepte para permitirlo.",
+      "Que se le pueda reprochar el hecho a la persona, porque podía entender lo que hacía.",
+      "Persona que, al momento del hecho, no podía entender que estaba mal o no podía controlarse.",
+      "Situación en la que la ley permite defenderse de un ataque, aunque al hacerlo se lastime al agresor.",
+      "Lo valioso que la ley quiere proteger con cada delito, como la vida o la propiedad.",
+      "Escribir en una ley, con detalle, qué conducta es delito y qué pena tiene."
+    ],
+    "pista": "Pensá en este ejemplo: una ley de 2026 no se aplica a algo que alguien hizo en 2025.",
+    "explicacion": "Principio de legalidad: Nadie puede ser castigado por algo que no era delito según una ley anterior al hecho. Ejemplo: Una ley de 2026 no puede castigar algo hecho en 2025.",
+    "referencia": {
+      "tipo": "Bases",
+      "titulo": "Qué es el Derecho Penal y qué límites tiene",
+      "entradaLibro": "dp_que_es"
+    }
+  },
+  {
+    "id": "def-dp-bienjur",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "teoria",
+    "ejemplo": "El homicidio protege la vida.",
+    "titulo": "Bien jurídico",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Bien jurídico»?",
+    "respuestaCorrecta": "Lo valioso que la ley quiere proteger con cada delito, como la vida o la propiedad.",
+    "respuestasIncorrectas": [
+      "Que lo que hizo la persona coincida con un delito descripto en el Código Penal.",
+      "Que lo que hizo esté prohibido por el Derecho y no haya una razón que la ley acepte para permitirlo.",
+      "Que se le pueda reprochar el hecho a la persona, porque podía entender lo que hacía.",
+      "Persona que, al momento del hecho, no podía entender que estaba mal o no podía controlarse.",
+      "Situación en la que la ley permite defenderse de un ataque, aunque al hacerlo se lastime al agresor.",
+      "Nadie puede ser castigado por algo que no era delito según una ley anterior al hecho.",
+      "Escribir en una ley, con detalle, qué conducta es delito y qué pena tiene."
+    ],
+    "pista": "Pensá en este ejemplo: con la calumnia, la ley cuida la buena reputación.",
+    "explicacion": "Bien jurídico: Lo valioso que la ley quiere proteger con cada delito, como la vida o la propiedad. Ejemplo: El homicidio protege la vida.",
+    "referencia": {
+      "tipo": "Herramientas",
+      "titulo": "Bien jurídico y cómo buscar en el Código Penal",
+      "entradaLibro": "dp_bienes_codigo"
+    }
+  },
+  {
+    "id": "def-dp-tipificar",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "teoria",
+    "ejemplo": "El art. 79 tipifica el homicidio: «el que matare a otro».",
+    "titulo": "Tipificar",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Tipificar»?",
+    "respuestaCorrecta": "Escribir en una ley, con detalle, qué conducta es delito y qué pena tiene.",
+    "respuestasIncorrectas": [
+      "Que lo que hizo la persona coincida con un delito descripto en el Código Penal.",
+      "Que lo que hizo esté prohibido por el Derecho y no haya una razón que la ley acepte para permitirlo.",
+      "Que se le pueda reprochar el hecho a la persona, porque podía entender lo que hacía.",
+      "Persona que, al momento del hecho, no podía entender que estaba mal o no podía controlarse.",
+      "Situación en la que la ley permite defenderse de un ataque, aunque al hacerlo se lastime al agresor.",
+      "Nadie puede ser castigado por algo que no era delito según una ley anterior al hecho.",
+      "Lo valioso que la ley quiere proteger con cada delito, como la vida o la propiedad."
+    ],
+    "pista": "Pensá en este ejemplo: El art. 79 tipifica el homicidio: «el que matare a otro».",
+    "explicacion": "Tipificar: Escribir en una ley, con detalle, qué conducta es delito y qué pena tiene. Ejemplo: El art. 79 tipifica el homicidio: «el que matare a otro».",
+    "referencia": {
+      "tipo": "Bases",
+      "titulo": "Qué es el Derecho Penal y qué límites tiene",
+      "entradaLibro": "dp_que_es"
+    }
+  },
+  {
+    "id": "def-dp-tentativa",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "etapas",
+    "ejemplo": "Dispara para matar, pero la ambulancia salva a la víctima.",
+    "titulo": "Tentativa",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Tentativa»?",
+    "respuestaCorrecta": "Empezar a cometer un delito y no terminarlo por algo que no depende de la persona.",
+    "respuestasIncorrectas": [
+      "Una persona comete varios hechos separados, y cada uno es un delito distinto.",
+      "Un único hecho que encaja al mismo tiempo en dos o más delitos.",
+      "Volver a cometer un delito después de haber cumplido una condena de prisión.",
+      "Una circunstancia que hace más grave el delito y por eso sube la pena.",
+      "Una circunstancia que hace menos grave el delito y por eso baja la pena."
+    ],
+    "pista": "Pensá en este ejemplo: Dispara para matar, pero la ambulancia salva a la víctima.",
+    "explicacion": "Tentativa: Empezar a cometer un delito y no terminarlo por algo que no depende de la persona. Ejemplo: Dispara para matar, pero la ambulancia salva a la víctima.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "Tentativa, concurso, reincidencia y agravantes",
+      "entradaLibro": "dp_etapas_concurso"
+    }
+  },
+  {
+    "id": "def-dp-concreal",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "etapas",
+    "ejemplo": "En enero hurta un celular y en marzo estafa a un vecino.",
+    "titulo": "Concurso real",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Concurso real»?",
+    "respuestaCorrecta": "Una persona comete varios hechos separados, y cada uno es un delito distinto.",
+    "respuestasIncorrectas": [
+      "Empezar a cometer un delito y no terminarlo por algo que no depende de la persona.",
+      "Un único hecho que encaja al mismo tiempo en dos o más delitos.",
+      "Volver a cometer un delito después de haber cumplido una condena de prisión.",
+      "Una circunstancia que hace más grave el delito y por eso sube la pena.",
+      "Una circunstancia que hace menos grave el delito y por eso baja la pena."
+    ],
+    "pista": "Pensá en este ejemplo: En enero hurta un celular y en marzo estafa a un vecino.",
+    "explicacion": "Concurso real: Una persona comete varios hechos separados, y cada uno es un delito distinto. Ejemplo: En enero hurta un celular y en marzo estafa a un vecino.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "Tentativa, concurso, reincidencia y agravantes",
+      "entradaLibro": "dp_etapas_concurso"
+    }
+  },
+  {
+    "id": "def-dp-concideal",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "etapas",
+    "ejemplo": "Un solo golpe que rompe los anteojos (daño) y lastima la cara (lesiones).",
+    "titulo": "Concurso ideal",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Concurso ideal»?",
+    "respuestaCorrecta": "Un único hecho que encaja al mismo tiempo en dos o más delitos.",
+    "respuestasIncorrectas": [
+      "Empezar a cometer un delito y no terminarlo por algo que no depende de la persona.",
+      "Una persona comete varios hechos separados, y cada uno es un delito distinto.",
+      "Volver a cometer un delito después de haber cumplido una condena de prisión.",
+      "Una circunstancia que hace más grave el delito y por eso sube la pena.",
+      "Una circunstancia que hace menos grave el delito y por eso baja la pena."
+    ],
+    "pista": "Pensá en este ejemplo: Un solo golpe que rompe los anteojos (daño) y lastima la cara (lesiones).",
+    "explicacion": "Concurso ideal: Un único hecho que encaja al mismo tiempo en dos o más delitos. Ejemplo: Un solo golpe que rompe los anteojos (daño) y lastima la cara (lesiones).",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "Tentativa, concurso, reincidencia y agravantes",
+      "entradaLibro": "dp_etapas_concurso"
+    }
+  },
+  {
+    "id": "def-dp-reincidencia",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "etapas",
+    "ejemplo": "Sale de la cárcel tras cumplir pena por robo y al año comete una estafa.",
+    "titulo": "Reincidencia",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Reincidencia»?",
+    "respuestaCorrecta": "Volver a cometer un delito después de haber cumplido una condena de prisión.",
+    "respuestasIncorrectas": [
+      "Empezar a cometer un delito y no terminarlo por algo que no depende de la persona.",
+      "Una persona comete varios hechos separados, y cada uno es un delito distinto.",
+      "Un único hecho que encaja al mismo tiempo en dos o más delitos.",
+      "Una circunstancia que hace más grave el delito y por eso sube la pena.",
+      "Una circunstancia que hace menos grave el delito y por eso baja la pena."
+    ],
+    "pista": "Pensá en este ejemplo: alguien sale de la cárcel por un robo y al año estafa a un vecino.",
+    "explicacion": "Reincidencia: Volver a cometer un delito después de haber cumplido una condena de prisión. Ejemplo: Sale de la cárcel tras cumplir pena por robo y al año comete una estafa.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "Tentativa, concurso, reincidencia y agravantes",
+      "entradaLibro": "dp_etapas_concurso"
+    }
+  },
+  {
+    "id": "def-dp-agravante",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "etapas",
+    "ejemplo": "Matar a un familiar directo.",
+    "titulo": "Agravante",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Agravante»?",
+    "respuestaCorrecta": "Una circunstancia que hace más grave el delito y por eso sube la pena.",
+    "respuestasIncorrectas": [
+      "Empezar a cometer un delito y no terminarlo por algo que no depende de la persona.",
+      "Una persona comete varios hechos separados, y cada uno es un delito distinto.",
+      "Un único hecho que encaja al mismo tiempo en dos o más delitos.",
+      "Volver a cometer un delito después de haber cumplido una condena de prisión.",
+      "Una circunstancia que hace menos grave el delito y por eso baja la pena."
+    ],
+    "pista": "Pensá en este ejemplo: Matar a un familiar directo.",
+    "explicacion": "Agravante: Una circunstancia que hace más grave el delito y por eso sube la pena. Ejemplo: Matar a un familiar directo.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "Tentativa, concurso, reincidencia y agravantes",
+      "entradaLibro": "dp_etapas_concurso"
+    }
+  },
+  {
+    "id": "def-dp-atenuante",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "etapas",
+    "ejemplo": "Matar bajo emoción violenta.",
+    "titulo": "Atenuante",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Atenuante»?",
+    "respuestaCorrecta": "Una circunstancia que hace menos grave el delito y por eso baja la pena.",
+    "respuestasIncorrectas": [
+      "Empezar a cometer un delito y no terminarlo por algo que no depende de la persona.",
+      "Una persona comete varios hechos separados, y cada uno es un delito distinto.",
+      "Un único hecho que encaja al mismo tiempo en dos o más delitos.",
+      "Volver a cometer un delito después de haber cumplido una condena de prisión.",
+      "Una circunstancia que hace más grave el delito y por eso sube la pena."
+    ],
+    "pista": "Pensá en este ejemplo: Matar bajo emoción violenta.",
+    "explicacion": "Atenuante: Una circunstancia que hace menos grave el delito y por eso baja la pena. Ejemplo: Matar bajo emoción violenta.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "Tentativa, concurso, reincidencia y agravantes",
+      "entradaLibro": "dp_etapas_concurso"
+    }
+  },
+  {
+    "id": "def-dp-hurto",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "propiedad",
+    "ejemplo": "Guardarse un celular olvidado en la mesa de un bar.",
+    "titulo": "Hurto",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Hurto»?",
+    "respuestaCorrecta": "Llevarse una cosa ajena sin romper nada y sin lastimar ni amenazar a nadie.",
+    "respuestasIncorrectas": [
+      "Llevarse una cosa ajena rompiendo algo o usando violencia contra una persona.",
+      "Quitarle a alguien una casa o un terreno, por ejemplo metiéndose a vivir en él.",
+      "Engañar a alguien para que, creyendo algo falso, entregue él mismo su dinero.",
+      "Obligar a alguien a dar dinero metiéndole miedo con hacerle un daño.",
+      "Obligar a alguien a dar dinero amenazándolo con contar algo que lo perjudica.",
+      "Aprovecharse de que alguien está desesperado para cobrarle intereses abusivos.",
+      "Romper, destruir o inutilizar una cosa ajena, sin llevársela."
+    ],
+    "pista": "Pensá en este ejemplo: Guardarse un celular olvidado en la mesa de un bar.",
+    "explicacion": "Hurto: Llevarse una cosa ajena sin romper nada y sin lastimar ni amenazar a nadie. Ejemplo: Guardarse un celular olvidado en la mesa de un bar.",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra la propiedad",
+      "entradaLibro": "dp_propiedad"
+    }
+  },
+  {
+    "id": "def-dp-robo",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "propiedad",
+    "ejemplo": "Romper la ventanilla de un auto para sacar una mochila.",
+    "titulo": "Robo",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Robo»?",
+    "respuestaCorrecta": "Llevarse una cosa ajena rompiendo algo o usando violencia contra una persona.",
+    "respuestasIncorrectas": [
+      "Llevarse una cosa ajena sin romper nada y sin lastimar ni amenazar a nadie.",
+      "Quitarle a alguien una casa o un terreno, por ejemplo metiéndose a vivir en él.",
+      "Engañar a alguien para que, creyendo algo falso, entregue él mismo su dinero.",
+      "Obligar a alguien a dar dinero metiéndole miedo con hacerle un daño.",
+      "Obligar a alguien a dar dinero amenazándolo con contar algo que lo perjudica.",
+      "Aprovecharse de que alguien está desesperado para cobrarle intereses abusivos.",
+      "Romper, destruir o inutilizar una cosa ajena, sin llevársela."
+    ],
+    "pista": "Pensá en este ejemplo: Romper la ventanilla de un auto para sacar una mochila.",
+    "explicacion": "Robo: Llevarse una cosa ajena rompiendo algo o usando violencia contra una persona. Ejemplo: Romper la ventanilla de un auto para sacar una mochila.",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra la propiedad",
+      "entradaLibro": "dp_propiedad"
+    }
+  },
+  {
+    "id": "def-dp-usurpacion",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "propiedad",
+    "ejemplo": "Entrar a una casa ajena y cambiar la cerradura.",
+    "titulo": "Usurpación",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Usurpación»?",
+    "respuestaCorrecta": "Quitarle a alguien una casa o un terreno, por ejemplo metiéndose a vivir en él.",
+    "respuestasIncorrectas": [
+      "Llevarse una cosa ajena sin romper nada y sin lastimar ni amenazar a nadie.",
+      "Llevarse una cosa ajena rompiendo algo o usando violencia contra una persona.",
+      "Engañar a alguien para que, creyendo algo falso, entregue él mismo su dinero.",
+      "Obligar a alguien a dar dinero metiéndole miedo con hacerle un daño.",
+      "Obligar a alguien a dar dinero amenazándolo con contar algo que lo perjudica.",
+      "Aprovecharse de que alguien está desesperado para cobrarle intereses abusivos.",
+      "Romper, destruir o inutilizar una cosa ajena, sin llevársela."
+    ],
+    "pista": "Pensá en este ejemplo: un grupo ocupa un departamento vacío y cambia la cerradura.",
+    "explicacion": "Usurpación: Quitarle a alguien una casa o un terreno, por ejemplo metiéndose a vivir en él. Ejemplo: Entrar a una casa ajena y cambiar la cerradura.",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra la propiedad",
+      "entradaLibro": "dp_propiedad"
+    }
+  },
+  {
+    "id": "def-dp-estafa",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "propiedad",
+    "ejemplo": "Cobrar la seña de una moto que no existe.",
+    "titulo": "Estafa",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Estafa»?",
+    "respuestaCorrecta": "Engañar a alguien para que, creyendo algo falso, entregue él mismo su dinero.",
+    "respuestasIncorrectas": [
+      "Llevarse una cosa ajena sin romper nada y sin lastimar ni amenazar a nadie.",
+      "Llevarse una cosa ajena rompiendo algo o usando violencia contra una persona.",
+      "Quitarle a alguien una casa o un terreno, por ejemplo metiéndose a vivir en él.",
+      "Obligar a alguien a dar dinero metiéndole miedo con hacerle un daño.",
+      "Obligar a alguien a dar dinero amenazándolo con contar algo que lo perjudica.",
+      "Aprovecharse de que alguien está desesperado para cobrarle intereses abusivos.",
+      "Romper, destruir o inutilizar una cosa ajena, sin llevársela."
+    ],
+    "pista": "Pensá en este ejemplo: Cobrar la seña de una moto que no existe.",
+    "explicacion": "Estafa: Engañar a alguien para que, creyendo algo falso, entregue él mismo su dinero. Ejemplo: Cobrar la seña de una moto que no existe.",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra la propiedad",
+      "entradaLibro": "dp_propiedad"
+    }
+  },
+  {
+    "id": "def-dp-extorsion",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "propiedad",
+    "ejemplo": "«Si no pagás, te quemo el local».",
+    "titulo": "Extorsión",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Extorsión»?",
+    "respuestaCorrecta": "Obligar a alguien a dar dinero metiéndole miedo con hacerle un daño.",
+    "respuestasIncorrectas": [
+      "Llevarse una cosa ajena sin romper nada y sin lastimar ni amenazar a nadie.",
+      "Llevarse una cosa ajena rompiendo algo o usando violencia contra una persona.",
+      "Quitarle a alguien una casa o un terreno, por ejemplo metiéndose a vivir en él.",
+      "Engañar a alguien para que, creyendo algo falso, entregue él mismo su dinero.",
+      "Obligar a alguien a dar dinero amenazándolo con contar algo que lo perjudica.",
+      "Aprovecharse de que alguien está desesperado para cobrarle intereses abusivos.",
+      "Romper, destruir o inutilizar una cosa ajena, sin llevársela."
+    ],
+    "pista": "Pensá en este ejemplo: «Si no pagás, te quemo el local».",
+    "explicacion": "Extorsión: Obligar a alguien a dar dinero metiéndole miedo con hacerle un daño. Ejemplo: «Si no pagás, te quemo el local».",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra la propiedad",
+      "entradaLibro": "dp_propiedad"
+    }
+  },
+  {
+    "id": "def-dp-chantaje",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "propiedad",
+    "ejemplo": "«Si no pagás, le cuento todo a tu familia».",
+    "titulo": "Chantaje",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Chantaje»?",
+    "respuestaCorrecta": "Obligar a alguien a dar dinero amenazándolo con contar algo que lo perjudica.",
+    "respuestasIncorrectas": [
+      "Llevarse una cosa ajena sin romper nada y sin lastimar ni amenazar a nadie.",
+      "Llevarse una cosa ajena rompiendo algo o usando violencia contra una persona.",
+      "Quitarle a alguien una casa o un terreno, por ejemplo metiéndose a vivir en él.",
+      "Engañar a alguien para que, creyendo algo falso, entregue él mismo su dinero.",
+      "Obligar a alguien a dar dinero metiéndole miedo con hacerle un daño.",
+      "Aprovecharse de que alguien está desesperado para cobrarle intereses abusivos.",
+      "Romper, destruir o inutilizar una cosa ajena, sin llevársela."
+    ],
+    "pista": "Pensá en este ejemplo: «Si no pagás, le cuento todo a tu familia».",
+    "explicacion": "Chantaje: Obligar a alguien a dar dinero amenazándolo con contar algo que lo perjudica. Ejemplo: «Si no pagás, le cuento todo a tu familia».",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra la propiedad",
+      "entradaLibro": "dp_propiedad"
+    }
+  },
+  {
+    "id": "def-dp-usura",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "propiedad",
+    "ejemplo": "Prestar plata para una operación urgente al 80% mensual.",
+    "titulo": "Usura",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Usura»?",
+    "respuestaCorrecta": "Aprovecharse de que alguien está desesperado para cobrarle intereses abusivos.",
+    "respuestasIncorrectas": [
+      "Llevarse una cosa ajena sin romper nada y sin lastimar ni amenazar a nadie.",
+      "Llevarse una cosa ajena rompiendo algo o usando violencia contra una persona.",
+      "Quitarle a alguien una casa o un terreno, por ejemplo metiéndose a vivir en él.",
+      "Engañar a alguien para que, creyendo algo falso, entregue él mismo su dinero.",
+      "Obligar a alguien a dar dinero metiéndole miedo con hacerle un daño.",
+      "Obligar a alguien a dar dinero amenazándolo con contar algo que lo perjudica.",
+      "Romper, destruir o inutilizar una cosa ajena, sin llevársela."
+    ],
+    "pista": "Pensá en este ejemplo: Prestar plata para una operación urgente al 80% mensual.",
+    "explicacion": "Usura: Aprovecharse de que alguien está desesperado para cobrarle intereses abusivos. Ejemplo: Prestar plata para una operación urgente al 80% mensual.",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra la propiedad",
+      "entradaLibro": "dp_propiedad"
+    }
+  },
+  {
+    "id": "def-dp-dano",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "propiedad",
+    "ejemplo": "Rayar un auto con una llave.",
+    "titulo": "Daño",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Daño»?",
+    "respuestaCorrecta": "Romper, destruir o inutilizar una cosa ajena, sin llevársela.",
+    "respuestasIncorrectas": [
+      "Llevarse una cosa ajena sin romper nada y sin lastimar ni amenazar a nadie.",
+      "Llevarse una cosa ajena rompiendo algo o usando violencia contra una persona.",
+      "Quitarle a alguien una casa o un terreno, por ejemplo metiéndose a vivir en él.",
+      "Engañar a alguien para que, creyendo algo falso, entregue él mismo su dinero.",
+      "Obligar a alguien a dar dinero metiéndole miedo con hacerle un daño.",
+      "Obligar a alguien a dar dinero amenazándolo con contar algo que lo perjudica.",
+      "Aprovecharse de que alguien está desesperado para cobrarle intereses abusivos."
+    ],
+    "pista": "Pensá en este ejemplo: Rayar un auto con una llave.",
+    "explicacion": "Daño: Romper, destruir o inutilizar una cosa ajena, sin llevársela. Ejemplo: Rayar un auto con una llave.",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra la propiedad",
+      "entradaLibro": "dp_propiedad"
+    }
+  },
+  {
+    "id": "def-dp-calumnia",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "honor",
+    "ejemplo": "Publicar que el tesorero se robó la plata del club, cuando es mentira.",
+    "titulo": "Calumnia",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Calumnia»?",
+    "respuestaCorrecta": "Acusar falsamente a una persona de haber cometido un delito concreto.",
+    "respuestasIncorrectas": [
+      "Ofender o desprestigiar a una persona sin acusarla de un delito.",
+      "Mentir al declarar ante un juez cuando se tiene la obligación de decir la verdad.",
+      "Elogiar en público un delito, o a quien lo cometió, alentando a repetirlo.",
+      "Experto al que se llama en un juicio para explicar cuestiones técnicas."
+    ],
+    "pista": "Pensá en este ejemplo: Publicar que el tesorero se robó la plata del club, cuando es mentira.",
+    "explicacion": "Calumnia: Acusar falsamente a una persona de haber cometido un delito concreto. Ejemplo: Publicar que el tesorero se robó la plata del club, cuando es mentira.",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Honor, justicia y orden público",
+      "entradaLibro": "dp_honor_justicia"
+    }
+  },
+  {
+    "id": "def-dp-injuria",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "honor",
+    "ejemplo": "Decir públicamente que una maestra es una inútil.",
+    "titulo": "Injuria",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Injuria»?",
+    "respuestaCorrecta": "Ofender o desprestigiar a una persona sin acusarla de un delito.",
+    "respuestasIncorrectas": [
+      "Acusar falsamente a una persona de haber cometido un delito concreto.",
+      "Mentir al declarar ante un juez cuando se tiene la obligación de decir la verdad.",
+      "Elogiar en público un delito, o a quien lo cometió, alentando a repetirlo.",
+      "Experto al que se llama en un juicio para explicar cuestiones técnicas."
+    ],
+    "pista": "Pensá en este ejemplo: Decir públicamente que una maestra es una inútil.",
+    "explicacion": "Injuria: Ofender o desprestigiar a una persona sin acusarla de un delito. Ejemplo: Decir públicamente que una maestra es una inútil.",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Honor, justicia y orden público",
+      "entradaLibro": "dp_honor_justicia"
+    }
+  },
+  {
+    "id": "def-dp-falsotest",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "honor",
+    "ejemplo": "Un testigo que inventa una coartada para ayudar al acusado.",
+    "titulo": "Falso testimonio",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Falso testimonio»?",
+    "respuestaCorrecta": "Mentir al declarar ante un juez cuando se tiene la obligación de decir la verdad.",
+    "respuestasIncorrectas": [
+      "Acusar falsamente a una persona de haber cometido un delito concreto.",
+      "Ofender o desprestigiar a una persona sin acusarla de un delito.",
+      "Elogiar en público un delito, o a quien lo cometió, alentando a repetirlo.",
+      "Experto al que se llama en un juicio para explicar cuestiones técnicas."
+    ],
+    "pista": "Pensá en este ejemplo: Un testigo que inventa una coartada para ayudar al acusado.",
+    "explicacion": "Falso testimonio: Mentir al declarar ante un juez cuando se tiene la obligación de decir la verdad. Ejemplo: Un testigo que inventa una coartada para ayudar al acusado.",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Honor, justicia y orden público",
+      "entradaLibro": "dp_honor_justicia"
+    }
+  },
+  {
+    "id": "def-dp-apologia",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "honor",
+    "ejemplo": "Decir en un acto que hay que imitar al que incendió la comisaría.",
+    "titulo": "Apología del crimen",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Apología del crimen»?",
+    "respuestaCorrecta": "Elogiar en público un delito, o a quien lo cometió, alentando a repetirlo.",
+    "respuestasIncorrectas": [
+      "Acusar falsamente a una persona de haber cometido un delito concreto.",
+      "Ofender o desprestigiar a una persona sin acusarla de un delito.",
+      "Mentir al declarar ante un juez cuando se tiene la obligación de decir la verdad.",
+      "Experto al que se llama en un juicio para explicar cuestiones técnicas."
+    ],
+    "pista": "Pensá en este ejemplo: Decir en un acto que hay que imitar al que incendió la comisaría.",
+    "explicacion": "Apología del crimen: Elogiar en público un delito, o a quien lo cometió, alentando a repetirlo. Ejemplo: Decir en un acto que hay que imitar al que incendió la comisaría.",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Honor, justicia y orden público",
+      "entradaLibro": "dp_honor_justicia"
+    }
+  },
+  {
+    "id": "def-dp-perito",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "honor",
+    "ejemplo": "Una ingeniera que analiza los registros de un servidor hackeado.",
+    "titulo": "Perito",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Perito»?",
+    "respuestaCorrecta": "Experto al que se llama en un juicio para explicar cuestiones técnicas.",
+    "respuestasIncorrectas": [
+      "Acusar falsamente a una persona de haber cometido un delito concreto.",
+      "Ofender o desprestigiar a una persona sin acusarla de un delito.",
+      "Mentir al declarar ante un juez cuando se tiene la obligación de decir la verdad.",
+      "Elogiar en público un delito, o a quien lo cometió, alentando a repetirlo."
+    ],
+    "pista": "Pensá en este ejemplo: Una ingeniera que analiza los registros de un servidor hackeado.",
+    "explicacion": "Perito: Experto al que se llama en un juicio para explicar cuestiones técnicas. Ejemplo: Una ingeniera que analiza los registros de un servidor hackeado.",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Honor, justicia y orden público",
+      "entradaLibro": "dp_honor_justicia"
+    }
+  },
+  {
+    "id": "def-dp-accpub",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "proceso",
+    "ejemplo": "Un homicidio o un robo.",
+    "titulo": "Acción pública",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Acción pública»?",
+    "respuestaCorrecta": "El Estado inicia el caso y lo lleva adelante por su cuenta, aunque la víctima no quiera.",
+    "respuestasIncorrectas": [
+      "El caso empieza solo si la víctima denuncia, y después el Estado lo sigue solo.",
+      "La víctima tiene que iniciar el caso y llevarlo adelante ella misma hasta el final.",
+      "La víctima, o su abogado, cuando participa del juicio acusando también ella.",
+      "La persona acusada de un delito mientras se la investiga o se la juzga.",
+      "El abogado del Estado que investiga el delito y acusa a la persona sospechada."
+    ],
+    "pista": "Pensá en este ejemplo: Un homicidio o un robo.",
+    "explicacion": "Acción pública: El Estado inicia el caso y lo lleva adelante por su cuenta, aunque la víctima no quiera. Ejemplo: Un homicidio o un robo.",
+    "referencia": {
+      "tipo": "Proceso",
+      "titulo": "Quién pone en marcha un caso penal",
+      "entradaLibro": "dp_acciones_vocabulario"
+    }
+  },
+  {
+    "id": "def-dp-accinst",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "proceso",
+    "ejemplo": "Las lesiones leves.",
+    "titulo": "Acción de instancia privada",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Acción de instancia privada»?",
+    "respuestaCorrecta": "El caso empieza solo si la víctima denuncia, y después el Estado lo sigue solo.",
+    "respuestasIncorrectas": [
+      "El Estado inicia el caso y lo lleva adelante por su cuenta, aunque la víctima no quiera.",
+      "La víctima tiene que iniciar el caso y llevarlo adelante ella misma hasta el final.",
+      "La víctima, o su abogado, cuando participa del juicio acusando también ella.",
+      "La persona acusada de un delito mientras se la investiga o se la juzga.",
+      "El abogado del Estado que investiga el delito y acusa a la persona sospechada."
+    ],
+    "pista": "Pensá en este ejemplo: Las lesiones leves.",
+    "explicacion": "Acción de instancia privada: El caso empieza solo si la víctima denuncia, y después el Estado lo sigue solo. Ejemplo: Las lesiones leves.",
+    "referencia": {
+      "tipo": "Proceso",
+      "titulo": "Quién pone en marcha un caso penal",
+      "entradaLibro": "dp_acciones_vocabulario"
+    }
+  },
+  {
+    "id": "def-dp-accpriv",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "proceso",
+    "ejemplo": "Las calumnias y las injurias.",
+    "titulo": "Acción privada",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Acción privada»?",
+    "respuestaCorrecta": "La víctima tiene que iniciar el caso y llevarlo adelante ella misma hasta el final.",
+    "respuestasIncorrectas": [
+      "El Estado inicia el caso y lo lleva adelante por su cuenta, aunque la víctima no quiera.",
+      "El caso empieza solo si la víctima denuncia, y después el Estado lo sigue solo.",
+      "La víctima, o su abogado, cuando participa del juicio acusando también ella.",
+      "La persona acusada de un delito mientras se la investiga o se la juzga.",
+      "El abogado del Estado que investiga el delito y acusa a la persona sospechada."
+    ],
+    "pista": "Pensá en este ejemplo: Las calumnias y las injurias.",
+    "explicacion": "Acción privada: La víctima tiene que iniciar el caso y llevarlo adelante ella misma hasta el final. Ejemplo: Las calumnias y las injurias.",
+    "referencia": {
+      "tipo": "Proceso",
+      "titulo": "Quién pone en marcha un caso penal",
+      "entradaLibro": "dp_acciones_vocabulario"
+    }
+  },
+  {
+    "id": "def-dp-querellante",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "proceso",
+    "ejemplo": "La persona calumniada que inicia el juicio contra quien la calumnió.",
+    "titulo": "Querellante",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Querellante»?",
+    "respuestaCorrecta": "La víctima, o su abogado, cuando participa del juicio acusando también ella.",
+    "respuestasIncorrectas": [
+      "El Estado inicia el caso y lo lleva adelante por su cuenta, aunque la víctima no quiera.",
+      "El caso empieza solo si la víctima denuncia, y después el Estado lo sigue solo.",
+      "La víctima tiene que iniciar el caso y llevarlo adelante ella misma hasta el final.",
+      "La persona acusada de un delito mientras se la investiga o se la juzga.",
+      "El abogado del Estado que investiga el delito y acusa a la persona sospechada."
+    ],
+    "pista": "Pensá en este ejemplo: alguien calumniado en Twitter que lleva adelante el caso contra el autor.",
+    "explicacion": "Querellante: La víctima, o su abogado, cuando participa del juicio acusando también ella. Ejemplo: La persona calumniada que inicia el juicio contra quien la calumnió.",
+    "referencia": {
+      "tipo": "Empezá por acá",
+      "titulo": "Palabras básicas del Derecho Penal",
+      "entradaLibro": "dp_glosario"
+    }
+  },
+  {
+    "id": "def-dp-imputado",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "proceso",
+    "ejemplo": "Todavía no fue declarada culpable por un juez.",
+    "titulo": "Imputado",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Imputado»?",
+    "respuestaCorrecta": "La persona acusada de un delito mientras se la investiga o se la juzga.",
+    "respuestasIncorrectas": [
+      "El Estado inicia el caso y lo lleva adelante por su cuenta, aunque la víctima no quiera.",
+      "El caso empieza solo si la víctima denuncia, y después el Estado lo sigue solo.",
+      "La víctima tiene que iniciar el caso y llevarlo adelante ella misma hasta el final.",
+      "La víctima, o su abogado, cuando participa del juicio acusando también ella.",
+      "El abogado del Estado que investiga el delito y acusa a la persona sospechada."
+    ],
+    "pista": "Pensá en este ejemplo: Todavía no fue declarada culpable por un juez.",
+    "explicacion": "Imputado: La persona acusada de un delito mientras se la investiga o se la juzga. Ejemplo: Todavía no fue declarada culpable por un juez.",
+    "referencia": {
+      "tipo": "Empezá por acá",
+      "titulo": "Palabras básicas del Derecho Penal",
+      "entradaLibro": "dp_glosario"
+    }
+  },
+  {
+    "id": "def-dp-fiscal",
+    "unidad": "derecho_penal",
+    "tipo": "definicion",
+    "grupo": "proceso",
+    "ejemplo": "Quien investiga un robo aunque el dueño del comercio no lo pida.",
+    "titulo": "Fiscal",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Fiscal»?",
+    "respuestaCorrecta": "El abogado del Estado que investiga el delito y acusa a la persona sospechada.",
+    "respuestasIncorrectas": [
+      "El Estado inicia el caso y lo lleva adelante por su cuenta, aunque la víctima no quiera.",
+      "El caso empieza solo si la víctima denuncia, y después el Estado lo sigue solo.",
+      "La víctima tiene que iniciar el caso y llevarlo adelante ella misma hasta el final.",
+      "La víctima, o su abogado, cuando participa del juicio acusando también ella.",
+      "La persona acusada de un delito mientras se la investiga o se la juzga."
+    ],
+    "pista": "Pensá en este ejemplo: Quien investiga un robo aunque el dueño del comercio no lo pida.",
+    "explicacion": "Fiscal: El abogado del Estado que investiga el delito y acusa a la persona sospechada. Ejemplo: Quien investiga un robo aunque el dueño del comercio no lo pida.",
+    "referencia": {
+      "tipo": "Empezá por acá",
+      "titulo": "Palabras básicas del Derecho Penal",
+      "entradaLibro": "dp_glosario"
+    }
+  },
+  {
+    "id": "def-di-impuro",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "figuras",
+    "ejemplo": "Amenazar a alguien por WhatsApp.",
+    "titulo": "Delito informático impuro",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Delito informático impuro»?",
+    "respuestaCorrecta": "Un delito común (amenaza, estafa, calumnia) cometido usando la tecnología como medio.",
+    "respuestasIncorrectas": [
+      "Un delito en el que lo atacado son los propios datos, sistemas o cuentas.",
+      "Entrar sin permiso a un sistema o a datos protegidos, aunque no se cambie nada.",
+      "Borrar, alterar o arruinar datos, programas o sistemas ajenos.",
+      "Manipular un sistema informático para quedarse con dinero o bienes ajenos.",
+      "Abrir, leer, quedarse o interceptar mails o mensajes que no están dirigidos a uno."
+    ],
+    "pista": "Pensá en este ejemplo: alguien manda por WhatsApp un mensaje intimidante.",
+    "explicacion": "Delito informático impuro: Un delito común (amenaza, estafa, calumnia) cometido usando la tecnología como medio. Ejemplo: Amenazar a alguien por WhatsApp.",
+    "referencia": {
+      "tipo": "Clasificación",
+      "titulo": "Delitos informáticos puros e impuros",
+      "entradaLibro": "di_puros_impuros"
+    }
+  },
+  {
+    "id": "def-di-puro",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "figuras",
+    "ejemplo": "Bloquear los servidores de una clínica con un ransomware.",
+    "titulo": "Delito informático puro",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Delito informático puro»?",
+    "respuestaCorrecta": "Un delito en el que lo atacado son los propios datos, sistemas o cuentas.",
+    "respuestasIncorrectas": [
+      "Un delito común (amenaza, estafa, calumnia) cometido usando la tecnología como medio.",
+      "Entrar sin permiso a un sistema o a datos protegidos, aunque no se cambie nada.",
+      "Borrar, alterar o arruinar datos, programas o sistemas ajenos.",
+      "Manipular un sistema informático para quedarse con dinero o bienes ajenos.",
+      "Abrir, leer, quedarse o interceptar mails o mensajes que no están dirigidos a uno."
+    ],
+    "pista": "Pensá en este ejemplo: Bloquear los servidores de una clínica con un ransomware.",
+    "explicacion": "Delito informático puro: Un delito en el que lo atacado son los propios datos, sistemas o cuentas. Ejemplo: Bloquear los servidores de una clínica con un ransomware.",
+    "referencia": {
+      "tipo": "Clasificación",
+      "titulo": "Delitos informáticos puros e impuros",
+      "entradaLibro": "di_puros_impuros"
+    }
+  },
+  {
+    "id": "def-di-acceso",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "figuras",
+    "ejemplo": "Un ex empleado que entra con su usuario viejo solo a mirar.",
+    "titulo": "Acceso ilegítimo (art. 153 bis)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Acceso ilegítimo (art. 153 bis)»?",
+    "respuestaCorrecta": "Entrar sin permiso a un sistema o a datos protegidos, aunque no se cambie nada.",
+    "respuestasIncorrectas": [
+      "Un delito común (amenaza, estafa, calumnia) cometido usando la tecnología como medio.",
+      "Un delito en el que lo atacado son los propios datos, sistemas o cuentas.",
+      "Borrar, alterar o arruinar datos, programas o sistemas ajenos.",
+      "Manipular un sistema informático para quedarse con dinero o bienes ajenos.",
+      "Abrir, leer, quedarse o interceptar mails o mensajes que no están dirigidos a uno."
+    ],
+    "pista": "Pensá en este ejemplo: un ex empleado usa su usuario viejo solo para mirar el sistema.",
+    "explicacion": "Acceso ilegítimo (art. 153 bis): Entrar sin permiso a un sistema o a datos protegidos, aunque no se cambie nada. Ejemplo: Un ex empleado que entra con su usuario viejo solo a mirar.",
+    "referencia": {
+      "tipo": "Ley 26.388",
+      "titulo": "Ley 26.388: el Código Penal se actualiza a lo digital",
+      "entradaLibro": "di_ley_26388"
+    }
+  },
+  {
+    "id": "def-di-dano",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "figuras",
+    "ejemplo": "Borrar a propósito la base de clientes de la empresa.",
+    "titulo": "Daño informático (art. 183)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Daño informático (art. 183)»?",
+    "respuestaCorrecta": "Borrar, alterar o arruinar datos, programas o sistemas ajenos.",
+    "respuestasIncorrectas": [
+      "Un delito común (amenaza, estafa, calumnia) cometido usando la tecnología como medio.",
+      "Un delito en el que lo atacado son los propios datos, sistemas o cuentas.",
+      "Entrar sin permiso a un sistema o a datos protegidos, aunque no se cambie nada.",
+      "Manipular un sistema informático para quedarse con dinero o bienes ajenos.",
+      "Abrir, leer, quedarse o interceptar mails o mensajes que no están dirigidos a uno."
+    ],
+    "pista": "Pensá en este ejemplo: una empleada enojada elimina a propósito la base de clientes.",
+    "explicacion": "Daño informático (art. 183): Borrar, alterar o arruinar datos, programas o sistemas ajenos. Ejemplo: Borrar a propósito la base de clientes de la empresa.",
+    "referencia": {
+      "tipo": "Ley 26.388",
+      "titulo": "Ley 26.388: el Código Penal se actualiza a lo digital",
+      "entradaLibro": "di_ley_26388"
+    }
+  },
+  {
+    "id": "def-di-fraude",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "figuras",
+    "ejemplo": "Cambiar el sistema del banco para desviar centavos a tu cuenta.",
+    "titulo": "Fraude informático (art. 173 inc. 16)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Fraude informático (art. 173 inc. 16)»?",
+    "respuestaCorrecta": "Manipular un sistema informático para quedarse con dinero o bienes ajenos.",
+    "respuestasIncorrectas": [
+      "Un delito común (amenaza, estafa, calumnia) cometido usando la tecnología como medio.",
+      "Un delito en el que lo atacado son los propios datos, sistemas o cuentas.",
+      "Entrar sin permiso a un sistema o a datos protegidos, aunque no se cambie nada.",
+      "Borrar, alterar o arruinar datos, programas o sistemas ajenos.",
+      "Abrir, leer, quedarse o interceptar mails o mensajes que no están dirigidos a uno."
+    ],
+    "pista": "Pensá en este ejemplo: Cambiar el sistema del banco para desviar centavos a tu cuenta.",
+    "explicacion": "Fraude informático (art. 173 inc. 16): Manipular un sistema informático para quedarse con dinero o bienes ajenos. Ejemplo: Cambiar el sistema del banco para desviar centavos a tu cuenta.",
+    "referencia": {
+      "tipo": "Ley 26.388",
+      "titulo": "Ley 26.388: el Código Penal se actualiza a lo digital",
+      "entradaLibro": "di_ley_26388"
+    }
+  },
+  {
+    "id": "def-di-correspondencia",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "figuras",
+    "ejemplo": "Leer los correos de tu pareja entrando a su cuenta.",
+    "titulo": "Violación de correspondencia electrónica (art. 153)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Violación de correspondencia electrónica (art. 153)»?",
+    "respuestaCorrecta": "Abrir, leer, quedarse o interceptar mails o mensajes que no están dirigidos a uno.",
+    "respuestasIncorrectas": [
+      "Un delito común (amenaza, estafa, calumnia) cometido usando la tecnología como medio.",
+      "Un delito en el que lo atacado son los propios datos, sistemas o cuentas.",
+      "Entrar sin permiso a un sistema o a datos protegidos, aunque no se cambie nada.",
+      "Borrar, alterar o arruinar datos, programas o sistemas ajenos.",
+      "Manipular un sistema informático para quedarse con dinero o bienes ajenos."
+    ],
+    "pista": "Pensá en este ejemplo: alguien revisa los correos de su pareja sin permiso.",
+    "explicacion": "Violación de correspondencia electrónica (art. 153): Abrir, leer, quedarse o interceptar mails o mensajes que no están dirigidos a uno. Ejemplo: Leer los correos de tu pareja entrando a su cuenta.",
+    "referencia": {
+      "tipo": "Ley 26.388",
+      "titulo": "Ley 26.388: el Código Penal se actualiza a lo digital",
+      "entradaLibro": "di_ley_26388"
+    }
+  },
+  {
+    "id": "def-di-26388",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "leyes",
+    "ejemplo": "Gracias a ella borrar datos ajenos es «daño».",
+    "titulo": "Ley 26.388",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Ley 26.388»?",
+    "respuestaCorrecta": "Ley de 2008 que actualizó el Código Penal para incluir datos, sistemas y documentos digitales.",
+    "respuestasIncorrectas": [
+      "Cuando un adulto contacta a un menor por medios tecnológicos con intención sexual.",
+      "Ley que castiga también tener guardado material de abuso sexual infantil, aunque no se comparta.",
+      "Ley que reconoce la violencia digital como una forma de violencia contra las mujeres.",
+      "Tratado internacional para que los países cooperen en la investigación de ciberdelitos."
+    ],
+    "pista": "Pensá en este ejemplo: gracias a ella, eliminar archivos ajenos se castiga como «daño».",
+    "explicacion": "Ley 26.388: Ley de 2008 que actualizó el Código Penal para incluir datos, sistemas y documentos digitales. Ejemplo: Gracias a ella borrar datos ajenos es «daño».",
+    "referencia": {
+      "tipo": "Ley 26.388",
+      "titulo": "Ley 26.388: el Código Penal se actualiza a lo digital",
+      "entradaLibro": "di_ley_26388"
+    }
+  },
+  {
+    "id": "def-di-grooming",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "leyes",
+    "ejemplo": "Un adulto que se hace pasar por chico en el chat de un videojuego.",
+    "titulo": "Grooming (Ley 26.904)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Grooming (Ley 26.904)»?",
+    "respuestaCorrecta": "Cuando un adulto contacta a un menor por medios tecnológicos con intención sexual.",
+    "respuestasIncorrectas": [
+      "Ley de 2008 que actualizó el Código Penal para incluir datos, sistemas y documentos digitales.",
+      "Ley que castiga también tener guardado material de abuso sexual infantil, aunque no se comparta.",
+      "Ley que reconoce la violencia digital como una forma de violencia contra las mujeres.",
+      "Tratado internacional para que los países cooperen en la investigación de ciberdelitos."
+    ],
+    "pista": "Pensá en este ejemplo: alguien se hace pasar por un chico de 13 años en el chat de un videojuego.",
+    "explicacion": "Grooming (Ley 26.904): Cuando un adulto contacta a un menor por medios tecnológicos con intención sexual. Ejemplo: Un adulto que se hace pasar por chico en el chat de un videojuego.",
+    "referencia": {
+      "tipo": "Normativa",
+      "titulo": "Grooming, material de abuso infantil, Ley Olimpia y Convenio de Budapest",
+      "entradaLibro": "di_otras_leyes"
+    }
+  },
+  {
+    "id": "def-di-masi",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "leyes",
+    "ejemplo": "Encontrar ese material en una computadora ya es delito.",
+    "titulo": "Ley 27.436 (MASI)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Ley 27.436 (MASI)»?",
+    "respuestaCorrecta": "Ley que castiga también tener guardado material de abuso sexual infantil, aunque no se comparta.",
+    "respuestasIncorrectas": [
+      "Ley de 2008 que actualizó el Código Penal para incluir datos, sistemas y documentos digitales.",
+      "Cuando un adulto contacta a un menor por medios tecnológicos con intención sexual.",
+      "Ley que reconoce la violencia digital como una forma de violencia contra las mujeres.",
+      "Tratado internacional para que los países cooperen en la investigación de ciberdelitos."
+    ],
+    "pista": "Pensá en este ejemplo: encontrar esas imágenes en una computadora ya es delito, aunque nadie las haya enviado.",
+    "explicacion": "Ley 27.436 (MASI): Ley que castiga también tener guardado material de abuso sexual infantil, aunque no se comparta. Ejemplo: Encontrar ese material en una computadora ya es delito.",
+    "referencia": {
+      "tipo": "Normativa",
+      "titulo": "Grooming, material de abuso infantil, Ley Olimpia y Convenio de Budapest",
+      "entradaLibro": "di_otras_leyes"
+    }
+  },
+  {
+    "id": "def-di-olimpia",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "leyes",
+    "ejemplo": "Difundir fotos íntimas de una mujer sin su consentimiento.",
+    "titulo": "Ley Olimpia (Ley 27.736)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Ley Olimpia (Ley 27.736)»?",
+    "respuestaCorrecta": "Ley que reconoce la violencia digital como una forma de violencia contra las mujeres.",
+    "respuestasIncorrectas": [
+      "Ley de 2008 que actualizó el Código Penal para incluir datos, sistemas y documentos digitales.",
+      "Cuando un adulto contacta a un menor por medios tecnológicos con intención sexual.",
+      "Ley que castiga también tener guardado material de abuso sexual infantil, aunque no se comparta.",
+      "Tratado internacional para que los países cooperen en la investigación de ciberdelitos."
+    ],
+    "pista": "Pensá en este ejemplo: difundir fotos íntimas de tu ex pareja sin su permiso.",
+    "explicacion": "Ley Olimpia (Ley 27.736): Ley que reconoce la violencia digital como una forma de violencia contra las mujeres. Ejemplo: Difundir fotos íntimas de una mujer sin su consentimiento.",
+    "referencia": {
+      "tipo": "Normativa",
+      "titulo": "Grooming, material de abuso infantil, Ley Olimpia y Convenio de Budapest",
+      "entradaLibro": "di_otras_leyes"
+    }
+  },
+  {
+    "id": "def-di-budapest",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "leyes",
+    "ejemplo": "El servidor del atacante está en otro país.",
+    "titulo": "Convenio de Budapest",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Convenio de Budapest»?",
+    "respuestaCorrecta": "Tratado internacional para que los países cooperen en la investigación de ciberdelitos.",
+    "respuestasIncorrectas": [
+      "Ley de 2008 que actualizó el Código Penal para incluir datos, sistemas y documentos digitales.",
+      "Cuando un adulto contacta a un menor por medios tecnológicos con intención sexual.",
+      "Ley que castiga también tener guardado material de abuso sexual infantil, aunque no se comparta.",
+      "Ley que reconoce la violencia digital como una forma de violencia contra las mujeres."
+    ],
+    "pista": "Pensá en este ejemplo: El servidor del atacante está en otro país.",
+    "explicacion": "Convenio de Budapest: Tratado internacional para que los países cooperen en la investigación de ciberdelitos. Ejemplo: El servidor del atacante está en otro país.",
+    "referencia": {
+      "tipo": "Normativa",
+      "titulo": "Grooming, material de abuso infantil, Ley Olimpia y Convenio de Budapest",
+      "entradaLibro": "di_otras_leyes"
+    }
+  },
+  {
+    "id": "def-di-confid",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "cid",
+    "ejemplo": "Se rompe cuando se filtran los diagnósticos de un hospital.",
+    "titulo": "Confidencialidad (tríada CID)",
+    "situacion": "",
+    "pregunta": "En la tríada CID, ¿qué es la confidencialidad?",
+    "respuestaCorrecta": "Que la información solo la pueda ver quien tiene permiso.",
+    "respuestasIncorrectas": [
+      "Que la información no se pueda cambiar sin permiso.",
+      "Que los sistemas y datos se puedan usar cuando hacen falta.",
+      "Las tres cosas que hay que cuidar de la información: que no la vea quien no debe, que no se altere y que se pueda usar.",
+      "Poner varias capas de protección para que, si una falla, las otras sigan protegiendo.",
+      "Proteger la información en cualquier formato, también papel o conversaciones.",
+      "Proteger computadoras, programas y datos digitales, aunque no estén conectados a internet.",
+      "Proteger sistemas y redes conectados frente a ataques que llegan por la red."
+    ],
+    "pista": "Pensá en este ejemplo: Se rompe cuando se filtran los diagnósticos de un hospital.",
+    "explicacion": "Confidencialidad (tríada CID): Que la información solo la pueda ver quien tiene permiso. Ejemplo: Se rompe cuando se filtran los diagnósticos de un hospital.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "La tríada CID, las capas de defensa y los tipos de seguridad",
+      "entradaLibro": "di_cid_capas"
+    }
+  },
+  {
+    "id": "def-di-integridad",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "cid",
+    "ejemplo": "Se rompe cuando un alumno cambia su nota en el sistema.",
+    "titulo": "Integridad (tríada CID)",
+    "situacion": "",
+    "pregunta": "En la tríada CID, ¿qué es la integridad?",
+    "respuestaCorrecta": "Que la información no se pueda cambiar sin permiso.",
+    "respuestasIncorrectas": [
+      "Que la información solo la pueda ver quien tiene permiso.",
+      "Que los sistemas y datos se puedan usar cuando hacen falta.",
+      "Las tres cosas que hay que cuidar de la información: que no la vea quien no debe, que no se altere y que se pueda usar.",
+      "Poner varias capas de protección para que, si una falla, las otras sigan protegiendo.",
+      "Proteger la información en cualquier formato, también papel o conversaciones.",
+      "Proteger computadoras, programas y datos digitales, aunque no estén conectados a internet.",
+      "Proteger sistemas y redes conectados frente a ataques que llegan por la red."
+    ],
+    "pista": "Pensá en este ejemplo: un alumno entra al sistema y pasa su nota de 2 a 8.",
+    "explicacion": "Integridad (tríada CID): Que la información no se pueda cambiar sin permiso. Ejemplo: Se rompe cuando un alumno cambia su nota en el sistema.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "La tríada CID, las capas de defensa y los tipos de seguridad",
+      "entradaLibro": "di_cid_capas"
+    }
+  },
+  {
+    "id": "def-di-dispon",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "cid",
+    "ejemplo": "Se rompe cuando una tienda online queda caída todo el día.",
+    "titulo": "Disponibilidad (tríada CID)",
+    "situacion": "",
+    "pregunta": "En la tríada CID, ¿qué es la disponibilidad?",
+    "respuestaCorrecta": "Que los sistemas y datos se puedan usar cuando hacen falta.",
+    "respuestasIncorrectas": [
+      "Que la información solo la pueda ver quien tiene permiso.",
+      "Que la información no se pueda cambiar sin permiso.",
+      "Las tres cosas que hay que cuidar de la información: que no la vea quien no debe, que no se altere y que se pueda usar.",
+      "Poner varias capas de protección para que, si una falla, las otras sigan protegiendo.",
+      "Proteger la información en cualquier formato, también papel o conversaciones.",
+      "Proteger computadoras, programas y datos digitales, aunque no estén conectados a internet.",
+      "Proteger sistemas y redes conectados frente a ataques que llegan por la red."
+    ],
+    "pista": "Pensá en este ejemplo: Se rompe cuando una tienda online queda caída todo el día.",
+    "explicacion": "Disponibilidad (tríada CID): Que los sistemas y datos se puedan usar cuando hacen falta. Ejemplo: Se rompe cuando una tienda online queda caída todo el día.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "La tríada CID, las capas de defensa y los tipos de seguridad",
+      "entradaLibro": "di_cid_capas"
+    }
+  },
+  {
+    "id": "def-di-cid",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "cid",
+    "ejemplo": "Confidencialidad, integridad y disponibilidad.",
+    "titulo": "Tríada CID",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Tríada CID»?",
+    "respuestaCorrecta": "Las tres cosas que hay que cuidar de la información: que no la vea quien no debe, que no se altere y que se pueda usar.",
+    "respuestasIncorrectas": [
+      "Que la información solo la pueda ver quien tiene permiso.",
+      "Que la información no se pueda cambiar sin permiso.",
+      "Que los sistemas y datos se puedan usar cuando hacen falta.",
+      "Poner varias capas de protección para que, si una falla, las otras sigan protegiendo.",
+      "Proteger la información en cualquier formato, también papel o conversaciones.",
+      "Proteger computadoras, programas y datos digitales, aunque no estén conectados a internet.",
+      "Proteger sistemas y redes conectados frente a ataques que llegan por la red."
+    ],
+    "pista": "Pensá en este ejemplo: Confidencialidad, integridad y disponibilidad.",
+    "explicacion": "Tríada CID: Las tres cosas que hay que cuidar de la información: que no la vea quien no debe, que no se altere y que se pueda usar. Ejemplo: Confidencialidad, integridad y disponibilidad.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "La tríada CID, las capas de defensa y los tipos de seguridad",
+      "entradaLibro": "di_cid_capas"
+    }
+  },
+  {
+    "id": "def-di-profundidad",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "cid",
+    "ejemplo": "Un castillo con foso, muralla y guardias.",
+    "titulo": "Defensa en profundidad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Defensa en profundidad»?",
+    "respuestaCorrecta": "Poner varias capas de protección para que, si una falla, las otras sigan protegiendo.",
+    "respuestasIncorrectas": [
+      "Que la información solo la pueda ver quien tiene permiso.",
+      "Que la información no se pueda cambiar sin permiso.",
+      "Que los sistemas y datos se puedan usar cuando hacen falta.",
+      "Las tres cosas que hay que cuidar de la información: que no la vea quien no debe, que no se altere y que se pueda usar.",
+      "Proteger la información en cualquier formato, también papel o conversaciones.",
+      "Proteger computadoras, programas y datos digitales, aunque no estén conectados a internet.",
+      "Proteger sistemas y redes conectados frente a ataques que llegan por la red."
+    ],
+    "pista": "Pensá en este ejemplo: Un castillo con foso, muralla y guardias.",
+    "explicacion": "Defensa en profundidad: Poner varias capas de protección para que, si una falla, las otras sigan protegiendo. Ejemplo: Un castillo con foso, muralla y guardias.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "La tríada CID, las capas de defensa y los tipos de seguridad",
+      "entradaLibro": "di_cid_capas"
+    }
+  },
+  {
+    "id": "def-di-seginfo",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "cid",
+    "ejemplo": "Guardar expedientes en papel bajo llave.",
+    "titulo": "Seguridad de la información",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Seguridad de la información»?",
+    "respuestaCorrecta": "Proteger la información en cualquier formato, también papel o conversaciones.",
+    "respuestasIncorrectas": [
+      "Que la información solo la pueda ver quien tiene permiso.",
+      "Que la información no se pueda cambiar sin permiso.",
+      "Que los sistemas y datos se puedan usar cuando hacen falta.",
+      "Las tres cosas que hay que cuidar de la información: que no la vea quien no debe, que no se altere y que se pueda usar.",
+      "Poner varias capas de protección para que, si una falla, las otras sigan protegiendo.",
+      "Proteger computadoras, programas y datos digitales, aunque no estén conectados a internet.",
+      "Proteger sistemas y redes conectados frente a ataques que llegan por la red."
+    ],
+    "pista": "Pensá en este ejemplo: guardar expedientes bajo llave y no hablar de los casos en el ascensor.",
+    "explicacion": "Seguridad de la información: Proteger la información en cualquier formato, también papel o conversaciones. Ejemplo: Guardar expedientes en papel bajo llave.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "La tríada CID, las capas de defensa y los tipos de seguridad",
+      "entradaLibro": "di_cid_capas"
+    }
+  },
+  {
+    "id": "def-di-seginf",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "cid",
+    "ejemplo": "Cifrar el disco de una notebook que nunca se conecta.",
+    "titulo": "Seguridad informática",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Seguridad informática»?",
+    "respuestaCorrecta": "Proteger computadoras, programas y datos digitales, aunque no estén conectados a internet.",
+    "respuestasIncorrectas": [
+      "Que la información solo la pueda ver quien tiene permiso.",
+      "Que la información no se pueda cambiar sin permiso.",
+      "Que los sistemas y datos se puedan usar cuando hacen falta.",
+      "Las tres cosas que hay que cuidar de la información: que no la vea quien no debe, que no se altere y que se pueda usar.",
+      "Poner varias capas de protección para que, si una falla, las otras sigan protegiendo.",
+      "Proteger la información en cualquier formato, también papel o conversaciones.",
+      "Proteger sistemas y redes conectados frente a ataques que llegan por la red."
+    ],
+    "pista": "Pensá en este ejemplo: Cifrar el disco de una notebook que nunca se conecta.",
+    "explicacion": "Seguridad informática: Proteger computadoras, programas y datos digitales, aunque no estén conectados a internet. Ejemplo: Cifrar el disco de una notebook que nunca se conecta.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "La tríada CID, las capas de defensa y los tipos de seguridad",
+      "entradaLibro": "di_cid_capas"
+    }
+  },
+  {
+    "id": "def-di-ciber",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "cid",
+    "ejemplo": "Frenar un ataque que viene desde internet.",
+    "titulo": "Ciberseguridad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Ciberseguridad»?",
+    "respuestaCorrecta": "Proteger sistemas y redes conectados frente a ataques que llegan por la red.",
+    "respuestasIncorrectas": [
+      "Que la información solo la pueda ver quien tiene permiso.",
+      "Que la información no se pueda cambiar sin permiso.",
+      "Que los sistemas y datos se puedan usar cuando hacen falta.",
+      "Las tres cosas que hay que cuidar de la información: que no la vea quien no debe, que no se altere y que se pueda usar.",
+      "Poner varias capas de protección para que, si una falla, las otras sigan protegiendo.",
+      "Proteger la información en cualquier formato, también papel o conversaciones.",
+      "Proteger computadoras, programas y datos digitales, aunque no estén conectados a internet."
+    ],
+    "pista": "Pensá en este ejemplo: frenar a alguien que intenta entrar desde internet.",
+    "explicacion": "Ciberseguridad: Proteger sistemas y redes conectados frente a ataques que llegan por la red. Ejemplo: Frenar un ataque que viene desde internet.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "La tríada CID, las capas de defensa y los tipos de seguridad",
+      "entradaLibro": "di_cid_capas"
+    }
+  },
+  {
+    "id": "def-di-ingsocial",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "ataques",
+    "ejemplo": "Una llamada falsa de «soporte técnico» que pide un código.",
+    "titulo": "Ingeniería social",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Ingeniería social»?",
+    "respuestaCorrecta": "Engañar o manipular a una persona para que entregue información o haga algo indebido.",
+    "respuestasIncorrectas": [
+      "Mensaje falso que imita a alguien confiable para llevarte a una página trucha y robarte datos.",
+      "Cualquier programa malicioso hecho para dañar, espiar, robar o controlar un equipo.",
+      "Programa malicioso que bloquea los archivos de la víctima y pide un rescate para liberarlos.",
+      "Además de bloquear los archivos, el atacante se los lleva y amenaza con publicarlos."
+    ],
+    "pista": "Pensá en este ejemplo: Una llamada falsa de «soporte técnico» que pide un código.",
+    "explicacion": "Ingeniería social: Engañar o manipular a una persona para que entregue información o haga algo indebido. Ejemplo: Una llamada falsa de «soporte técnico» que pide un código.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Cómo atacan: ingeniería social, phishing, malware y ransomware",
+      "entradaLibro": "di_ataques"
+    }
+  },
+  {
+    "id": "def-di-phishing",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "ataques",
+    "ejemplo": "Un mail «del banco» para «validar tu cuenta».",
+    "titulo": "Phishing",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Phishing»?",
+    "respuestaCorrecta": "Mensaje falso que imita a alguien confiable para llevarte a una página trucha y robarte datos.",
+    "respuestasIncorrectas": [
+      "Engañar o manipular a una persona para que entregue información o haga algo indebido.",
+      "Cualquier programa malicioso hecho para dañar, espiar, robar o controlar un equipo.",
+      "Programa malicioso que bloquea los archivos de la víctima y pide un rescate para liberarlos.",
+      "Además de bloquear los archivos, el atacante se los lleva y amenaza con publicarlos."
+    ],
+    "pista": "Pensá en este ejemplo: Un mail «del banco» para «validar tu cuenta».",
+    "explicacion": "Phishing: Mensaje falso que imita a alguien confiable para llevarte a una página trucha y robarte datos. Ejemplo: Un mail «del banco» para «validar tu cuenta».",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Cómo atacan: ingeniería social, phishing, malware y ransomware",
+      "entradaLibro": "di_ataques"
+    }
+  },
+  {
+    "id": "def-di-malware",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "ataques",
+    "ejemplo": "Un programa oculto que registra todo lo que escribís.",
+    "titulo": "Malware",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Malware»?",
+    "respuestaCorrecta": "Cualquier programa malicioso hecho para dañar, espiar, robar o controlar un equipo.",
+    "respuestasIncorrectas": [
+      "Engañar o manipular a una persona para que entregue información o haga algo indebido.",
+      "Mensaje falso que imita a alguien confiable para llevarte a una página trucha y robarte datos.",
+      "Programa malicioso que bloquea los archivos de la víctima y pide un rescate para liberarlos.",
+      "Además de bloquear los archivos, el atacante se los lleva y amenaza con publicarlos."
+    ],
+    "pista": "Pensá en este ejemplo: Un programa oculto que registra todo lo que escribís.",
+    "explicacion": "Malware: Cualquier programa malicioso hecho para dañar, espiar, robar o controlar un equipo. Ejemplo: Un programa oculto que registra todo lo que escribís.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Cómo atacan: ingeniería social, phishing, malware y ransomware",
+      "entradaLibro": "di_ataques"
+    }
+  },
+  {
+    "id": "def-di-ransomware",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "ataques",
+    "ejemplo": "Los servidores de una clínica quedan cifrados con un pedido de pago.",
+    "titulo": "Ransomware",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Ransomware»?",
+    "respuestaCorrecta": "Programa malicioso que bloquea los archivos de la víctima y pide un rescate para liberarlos.",
+    "respuestasIncorrectas": [
+      "Engañar o manipular a una persona para que entregue información o haga algo indebido.",
+      "Mensaje falso que imita a alguien confiable para llevarte a una página trucha y robarte datos.",
+      "Cualquier programa malicioso hecho para dañar, espiar, robar o controlar un equipo.",
+      "Además de bloquear los archivos, el atacante se los lleva y amenaza con publicarlos."
+    ],
+    "pista": "Pensá en este ejemplo: Los servidores de una clínica quedan cifrados con un pedido de pago.",
+    "explicacion": "Ransomware: Programa malicioso que bloquea los archivos de la víctima y pide un rescate para liberarlos. Ejemplo: Los servidores de una clínica quedan cifrados con un pedido de pago.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Cómo atacan: ingeniería social, phishing, malware y ransomware",
+      "entradaLibro": "di_ataques"
+    }
+  },
+  {
+    "id": "def-di-doble",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "ataques",
+    "ejemplo": "La empresa recupera su respaldo, pero igual la amenazan con filtrar datos.",
+    "titulo": "Doble extorsión",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Doble extorsión»?",
+    "respuestaCorrecta": "Además de bloquear los archivos, el atacante se los lleva y amenaza con publicarlos.",
+    "respuestasIncorrectas": [
+      "Engañar o manipular a una persona para que entregue información o haga algo indebido.",
+      "Mensaje falso que imita a alguien confiable para llevarte a una página trucha y robarte datos.",
+      "Cualquier programa malicioso hecho para dañar, espiar, robar o controlar un equipo.",
+      "Programa malicioso que bloquea los archivos de la víctima y pide un rescate para liberarlos."
+    ],
+    "pista": "Pensá en este ejemplo: la empresa recupera su respaldo, pero igual le piden plata para no difundir sus datos.",
+    "explicacion": "Doble extorsión: Además de bloquear los archivos, el atacante se los lleva y amenaza con publicarlos. Ejemplo: La empresa recupera su respaldo, pero igual la amenazan con filtrar datos.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Cómo atacan: ingeniería social, phishing, malware y ransomware",
+      "entradaLibro": "di_ataques"
+    }
+  },
+  {
+    "id": "def-di-red",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "roles",
+    "ejemplo": "Un banco los contrata para intentar entrar a sus sistemas.",
+    "titulo": "Red Team",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Red Team»?",
+    "respuestaCorrecta": "Equipo que ataca con permiso, como lo haría un delincuente, para probar las defensas.",
+    "respuestasIncorrectas": [
+      "Equipo que vigila los sistemas, detecta ataques y responde a ellos.",
+      "Equipo que coordina a atacantes y defensores para mejorar las defensas.",
+      "Responsable de la estrategia de seguridad contratado como servicio externo o a tiempo parcial.",
+      "Volver a probar después de corregir, para confirmar que las correcciones funcionan.",
+      "Diferencia entre cómo está la organización hoy y cómo debería estar según sus reglas.",
+      "Una falla concreta de un sistema que un atacante puede aprovechar.",
+      "Hacker que entra sin permiso, aunque sin intención de dañar."
+    ],
+    "pista": "Pensá en este ejemplo: Un banco los contrata para intentar entrar a sus sistemas.",
+    "explicacion": "Red Team: Equipo que ataca con permiso, como lo haría un delincuente, para probar las defensas. Ejemplo: Un banco los contrata para intentar entrar a sus sistemas.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Equipos, roles y pruebas de seguridad",
+      "entradaLibro": "di_roles_pentest"
+    }
+  },
+  {
+    "id": "def-di-blue",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "roles",
+    "ejemplo": "Quienes monitorean alertas las 24 horas.",
+    "titulo": "Blue Team",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Blue Team»?",
+    "respuestaCorrecta": "Equipo que vigila los sistemas, detecta ataques y responde a ellos.",
+    "respuestasIncorrectas": [
+      "Equipo que ataca con permiso, como lo haría un delincuente, para probar las defensas.",
+      "Equipo que coordina a atacantes y defensores para mejorar las defensas.",
+      "Responsable de la estrategia de seguridad contratado como servicio externo o a tiempo parcial.",
+      "Volver a probar después de corregir, para confirmar que las correcciones funcionan.",
+      "Diferencia entre cómo está la organización hoy y cómo debería estar según sus reglas.",
+      "Una falla concreta de un sistema que un atacante puede aprovechar.",
+      "Hacker que entra sin permiso, aunque sin intención de dañar."
+    ],
+    "pista": "Pensá en este ejemplo: Quienes monitorean alertas las 24 horas.",
+    "explicacion": "Blue Team: Equipo que vigila los sistemas, detecta ataques y responde a ellos. Ejemplo: Quienes monitorean alertas las 24 horas.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Equipos, roles y pruebas de seguridad",
+      "entradaLibro": "di_roles_pentest"
+    }
+  },
+  {
+    "id": "def-di-purple",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "roles",
+    "ejemplo": "Traduce lo que descubre el equipo atacante en nuevas defensas.",
+    "titulo": "Purple Team",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Purple Team»?",
+    "respuestaCorrecta": "Equipo que coordina a atacantes y defensores para mejorar las defensas.",
+    "respuestasIncorrectas": [
+      "Equipo que ataca con permiso, como lo haría un delincuente, para probar las defensas.",
+      "Equipo que vigila los sistemas, detecta ataques y responde a ellos.",
+      "Responsable de la estrategia de seguridad contratado como servicio externo o a tiempo parcial.",
+      "Volver a probar después de corregir, para confirmar que las correcciones funcionan.",
+      "Diferencia entre cómo está la organización hoy y cómo debería estar según sus reglas.",
+      "Una falla concreta de un sistema que un atacante puede aprovechar.",
+      "Hacker que entra sin permiso, aunque sin intención de dañar."
+    ],
+    "pista": "Pensá en este ejemplo: Traduce lo que descubre el equipo atacante en nuevas defensas.",
+    "explicacion": "Purple Team: Equipo que coordina a atacantes y defensores para mejorar las defensas. Ejemplo: Traduce lo que descubre el equipo atacante en nuevas defensas.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Equipos, roles y pruebas de seguridad",
+      "entradaLibro": "di_roles_pentest"
+    }
+  },
+  {
+    "id": "def-di-vciso",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "roles",
+    "ejemplo": "Una especialista que dos días por semana define la seguridad de una pyme.",
+    "titulo": "vCISO",
+    "situacion": "",
+    "pregunta": "¿Qué significa «vCISO»?",
+    "respuestaCorrecta": "Responsable de la estrategia de seguridad contratado como servicio externo o a tiempo parcial.",
+    "respuestasIncorrectas": [
+      "Equipo que ataca con permiso, como lo haría un delincuente, para probar las defensas.",
+      "Equipo que vigila los sistemas, detecta ataques y responde a ellos.",
+      "Equipo que coordina a atacantes y defensores para mejorar las defensas.",
+      "Volver a probar después de corregir, para confirmar que las correcciones funcionan.",
+      "Diferencia entre cómo está la organización hoy y cómo debería estar según sus reglas.",
+      "Una falla concreta de un sistema que un atacante puede aprovechar.",
+      "Hacker que entra sin permiso, aunque sin intención de dañar."
+    ],
+    "pista": "Pensá en este ejemplo: una especialista que va dos días por semana y define las reglas de una pyme.",
+    "explicacion": "vCISO: Responsable de la estrategia de seguridad contratado como servicio externo o a tiempo parcial. Ejemplo: Una especialista que dos días por semana define la seguridad de una pyme.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Equipos, roles y pruebas de seguridad",
+      "entradaLibro": "di_roles_pentest"
+    }
+  },
+  {
+    "id": "def-di-retest",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "roles",
+    "ejemplo": "Se hace después de arreglar lo que encontró el pentest.",
+    "titulo": "Retest",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Retest»?",
+    "respuestaCorrecta": "Volver a probar después de corregir, para confirmar que las correcciones funcionan.",
+    "respuestasIncorrectas": [
+      "Equipo que ataca con permiso, como lo haría un delincuente, para probar las defensas.",
+      "Equipo que vigila los sistemas, detecta ataques y responde a ellos.",
+      "Equipo que coordina a atacantes y defensores para mejorar las defensas.",
+      "Responsable de la estrategia de seguridad contratado como servicio externo o a tiempo parcial.",
+      "Diferencia entre cómo está la organización hoy y cómo debería estar según sus reglas.",
+      "Una falla concreta de un sistema que un atacante puede aprovechar.",
+      "Hacker que entra sin permiso, aunque sin intención de dañar."
+    ],
+    "pista": "Pensá en este ejemplo: Se hace después de arreglar lo que encontró el pentest.",
+    "explicacion": "Retest: Volver a probar después de corregir, para confirmar que las correcciones funcionan. Ejemplo: Se hace después de arreglar lo que encontró el pentest.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Equipos, roles y pruebas de seguridad",
+      "entradaLibro": "di_roles_pentest"
+    }
+  },
+  {
+    "id": "def-di-gap",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "roles",
+    "ejemplo": "La política exige doble factor para todos, pero solo lo usa el 30%.",
+    "titulo": "Gap (brecha)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Gap (brecha)»?",
+    "respuestaCorrecta": "Diferencia entre cómo está la organización hoy y cómo debería estar según sus reglas.",
+    "respuestasIncorrectas": [
+      "Equipo que ataca con permiso, como lo haría un delincuente, para probar las defensas.",
+      "Equipo que vigila los sistemas, detecta ataques y responde a ellos.",
+      "Equipo que coordina a atacantes y defensores para mejorar las defensas.",
+      "Responsable de la estrategia de seguridad contratado como servicio externo o a tiempo parcial.",
+      "Volver a probar después de corregir, para confirmar que las correcciones funcionan.",
+      "Una falla concreta de un sistema que un atacante puede aprovechar.",
+      "Hacker que entra sin permiso, aunque sin intención de dañar."
+    ],
+    "pista": "Pensá en este ejemplo: La política exige doble factor para todos, pero solo lo usa el 30%.",
+    "explicacion": "Gap (brecha): Diferencia entre cómo está la organización hoy y cómo debería estar según sus reglas. Ejemplo: La política exige doble factor para todos, pero solo lo usa el 30%.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Equipos, roles y pruebas de seguridad",
+      "entradaLibro": "di_roles_pentest"
+    }
+  },
+  {
+    "id": "def-di-vuln",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "roles",
+    "ejemplo": "Un formulario web que permite meter comandos en la base de datos.",
+    "titulo": "Vulnerabilidad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Vulnerabilidad»?",
+    "respuestaCorrecta": "Una falla concreta de un sistema que un atacante puede aprovechar.",
+    "respuestasIncorrectas": [
+      "Equipo que ataca con permiso, como lo haría un delincuente, para probar las defensas.",
+      "Equipo que vigila los sistemas, detecta ataques y responde a ellos.",
+      "Equipo que coordina a atacantes y defensores para mejorar las defensas.",
+      "Responsable de la estrategia de seguridad contratado como servicio externo o a tiempo parcial.",
+      "Volver a probar después de corregir, para confirmar que las correcciones funcionan.",
+      "Diferencia entre cómo está la organización hoy y cómo debería estar según sus reglas.",
+      "Hacker que entra sin permiso, aunque sin intención de dañar."
+    ],
+    "pista": "Pensá en este ejemplo: Un formulario web que permite meter comandos en la base de datos.",
+    "explicacion": "Vulnerabilidad: Una falla concreta de un sistema que un atacante puede aprovechar. Ejemplo: Un formulario web que permite meter comandos en la base de datos.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Equipos, roles y pruebas de seguridad",
+      "entradaLibro": "di_roles_pentest"
+    }
+  },
+  {
+    "id": "def-di-grayhat",
+    "unidad": "delitos_informaticos",
+    "tipo": "definicion",
+    "grupo": "roles",
+    "ejemplo": "Encuentra una falla en una web municipal y después avisa.",
+    "titulo": "Gray hat",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Gray hat»?",
+    "respuestaCorrecta": "Hacker que entra sin permiso, aunque sin intención de dañar.",
+    "respuestasIncorrectas": [
+      "Equipo que ataca con permiso, como lo haría un delincuente, para probar las defensas.",
+      "Equipo que vigila los sistemas, detecta ataques y responde a ellos.",
+      "Equipo que coordina a atacantes y defensores para mejorar las defensas.",
+      "Responsable de la estrategia de seguridad contratado como servicio externo o a tiempo parcial.",
+      "Volver a probar después de corregir, para confirmar que las correcciones funcionan.",
+      "Diferencia entre cómo está la organización hoy y cómo debería estar según sus reglas.",
+      "Una falla concreta de un sistema que un atacante puede aprovechar."
+    ],
+    "pista": "Pensá en este ejemplo: Encuentra una falla en una web municipal y después avisa.",
+    "explicacion": "Gray hat: Hacker que entra sin permiso, aunque sin intención de dañar. Ejemplo: Encuentra una falla en una web municipal y después avisa.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Cómo atacan: ingeniería social, phishing, malware y ransomware",
+      "entradaLibro": "di_ataques"
+    }
+  },
+  {
+    "id": "def-pd-personal",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "datos",
+    "ejemplo": "Tu nombre, tu DNI, tu mail o una foto de tu cara.",
+    "titulo": "Dato personal",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Dato personal»?",
+    "respuestaCorrecta": "Cualquier información que permite saber a qué persona se refiere.",
+    "respuestasIncorrectas": [
+      "Dato personal muy íntimo que podría usarse para discriminar, como la salud o la religión.",
+      "Información sobre un grupo, en números, que no permite saber quién es cada persona.",
+      "La persona a la que se refieren los datos y a quien le pertenecen.",
+      "La persona o empresa que decide qué datos guardar y tiene que cuidarlos.",
+      "Poder controlar quién junta tu información, para qué la usa y con quién la comparte."
+    ],
+    "pista": "Pensá en este ejemplo: Tu nombre, tu DNI, tu mail o una foto de tu cara.",
+    "explicacion": "Dato personal: Cualquier información que permite saber a qué persona se refiere. Ejemplo: Tu nombre, tu DNI, tu mail o una foto de tu cara.",
+    "referencia": {
+      "tipo": "Conceptos",
+      "titulo": "Dato personal, dato sensible y dato estadístico",
+      "entradaLibro": "pd_conceptos"
+    }
+  },
+  {
+    "id": "def-pd-sensible",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "datos",
+    "ejemplo": "Que una persona identificada está afiliada a un sindicato.",
+    "titulo": "Dato sensible",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Dato sensible»?",
+    "respuestaCorrecta": "Dato personal muy íntimo que podría usarse para discriminar, como la salud o la religión.",
+    "respuestasIncorrectas": [
+      "Cualquier información que permite saber a qué persona se refiere.",
+      "Información sobre un grupo, en números, que no permite saber quién es cada persona.",
+      "La persona a la que se refieren los datos y a quien le pertenecen.",
+      "La persona o empresa que decide qué datos guardar y tiene que cuidarlos.",
+      "Poder controlar quién junta tu información, para qué la usa y con quién la comparte."
+    ],
+    "pista": "Pensá en este ejemplo: Que una persona identificada está afiliada a un sindicato.",
+    "explicacion": "Dato sensible: Dato personal muy íntimo que podría usarse para discriminar, como la salud o la religión. Ejemplo: Que una persona identificada está afiliada a un sindicato.",
+    "referencia": {
+      "tipo": "Conceptos",
+      "titulo": "Dato personal, dato sensible y dato estadístico",
+      "entradaLibro": "pd_conceptos"
+    }
+  },
+  {
+    "id": "def-pd-estadistico",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "datos",
+    "ejemplo": "«Tres alumnos faltaron por gripe», sin decir quiénes.",
+    "titulo": "Dato estadístico",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Dato estadístico»?",
+    "respuestaCorrecta": "Información sobre un grupo, en números, que no permite saber quién es cada persona.",
+    "respuestasIncorrectas": [
+      "Cualquier información que permite saber a qué persona se refiere.",
+      "Dato personal muy íntimo que podría usarse para discriminar, como la salud o la religión.",
+      "La persona a la que se refieren los datos y a quien le pertenecen.",
+      "La persona o empresa que decide qué datos guardar y tiene que cuidarlos.",
+      "Poder controlar quién junta tu información, para qué la usa y con quién la comparte."
+    ],
+    "pista": "Pensá en este ejemplo: «Tres alumnos faltaron por gripe», sin decir quiénes.",
+    "explicacion": "Dato estadístico: Información sobre un grupo, en números, que no permite saber quién es cada persona. Ejemplo: «Tres alumnos faltaron por gripe», sin decir quiénes.",
+    "referencia": {
+      "tipo": "Conceptos",
+      "titulo": "Dato personal, dato sensible y dato estadístico",
+      "entradaLibro": "pd_conceptos"
+    }
+  },
+  {
+    "id": "def-pd-titular",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "datos",
+    "ejemplo": "Si un gimnasio guarda tu ficha, vos sos el titular.",
+    "titulo": "Titular de los datos",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Titular de los datos»?",
+    "respuestaCorrecta": "La persona a la que se refieren los datos y a quien le pertenecen.",
+    "respuestasIncorrectas": [
+      "Cualquier información que permite saber a qué persona se refiere.",
+      "Dato personal muy íntimo que podría usarse para discriminar, como la salud o la religión.",
+      "Información sobre un grupo, en números, que no permite saber quién es cada persona.",
+      "La persona o empresa que decide qué datos guardar y tiene que cuidarlos.",
+      "Poder controlar quién junta tu información, para qué la usa y con quién la comparte."
+    ],
+    "pista": "Pensá en este ejemplo: Si un gimnasio guarda tu ficha, vos sos el titular.",
+    "explicacion": "Titular de los datos: La persona a la que se refieren los datos y a quien le pertenecen. Ejemplo: Si un gimnasio guarda tu ficha, vos sos el titular.",
+    "referencia": {
+      "tipo": "Empezá por acá",
+      "titulo": "Palabras básicas de Protección de Datos",
+      "entradaLibro": "pd_glosario"
+    }
+  },
+  {
+    "id": "def-pd-responsable",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "datos",
+    "ejemplo": "El gimnasio que guarda las fichas de sus socios.",
+    "titulo": "Responsable de la base de datos",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Responsable de la base de datos»?",
+    "respuestaCorrecta": "La persona o empresa que decide qué datos guardar y tiene que cuidarlos.",
+    "respuestasIncorrectas": [
+      "Cualquier información que permite saber a qué persona se refiere.",
+      "Dato personal muy íntimo que podría usarse para discriminar, como la salud o la religión.",
+      "Información sobre un grupo, en números, que no permite saber quién es cada persona.",
+      "La persona a la que se refieren los datos y a quien le pertenecen.",
+      "Poder controlar quién junta tu información, para qué la usa y con quién la comparte."
+    ],
+    "pista": "Pensá en este ejemplo: el gimnasio que tiene las fichas de sus socios.",
+    "explicacion": "Responsable de la base de datos: La persona o empresa que decide qué datos guardar y tiene que cuidarlos. Ejemplo: El gimnasio que guarda las fichas de sus socios.",
+    "referencia": {
+      "tipo": "Empezá por acá",
+      "titulo": "Palabras básicas de Protección de Datos",
+      "entradaLibro": "pd_glosario"
+    }
+  },
+  {
+    "id": "def-pd-privacidad",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "datos",
+    "ejemplo": "Decidir si una app puede compartir tus datos con otras empresas.",
+    "titulo": "Privacidad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Privacidad»?",
+    "respuestaCorrecta": "Poder controlar quién junta tu información, para qué la usa y con quién la comparte.",
+    "respuestasIncorrectas": [
+      "Cualquier información que permite saber a qué persona se refiere.",
+      "Dato personal muy íntimo que podría usarse para discriminar, como la salud o la religión.",
+      "Información sobre un grupo, en números, que no permite saber quién es cada persona.",
+      "La persona a la que se refieren los datos y a quien le pertenecen.",
+      "La persona o empresa que decide qué datos guardar y tiene que cuidarlos."
+    ],
+    "pista": "Pensá en este ejemplo: decidir si una app puede pasar tus datos a otras empresas.",
+    "explicacion": "Privacidad: Poder controlar quién junta tu información, para qué la usa y con quién la comparte. Ejemplo: Decidir si una app puede compartir tus datos con otras empresas.",
+    "referencia": {
+      "tipo": "Conceptos",
+      "titulo": "Dato personal, dato sensible y dato estadístico",
+      "entradaLibro": "pd_conceptos"
+    }
+  },
+  {
+    "id": "def-pd-consent",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "principios",
+    "ejemplo": "Una casilla que ya viene tildada no cuenta.",
+    "titulo": "Consentimiento (Ley 25.326)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Consentimiento (Ley 25.326)»?",
+    "respuestaCorrecta": "Autorización libre, expresa e informada del titular para que se usen sus datos.",
+    "respuestasIncorrectas": [
+      "Los datos solo se pueden usar para el objetivo para el que se pidieron.",
+      "Los datos tienen que ser verdaderos, actualizados y solo los necesarios.",
+      "Quien guarda los datos tiene que protegerlos para que no se pierdan ni los use alguien sin permiso.",
+      "Quien accede a datos por su trabajo tiene que guardar secreto y no usarlos para otra cosa."
+    ],
+    "pista": "Pensá en este ejemplo: Una casilla que ya viene tildada no cuenta.",
+    "explicacion": "Consentimiento (Ley 25.326): Autorización libre, expresa e informada del titular para que se usen sus datos. Ejemplo: Una casilla que ya viene tildada no cuenta.",
+    "referencia": {
+      "tipo": "Ley 25.326",
+      "titulo": "Ley 25.326: las reglas para usar datos ajenos",
+      "entradaLibro": "pd_ley_principios"
+    }
+  },
+  {
+    "id": "def-pd-finalidad",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "principios",
+    "ejemplo": "El mail pedido para la factura no se puede vender.",
+    "titulo": "Principio de finalidad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Principio de finalidad»?",
+    "respuestaCorrecta": "Los datos solo se pueden usar para el objetivo para el que se pidieron.",
+    "respuestasIncorrectas": [
+      "Autorización libre, expresa e informada del titular para que se usen sus datos.",
+      "Los datos tienen que ser verdaderos, actualizados y solo los necesarios.",
+      "Quien guarda los datos tiene que protegerlos para que no se pierdan ni los use alguien sin permiso.",
+      "Quien accede a datos por su trabajo tiene que guardar secreto y no usarlos para otra cosa."
+    ],
+    "pista": "Pensá en este ejemplo: El mail pedido para la factura no se puede vender.",
+    "explicacion": "Principio de finalidad: Los datos solo se pueden usar para el objetivo para el que se pidieron. Ejemplo: El mail pedido para la factura no se puede vender.",
+    "referencia": {
+      "tipo": "Ley 25.326",
+      "titulo": "Ley 25.326: las reglas para usar datos ajenos",
+      "entradaLibro": "pd_ley_principios"
+    }
+  },
+  {
+    "id": "def-pd-calidad",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "principios",
+    "ejemplo": "Pedir la religión para vender zapatillas es pedir de más.",
+    "titulo": "Principio de calidad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Principio de calidad»?",
+    "respuestaCorrecta": "Los datos tienen que ser verdaderos, actualizados y solo los necesarios.",
+    "respuestasIncorrectas": [
+      "Autorización libre, expresa e informada del titular para que se usen sus datos.",
+      "Los datos solo se pueden usar para el objetivo para el que se pidieron.",
+      "Quien guarda los datos tiene que protegerlos para que no se pierdan ni los use alguien sin permiso.",
+      "Quien accede a datos por su trabajo tiene que guardar secreto y no usarlos para otra cosa."
+    ],
+    "pista": "Pensá en este ejemplo: Pedir la religión para vender zapatillas es pedir de más.",
+    "explicacion": "Principio de calidad: Los datos tienen que ser verdaderos, actualizados y solo los necesarios. Ejemplo: Pedir la religión para vender zapatillas es pedir de más.",
+    "referencia": {
+      "tipo": "Ley 25.326",
+      "titulo": "Ley 25.326: las reglas para usar datos ajenos",
+      "entradaLibro": "pd_ley_principios"
+    }
+  },
+  {
+    "id": "def-pd-seguridad",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "principios",
+    "ejemplo": "No guardar contraseñas sin cifrar en una planilla compartida.",
+    "titulo": "Principio de seguridad (art. 9)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Principio de seguridad (art. 9)»?",
+    "respuestaCorrecta": "Quien guarda los datos tiene que protegerlos para que no se pierdan ni los use alguien sin permiso.",
+    "respuestasIncorrectas": [
+      "Autorización libre, expresa e informada del titular para que se usen sus datos.",
+      "Los datos solo se pueden usar para el objetivo para el que se pidieron.",
+      "Los datos tienen que ser verdaderos, actualizados y solo los necesarios.",
+      "Quien accede a datos por su trabajo tiene que guardar secreto y no usarlos para otra cosa."
+    ],
+    "pista": "Pensá en este ejemplo: No guardar contraseñas sin cifrar en una planilla compartida.",
+    "explicacion": "Principio de seguridad (art. 9): Quien guarda los datos tiene que protegerlos para que no se pierdan ni los use alguien sin permiso. Ejemplo: No guardar contraseñas sin cifrar en una planilla compartida.",
+    "referencia": {
+      "tipo": "Ley 25.326",
+      "titulo": "Ley 25.326: las reglas para usar datos ajenos",
+      "entradaLibro": "pd_ley_principios"
+    }
+  },
+  {
+    "id": "def-pd-confid",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "principios",
+    "ejemplo": "Una empleada de una clínica no puede mirar la historia clínica de su vecina.",
+    "titulo": "Deber de confidencialidad (Ley 25.326)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Deber de confidencialidad (Ley 25.326)»?",
+    "respuestaCorrecta": "Quien accede a datos por su trabajo tiene que guardar secreto y no usarlos para otra cosa.",
+    "respuestasIncorrectas": [
+      "Autorización libre, expresa e informada del titular para que se usen sus datos.",
+      "Los datos solo se pueden usar para el objetivo para el que se pidieron.",
+      "Los datos tienen que ser verdaderos, actualizados y solo los necesarios.",
+      "Quien guarda los datos tiene que protegerlos para que no se pierdan ni los use alguien sin permiso."
+    ],
+    "pista": "Pensá en este ejemplo: Una empleada de una clínica no puede mirar la historia clínica de su vecina.",
+    "explicacion": "Deber de confidencialidad (Ley 25.326): Quien accede a datos por su trabajo tiene que guardar secreto y no usarlos para otra cosa. Ejemplo: Una empleada de una clínica no puede mirar la historia clínica de su vecina.",
+    "referencia": {
+      "tipo": "Ley 25.326",
+      "titulo": "Ley 25.326: las reglas para usar datos ajenos",
+      "entradaLibro": "pd_ley_principios"
+    }
+  },
+  {
+    "id": "def-pd-acceso",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "derechos",
+    "ejemplo": "Preguntarle a una app qué guarda sobre vos.",
+    "titulo": "Derecho de acceso",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Derecho de acceso»?",
+    "respuestaCorrecta": "Pedir que te informen qué datos tuyos tienen y para qué los usan; plazo de 10 días corridos.",
+    "respuestasIncorrectas": [
+      "Pedir que corrijan un dato tuyo que está mal cargado; plazo de 5 días hábiles.",
+      "Pedir que pongan al día un dato tuyo que era correcto pero cambió; plazo de 5 días hábiles.",
+      "Pedir que borren un dato tuyo que no deberían tener; plazo de 5 días hábiles.",
+      "Una deuda impaga deja de informarse después de 5 años, aunque se siga debiendo.",
+      "Acción judicial para defender tus datos cuando la empresa no responde o no corrige."
+    ],
+    "pista": "Pensá en este ejemplo: Preguntarle a una app qué guarda sobre vos.",
+    "explicacion": "Derecho de acceso: Pedir que te informen qué datos tuyos tienen y para qué los usan; plazo de 10 días corridos. Ejemplo: Preguntarle a una app qué guarda sobre vos.",
+    "referencia": {
+      "tipo": "Derechos",
+      "titulo": "Tus derechos sobre tus datos y los plazos para responder",
+      "entradaLibro": "pd_derechos_plazos"
+    }
+  },
+  {
+    "id": "def-pd-rectif",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "derechos",
+    "ejemplo": "Tienen mal tu número de DNI.",
+    "titulo": "Rectificación",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Rectificación»?",
+    "respuestaCorrecta": "Pedir que corrijan un dato tuyo que está mal cargado; plazo de 5 días hábiles.",
+    "respuestasIncorrectas": [
+      "Pedir que te informen qué datos tuyos tienen y para qué los usan; plazo de 10 días corridos.",
+      "Pedir que pongan al día un dato tuyo que era correcto pero cambió; plazo de 5 días hábiles.",
+      "Pedir que borren un dato tuyo que no deberían tener; plazo de 5 días hábiles.",
+      "Una deuda impaga deja de informarse después de 5 años, aunque se siga debiendo.",
+      "Acción judicial para defender tus datos cuando la empresa no responde o no corrige."
+    ],
+    "pista": "Pensá en este ejemplo: Tienen mal tu número de DNI.",
+    "explicacion": "Rectificación: Pedir que corrijan un dato tuyo que está mal cargado; plazo de 5 días hábiles. Ejemplo: Tienen mal tu número de DNI.",
+    "referencia": {
+      "tipo": "Derechos",
+      "titulo": "Tus derechos sobre tus datos y los plazos para responder",
+      "entradaLibro": "pd_derechos_plazos"
+    }
+  },
+  {
+    "id": "def-pd-actualiz",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "derechos",
+    "ejemplo": "Te mudaste y siguen teniendo tu dirección vieja.",
+    "titulo": "Actualización",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Actualización»?",
+    "respuestaCorrecta": "Pedir que pongan al día un dato tuyo que era correcto pero cambió; plazo de 5 días hábiles.",
+    "respuestasIncorrectas": [
+      "Pedir que te informen qué datos tuyos tienen y para qué los usan; plazo de 10 días corridos.",
+      "Pedir que corrijan un dato tuyo que está mal cargado; plazo de 5 días hábiles.",
+      "Pedir que borren un dato tuyo que no deberían tener; plazo de 5 días hábiles.",
+      "Una deuda impaga deja de informarse después de 5 años, aunque se siga debiendo.",
+      "Acción judicial para defender tus datos cuando la empresa no responde o no corrige."
+    ],
+    "pista": "Pensá en este ejemplo: Te mudaste y siguen teniendo tu dirección vieja.",
+    "explicacion": "Actualización: Pedir que pongan al día un dato tuyo que era correcto pero cambió; plazo de 5 días hábiles. Ejemplo: Te mudaste y siguen teniendo tu dirección vieja.",
+    "referencia": {
+      "tipo": "Derechos",
+      "titulo": "Tus derechos sobre tus datos y los plazos para responder",
+      "entradaLibro": "pd_derechos_plazos"
+    }
+  },
+  {
+    "id": "def-pd-supresion",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "derechos",
+    "ejemplo": "Una empresa guarda tu religión sin motivo.",
+    "titulo": "Supresión",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Supresión»?",
+    "respuestaCorrecta": "Pedir que borren un dato tuyo que no deberían tener; plazo de 5 días hábiles.",
+    "respuestasIncorrectas": [
+      "Pedir que te informen qué datos tuyos tienen y para qué los usan; plazo de 10 días corridos.",
+      "Pedir que corrijan un dato tuyo que está mal cargado; plazo de 5 días hábiles.",
+      "Pedir que pongan al día un dato tuyo que era correcto pero cambió; plazo de 5 días hábiles.",
+      "Una deuda impaga deja de informarse después de 5 años, aunque se siga debiendo.",
+      "Acción judicial para defender tus datos cuando la empresa no responde o no corrige."
+    ],
+    "pista": "Pensá en este ejemplo: Una empresa guarda tu religión sin motivo.",
+    "explicacion": "Supresión: Pedir que borren un dato tuyo que no deberían tener; plazo de 5 días hábiles. Ejemplo: Una empresa guarda tu religión sin motivo.",
+    "referencia": {
+      "tipo": "Derechos",
+      "titulo": "Tus derechos sobre tus datos y los plazos para responder",
+      "entradaLibro": "pd_derechos_plazos"
+    }
+  },
+  {
+    "id": "def-pd-olvido",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "derechos",
+    "ejemplo": "Una deuda de hace 6 años ya no debería figurar en Veraz.",
+    "titulo": "Derecho al olvido (datos crediticios)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Derecho al olvido (datos crediticios)»?",
+    "respuestaCorrecta": "Una deuda impaga deja de informarse después de 5 años, aunque se siga debiendo.",
+    "respuestasIncorrectas": [
+      "Pedir que te informen qué datos tuyos tienen y para qué los usan; plazo de 10 días corridos.",
+      "Pedir que corrijan un dato tuyo que está mal cargado; plazo de 5 días hábiles.",
+      "Pedir que pongan al día un dato tuyo que era correcto pero cambió; plazo de 5 días hábiles.",
+      "Pedir que borren un dato tuyo que no deberían tener; plazo de 5 días hábiles.",
+      "Acción judicial para defender tus datos cuando la empresa no responde o no corrige."
+    ],
+    "pista": "Pensá en este ejemplo: algo que debías hace mucho tiempo ya no debería aparecer en Veraz.",
+    "explicacion": "Derecho al olvido (datos crediticios): Una deuda impaga deja de informarse después de 5 años, aunque se siga debiendo. Ejemplo: Una deuda de hace 6 años ya no debería figurar en Veraz.",
+    "referencia": {
+      "tipo": "Datos crediticios",
+      "titulo": "Veraz, deudas y «derecho al olvido»",
+      "entradaLibro": "pd_crediticios"
+    }
+  },
+  {
+    "id": "def-pd-hdata",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "derechos",
+    "ejemplo": "Pasó el plazo y siguen informando una deuda falsa.",
+    "titulo": "Habeas data",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Habeas data»?",
+    "respuestaCorrecta": "Acción judicial para defender tus datos cuando la empresa no responde o no corrige.",
+    "respuestasIncorrectas": [
+      "Pedir que te informen qué datos tuyos tienen y para qué los usan; plazo de 10 días corridos.",
+      "Pedir que corrijan un dato tuyo que está mal cargado; plazo de 5 días hábiles.",
+      "Pedir que pongan al día un dato tuyo que era correcto pero cambió; plazo de 5 días hábiles.",
+      "Pedir que borren un dato tuyo que no deberían tener; plazo de 5 días hábiles.",
+      "Una deuda impaga deja de informarse después de 5 años, aunque se siga debiendo."
+    ],
+    "pista": "Pensá en este ejemplo: Pasó el plazo y siguen informando una deuda falsa.",
+    "explicacion": "Habeas data: Acción judicial para defender tus datos cuando la empresa no responde o no corrige. Ejemplo: Pasó el plazo y siguen informando una deuda falsa.",
+    "referencia": {
+      "tipo": "Derechos",
+      "titulo": "Tus derechos sobre tus datos y los plazos para responder",
+      "entradaLibro": "pd_derechos_plazos"
+    }
+  },
+  {
+    "id": "def-pd-ley",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "normas",
+    "ejemplo": "Es la que hay que leer antes de armar una base de clientes.",
+    "titulo": "Ley 25.326",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Ley 25.326»?",
+    "respuestaCorrecta": "La ley argentina, del año 2000, que regula cómo se pueden juntar, guardar y usar datos personales.",
+    "respuestasIncorrectas": [
+      "Reglamento de protección de datos de la Unión Europea, que se aplica desde 2018.",
+      "Norma argentina que recomienda medidas de seguridad concretas para bases de datos personales.",
+      "Estándar internacional para organizar la seguridad de toda la información de una empresa.",
+      "Organismo del Estado argentino que controla que se cumpla la ley de datos personales.",
+      "Pensar la protección de los datos desde el inicio de un sistema, no como un parche al final.",
+      "Dato del cuerpo que identifica a una persona y el RGPD considera categoría especial."
+    ],
+    "pista": "Pensá en este ejemplo: Es la que hay que leer antes de armar una base de clientes.",
+    "explicacion": "Ley 25.326: La ley argentina, del año 2000, que regula cómo se pueden juntar, guardar y usar datos personales. Ejemplo: Es la que hay que leer antes de armar una base de clientes.",
+    "referencia": {
+      "tipo": "Ley 25.326",
+      "titulo": "Ley 25.326: las reglas para usar datos ajenos",
+      "entradaLibro": "pd_ley_principios"
+    }
+  },
+  {
+    "id": "def-pd-rgpd",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "normas",
+    "ejemplo": "En inglés se llama GDPR.",
+    "titulo": "RGPD",
+    "situacion": "",
+    "pregunta": "¿Qué significa «RGPD»?",
+    "respuestaCorrecta": "Reglamento de protección de datos de la Unión Europea, que se aplica desde 2018.",
+    "respuestasIncorrectas": [
+      "La ley argentina, del año 2000, que regula cómo se pueden juntar, guardar y usar datos personales.",
+      "Norma argentina que recomienda medidas de seguridad concretas para bases de datos personales.",
+      "Estándar internacional para organizar la seguridad de toda la información de una empresa.",
+      "Organismo del Estado argentino que controla que se cumpla la ley de datos personales.",
+      "Pensar la protección de los datos desde el inicio de un sistema, no como un parche al final.",
+      "Dato del cuerpo que identifica a una persona y el RGPD considera categoría especial."
+    ],
+    "pista": "Pensá en este ejemplo: En inglés se llama GDPR.",
+    "explicacion": "RGPD: Reglamento de protección de datos de la Unión Europea, que se aplica desde 2018. Ejemplo: En inglés se llama GDPR.",
+    "referencia": {
+      "tipo": "Europa",
+      "titulo": "RGPD: el reglamento europeo de datos",
+      "entradaLibro": "pd_rgpd"
+    }
+  },
+  {
+    "id": "def-pd-aaip47",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "normas",
+    "ejemplo": "Trata la destrucción segura y los entornos de desarrollo.",
+    "titulo": "Resolución AAIP 47/2018",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Resolución AAIP 47/2018»?",
+    "respuestaCorrecta": "Norma argentina que recomienda medidas de seguridad concretas para bases de datos personales.",
+    "respuestasIncorrectas": [
+      "La ley argentina, del año 2000, que regula cómo se pueden juntar, guardar y usar datos personales.",
+      "Reglamento de protección de datos de la Unión Europea, que se aplica desde 2018.",
+      "Estándar internacional para organizar la seguridad de toda la información de una empresa.",
+      "Organismo del Estado argentino que controla que se cumpla la ley de datos personales.",
+      "Pensar la protección de los datos desde el inicio de un sistema, no como un parche al final.",
+      "Dato del cuerpo que identifica a una persona y el RGPD considera categoría especial."
+    ],
+    "pista": "Pensá en este ejemplo: Trata la destrucción segura y los entornos de desarrollo.",
+    "explicacion": "Resolución AAIP 47/2018: Norma argentina que recomienda medidas de seguridad concretas para bases de datos personales. Ejemplo: Trata la destrucción segura y los entornos de desarrollo.",
+    "referencia": {
+      "tipo": "Seguridad",
+      "titulo": "Cómo hay que proteger las bases: art. 9, Resolución AAIP 47/2018 e ISO 27001",
+      "entradaLibro": "pd_seguridad"
+    }
+  },
+  {
+    "id": "def-pd-iso",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "normas",
+    "ejemplo": "No es una ley: es una norma técnica de gestión.",
+    "titulo": "ISO 27001",
+    "situacion": "",
+    "pregunta": "¿Qué significa «ISO 27001»?",
+    "respuestaCorrecta": "Estándar internacional para organizar la seguridad de toda la información de una empresa.",
+    "respuestasIncorrectas": [
+      "La ley argentina, del año 2000, que regula cómo se pueden juntar, guardar y usar datos personales.",
+      "Reglamento de protección de datos de la Unión Europea, que se aplica desde 2018.",
+      "Norma argentina que recomienda medidas de seguridad concretas para bases de datos personales.",
+      "Organismo del Estado argentino que controla que se cumpla la ley de datos personales.",
+      "Pensar la protección de los datos desde el inicio de un sistema, no como un parche al final.",
+      "Dato del cuerpo que identifica a una persona y el RGPD considera categoría especial."
+    ],
+    "pista": "Pensá en este ejemplo: No es una ley: es una norma técnica de gestión.",
+    "explicacion": "ISO 27001: Estándar internacional para organizar la seguridad de toda la información de una empresa. Ejemplo: No es una ley: es una norma técnica de gestión.",
+    "referencia": {
+      "tipo": "Seguridad",
+      "titulo": "Cómo hay que proteger las bases: art. 9, Resolución AAIP 47/2018 e ISO 27001",
+      "entradaLibro": "pd_seguridad"
+    }
+  },
+  {
+    "id": "def-pd-aaip",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "normas",
+    "ejemplo": "Agencia de Acceso a la Información Pública.",
+    "titulo": "AAIP",
+    "situacion": "",
+    "pregunta": "¿Qué significa «AAIP»?",
+    "respuestaCorrecta": "Organismo del Estado argentino que controla que se cumpla la ley de datos personales.",
+    "respuestasIncorrectas": [
+      "La ley argentina, del año 2000, que regula cómo se pueden juntar, guardar y usar datos personales.",
+      "Reglamento de protección de datos de la Unión Europea, que se aplica desde 2018.",
+      "Norma argentina que recomienda medidas de seguridad concretas para bases de datos personales.",
+      "Estándar internacional para organizar la seguridad de toda la información de una empresa.",
+      "Pensar la protección de los datos desde el inicio de un sistema, no como un parche al final.",
+      "Dato del cuerpo que identifica a una persona y el RGPD considera categoría especial."
+    ],
+    "pista": "Pensá en este ejemplo: Agencia de Acceso a la Información Pública.",
+    "explicacion": "AAIP: Organismo del Estado argentino que controla que se cumpla la ley de datos personales. Ejemplo: Agencia de Acceso a la Información Pública.",
+    "referencia": {
+      "tipo": "Empezá por acá",
+      "titulo": "Palabras básicas de Protección de Datos",
+      "entradaLibro": "pd_glosario"
+    }
+  },
+  {
+    "id": "def-pd-diseno",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "normas",
+    "ejemplo": "Incluir desde el principio un botón para borrar la cuenta.",
+    "titulo": "Privacidad desde el diseño",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Privacidad desde el diseño»?",
+    "respuestaCorrecta": "Pensar la protección de los datos desde el inicio de un sistema, no como un parche al final.",
+    "respuestasIncorrectas": [
+      "La ley argentina, del año 2000, que regula cómo se pueden juntar, guardar y usar datos personales.",
+      "Reglamento de protección de datos de la Unión Europea, que se aplica desde 2018.",
+      "Norma argentina que recomienda medidas de seguridad concretas para bases de datos personales.",
+      "Estándar internacional para organizar la seguridad de toda la información de una empresa.",
+      "Organismo del Estado argentino que controla que se cumpla la ley de datos personales.",
+      "Dato del cuerpo que identifica a una persona y el RGPD considera categoría especial."
+    ],
+    "pista": "Pensá en este ejemplo: Incluir desde el principio un botón para borrar la cuenta.",
+    "explicacion": "Privacidad desde el diseño: Pensar la protección de los datos desde el inicio de un sistema, no como un parche al final. Ejemplo: Incluir desde el principio un botón para borrar la cuenta.",
+    "referencia": {
+      "tipo": "Práctica profesional",
+      "titulo": "Privacidad desde el diseño: el rol de quien hace sistemas",
+      "entradaLibro": "pd_diseno"
+    }
+  },
+  {
+    "id": "def-pd-biometrico",
+    "unidad": "proteccion_datos",
+    "tipo": "definicion",
+    "grupo": "normas",
+    "ejemplo": "La huella digital o el reconocimiento facial.",
+    "titulo": "Dato biométrico (RGPD)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Dato biométrico (RGPD)»?",
+    "respuestaCorrecta": "Dato del cuerpo que identifica a una persona y el RGPD considera categoría especial.",
+    "respuestasIncorrectas": [
+      "La ley argentina, del año 2000, que regula cómo se pueden juntar, guardar y usar datos personales.",
+      "Reglamento de protección de datos de la Unión Europea, que se aplica desde 2018.",
+      "Norma argentina que recomienda medidas de seguridad concretas para bases de datos personales.",
+      "Estándar internacional para organizar la seguridad de toda la información de una empresa.",
+      "Organismo del Estado argentino que controla que se cumpla la ley de datos personales.",
+      "Pensar la protección de los datos desde el inicio de un sistema, no como un parche al final."
+    ],
+    "pista": "Pensá en este ejemplo: La huella digital o el reconocimiento facial.",
+    "explicacion": "Dato biométrico (RGPD): Dato del cuerpo que identifica a una persona y el RGPD considera categoría especial. Ejemplo: La huella digital o el reconocimiento facial.",
+    "referencia": {
+      "tipo": "Europa",
+      "titulo": "RGPD: el reglamento europeo de datos",
+      "entradaLibro": "pd_rgpd"
+    }
+  }
+]

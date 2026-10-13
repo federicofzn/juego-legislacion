@@ -1,0 +1,3636 @@
+[
+  {
+    "id": "dye-normas-01",
+    "unidad": "derecho_y_estado",
+    "tipo": "clasificar",
+    "titulo": "El saludo",
+    "situacion": "En la oficina, un empleado nuevo nunca saluda al llegar. Sus compañeros empiezan a dejarlo de lado.",
+    "pregunta": "¿Qué tipo de norma está incumpliendo?",
+    "respuestaCorrecta": "Una norma social",
+    "respuestasIncorrectas": [
+      "Una norma jurídica",
+      "Una norma religiosa",
+      "Una norma constitucional",
+      "Una norma penal",
+      "Una norma moral impuesta por el Estado"
+    ],
+    "pista": "¿Qué consecuencia tiene no cumplirla: una sanción del Estado o el rechazo del grupo?",
+    "explicacion": "Saludar es una costumbre de trato entre las personas: una norma social. Si no la cumplís, el grupo te mira mal, pero el Estado no te sanciona.",
+    "referencia": {
+      "tipo": "Normas",
+      "titulo": "Los cuatro tipos de normas",
+      "entradaLibro": "dye_normas"
+    }
+  },
+  {
+    "id": "dye-normas-02",
+    "unidad": "derecho_y_estado",
+    "tipo": "clasificar",
+    "titulo": "La multa impaga",
+    "situacion": "Una persona no paga una multa de tránsito. Meses después le llega una intimación y luego un embargo sobre su cuenta bancaria.",
+    "pregunta": "¿Qué tipo de norma incumplió y qué la distingue?",
+    "respuestaCorrecta": "Una norma jurídica, que se distingue por ser coercible",
+    "respuestasIncorrectas": [
+      "Una norma moral, que se distingue por el remordimiento",
+      "Una norma social, que se distingue por el rechazo del grupo",
+      "Una norma religiosa, que obliga solo a los creyentes",
+      "Una norma jurídica, que se distingue por ser voluntaria",
+      "Una costumbre sin valor jurídico"
+    ],
+    "pista": "El embargo es la pista: ¿quién puede imponerlo?",
+    "explicacion": "Lo que distingue a una norma jurídica es que el Estado puede obligarte a cumplirla y castigarte si no lo hacés. El embargo es un ejemplo: le sacan la plata de la cuenta por la fuerza. Eso se llama «coercibilidad».",
+    "referencia": {
+      "tipo": "Normas",
+      "titulo": "Los cuatro tipos de normas",
+      "entradaLibro": "dye_normas"
+    }
+  },
+  {
+    "id": "dye-normas-03",
+    "unidad": "derecho_y_estado",
+    "tipo": "clasificar",
+    "titulo": "La mentira al amigo",
+    "situacion": "Martina le mintió a su mejor amiga sobre algo importante. Nadie se enteró, pero ella no puede dormir de la culpa.",
+    "pregunta": "¿Qué tipo de norma incumplió?",
+    "respuestaCorrecta": "Una norma moral",
+    "respuestasIncorrectas": [
+      "Una norma jurídica",
+      "Una norma social",
+      "Una norma religiosa obligatoria para todos",
+      "Una garantía constitucional",
+      "Una norma procesal"
+    ],
+    "pista": "La sanción viene de adentro, de la conciencia.",
+    "explicacion": "Mentirle a una amiga va contra los propios valores. Esa es una norma moral: si no la cumplís, la consecuencia es la culpa o el remordimiento, no una sanción del Estado.",
+    "referencia": {
+      "tipo": "Normas",
+      "titulo": "Los cuatro tipos de normas",
+      "entradaLibro": "dye_normas"
+    }
+  },
+  {
+    "id": "dye-normas-04",
+    "unidad": "derecho_y_estado",
+    "tipo": "clasificar",
+    "titulo": "El ayuno",
+    "situacion": "Una comunidad de fe establece que sus integrantes deben ayunar en determinadas fechas del año.",
+    "pregunta": "¿Qué tipo de norma es?",
+    "respuestaCorrecta": "Una norma religiosa",
+    "respuestasIncorrectas": [
+      "Una norma jurídica",
+      "Una norma social",
+      "Una norma moral universal",
+      "Un decreto reglamentario",
+      "Una norma de Derecho Público"
+    ],
+    "pista": "¿De dónde surge y a quiénes obliga?",
+    "explicacion": "El ayuno viene de una creencia religiosa y obliga solo a quienes forman parte de esa religión: es una norma religiosa.",
+    "referencia": {
+      "tipo": "Normas",
+      "titulo": "Los cuatro tipos de normas",
+      "entradaLibro": "dye_normas"
+    }
+  },
+  {
+    "id": "dye-derecho-01",
+    "unidad": "derecho_y_estado",
+    "tipo": "clasificar",
+    "titulo": "El fallo de la Corte",
+    "situacion": "Un abogado cita en su escrito varios fallos de la Corte Suprema que interpretaron la misma ley de la misma manera.",
+    "pregunta": "¿Qué fuente del Derecho está usando?",
+    "respuestaCorrecta": "La jurisprudencia",
+    "respuestasIncorrectas": [
+      "La doctrina",
+      "La costumbre",
+      "La ley",
+      "El Derecho Natural",
+      "La parte dogmática de la Constitución"
+    ],
+    "pista": "La fuente proviene de los jueces.",
+    "explicacion": "Los fallos de los jueces que resuelven casos parecidos de la misma manera forman la «jurisprudencia».",
+    "referencia": {
+      "tipo": "Derecho",
+      "titulo": "Qué es el Derecho, de dónde sale y cómo se divide",
+      "entradaLibro": "dye_derecho_fuentes"
+    }
+  },
+  {
+    "id": "dye-derecho-02",
+    "unidad": "derecho_y_estado",
+    "tipo": "clasificar",
+    "titulo": "El manual del profesor",
+    "situacion": "Para fundamentar una interpretación, una abogada cita el libro de un reconocido profesor de Derecho Constitucional.",
+    "pregunta": "¿Qué fuente del Derecho está usando?",
+    "respuestaCorrecta": "La doctrina",
+    "respuestasIncorrectas": [
+      "La jurisprudencia",
+      "La costumbre",
+      "La ley",
+      "El tratado internacional",
+      "El decreto"
+    ],
+    "pista": "La fuente proviene de los estudiosos, no de los jueces.",
+    "explicacion": "Lo que escriben los especialistas en Derecho (libros, artículos) se llama «doctrina».",
+    "referencia": {
+      "tipo": "Derecho",
+      "titulo": "Qué es el Derecho, de dónde sale y cómo se divide",
+      "entradaLibro": "dye_derecho_fuentes"
+    }
+  },
+  {
+    "id": "dye-derecho-03",
+    "unidad": "derecho_y_estado",
+    "tipo": "clasificar",
+    "titulo": "El contrato de alquiler",
+    "situacion": "Dos personas firman un contrato de alquiler de un departamento. Ninguna de las dos es un organismo del Estado.",
+    "pregunta": "¿Qué rama del Derecho regula principalmente esa relación?",
+    "respuestaCorrecta": "El Derecho Privado",
+    "respuestasIncorrectas": [
+      "El Derecho Público",
+      "El Derecho Penal",
+      "El Derecho Constitucional",
+      "El Derecho Natural",
+      "El Derecho Internacional Público"
+    ],
+    "pista": "¿Alguna de las partes actúa como autoridad?",
+    "explicacion": "Dos personas comunes firmando un contrato están en igualdad de condiciones: eso lo regula el Derecho Privado. Si el Estado actuara con autoridad (por ejemplo, cobrando un impuesto), sería Derecho Público.",
+    "referencia": {
+      "tipo": "Derecho",
+      "titulo": "Qué es el Derecho, de dónde sale y cómo se divide",
+      "entradaLibro": "dye_derecho_fuentes"
+    }
+  },
+  {
+    "id": "dye-derecho-04",
+    "unidad": "derecho_y_estado",
+    "tipo": "concepto",
+    "titulo": "Natural o positivo",
+    "situacion": "En un debate, alguien sostiene: «La dignidad humana existiría aunque ninguna ley la escribiera». Otro responde: «Para mí, Derecho es solo lo que está vigente y lo dictó una autoridad».",
+    "pregunta": "¿Qué conceptos están defendiendo cada uno?",
+    "respuestaCorrecta": "El primero, el Derecho Natural; el segundo, el Derecho Positivo",
+    "respuestasIncorrectas": [
+      "El primero, el Derecho Positivo; el segundo, el Derecho Natural",
+      "Los dos defienden la jurisprudencia",
+      "El primero, el Derecho Público; el segundo, el Derecho Privado",
+      "El primero, la costumbre; el segundo, la doctrina",
+      "Los dos defienden el Derecho Penal"
+    ],
+    "pista": "Uno habla de principios anteriores a la ley escrita; el otro, de normas vigentes dictadas por autoridad.",
+    "explicacion": "Derecho Natural: principios justos que existen por ser personas, aunque no estén escritos. Derecho Positivo: las normas que efectivamente están vigentes porque las dictó una autoridad.",
+    "referencia": {
+      "tipo": "Derecho",
+      "titulo": "Qué es el Derecho, de dónde sale y cómo se divide",
+      "entradaLibro": "dye_derecho_fuentes"
+    }
+  },
+  {
+    "id": "dye-cn-01",
+    "unidad": "derecho_y_estado",
+    "tipo": "caso",
+    "titulo": "La ley provincial",
+    "situacion": "Una provincia sanciona una ley que prohíbe publicar cualquier crítica al gobernador. Un periodista te consulta si tiene que cumplirla.",
+    "pregunta": "¿Qué le respondés?",
+    "respuestaCorrecta": "Que la Constitución es suprema (art. 31): una ley provincial no puede contradecirla",
+    "respuestasIncorrectas": [
+      "Que debe cumplirla, porque las leyes provinciales están por encima de la Constitución Nacional",
+      "Que debe cumplirla hasta que el Congreso nacional la derogue expresamente",
+      "Que solo un tratado internacional podría dejarla sin efecto",
+      "Que es válida porque, al ser federal, cada provincia decide sola",
+      "Que depende de lo que opine la doctrina mayoritaria sobre el tema"
+    ],
+    "pista": "¿Qué norma está en la cima de la pirámide?",
+    "explicacion": "La Constitución es la ley más importante; ninguna otra norma puede contradecirla (art. 31 de la Constitución). La libertad de expresión está en la Constitución, así que una ley provincial que la anula no vale.",
+    "referencia": {
+      "tipo": "Constitución",
+      "titulo": "La Constitución: por qué es la ley más importante y cómo está armada",
+      "entradaLibro": "dye_constitucion"
+    }
+  },
+  {
+    "id": "dye-cn-02",
+    "unidad": "derecho_y_estado",
+    "tipo": "clasificar",
+    "titulo": "¿Dogmática u orgánica?",
+    "situacion": "Estás separando artículos de la Constitución. Te toca el que establece cuántos años duran los senadores.",
+    "pregunta": "¿En qué parte de la Constitución está?",
+    "respuestaCorrecta": "En la parte orgánica, porque organiza los poderes del Estado",
+    "respuestasIncorrectas": [
+      "En la parte dogmática, porque reconoce derechos de los senadores",
+      "En el Preámbulo, porque fija los fines del Congreso",
+      "En las disposiciones transitorias, porque los mandatos son temporales",
+      "En el art. 75 inc. 22, junto a los tratados internacionales",
+      "No está en la Constitución sino en una ley electoral"
+    ],
+    "pista": "¿Ese artículo protege a las personas o arma la estructura del gobierno?",
+    "explicacion": "La duración de los senadores tiene que ver con cómo se organiza el Estado, no con los derechos de las personas. Eso está en la parte orgánica. La parte dogmática es la de los derechos.",
+    "referencia": {
+      "tipo": "Constitución",
+      "titulo": "La Constitución: por qué es la ley más importante y cómo está armada",
+      "entradaLibro": "dye_constitucion"
+    }
+  },
+  {
+    "id": "dye-cn-03",
+    "unidad": "derecho_y_estado",
+    "tipo": "concepto",
+    "titulo": "El escalón de la sentencia",
+    "situacion": "Un compañero dibuja la pirámide normativa y pone las sentencias judiciales en un escalón entre las leyes y los decretos.",
+    "pregunta": "¿Qué le corregís?",
+    "respuestaCorrecta": "Que la sentencia resuelve un caso concreto; no es un escalón de la pirámide",
+    "respuestasIncorrectas": [
+      "Nada: las sentencias van entre las leyes y los decretos",
+      "Que las sentencias de la Corte van por encima de la Constitución",
+      "Que las sentencias van al mismo nivel que los tratados de derechos humanos",
+      "Que las sentencias son parte de la doctrina, no del Derecho",
+      "Que las sentencias solo existen en el Derecho Penal, no en la pirámide"
+    ],
+    "pista": "¿Una sentencia obliga a todo el país como una ley?",
+    "explicacion": "Una sentencia resuelve un caso concreto entre personas concretas; no es una regla para todos como una ley. Por eso no es un escalón de la pirámide.",
+    "referencia": {
+      "tipo": "Constitución",
+      "titulo": "La Constitución: por qué es la ley más importante y cómo está armada",
+      "entradaLibro": "dye_constitucion"
+    }
+  },
+  {
+    "id": "dye-cn-04",
+    "unidad": "derecho_y_estado",
+    "tipo": "concepto",
+    "titulo": "Derechos y garantías",
+    "situacion": "Un cliente pregunta cuál es la diferencia entre «derecho» y «garantía» en la Constitución.",
+    "pregunta": "¿Qué le explicás?",
+    "respuestaCorrecta": "El derecho es lo que se tiene; la garantía, el medio para defenderlo",
+    "respuestasIncorrectas": [
+      "Son sinónimos: la Constitución usa ambas palabras de forma indistinta",
+      "El derecho lo reconocen las provincias y la garantía, la Nación",
+      "La garantía es un derecho de segunda generación, como el trabajo",
+      "El derecho es temporal y la garantía es permanente e irrenunciable",
+      "La garantía solo existe en contratos privados entre particulares"
+    ],
+    "pista": "Una cosa es lo que tenés; otra, cómo lo protegés si te lo quitan.",
+    "explicacion": "El derecho es lo que podés hacer o exigir (por ejemplo, la libertad). La garantía es la herramienta para defenderlo si te lo violan (por ejemplo, el habeas corpus si te detienen ilegalmente).",
+    "referencia": {
+      "tipo": "Constitución",
+      "titulo": "La Constitución: por qué es la ley más importante y cómo está armada",
+      "entradaLibro": "dye_constitucion"
+    }
+  },
+  {
+    "id": "dye-trat-01",
+    "unidad": "derecho_y_estado",
+    "tipo": "norma",
+    "titulo": "Los tratados del 94",
+    "situacion": "Una estudiante afirma que, desde 1994, la Convención Americana sobre Derechos Humanos está por encima de la Constitución.",
+    "pregunta": "¿Qué le respondés?",
+    "respuestaCorrecta": "Que tiene jerarquía constitucional: está al mismo nivel, no por encima",
+    "respuestasIncorrectas": [
+      "Que tiene razón: el art. 75 inc. 22 la pone por encima de la Constitución",
+      "Que está por debajo de las leyes nacionales del Congreso",
+      "Que tiene la misma jerarquía que un decreto del Ejecutivo",
+      "Que no tiene ningún valor jurídico en la Argentina",
+      "Que solo se aplica en las provincias que adhieran a ella"
+    ],
+    "pista": "«Jerarquía constitucional» significa el mismo rango que la Constitución.",
+    "explicacion": "El art. 75 inc. 22 de la Constitución les da a ciertos tratados de derechos humanos el MISMO nivel que la Constitución. Están arriba de todo junto con ella, pero no por encima.",
+    "referencia": {
+      "tipo": "Constitución",
+      "titulo": "Tratados de derechos humanos y «generaciones» de derechos",
+      "entradaLibro": "dye_tratados_generaciones"
+    }
+  },
+  {
+    "id": "dye-trat-02",
+    "unidad": "derecho_y_estado",
+    "tipo": "clasificar",
+    "titulo": "El río contaminado",
+    "situacion": "Un grupo de vecinos reclama porque una fábrica vierte residuos en el río del que toma agua todo el pueblo.",
+    "pregunta": "¿Qué generación de derechos está en juego?",
+    "respuestaCorrecta": "Tercera generación (derechos colectivos, como el ambiente sano)",
+    "respuestasIncorrectas": [
+      "Primera generación (libertades civiles y políticas)",
+      "Segunda generación (derechos sociales y laborales, art. 14 bis)",
+      "Cuarta generación (derechos digitales y tecnológicos)",
+      "Ninguna: el ambiente no es un derecho sino una política",
+      "Primera generación, porque se afecta la propiedad de los vecinos"
+    ],
+    "pista": "El derecho afectado pertenece a toda la comunidad, no a una sola persona.",
+    "explicacion": "El ambiente sano es un derecho de toda la comunidad, no de una sola persona. Los derechos colectivos son de tercera generación (art. 41 de la Constitución, reforma de 1994).",
+    "referencia": {
+      "tipo": "Constitución",
+      "titulo": "Tratados de derechos humanos y «generaciones» de derechos",
+      "entradaLibro": "dye_tratados_generaciones"
+    }
+  },
+  {
+    "id": "dye-trat-03",
+    "unidad": "derecho_y_estado",
+    "tipo": "clasificar",
+    "titulo": "El despido sin indemnización",
+    "situacion": "Un trabajador reclama condiciones dignas de labor, vacaciones pagas y protección contra el despido arbitrario.",
+    "pregunta": "¿Qué generación de derechos invoca?",
+    "respuestaCorrecta": "Segunda generación (derechos sociales, art. 14 bis)",
+    "respuestasIncorrectas": [
+      "Primera generación (libertades civiles, referencia 1853)",
+      "Tercera generación (derechos colectivos, reforma de 1994)",
+      "Cuarta generación (derechos digitales emergentes)",
+      "Derechos de consumidores y usuarios (art. 42)",
+      "Ninguna: son derechos contractuales privados"
+    ],
+    "pista": "Pensá en 1949 y 1957 y en el artículo 14 bis.",
+    "explicacion": "Los derechos laborales (condiciones dignas, vacaciones, protección contra el despido) son de segunda generación: buscan condiciones de vida dignas. El art. 14 bis de la Constitución los incorporó en 1957.",
+    "referencia": {
+      "tipo": "Constitución",
+      "titulo": "Tratados de derechos humanos y «generaciones» de derechos",
+      "entradaLibro": "dye_tratados_generaciones"
+    }
+  },
+  {
+    "id": "dye-trat-04",
+    "unidad": "derecho_y_estado",
+    "tipo": "clasificar",
+    "titulo": "El derecho a no ser perfilado",
+    "situacion": "Una ONG reclama que las personas puedan controlar sus datos personales, acceder a internet y protegerse de decisiones automatizadas por inteligencia artificial.",
+    "pregunta": "¿A qué «generación» se suelen asociar estos reclamos?",
+    "respuestaCorrecta": "A una posible cuarta generación de derechos",
+    "respuestasIncorrectas": [
+      "A la primera generación de 1853, por ser libertades",
+      "A la segunda generación de 1949, por ser sociales",
+      "A la tercera generación de 1994, únicamente",
+      "A ninguna, porque todavía no son derechos",
+      "A los derechos que reconoce cada provincia"
+    ],
+    "pista": "No hay una lista oficial, pero se habla de derechos emergentes ligados a lo digital.",
+    "explicacion": "Los derechos vinculados a la tecnología (datos personales, privacidad en internet, protección frente a la inteligencia artificial) se suelen agrupar en una posible cuarta generación.",
+    "referencia": {
+      "tipo": "Constitución",
+      "titulo": "Tratados de derechos humanos y «generaciones» de derechos",
+      "entradaLibro": "dye_tratados_generaciones"
+    }
+  },
+  {
+    "id": "dye-estado-01",
+    "unidad": "derecho_y_estado",
+    "tipo": "concepto",
+    "titulo": "Cambió el gobierno",
+    "situacion": "Después de una elección, un vecino dice: «Ahora tenemos un Estado nuevo».",
+    "pregunta": "¿Qué le corregís?",
+    "respuestaCorrecta": "Que cambió el gobierno, no el Estado",
+    "respuestasIncorrectas": [
+      "Nada: cada elección crea un Estado nuevo",
+      "Que cambió la Nación, no el Estado",
+      "Que cambió la Constitución",
+      "Que cambió el territorio",
+      "Que cambió la soberanía"
+    ],
+    "pista": "Uno de los dos conceptos dura un mandato; el otro, siglos.",
+    "explicacion": "Con cada elección cambia el gobierno (las personas que dirigen el país por un tiempo). El Estado (el país organizado, con su gente y su territorio) sigue siendo el mismo.",
+    "referencia": {
+      "tipo": "Estado",
+      "titulo": "Nación, Estado, gobierno y cómo se organiza la Argentina",
+      "entradaLibro": "dye_estado_gobierno"
+    }
+  },
+  {
+    "id": "dye-estado-02",
+    "unidad": "derecho_y_estado",
+    "tipo": "clasificar",
+    "titulo": "Cada provincia, su constitución",
+    "situacion": "Mendoza y Córdoba tienen su propia constitución, su gobernador y su legislatura.",
+    "pregunta": "¿Qué característica del sistema argentino muestra esto?",
+    "respuestaCorrecta": "Que es federal",
+    "respuestasIncorrectas": [
+      "Que es representativo",
+      "Que es republicano",
+      "Que es una democracia directa",
+      "Que es unitario",
+      "Que es parlamentario"
+    ],
+    "pista": "Pensá en cómo se reparte el poder en el territorio.",
+    "explicacion": "Que cada provincia tenga su propia constitución, gobernador y legislatura muestra que el poder está repartido entre la Nación y las provincias: eso es el sistema federal.",
+    "referencia": {
+      "tipo": "Estado",
+      "titulo": "Nación, Estado, gobierno y cómo se organiza la Argentina",
+      "entradaLibro": "dye_estado_gobierno"
+    }
+  },
+  {
+    "id": "dye-estado-03",
+    "unidad": "derecho_y_estado",
+    "tipo": "clasificar",
+    "titulo": "Tres poderes que se controlan",
+    "situacion": "Un juez declara inconstitucional un decreto del Presidente, y el Congreso investiga a un ministro.",
+    "pregunta": "¿Qué característica del sistema argentino se ve en funcionamiento?",
+    "respuestaCorrecta": "Que es republicano (división y control de poderes)",
+    "respuestasIncorrectas": [
+      "Que es federal (reparto entre Nación y provincias)",
+      "Que es representativo (el pueblo elige autoridades)",
+      "Que es una democracia directa (el pueblo decide todo)",
+      "Que es una monarquía constitucional",
+      "Que es confederal (provincias plenamente soberanas)"
+    ],
+    "pista": "¿Qué característica impide que un solo órgano concentre todo?",
+    "explicacion": "Que el poder esté dividido en tres y que cada uno controle a los otros es lo que hace a un país republicano.",
+    "referencia": {
+      "tipo": "Estado",
+      "titulo": "Nación, Estado, gobierno y cómo se organiza la Argentina",
+      "entradaLibro": "dye_estado_gobierno"
+    }
+  },
+  {
+    "id": "dye-estado-04",
+    "unidad": "derecho_y_estado",
+    "tipo": "clasificar",
+    "titulo": "El proyecto de los vecinos",
+    "situacion": "Un grupo de ciudadanos junta firmas y presenta al Congreso un proyecto de ley propio.",
+    "pregunta": "¿Qué mecanismo de participación están usando?",
+    "respuestaCorrecta": "La iniciativa popular",
+    "respuestasIncorrectas": [
+      "La consulta popular",
+      "El habeas data",
+      "El amparo colectivo",
+      "El juicio político",
+      "La democracia directa total"
+    ],
+    "pista": "Los ciudadanos PROPONEN un proyecto.",
+    "explicacion": "Cuando los ciudadanos juntan firmas y presentan su propio proyecto de ley, usan la iniciativa popular, una forma de participar directamente además de votar.",
+    "referencia": {
+      "tipo": "Estado",
+      "titulo": "Nación, Estado, gobierno y cómo se organiza la Argentina",
+      "entradaLibro": "dye_estado_gobierno"
+    }
+  },
+  {
+    "id": "dye-estado-05",
+    "unidad": "derecho_y_estado",
+    "tipo": "concepto",
+    "titulo": "Nación sin Estado",
+    "situacion": "En clase se menciona a un pueblo con idioma, historia y tradiciones comunes, pero sin territorio ni gobierno propio.",
+    "pregunta": "¿Qué concepto describe a ese pueblo?",
+    "respuestaCorrecta": "Nación",
+    "respuestasIncorrectas": [
+      "Estado",
+      "Gobierno",
+      "Provincia",
+      "Poder constituyente",
+      "Soberanía"
+    ],
+    "pista": "Le faltan territorio y gobierno, así que no puede ser un Estado.",
+    "explicacion": "Una nación es un grupo con historia, cultura e identidad comunes, aunque no tenga territorio ni gobierno propios. Para ser un Estado le faltarían esos elementos.",
+    "referencia": {
+      "tipo": "Estado",
+      "titulo": "Nación, Estado, gobierno y cómo se organiza la Argentina",
+      "entradaLibro": "dye_estado_gobierno"
+    }
+  },
+  {
+    "id": "dye-poderes-01",
+    "unidad": "derecho_y_estado",
+    "tipo": "clasificar",
+    "titulo": "¿Quién hace qué?",
+    "situacion": "Un juez federal resuelve que una ley viola la Constitución y no la aplica al caso.",
+    "pregunta": "¿Qué función está cumpliendo?",
+    "respuestaCorrecta": "Control de constitucionalidad, propio del Poder Judicial",
+    "respuestasIncorrectas": [
+      "Sanción de leyes, propia del Poder Legislativo",
+      "Ejecución de leyes, propia del Poder Ejecutivo",
+      "Promulgación, propia del Presidente de la Nación",
+      "Iniciativa popular, propia de los ciudadanos",
+      "Juicio político, propio del Congreso de la Nación"
+    ],
+    "pista": "Revisar si una norma respeta la Constitución.",
+    "explicacion": "Revisar si una ley respeta la Constitución, y no aplicarla si no la respeta, es «control de constitucionalidad». Lo hacen los jueces: el Poder Judicial.",
+    "referencia": {
+      "tipo": "Estado",
+      "titulo": "Los tres poderes y cuánto duran los mandatos",
+      "entradaLibro": "dye_poderes"
+    }
+  },
+  {
+    "id": "dye-poderes-02",
+    "unidad": "derecho_y_estado",
+    "tipo": "norma",
+    "titulo": "Los senadores",
+    "situacion": "Un periodista te pide que confirmes los datos del Senado para una nota.",
+    "pregunta": "¿Qué establece el art. 56 de la Constitución?",
+    "respuestaCorrecta": "Duran 6 años, reelegibles sin límite; el Senado se renueva por tercios cada 2 años",
+    "respuestasIncorrectas": [
+      "Duran 4 años, reelegibles; la Cámara se renueva por mitades cada 2 años",
+      "Duran 6 años y solo pueden ser reelegidos una vez de forma consecutiva",
+      "Duran 4 años y pueden ser reelegidos por un solo período consecutivo",
+      "Duran 6 años y el Senado se renueva completo cada 6 años, sin tercios",
+      "Duran 8 años, no pueden ser reelegidos y el Senado se renueva por mitades"
+    ],
+    "pista": "Senadores: el mandato más largo del Congreso, y renovación en tres partes.",
+    "explicacion": "Art. 56 de la Constitución: los senadores duran 6 años, pueden ser reelegidos sin límite y cada 2 años se renueva un tercio del Senado. (Los diputados duran 4 años y se renuevan por mitades).",
+    "referencia": {
+      "tipo": "Estado",
+      "titulo": "Los tres poderes y cuánto duran los mandatos",
+      "entradaLibro": "dye_poderes"
+    }
+  },
+  {
+    "id": "dye-poderes-03",
+    "unidad": "derecho_y_estado",
+    "tipo": "norma",
+    "titulo": "Los diputados",
+    "situacion": "En un repaso para el examen te preguntan por la Cámara de Diputados.",
+    "pregunta": "¿Qué establece el art. 50 de la Constitución?",
+    "respuestaCorrecta": "Duran 4 años, reelegibles; la Cámara se renueva por mitades cada 2 años",
+    "respuestasIncorrectas": [
+      "Duran 6 años, reelegibles; la Cámara se renueva por tercios cada 2 años",
+      "Duran 4 años, no reelegibles; la Cámara se renueva completa cada 4 años",
+      "Duran 2 años, reelegibles una vez; la Cámara se renueva completa",
+      "Duran 4 años y pueden ser reelegidos por un solo período consecutivo",
+      "Duran 6 años, son reelegibles indefinidamente y se renuevan por mitades"
+    ],
+    "pista": "Diputados: renovación en dos partes.",
+    "explicacion": "Art. 50 de la Constitución: los diputados duran 4 años, pueden ser reelegidos y cada 2 años se renueva la mitad de la Cámara.",
+    "referencia": {
+      "tipo": "Estado",
+      "titulo": "Los tres poderes y cuánto duran los mandatos",
+      "entradaLibro": "dye_poderes"
+    }
+  },
+  {
+    "id": "dye-poderes-04",
+    "unidad": "derecho_y_estado",
+    "tipo": "norma",
+    "titulo": "La reelección presidencial",
+    "situacion": "Una presidenta cumplió dos mandatos seguidos y quiere presentarse por tercera vez consecutiva.",
+    "pregunta": "¿Qué dice el art. 90 de la Constitución?",
+    "respuestaCorrecta": "No puede: solo hay una reelección consecutiva y luego debe esperar un período",
+    "respuestasIncorrectas": [
+      "Puede: la Constitución permite la reelección presidencial de forma indefinida",
+      "Puede, si el Senado lo aprueba por dos tercios de los votos presentes",
+      "No puede: el mandato es de 6 años y la Constitución no admite reelección",
+      "Puede, pero solamente como candidata a vicepresidenta de la fórmula",
+      "Puede, si una consulta popular vinculante lo autoriza previamente"
+    ],
+    "pista": "¿Cuántas veces seguidas puede ganar la misma persona?",
+    "explicacion": "Art. 90 de la Constitución: el mandato presidencial dura 4 años y se permite una sola reelección seguida. Después de dos mandatos seguidos hay que esperar un mandato antes de volver a presentarse.",
+    "referencia": {
+      "tipo": "Estado",
+      "titulo": "Los tres poderes y cuánto duran los mandatos",
+      "entradaLibro": "dye_poderes"
+    }
+  },
+  {
+    "id": "dye-poderes-05",
+    "unidad": "derecho_y_estado",
+    "tipo": "norma",
+    "titulo": "¿Cuántos diputados?",
+    "situacion": "Un estudiante mezcla dos datos sobre la Cámara de Diputados: lo que dice la Constitución sobre cuántos diputados se eligen y cuántas bancas hay hoy.",
+    "pregunta": "¿Cuál es la combinación correcta de esos dos datos?",
+    "respuestaCorrecta": "Art. 45: 1 diputado cada 33.000 habitantes (o fracción de 16.500); hoy hay 257",
+    "respuestasIncorrectas": [
+      "El art. 45 fija exactamente 257 diputados de forma permanente e inmodificable",
+      "Art. 45: 1 diputado cada 100.000 habitantes; hoy hay 72 en total",
+      "El art. 56 fija 257 diputados y el art. 45 la base de los senadores",
+      "Hay 72 diputados: tres por cada provincia y tres por la Ciudad de Buenos Aires",
+      "Art. 45: 1 diputado por provincia más uno por cada censo; hoy hay 24"
+    ],
+    "pista": "Distinguí la base constitucional del número actual.",
+    "explicacion": "La Constitución (art. 45) da una regla: un diputado cada 33.000 habitantes, que el Congreso puede actualizar después de cada censo. Hoy hay 257 diputados.",
+    "referencia": {
+      "tipo": "Estado",
+      "titulo": "Los tres poderes y cuánto duran los mandatos",
+      "entradaLibro": "dye_poderes"
+    }
+  },
+  {
+    "id": "dye-garant-01",
+    "unidad": "derecho_y_estado",
+    "tipo": "caso",
+    "titulo": "Detenido sin orden",
+    "situacion": "Tu cliente fue detenido hace dos días en la calle. No hay orden escrita de ningún juez y nadie le informa por qué está preso.",
+    "pregunta": "¿Qué acción presentás?",
+    "respuestaCorrecta": "Habeas corpus",
+    "respuestasIncorrectas": [
+      "Habeas data",
+      "Amparo por mora administrativa",
+      "Acción de rectificación de la Ley 25.326",
+      "Querella por calumnia",
+      "Iniciativa popular"
+    ],
+    "pista": "Está en juego la libertad física.",
+    "explicacion": "Lo que está en juego es la libertad física: está preso sin orden ni motivo. Para eso existe el habeas corpus, que obliga a un juez a revisar la detención.",
+    "referencia": {
+      "tipo": "Garantías",
+      "titulo": "Habeas corpus, habeas data y amparo",
+      "entradaLibro": "dye_garantias"
+    }
+  },
+  {
+    "id": "dye-garant-02",
+    "unidad": "derecho_y_estado",
+    "tipo": "caso",
+    "titulo": "El moroso que no debía",
+    "situacion": "Una base de datos comercial informa que tu clienta tiene una deuda que nunca existió. Ella pidió la corrección y la empresa no respondió.",
+    "pregunta": "¿Qué acción judicial corresponde?",
+    "respuestaCorrecta": "Habeas data",
+    "respuestasIncorrectas": [
+      "Habeas corpus",
+      "Querella por injurias",
+      "Juicio político",
+      "Acción de inconstitucionalidad del art. 31",
+      "Recurso de casación penal"
+    ],
+    "pista": "Lo que está en juego son sus datos personales.",
+    "explicacion": "Lo que está en juego es información personal guardada en una base de datos. Para conocerla, corregirla o borrarla existe el habeas data (art. 43 de la Constitución).",
+    "referencia": {
+      "tipo": "Garantías",
+      "titulo": "Habeas corpus, habeas data y amparo",
+      "entradaLibro": "dye_garantias"
+    }
+  },
+  {
+    "id": "dye-garant-03",
+    "unidad": "derecho_y_estado",
+    "tipo": "caso",
+    "titulo": "El tratamiento negado",
+    "situacion": "La obra social de un paciente se niega, sin fundamento, a cubrir un tratamiento urgente que su médico indicó y que la ley obliga a cubrir.",
+    "pregunta": "¿Qué acción es la más adecuada?",
+    "respuestaCorrecta": "Amparo",
+    "respuestasIncorrectas": [
+      "Habeas corpus",
+      "Habeas data",
+      "Querella por calumnia",
+      "Iniciativa popular",
+      "Consulta popular"
+    ],
+    "pista": "No está en juego la libertad física ni los datos personales, sino otro derecho afectado de forma arbitraria.",
+    "explicacion": "No está en juego la libertad física ni datos personales, sino el derecho a la salud, que la obra social viola sin razón. Para eso existe el amparo, una acción rápida para frenar violaciones arbitrarias de derechos.",
+    "referencia": {
+      "tipo": "Garantías",
+      "titulo": "Habeas corpus, habeas data y amparo",
+      "entradaLibro": "dye_garantias"
+    }
+  },
+  {
+    "id": "dye-garant-04",
+    "unidad": "derecho_y_estado",
+    "tipo": "concepto",
+    "titulo": "La palabra «habeas»",
+    "situacion": "Un cliente escuchó hablar de dos acciones judiciales: el «habeas corpus» y el «habeas data». Te pregunta por qué las dos empiezan con la misma palabra, «habeas», si sirven para cosas distintas.",
+    "pregunta": "¿Qué le explicás?",
+    "respuestaCorrecta": "Que «habeas» es latín, «que presentes»: corpus es el cuerpo y data, los datos",
+    "respuestasIncorrectas": [
+      "Que significa «urgente» en latín, por eso las dos se resuelven rápido",
+      "Que «corpus» significa datos y «data» significa cuerpo, al revés",
+      "Que es la sigla de una ley argentina de garantías sancionada en 1994",
+      "Que significa «derecho» en griego, porque las dos defienden derechos",
+      "Que significa «juez» en latín, porque las dos se presentan ante un juez"
+    ],
+    "pista": "Fijate en la segunda palabra de cada acción: corpus y data. ¿Qué tienen en común?",
+    "explicacion": "«Habeas» es una palabra latina que significa algo así como «que tengas» o «que presentes». La palabra que sigue dice qué se pide presentar ante el juez: en el habeas corpus, el cuerpo de la persona detenida (para controlar que no esté presa sin motivo); en el habeas data, los datos que una empresa u organismo guarda sobre vos.",
+    "referencia": {
+      "tipo": "Garantías",
+      "titulo": "Habeas corpus, habeas data y amparo",
+      "entradaLibro": "dye_garantias"
+    }
+  },
+  {
+    "id": "dye-art18-01",
+    "unidad": "derecho_y_estado",
+    "tipo": "caso",
+    "titulo": "El tribunal a medida",
+    "situacion": "Después de un escándalo, el gobierno crea por decreto un tribunal especial solo para juzgar a los acusados de ese caso.",
+    "pregunta": "¿Qué garantía de la Constitución se viola?",
+    "respuestaCorrecta": "Juez natural (art. 18)",
+    "respuestasIncorrectas": [
+      "Principio de reserva (art. 19)",
+      "Habeas data (art. 43)",
+      "Supremacía constitucional (art. 31)",
+      "Jerarquía de los tratados (art. 75 inc. 22)",
+      "Ninguna, si el tribunal es imparcial"
+    ],
+    "pista": "El problema es CUÁNDO y para QUÉ se creó el tribunal.",
+    "explicacion": "El art. 18 de la Constitución exige que a cada persona la juzguen los jueces que ya existían antes del hecho. Crear un tribunal especial después, para un caso puntual, viola la garantía del juez natural.",
+    "referencia": {
+      "tipo": "Garantías",
+      "titulo": "Artículos 18 y 19: protecciones frente al Estado",
+      "entradaLibro": "dye_art18_19"
+    }
+  },
+  {
+    "id": "dye-art18-02",
+    "unidad": "derecho_y_estado",
+    "tipo": "caso",
+    "titulo": "La confesión forzada",
+    "situacion": "Durante un interrogatorio, la policía le dice a un sospechoso que si no confiesa no lo dejan ver a su familia.",
+    "pregunta": "¿Qué garantía del art. 18 de la Constitución está en juego?",
+    "respuestaCorrecta": "Que nadie puede ser obligado a declarar contra sí mismo",
+    "respuestasIncorrectas": [
+      "Que las cárceles deben ser sanas y limpias, no para castigo",
+      "La garantía del juez natural designado antes del hecho",
+      "La inviolabilidad de la correspondencia y los papeles privados",
+      "El principio de reserva de las acciones privadas del art. 19",
+      "La supremacía de la Constitución sobre las leyes (art. 31)"
+    ],
+    "pista": "¿Qué le están tratando de sacar al sospechoso con esa presión?",
+    "explicacion": "El art. 18 de la Constitución dice que nadie puede ser obligado a declarar contra sí mismo. Una confesión conseguida con presiones no vale.",
+    "referencia": {
+      "tipo": "Garantías",
+      "titulo": "Artículos 18 y 19: protecciones frente al Estado",
+      "entradaLibro": "dye_art18_19"
+    }
+  },
+  {
+    "id": "dye-art18-03",
+    "unidad": "derecho_y_estado",
+    "tipo": "caso",
+    "titulo": "La celda inundada",
+    "situacion": "Un juez autoriza mantener a detenidos en una celda húmeda, sin luz y sin baño «para que aprendan».",
+    "pregunta": "¿Qué dice la Constitución sobre esto?",
+    "respuestaCorrecta": "Que las cárceles serán sanas y limpias, para seguridad y no castigo (art. 18)",
+    "respuestasIncorrectas": [
+      "Nada: las condiciones de detención las fija cada provincia sin límites",
+      "Que es válido si el detenido ya fue condenado con sentencia firme y definitiva",
+      "Que solo puede reclamarse mediante una acción de habeas data",
+      "Que el art. 19 permite al juez decidir libremente estas medidas de castigo",
+      "Que es una cuestión moral del juez y no una cuestión jurídica"
+    ],
+    "pista": "El final del art. 18 de la Constitución dice para qué sirven los lugares de detención.",
+    "explicacion": "El art. 18 de la Constitución dice que las cárceles deben ser sanas y limpias, para mantener a las personas detenidas de forma segura y no para hacerlas sufrir. El juez que autorice tratos así es responsable.",
+    "referencia": {
+      "tipo": "Garantías",
+      "titulo": "Artículos 18 y 19: protecciones frente al Estado",
+      "entradaLibro": "dye_art18_19"
+    }
+  },
+  {
+    "id": "dye-art19-01",
+    "unidad": "derecho_y_estado",
+    "tipo": "caso",
+    "titulo": "Lo que pasa en casa",
+    "situacion": "Un municipio quiere multar a los adultos que, dentro de su casa y sin afectar a nadie, se tiñen el pelo de colores «poco serios».",
+    "pregunta": "¿Qué artículo de la Constitución invocarías?",
+    "respuestaCorrecta": "El art. 19 (acciones privadas que no perjudican a terceros)",
+    "respuestasIncorrectas": [
+      "El art. 18 (garantía del juez natural y defensa en juicio)",
+      "El art. 31 (supremacía de la Constitución sobre las leyes)",
+      "El art. 56 (duración del mandato de los senadores)",
+      "El art. 75 inc. 22 (tratados de derechos humanos)",
+      "El art. 45 (base de población para elegir a los diputados)"
+    ],
+    "pista": "Pasa dentro de una casa y no afecta a nadie más.",
+    "explicacion": "El art. 19 de la Constitución protege lo que cada persona hace en su vida privada mientras no dañe a otros. Teñirse el pelo en tu casa no le incumbe al Estado. Además, nadie está obligado a hacer lo que la ley no manda.",
+    "referencia": {
+      "tipo": "Garantías",
+      "titulo": "Artículos 18 y 19: protecciones frente al Estado",
+      "entradaLibro": "dye_art18_19"
+    }
+  },
+  {
+    "id": "dye-art19-02",
+    "unidad": "derecho_y_estado",
+    "tipo": "concepto",
+    "titulo": "Magistrado",
+    "situacion": "Leyendo el art. 19 de la Constitución, un compañero pregunta qué significa «exentas de la autoridad de los magistrados».",
+    "pregunta": "¿Qué es un magistrado en ese texto?",
+    "respuestaCorrecta": "Un juez o autoridad judicial",
+    "respuestasIncorrectas": [
+      "Un legislador",
+      "Un ministro del Poder Ejecutivo",
+      "Un sacerdote",
+      "Un policía",
+      "Un perito"
+    ],
+    "pista": "El sinónimo más habitual tiene cuatro letras.",
+    "explicacion": "«Magistrado» es otra forma de decir juez.",
+    "referencia": {
+      "tipo": "Garantías",
+      "titulo": "Artículos 18 y 19: protecciones frente al Estado",
+      "entradaLibro": "dye_art18_19"
+    }
+  },
+  {
+    "id": "dp-dolo-01",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "El socio traicionado",
+    "situacion": "Ana descubre que su socio le robó durante años. Compra un arma, lo espera a la salida de la oficina y le dispara tres veces con la idea de matarlo. El socio muere.",
+    "pregunta": "¿Con qué clase de dolo o culpa actuó Ana?",
+    "respuestaCorrecta": "Dolo directo de primer grado",
+    "respuestasIncorrectas": [
+      "Dolo directo de segundo grado",
+      "Dolo eventual",
+      "Culpa con representación",
+      "Culpa sin representación",
+      "No hay dolo ni culpa: fue un caso fortuito"
+    ],
+    "pista": "Preguntate: la muerte del socio, ¿era el objetivo de Ana o una consecuencia secundaria de otra cosa que buscaba?",
+    "explicacion": "Ana quería que su socio muriera, y eso es exactamente lo que pasó. Cuando el daño causado es justamente lo que la persona buscaba, hay dolo directo de primer grado.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "El dolo: cuando la persona actúa a propósito",
+      "entradaLibro": "dp_dolo"
+    }
+  },
+  {
+    "id": "dp-dolo-02",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "La bomba en el auto",
+    "situacion": "Bruno quiere matar a un empresario y coloca una bomba en su auto. Sabe que el empresario nunca maneja: siempre lo lleva el mismo chofer. La bomba explota y mueren los dos. A Bruno el chofer no le importaba, pero sabía que iba a estar ahí.",
+    "pregunta": "Respecto de la muerte del CHOFER, ¿qué clase de dolo hay?",
+    "respuestaCorrecta": "Dolo directo de segundo grado",
+    "respuestasIncorrectas": [
+      "Dolo directo de primer grado",
+      "Dolo eventual",
+      "Culpa con representación",
+      "Culpa sin representación",
+      "No hay responsabilidad por el chofer porque no era el objetivo"
+    ],
+    "pista": "Bruno no buscaba matar al chofer. Pero ¿la muerte del chofer era solo posible o era inevitable con ese plan?",
+    "explicacion": "Bruno quería matar al empresario. Al chofer no quería matarlo, pero sabía que con la bomba iba a morir seguro, y siguió adelante igual. Un daño que no es tu meta pero sabés que va a pasar sí o sí es dolo directo de segundo grado.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "El dolo: cuando la persona actúa a propósito",
+      "entradaLibro": "dp_dolo"
+    }
+  },
+  {
+    "id": "dp-dolo-03",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "La picada en la avenida",
+    "situacion": "Carla corre una picada a 180 km/h por una avenida llena de peatones un sábado a la noche. Un amigo le advierte que puede matar a alguien y ella responde: «si cruza alguien, mala suerte, no pienso frenar». Atropella y mata a un peatón.",
+    "pregunta": "¿Qué clase de dolo o culpa hay?",
+    "respuestaCorrecta": "Dolo eventual",
+    "respuestasIncorrectas": [
+      "Dolo directo de primer grado",
+      "Dolo directo de segundo grado",
+      "Culpa con representación",
+      "Culpa sin representación",
+      "Impericia"
+    ],
+    "pista": "Carla se dio cuenta de que podía matar a alguien. Lo decisivo es qué pensó después: ¿confiaba en que no iba a pasar, o le daba lo mismo?",
+    "explicacion": "Carla no quería matar a nadie (quería ganar) y no era seguro que pasara. Pero se dio cuenta de que podía pasar y le dio lo mismo («mala suerte»). Darse cuenta de que algo puede pasar y aceptarlo es dolo eventual.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "El dolo: cuando la persona actúa a propósito",
+      "entradaLibro": "dp_dolo"
+    }
+  },
+  {
+    "id": "dp-dolo-04",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "El conductor confiado",
+    "situacion": "Diego, chofer con 20 años de experiencia, adelanta a un camión en una curva con poca visibilidad. Piensa: «es arriesgado, pero manejo muy bien, seguro paso a tiempo». Choca con un auto que venía de frente y muere su conductor.",
+    "pregunta": "¿Qué clase de dolo o culpa hay?",
+    "respuestaCorrecta": "Culpa con representación",
+    "respuestasIncorrectas": [
+      "Dolo eventual",
+      "Dolo directo de primer grado",
+      "Dolo directo de segundo grado",
+      "Culpa sin representación",
+      "No hay dolo ni culpa: fue un caso fortuito"
+    ],
+    "pista": "Diego vio el riesgo. ¿Lo aceptó («que pase») o confió en que podía evitarlo?",
+    "explicacion": "Diego se dio cuenta de que podía chocar, pero confió en que su experiencia iba a alcanzar para evitarlo. No le daba lo mismo: creía que no iba a pasar. Eso es culpa con representación (un descuido, no una intención).",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "La culpa: cuando el daño pasa por un descuido",
+      "entradaLibro": "dp_culpa"
+    }
+  },
+  {
+    "id": "dp-dolo-05",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "El remedio en la mesa baja",
+    "situacion": "Elena deja un frasco de pastillas abierto en la mesa ratona del living, donde juega su hijo de 3 años. Nunca se le cruzó por la cabeza que el nene pudiera tomarlas. El chico las ingiere y termina internado.",
+    "pregunta": "¿Qué clase de culpa hay?",
+    "respuestaCorrecta": "Culpa sin representación",
+    "respuestasIncorrectas": [
+      "Culpa con representación",
+      "Dolo eventual",
+      "Dolo directo de segundo grado",
+      "Dolo directo de primer grado",
+      "No hay culpa porque ella no lo pensó"
+    ],
+    "pista": "¿Elena se imaginó el riesgo? Y si no, ¿era algo que cualquiera debería haber previsto?",
+    "explicacion": "A Elena ni se le ocurrió que el nene podía tomar las pastillas, pero cualquier persona atenta lo habría pensado. No haberlo pensado no la libera: es culpa sin representación.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "La culpa: cuando el daño pasa por un descuido",
+      "entradaLibro": "dp_culpa"
+    }
+  },
+  {
+    "id": "dp-dolo-06",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "El script del viernes",
+    "situacion": "Un administrador de sistemas quiere irse temprano y ejecuta en producción un script que no probó. Su compañera le avisa que podría borrar la base de clientes. Él responde: «es un cambio chico, no va a fallar». El script falla y borra la base.",
+    "pregunta": "¿Con qué clase de dolo o culpa actuó el administrador?",
+    "respuestaCorrecta": "Culpa con representación",
+    "respuestasIncorrectas": [
+      "Dolo eventual",
+      "Culpa sin representación",
+      "Dolo directo de primer grado",
+      "Dolo directo de segundo grado",
+      "No hay dolo ni culpa: fue un caso fortuito"
+    ],
+    "pista": "Le avisaron del riesgo, así que lo previó. ¿Qué pensó frente a ese riesgo?",
+    "explicacion": "Le avisaron que el programa podía borrar la base, así que él sabía que podía pasar. Pero confió en que no iba a fallar. Saber que algo puede pasar y confiar en que no pasará es culpa con representación. Si hubiera dicho «si borra todo, no me importa», sería dolo eventual.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "La culpa: cuando el daño pasa por un descuido",
+      "entradaLibro": "dp_culpa"
+    }
+  },
+  {
+    "id": "dp-dolo-07",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "El script del viernes, versión 2",
+    "situacion": "Mismo administrador, mismo script sin probar. Esta vez, cuando su compañera le advierte que podría borrar la base de clientes, responde: «si la borra, que la borre; yo me voy igual». La base se borra.",
+    "pregunta": "¿Y ahora qué clase de dolo o culpa hay?",
+    "respuestaCorrecta": "Dolo eventual",
+    "respuestasIncorrectas": [
+      "Culpa con representación",
+      "Culpa sin representación",
+      "Dolo directo de primer grado",
+      "Negligencia",
+      "Dolo directo de segundo grado"
+    ],
+    "pista": "Compará con la versión anterior: lo único que cambió es la actitud frente al riesgo.",
+    "explicacion": "Esta vez sabía que la base podía borrarse y le dio lo mismo («que la borre»). Ya no es un descuido: aceptar que el daño pase es dolo eventual.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "El dolo: cuando la persona actúa a propósito",
+      "entradaLibro": "dp_dolo"
+    }
+  },
+  {
+    "id": "dp-dolo-08",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "Borrar las huellas",
+    "situacion": "Un empleado infiel quiere eliminar los registros que prueban que copió información. Esos registros están en un servidor compartido donde también se guardan los trabajos de otros diez clientes. Formatea el servidor completo sabiendo que todo se va a perder.",
+    "pregunta": "Respecto de los datos de los OTROS clientes, ¿qué clase de dolo hay?",
+    "respuestaCorrecta": "Dolo directo de segundo grado",
+    "respuestasIncorrectas": [
+      "Dolo directo de primer grado",
+      "Dolo eventual",
+      "Culpa con representación",
+      "Culpa sin representación",
+      "No hay dolo: los otros clientes no eran su objetivo"
+    ],
+    "pista": "Su objetivo eran sus registros. Lo de los otros clientes, ¿era posible o era seguro?",
+    "explicacion": "Lo que el empleado quería era borrar SUS registros. Los datos de los otros clientes no le interesaban, pero sabía que al formatear se iban a borrar seguro. Un daño que no es tu meta pero que sabés que va a pasar sí o sí es dolo directo de segundo grado.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "El dolo: cuando la persona actúa a propósito",
+      "entradaLibro": "dp_dolo"
+    }
+  },
+  {
+    "id": "dp-dolo-09",
+    "unidad": "derecho_penal",
+    "tipo": "concepto",
+    "titulo": "La frontera más difícil",
+    "situacion": "Un estudiante te dice: «No entiendo la diferencia entre dolo eventual y culpa con representación. En los dos la persona sabe que algo malo puede pasar».",
+    "pregunta": "¿Qué le explicás?",
+    "respuestaCorrecta": "Que en el dolo eventual acepta el resultado posible; en la culpa con representación confía en que no ocurrirá",
+    "respuestasIncorrectas": [
+      "Que en el dolo eventual la persona busca el resultado, y en la culpa con representación ni siquiera lo prevé",
+      "Que en el dolo eventual el resultado es seguro, y en la culpa con representación es solamente posible",
+      "Que la diferencia depende de si el resultado finalmente ocurrió o quedó en un simple riesgo",
+      "Que la diferencia está en la pena: si supera 3 años se llama dolo eventual y si no, culpa",
+      "Que son sinónimos y el juez elige libremente cuál usar en cada sentencia"
+    ],
+    "pista": "En los dos casos la persona prevé el resultado. Fijate en la frase que se diría a sí misma.",
+    "explicacion": "En los dos casos la persona se da cuenta de que el daño puede pasar. Dolo eventual: piensa «si pasa, que pase» (lo acepta). Culpa con representación: piensa «no va a pasar» (confía en evitarlo).",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "El dolo: cuando la persona actúa a propósito",
+      "entradaLibro": "dp_dolo"
+    }
+  },
+  {
+    "id": "dp-dolo-10",
+    "unidad": "derecho_penal",
+    "tipo": "concepto",
+    "titulo": "Ordenar la escalera",
+    "situacion": "Para el examen te piden ordenar las cinco variantes de dolo y de culpa, desde la que está MÁS cerca de querer causar el resultado hasta la que está MÁS lejos.",
+    "pregunta": "¿Cuál es el orden correcto?",
+    "respuestaCorrecta": "Dolo de primer grado, dolo de segundo grado, dolo eventual, culpa con representación, culpa sin representación",
+    "respuestasIncorrectas": [
+      "Dolo eventual, dolo de primer grado, dolo de segundo grado, culpa sin representación, culpa con representación",
+      "Dolo de primer grado, dolo eventual, dolo de segundo grado, culpa con representación, culpa sin representación",
+      "Culpa con representación, dolo eventual, dolo de primer grado, dolo de segundo grado, culpa sin representación",
+      "Dolo de segundo grado, dolo de primer grado, culpa con representación, dolo eventual, culpa sin representación",
+      "Dolo de primer grado, culpa con representación, dolo de segundo grado, dolo eventual, culpa sin representación"
+    ],
+    "pista": "Arriba está quien quería causar el daño; abajo, quien ni siquiera se imaginó que podía pasar.",
+    "explicacion": "De más intención a menos: «quiero que pase», «no lo busco, pero va a pasar seguro», «puede pasar y no me importa», «puede pasar, pero confío en que no», «ni se me ocurrió, aunque debí pensarlo».",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "El dolo: cuando la persona actúa a propósito",
+      "entradaLibro": "dp_dolo"
+    }
+  },
+  {
+    "id": "dp-culpa-01",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "A 140 por el barrio",
+    "situacion": "Un conductor maneja a 140 km/h por una calle de barrio para llegar a tiempo a una reunión. Pierde el control y lesiona a un ciclista.",
+    "pregunta": "¿Qué forma de culpa se ve más claramente?",
+    "respuestaCorrecta": "Imprudencia",
+    "respuestasIncorrectas": [
+      "Negligencia",
+      "Impericia",
+      "Dolo directo de primer grado",
+      "Dolo directo de segundo grado",
+      "Caso fortuito"
+    ],
+    "pista": "¿El conductor hizo algo de más, dejó de hacer algo o no sabía manejar?",
+    "explicacion": "Manejar a 140 km/h por un barrio es hacer algo peligroso que no había que hacer. Hacer «de más» algo arriesgado es imprudencia.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "La culpa: cuando el daño pasa por un descuido",
+      "entradaLibro": "dp_culpa"
+    }
+  },
+  {
+    "id": "dp-culpa-02",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "El control que no se hizo",
+    "situacion": "Después de una operación, el médico de guardia debía controlar cada dos horas la presión del paciente. No lo hace en toda la noche y el paciente sufre una complicación grave.",
+    "pregunta": "¿Qué forma de culpa se ve más claramente?",
+    "respuestaCorrecta": "Negligencia",
+    "respuestasIncorrectas": [
+      "Imprudencia",
+      "Impericia",
+      "Dolo eventual",
+      "Dolo directo de primer grado",
+      "Caso fortuito"
+    ],
+    "pista": "¿El problema fue algo que hizo o algo que dejó de hacer?",
+    "explicacion": "El médico tenía que controlar al paciente y no lo hizo. No hacer algo que había que hacer es negligencia.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "La culpa: cuando el daño pasa por un descuido",
+      "entradaLibro": "dp_culpa"
+    }
+  },
+  {
+    "id": "dp-culpa-03",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "El electricista improvisado",
+    "situacion": "Un vecino que nunca estudió electricidad acepta cobrar por hacer la instalación eléctrica de un local. Conecta mal los cables y se produce un incendio.",
+    "pregunta": "¿Qué forma de culpa se ve más claramente?",
+    "respuestaCorrecta": "Impericia",
+    "respuestasIncorrectas": [
+      "Imprudencia",
+      "Negligencia",
+      "Dolo eventual",
+      "Dolo directo de segundo grado",
+      "Caso fortuito"
+    ],
+    "pista": "El problema central, ¿es descuido o falta de conocimientos para esa tarea?",
+    "explicacion": "El vecino no sabía hacer instalaciones eléctricas y aceptó hacerla igual. Hacer una tarea sin los conocimientos que exige es impericia.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "La culpa: cuando el daño pasa por un descuido",
+      "entradaLibro": "dp_culpa"
+    }
+  },
+  {
+    "id": "dp-culpa-04",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "El protocolo de respaldo",
+    "situacion": "El reglamento interno del hospital exige hacer una copia de seguridad antes de cualquier migración del sistema de historias clínicas. El técnico no cumple ese paso escrito, la migración falla y se pierden registros médicos.",
+    "pregunta": "¿Qué forma de culpa se ve más claramente?",
+    "respuestaCorrecta": "Inobservancia de los reglamentos",
+    "respuestasIncorrectas": [
+      "Imprudencia",
+      "Impericia",
+      "Dolo eventual",
+      "Dolo directo de primer grado",
+      "Caso fortuito: nadie podía preverlo"
+    ],
+    "pista": "Hay una regla ESCRITA en juego. ¿Qué pasó con ella?",
+    "explicacion": "Había una regla escrita (el reglamento del hospital) que obligaba a hacer una copia de seguridad, y el técnico no la cumplió. No respetar una regla escrita es inobservancia de los reglamentos.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "La culpa: cuando el daño pasa por un descuido",
+      "entradaLibro": "dp_culpa"
+    }
+  },
+  {
+    "id": "dp-culpa-05",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "El firewall que nadie sabía configurar",
+    "situacion": "Una empresa contrata a un «técnico» que dice saber de redes, aunque jamás configuró un firewall. Lo configura mal, deja expuesta la base de clientes y se filtran datos.",
+    "pregunta": "¿Qué forma de culpa se ve más claramente en el técnico?",
+    "respuestaCorrecta": "Impericia",
+    "respuestasIncorrectas": [
+      "Imprudencia",
+      "Inobservancia de los reglamentos",
+      "Dolo directo de primer grado",
+      "Dolo directo de segundo grado",
+      "Caso fortuito"
+    ],
+    "pista": "¿Le faltó cuidado o le faltó saber?",
+    "explicacion": "El técnico nunca había configurado un firewall y aceptó el trabajo igual. Hacer una tarea sin los conocimientos que exige es impericia.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "La culpa: cuando el daño pasa por un descuido",
+      "entradaLibro": "dp_culpa"
+    }
+  },
+  {
+    "id": "dp-culpa-06",
+    "unidad": "derecho_penal",
+    "tipo": "concepto",
+    "titulo": "¿Culpa o dolo?",
+    "situacion": "Un cliente te pregunta por qué a su hermano, que atropelló a alguien sin querer, lo acusan de «homicidio culposo» y no de «homicidio».",
+    "pregunta": "¿Qué le respondés?",
+    "respuestaCorrecta": "Porque no quiso la muerte, pero la causó por falta del cuidado debido",
+    "respuestasIncorrectas": [
+      "Porque quiso la muerte, pero no la planificó con anticipación",
+      "Porque aceptó que alguien podía morir y siguió manejando igual",
+      "Porque la víctima tuvo parte de la culpa del accidente de tránsito",
+      "Porque los accidentes de tránsito nunca son delito, solo infracción",
+      "Porque actuó en legítima defensa frente a otro conductor"
+    ],
+    "pista": "El nombre lo dice: culposo viene de culpa. ¿Qué la caracteriza?",
+    "explicacion": "«Culposo» viene de culpa: el hermano no quería matar a nadie, pero la muerte pasó por un descuido al manejar. Por eso la pena es mucho menor que cuando alguien mata a propósito.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "La culpa: cuando el daño pasa por un descuido",
+      "entradaLibro": "dp_culpa"
+    }
+  },
+  {
+    "id": "dp-teoria-01",
+    "unidad": "derecho_penal",
+    "tipo": "caso",
+    "titulo": "El cuchillo en la parada",
+    "situacion": "Un hombre ataca con un cuchillo a Laura en una parada de colectivo. Ella lo empuja con fuerza para defenderse; el agresor cae y se fractura un brazo.",
+    "pregunta": "¿Qué elemento del delito falla en la conducta de Laura?",
+    "respuestaCorrecta": "La antijuridicidad, porque actuó en legítima defensa",
+    "respuestasIncorrectas": [
+      "La tipicidad, porque empujar a alguien nunca es delito",
+      "La culpabilidad, porque Laura es inimputable por el miedo",
+      "La acción, porque fue un acto reflejo involuntario",
+      "La punibilidad, porque el agresor no hizo la denuncia",
+      "Ninguno: Laura cometió lesiones y debe ser penada"
+    ],
+    "pista": "Empujar y lastimar a alguien normalmente es delito. Pero ¿la ley permite hacerlo en esta situación?",
+    "explicacion": "Lastimar a alguien es un delito, pero la ley permite defenderse de un ataque (legítima defensa). Como en esta situación lo que hizo Laura estaba permitido, no hay delito. Técnicamente: falla la «antijuridicidad», que es la pregunta de si el Derecho prohíbe o permite lo que se hizo.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "Cuándo hay delito: los cinco filtros",
+      "entradaLibro": "dp_teoria_delito"
+    }
+  },
+  {
+    "id": "dp-teoria-02",
+    "unidad": "derecho_penal",
+    "tipo": "caso",
+    "titulo": "El brote",
+    "situacion": "Durante un brote psicótico diagnosticado, Martín rompe la vidriera de un comercio convencido de que adentro lo esperan para matarlo. Los peritos confirman que no podía comprender lo que hacía.",
+    "pregunta": "¿Qué ocurre con la responsabilidad penal de Martín?",
+    "respuestaCorrecta": "Falla la culpabilidad: es inimputable porque no podía comprender lo que hacía",
+    "respuestasIncorrectas": [
+      "Falla la tipicidad: romper una vidriera no está previsto en el Código Penal",
+      "Falla la antijuridicidad: actuó en legítima defensa frente a una amenaza",
+      "Es reincidente y su pena se agrava por tener antecedentes psiquiátricos",
+      "Hay tentativa de daño porque no llegó a lastimar a ninguna persona",
+      "Hay dolo eventual porque aceptó romper la vidriera del comercio"
+    ],
+    "pista": "Pensá si Martín podía entender lo que estaba haciendo.",
+    "explicacion": "Romper una vidriera es un delito y no había ninguna razón que lo permitiera. Pero Martín, por su brote, no podía entender lo que hacía: es inimputable, y por eso no se le puede reprochar como a cualquier otra persona (falla la «culpabilidad»).",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "Cuándo hay delito: los cinco filtros",
+      "entradaLibro": "dp_teoria_delito"
+    }
+  },
+  {
+    "id": "dp-teoria-03",
+    "unidad": "derecho_penal",
+    "tipo": "caso",
+    "titulo": "La ley que llegó tarde",
+    "situacion": "En 2025 una persona realiza una conducta que en ese momento no estaba prohibida. En 2026 el Congreso sanciona una ley que la convierte en delito. El fiscal quiere acusarla por lo que hizo en 2025.",
+    "pregunta": "¿Qué le respondés al fiscal?",
+    "respuestaCorrecta": "No se puede: por el principio de legalidad, no hay delito sin ley anterior al hecho",
+    "respuestasIncorrectas": [
+      "Se puede, porque la ley ya está vigente al momento en que se hace el juicio",
+      "Se puede, aplicando analogía con otro delito parecido que sí existía",
+      "Se puede, si la conducta ya era considerada inmoral por la sociedad en 2025",
+      "Se puede, porque el Derecho Penal es la primera herramienta del Estado",
+      "Se puede, pero solo como tentativa y con la pena reducida a la mitad"
+    ],
+    "pista": "¿Qué tiene que existir primero: la ley que prohíbe algo o la conducta?",
+    "explicacion": "Por el principio de legalidad, solo se puede castigar algo que ya era delito cuando se hizo. Si la ley que lo prohíbe es posterior, no se aplica hacia atrás (también lo garantiza el art. 18 de la Constitución).",
+    "referencia": {
+      "tipo": "Bases",
+      "titulo": "Qué es el Derecho Penal y qué límites tiene",
+      "entradaLibro": "dp_que_es"
+    }
+  },
+  {
+    "id": "dp-teoria-04",
+    "unidad": "derecho_penal",
+    "tipo": "caso",
+    "titulo": "Grooming sin pantalla",
+    "situacion": "El art. 131 del Código Penal (incorporado por la Ley 26.904, de grooming) castiga el contacto con un menor con fines sexuales «por medio de comunicaciones electrónicas, telecomunicaciones o cualquier otra tecnología de transmisión de datos». Un fiscal quiere aplicarlo a un caso de contacto exclusivamente presencial, «porque es igual de grave».",
+    "pregunta": "¿Qué problema tiene ese planteo?",
+    "respuestaCorrecta": "Sería aplicar analogía para ampliar un tipo penal, lo que viola la legalidad",
+    "respuestasIncorrectas": [
+      "Ninguno: es una interpretación válida y amplia del artículo 131",
+      "Que el grooming solo se aplica cuando la víctima es mayor de edad",
+      "Que el art. 131 es de acción privada y lo debe impulsar la propia víctima",
+      "Que el grooming no es un delito sino una contravención municipal",
+      "Que habría que aplicar primero la Ley de Protección de Datos Personales"
+    ],
+    "pista": "¿Se está precisando lo que la ley dice o se la está estirando a un caso que no menciona?",
+    "explicacion": "Un chat de videojuego entra en el artículo, porque es una «tecnología de transmisión de datos» (eso es interpretar la ley). Pero un contacto cara a cara no está mencionado: aplicarle el artículo «porque es parecido» es analogía, y en Derecho Penal está prohibida para castigar.",
+    "referencia": {
+      "tipo": "Bases",
+      "titulo": "Qué es el Derecho Penal y qué límites tiene",
+      "entradaLibro": "dp_que_es"
+    }
+  },
+  {
+    "id": "dp-teoria-05",
+    "unidad": "derecho_penal",
+    "tipo": "concepto",
+    "titulo": "La lista de filtros",
+    "situacion": "Un pasante te pregunta qué tiene que tener una conducta para ser delito.",
+    "pregunta": "¿Qué le contestás?",
+    "respuestaCorrecta": "Ser una acción humana, tipificada, antijurídica, culpable y punible",
+    "respuestasIncorrectas": [
+      "Causar un daño a alguien y que la víctima lo denuncie",
+      "Ser inmoral, grave y conocida públicamente por la sociedad",
+      "Tener prevista una pena mayor a tres años de prisión",
+      "Estar tipificada y haber sido cometida por una persona reincidente",
+      "Estar prevista en la Constitución y en un tratado internacional"
+    ],
+    "pista": "Son cinco filtros que se revisan en orden.",
+    "explicacion": "Son cinco filtros, en orden: que lo haya hecho una persona con voluntad (acción); que esté escrito como delito (tipicidad); que no haya una razón que lo permita, como la legítima defensa (antijuridicidad); que se le pueda reprochar a esa persona (culpabilidad); y que corresponda una pena (punibilidad).",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "Cuándo hay delito: los cinco filtros",
+      "entradaLibro": "dp_teoria_delito"
+    }
+  },
+  {
+    "id": "dp-teoria-06",
+    "unidad": "derecho_penal",
+    "tipo": "concepto",
+    "titulo": "¿Qué es tipificar?",
+    "situacion": "En una reunión, un cliente escucha que «esa conducta no está tipificada» y te pide que se lo traduzcas.",
+    "pregunta": "¿Qué significa tipificar una conducta?",
+    "respuestaCorrecta": "Describirla en una ley como delito, con sus elementos y su pena",
+    "respuestasIncorrectas": [
+      "Clasificarla según su gravedad social y su impacto mediático",
+      "Que un juez la declare inconstitucional en un fallo de la Corte",
+      "Que un perito informe cómo ocurrió el hecho y quién lo hizo",
+      "Registrarla en la base nacional de antecedentes penales del autor",
+      "Sancionarla con una multa administrativa municipal o provincial"
+    ],
+    "pista": "Pensá en la ley escribiendo, con detalle, qué conducta está prohibida.",
+    "explicacion": "Tipificar es escribir en una ley que cierta conducta es delito y qué pena tiene. Si una conducta no está escrita así, no se puede castigar penalmente, aunque parezca mala.",
+    "referencia": {
+      "tipo": "Bases",
+      "titulo": "Qué es el Derecho Penal y qué límites tiene",
+      "entradaLibro": "dp_que_es"
+    }
+  },
+  {
+    "id": "dp-teoria-07",
+    "unidad": "derecho_penal",
+    "tipo": "concepto",
+    "titulo": "Ultima ratio",
+    "situacion": "Un concejal propone crear un delito para castigar con prisión a quien no recoja la caca de su perro. Te pide opinión.",
+    "pregunta": "¿Qué principio usarías para objetar la propuesta?",
+    "respuestaCorrecta": "El Derecho Penal como última ratio",
+    "respuestasIncorrectas": [
+      "El principio de reincidencia",
+      "El principio de supremacía constitucional del art. 31",
+      "El principio de finalidad de los datos",
+      "La acción privada",
+      "El concurso ideal"
+    ],
+    "pista": "¿Conviene usar la cárcel para cualquier problema, o solo cuando nada más funciona?",
+    "explicacion": "El Derecho Penal puede mandar gente presa: es la herramienta más dura del Estado. Por eso se usa solo para ataques graves («última ratio» = último recurso). Una falta menor se resuelve con una multa u otra sanción.",
+    "referencia": {
+      "tipo": "Bases",
+      "titulo": "Qué es el Derecho Penal y qué límites tiene",
+      "entradaLibro": "dp_que_es"
+    }
+  },
+  {
+    "id": "dp-teoria-08",
+    "unidad": "derecho_penal",
+    "tipo": "concepto",
+    "titulo": "Parte general y especial",
+    "situacion": "Estás armando un índice de estudio del Código Penal y tenés que ubicar el tema «dolo y culpa».",
+    "pregunta": "¿En qué parte va y por qué?",
+    "respuestaCorrecta": "En la parte general, porque son reglas comunes a todos los delitos",
+    "respuestasIncorrectas": [
+      "En la parte especial, porque cada delito tiene su propio dolo",
+      "En la parte especial, junto con el homicidio y las lesiones",
+      "En la Constitución, porque es una garantía del imputado",
+      "En el Código Civil, porque trata de responsabilidad por daños",
+      "En la Ley 26.388, porque se usa en los delitos informáticos"
+    ],
+    "pista": "¿El dolo y la culpa sirven para un solo delito o para analizar cualquiera?",
+    "explicacion": "La parte general tiene las reglas que valen para todos los delitos (cuándo hay intención, cuándo hay descuido, qué pasa si el delito no se completa). La parte especial es la lista de delitos uno por uno (homicidio, hurto, estafa).",
+    "referencia": {
+      "tipo": "Bases",
+      "titulo": "Qué es el Derecho Penal y qué límites tiene",
+      "entradaLibro": "dp_que_es"
+    }
+  },
+  {
+    "id": "dp-etapas-01",
+    "unidad": "derecho_penal",
+    "tipo": "caso",
+    "titulo": "La ambulancia a tiempo",
+    "situacion": "Raúl dispara a su vecino con la intención de matarlo. La ambulancia llega rápido y el vecino sobrevive.",
+    "pregunta": "¿Cómo se califica el hecho?",
+    "respuestaCorrecta": "Tentativa de homicidio",
+    "respuestasIncorrectas": [
+      "Homicidio consumado",
+      "Homicidio culposo",
+      "Lesiones culposas",
+      "No es delito porque nadie murió",
+      "Concurso real de homicidio y lesiones"
+    ],
+    "pista": "Raúl empezó a ejecutar el delito. ¿Se completó? ¿Por qué no?",
+    "explicacion": "Raúl quería matar y empezó a hacerlo (disparó), pero el vecino sobrevivió por algo que no dependía de Raúl (la ambulancia). Empezar un delito y no completarlo por algo ajeno es tentativa (art. 42 del Código Penal).",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "Tentativa, concurso, reincidencia y agravantes",
+      "entradaLibro": "dp_etapas_concurso"
+    }
+  },
+  {
+    "id": "dp-etapas-02",
+    "unidad": "derecho_penal",
+    "tipo": "caso",
+    "titulo": "Dos hechos, dos fechas",
+    "situacion": "En enero, Sofía se lleva un celular de una mesa de bar. En marzo, vende por internet una moto que no existe y cobra la seña.",
+    "pregunta": "¿Qué relación hay entre los dos delitos?",
+    "respuestaCorrecta": "Concurso real: son hechos distintos, cada uno con su delito",
+    "respuestasIncorrectas": [
+      "Concurso ideal: un solo hecho encaja en dos figuras distintas",
+      "Reincidencia, porque cometió dos delitos en el mismo año",
+      "Tentativa, porque el segundo hecho no llegó a completarse",
+      "Delito continuado de estafa, porque ambos afectan la propiedad",
+      "No hay delito porque pasaron más de dos meses entre los hechos"
+    ],
+    "pista": "Contá cuántos HECHOS hay, no cuántos delitos.",
+    "explicacion": "Sofía hizo dos cosas distintas, en momentos distintos (llevarse el celular y estafar). Varios hechos separados, cada uno con su delito, es concurso real. No es reincidencia porque no había sido condenada antes.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "Tentativa, concurso, reincidencia y agravantes",
+      "entradaLibro": "dp_etapas_concurso"
+    }
+  },
+  {
+    "id": "dp-etapas-03",
+    "unidad": "derecho_penal",
+    "tipo": "caso",
+    "titulo": "Un solo golpe",
+    "situacion": "En una discusión, Tomás le da un único golpe en la cara a otra persona: le rompe los anteojos y le provoca un corte en la ceja.",
+    "pregunta": "¿Qué tipo de concurso hay entre el daño y las lesiones?",
+    "respuestaCorrecta": "Concurso ideal: un mismo hecho encaja en más de una figura penal",
+    "respuestasIncorrectas": [
+      "Concurso real: hay varios hechos distintos y separados",
+      "Reincidencia, porque comete dos delitos al mismo tiempo",
+      "Tentativa de lesiones, porque el corte fue superficial",
+      "No hay concurso: el daño absorbe por completo a las lesiones",
+      "Delito de acción privada, porque fue en una discusión"
+    ],
+    "pista": "¿Cuántos movimientos hizo Tomás?",
+    "explicacion": "Tomás hizo una sola cosa (un golpe), pero ese golpe es dos delitos a la vez: daño (rompió los anteojos) y lesiones (lastimó a la persona). Un solo hecho que es varios delitos es concurso ideal (art. 54 del Código Penal).",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "Tentativa, concurso, reincidencia y agravantes",
+      "entradaLibro": "dp_etapas_concurso"
+    }
+  },
+  {
+    "id": "dp-etapas-04",
+    "unidad": "derecho_penal",
+    "tipo": "caso",
+    "titulo": "Otra vez",
+    "situacion": "Julián fue condenado a prisión por robo y cumplió su pena. Un año después de salir, comete una estafa.",
+    "pregunta": "¿Cómo se llama esta situación en Derecho Penal?",
+    "respuestaCorrecta": "Reincidencia",
+    "respuestasIncorrectas": [
+      "Concurso real",
+      "Concurso ideal",
+      "Tentativa",
+      "Agravante por vínculo",
+      "Inimputabilidad"
+    ],
+    "pista": "Lo importante es que ya hubo una condena cumplida antes del nuevo delito.",
+    "explicacion": "Julián ya había sido condenado y cumplió su pena en prisión. Volver a cometer un delito después de eso es reincidencia (art. 50 del Código Penal).",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "Tentativa, concurso, reincidencia y agravantes",
+      "entradaLibro": "dp_etapas_concurso"
+    }
+  },
+  {
+    "id": "dp-etapas-05",
+    "unidad": "derecho_penal",
+    "tipo": "caso",
+    "titulo": "El firewall atento",
+    "situacion": "Un atacante prueba miles de contraseñas robadas contra el sistema de un banco para entrar sin permiso. El firewall detecta el patrón y lo bloquea antes de que logre acceder.",
+    "pregunta": "¿Cómo se analiza penalmente el intento?",
+    "respuestaCorrecta": "Como tentativa de acceso ilegítimo",
+    "respuestasIncorrectas": [
+      "Como acceso ilegítimo consumado",
+      "Como conducta atípica porque no entró",
+      "Como culpa con representación",
+      "Como delito impuro de acción privada",
+      "Como reincidencia informática"
+    ],
+    "pista": "¿Comenzó a ejecutar? ¿Por qué no terminó?",
+    "explicacion": "El atacante empezó a intentar entrar al sistema, pero el firewall lo frenó: no logró entrar por algo que no dependía de él. Empezar un delito y no completarlo por algo ajeno es tentativa.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "Tentativa, concurso, reincidencia y agravantes",
+      "entradaLibro": "dp_etapas_concurso"
+    }
+  },
+  {
+    "id": "dp-etapas-06",
+    "unidad": "derecho_penal",
+    "tipo": "concepto",
+    "titulo": "Agravantes",
+    "situacion": "Un cliente leyó que el homicidio de un familiar directo tiene prisión perpetua y el homicidio simple de 8 a 25 años. Te pregunta por qué cambia tanto.",
+    "pregunta": "¿Qué le explicás?",
+    "respuestaCorrecta": "Que el vínculo es una agravante: sube la pena del homicidio",
+    "respuestasIncorrectas": [
+      "Que el vínculo es un atenuante que baja la pena",
+      "Que en el homicidio de un familiar siempre hay dolo eventual",
+      "Que se trata de un concurso real entre dos homicidios",
+      "Que es una regla procesal sobre excarcelación",
+      "Que depende de si la acción es pública o privada"
+    ],
+    "pista": "Hay circunstancias que suben la pena y otras que la bajan.",
+    "explicacion": "Una agravante es una circunstancia que hace más grave el delito y sube la pena. Matar a un familiar directo es una de ellas, igual que matar con crueldad o por dinero.",
+    "referencia": {
+      "tipo": "Parte general",
+      "titulo": "Tentativa, concurso, reincidencia y agravantes",
+      "entradaLibro": "dp_etapas_concurso"
+    }
+  },
+  {
+    "id": "dp-personas-01",
+    "unidad": "derecho_penal",
+    "tipo": "concepto",
+    "titulo": "Emoción violenta",
+    "situacion": "Un acusado dice: «Estaba muy enojado porque me chocaron el auto, así que es emoción violenta y me tienen que bajar la pena».",
+    "pregunta": "¿Qué le respondés?",
+    "respuestaCorrecta": "Que el enojo no alcanza: se requiere una alteración intensa y excusable",
+    "respuestasIncorrectas": [
+      "Que tiene razón: cualquier enojo fuerte configura emoción violenta",
+      "Que la emoción violenta lo vuelve inimputable y no recibe ninguna pena",
+      "Que la emoción violenta solo existe en delitos culposos, no dolosos",
+      "Que la emoción violenta es una agravante que sube la pena",
+      "Que solo se aplica si la víctima es un familiar directo del autor"
+    ],
+    "pista": "¿Cualquier enojo sirve para bajar la pena? ¿Y la emoción violenta borra la responsabilidad o solo la reduce?",
+    "explicacion": "La emoción violenta exige una alteración muy fuerte, provocada por algo que la ley considera comprensible. Un enojo por un choque no alcanza. Y aunque se diera, solo baja la pena: la persona sigue siendo responsable.",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra las personas: homicidio y lesiones",
+      "entradaLibro": "dp_personas"
+    }
+  },
+  {
+    "id": "dp-personas-02",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "La mano lastimada",
+    "situacion": "Tras una agresión, a la víctima le queda la mano derecha con menos fuerza y movilidad, pero todavía puede escribir y agarrar objetos.",
+    "pregunta": "¿Cómo se describe esa consecuencia?",
+    "respuestaCorrecta": "Debilitación permanente: la función sigue, pero reducida",
+    "respuestasIncorrectas": [
+      "Inutilidad permanente: la función dejó de servir",
+      "Daño: afecta una cosa ajena, no a la persona",
+      "Lesión leve sin consecuencias permanentes",
+      "Tentativa de lesiones, porque la mano funciona",
+      "Homicidio en grado de tentativa por la agresión"
+    ],
+    "pista": "¿La mano todavía sirve, aunque peor, o ya no sirve?",
+    "explicacion": "La mano sigue sirviendo, aunque peor que antes: eso es debilitación permanente (una lesión grave). Si la mano ya no sirviera para nada, sería inutilidad permanente (lesión gravísima).",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra las personas: homicidio y lesiones",
+      "entradaLibro": "dp_personas"
+    }
+  },
+  {
+    "id": "dp-personas-03",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "Lesión o daño",
+    "situacion": "En una pelea, alguien le arranca el celular a otra persona y lo estrella contra el piso, que queda destruido. Nadie resulta herido.",
+    "pregunta": "Respecto del celular destruido, ¿qué figura corresponde?",
+    "respuestaCorrecta": "Daño, porque afecta una cosa ajena",
+    "respuestasIncorrectas": [
+      "Lesión, porque afecta a la persona dueña del celular",
+      "Lesión grave por debilitación permanente",
+      "Usurpación",
+      "Calumnia",
+      "Falso testimonio"
+    ],
+    "pista": "¿Qué resultó afectado: el cuerpo de una persona o un objeto?",
+    "explicacion": "Lesión es cuando se lastima a una persona; daño es cuando se rompe una cosa. Romper un celular ajeno es daño.",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra las personas: homicidio y lesiones",
+      "entradaLibro": "dp_personas"
+    }
+  },
+  {
+    "id": "dp-personas-04",
+    "unidad": "derecho_penal",
+    "tipo": "norma",
+    "titulo": "La pena del homicidio simple",
+    "situacion": "Un periodista te consulta qué pena prevé el Código Penal para quien mata a otro con intención, sin agravantes ni atenuantes.",
+    "pregunta": "¿Qué le contestás?",
+    "respuestaCorrecta": "De 8 a 25 años de prisión (homicidio simple, art. 79)",
+    "respuestasIncorrectas": [
+      "Prisión perpetua en todos los casos",
+      "De 1 a 5 años, como el homicidio culposo",
+      "De 3 a 6 años, como el homicidio por emoción violenta",
+      "Solo una multa si es la primera vez",
+      "No tiene pena fija: la decide el jurado sin límites"
+    ],
+    "pista": "Pensá en el homicidio común, sin nada que lo haga más o menos grave.",
+    "explicacion": "Matar a alguien a propósito, sin circunstancias especiales, es homicidio simple (art. 79 del Código Penal): de 8 a 25 años de prisión. Si hay agravantes puede llegar a prisión perpetua; si hay emoción violenta, la pena baja.",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra las personas: homicidio y lesiones",
+      "entradaLibro": "dp_personas"
+    }
+  },
+  {
+    "id": "dp-prop-01",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "El celular olvidado",
+    "situacion": "En un café, Lucas ve un celular que alguien dejó en la mesa de al lado. Espera que nadie mire, se lo guarda en el bolsillo y se va.",
+    "pregunta": "¿Qué delito cometió?",
+    "respuestaCorrecta": "Hurto",
+    "respuestasIncorrectas": [
+      "Robo",
+      "Estafa",
+      "Usurpación",
+      "Extorsión",
+      "Daño"
+    ],
+    "pista": "¿Hubo fuerza sobre una cosa o violencia contra una persona?",
+    "explicacion": "Lucas se llevó algo ajeno sin romper nada y sin lastimar ni amenazar a nadie. Eso es hurto (art. 162 del Código Penal).",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra la propiedad",
+      "entradaLibro": "dp_propiedad"
+    }
+  },
+  {
+    "id": "dp-prop-02",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "La ventanilla rota",
+    "situacion": "Un hombre rompe la ventanilla de un auto estacionado y se lleva la mochila que estaba en el asiento.",
+    "pregunta": "¿Qué delito cometió?",
+    "respuestaCorrecta": "Robo, porque usó fuerza en las cosas",
+    "respuestasIncorrectas": [
+      "Hurto, porque no había nadie en el auto",
+      "Daño solamente",
+      "Usurpación del vehículo",
+      "Estafa",
+      "Extorsión"
+    ],
+    "pista": "No hubo violencia contra una persona, pero ¿rompió algo para llevarse la mochila?",
+    "explicacion": "Para llevarse la mochila rompió la ventanilla: usó fuerza sobre una cosa. Llevarse algo ajeno con fuerza sobre las cosas o violencia sobre las personas es robo (art. 164 del Código Penal).",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra la propiedad",
+      "entradaLibro": "dp_propiedad"
+    }
+  },
+  {
+    "id": "dp-prop-03",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "El arrebato",
+    "situacion": "En la parada del colectivo, un joven empuja a una mujer, ella cae, y él le arranca la cartera y sale corriendo.",
+    "pregunta": "¿Qué delito cometió?",
+    "respuestaCorrecta": "Robo",
+    "respuestasIncorrectas": [
+      "Hurto",
+      "Estafa",
+      "Chantaje",
+      "Usura",
+      "Usurpación"
+    ],
+    "pista": "Fijate en cómo obtuvo la cartera.",
+    "explicacion": "El joven empujó a la mujer para sacarle la cartera: usó violencia contra una persona. Por eso no es hurto sino robo.",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra la propiedad",
+      "entradaLibro": "dp_propiedad"
+    }
+  },
+  {
+    "id": "dp-prop-04",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "La casa del abuelo",
+    "situacion": "Mientras la familia está de viaje, un grupo de personas entra a una casa, cambia la cerradura y se instala a vivir.",
+    "pregunta": "¿Qué delito describe mejor el hecho?",
+    "respuestaCorrecta": "Usurpación",
+    "respuestasIncorrectas": [
+      "Hurto",
+      "Robo",
+      "Estafa",
+      "Daño informático",
+      "Apología del crimen"
+    ],
+    "pista": "Lo afectado no es una cosa que se pueda trasladar.",
+    "explicacion": "Una casa no se puede llevar, así que no puede ser hurto ni robo. Quitarle a alguien un inmueble (casa, terreno) metiéndose en él es usurpación (art. 181 del Código Penal).",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra la propiedad",
+      "entradaLibro": "dp_propiedad"
+    }
+  },
+  {
+    "id": "dp-prop-05",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "La moto que no existía",
+    "situacion": "Un vendedor publica en Marketplace una moto con fotos sacadas de internet. Convence a un comprador de que la moto existe y le pide una seña por transferencia. Cobra y desaparece.",
+    "pregunta": "¿Qué delito cometió?",
+    "respuestaCorrecta": "Estafa",
+    "respuestasIncorrectas": [
+      "Hurto",
+      "Robo",
+      "Extorsión",
+      "Usura",
+      "Usurpación"
+    ],
+    "pista": "La víctima entregó el dinero por su cuenta. ¿Por qué lo hizo?",
+    "explicacion": "El vendedor mintió, el comprador le creyó y por eso le pagó él mismo, y perdió su dinero. Engañar a alguien para que te entregue su dinero es estafa (art. 172 del Código Penal).",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra la propiedad",
+      "entradaLibro": "dp_propiedad"
+    }
+  },
+  {
+    "id": "dp-prop-06",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "«Pagá o te quemo el local»",
+    "situacion": "Un comerciante recibe un mensaje: «Si no me transferís 500.000 pesos antes del viernes, te prendo fuego el local».",
+    "pregunta": "¿Qué delito describe mejor la conducta?",
+    "respuestaCorrecta": "Extorsión",
+    "respuestasIncorrectas": [
+      "Chantaje",
+      "Estafa",
+      "Usura",
+      "Amenaza simple, sin pedido de dinero",
+      "Hurto"
+    ],
+    "pista": "La amenaza ¿es de hacerle un daño o de revelar algo?",
+    "explicacion": "Le exige plata amenazándolo con hacerle un daño (quemarle el local). Obligar a alguien a pagar metiéndole miedo con un daño es extorsión (art. 168 del Código Penal).",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra la propiedad",
+      "entradaLibro": "dp_propiedad"
+    }
+  },
+  {
+    "id": "dp-prop-07",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "El secreto",
+    "situacion": "Una persona le escribe a un empresario: «Tengo pruebas de que tenés otra familia. Si no me pagás, se lo cuento a tu esposa y a la prensa».",
+    "pregunta": "¿Qué delito describe mejor la conducta?",
+    "respuestaCorrecta": "Chantaje",
+    "respuestasIncorrectas": [
+      "Extorsión con amenaza de violencia física",
+      "Estafa",
+      "Usura",
+      "Injuria",
+      "Robo"
+    ],
+    "pista": "Esta vez la amenaza no es de lastimar ni de romper algo.",
+    "explicacion": "Le exige plata amenazándolo con contar algo que lo perjudica. Obligar a pagar amenazando con revelar un secreto es chantaje (art. 169 del Código Penal).",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra la propiedad",
+      "entradaLibro": "dp_propiedad"
+    }
+  },
+  {
+    "id": "dp-prop-08",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "El prestamista del barrio",
+    "situacion": "Una familia necesita urgente dinero para una operación. Un prestamista, sabiendo su desesperación, les presta con un interés del 80% mensual y la garantía de su casa. No los engañó en nada: les explicó todas las condiciones.",
+    "pregunta": "¿Qué delito puede configurarse?",
+    "respuestaCorrecta": "Usura",
+    "respuestasIncorrectas": [
+      "Estafa",
+      "Extorsión",
+      "Hurto agravado",
+      "Usurpación",
+      "Chantaje"
+    ],
+    "pista": "No hubo engaño ni amenaza. ¿De qué se aprovechó el prestamista?",
+    "explicacion": "El prestamista no mintió ni amenazó: se aprovechó de que la familia estaba desesperada para cobrar un interés abusivo. Eso es usura (art. 175 bis del Código Penal).",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra la propiedad",
+      "entradaLibro": "dp_propiedad"
+    }
+  },
+  {
+    "id": "dp-prop-09",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "La camioneta en la calle",
+    "situacion": "Un hombre se lleva una camioneta estacionada en la vía pública que tenía las llaves puestas, sin forzar nada ni amenazar a nadie.",
+    "pregunta": "¿Cómo se califica?",
+    "respuestaCorrecta": "Hurto agravado (vehículo dejado en la vía pública)",
+    "respuestasIncorrectas": [
+      "Robo, porque se trata de un vehículo automotor",
+      "Hurto simple, porque no hubo fuerza ni violencia",
+      "Usurpación, porque el vehículo es un bien registrable",
+      "Estafa, porque engañó al dueño dejándolo en la calle",
+      "No es delito porque las llaves estaban puestas en el auto"
+    ],
+    "pista": "No hay fuerza ni violencia. Pero la ley castiga más llevarse ciertas cosas en ciertas situaciones.",
+    "explicacion": "Se llevó la camioneta sin romper nada ni amenazar a nadie, así que es hurto. Pero la ley castiga más llevarse un vehículo dejado en la calle: es hurto agravado (art. 163 del Código Penal).",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra la propiedad",
+      "entradaLibro": "dp_propiedad"
+    }
+  },
+  {
+    "id": "dp-prop-10",
+    "unidad": "derecho_penal",
+    "tipo": "concepto",
+    "titulo": "Cosa mueble",
+    "situacion": "Un estudiante pregunta por qué el hurto habla de «cosa mueble» si nadie roba sillones.",
+    "pregunta": "¿Qué significa cosa mueble en este contexto?",
+    "respuestaCorrecta": "Una cosa que puede trasladarse de un lugar a otro",
+    "respuestasIncorrectas": [
+      "Solo los muebles del hogar: sillas, mesas, camas y roperos",
+      "Cualquier bien, incluidas las casas y los terrenos",
+      "Solo bienes de valor superior a un monto mínimo legal",
+      "Los bienes registrables, como los autos y los inmuebles",
+      "Los datos y archivos digitales, exclusivamente"
+    ],
+    "pista": "Lo contrario es «inmueble».",
+    "explicacion": "Mueble es todo lo que se puede trasladar de un lugar a otro (dinero, celular, auto). Una casa o un terreno son inmuebles; por eso quitarle una casa a alguien es usurpación y no hurto.",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Delitos contra la propiedad",
+      "entradaLibro": "dp_propiedad"
+    }
+  },
+  {
+    "id": "dp-honor-01",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "El tuit del tesorero",
+    "situacion": "Un vecino publica en X: «El tesorero del club, Pérez, se robó la plata de la cuota social». Es falso.",
+    "pregunta": "¿Qué delito contra el honor se configura?",
+    "respuestaCorrecta": "Calumnia",
+    "respuestasIncorrectas": [
+      "Injuria",
+      "Falso testimonio",
+      "Apología del crimen",
+      "Estafa",
+      "Chantaje"
+    ],
+    "pista": "¿Lo insulta o le atribuye un delito concreto?",
+    "explicacion": "Se acusa falsamente a Pérez de un delito concreto (robar la plata del club). Acusar falsamente a alguien de un delito es calumnia (art. 109 del Código Penal).",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Honor, justicia y orden público",
+      "entradaLibro": "dp_honor_justicia"
+    }
+  },
+  {
+    "id": "dp-honor-02",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "El comentario hiriente",
+    "situacion": "En un grupo de padres, una persona escribe: «La maestra Gómez es una inútil, una mentirosa y una vergüenza». No la acusa de ningún hecho concreto.",
+    "pregunta": "¿Qué delito contra el honor puede configurarse?",
+    "respuestaCorrecta": "Injuria",
+    "respuestasIncorrectas": [
+      "Calumnia",
+      "Falso testimonio",
+      "Apología del crimen",
+      "Extorsión",
+      "Usura"
+    ],
+    "pista": "¿Le atribuye un delito o la desacredita?",
+    "explicacion": "No se acusa a la maestra de ningún delito, solo se la ofende y desprestigia. Eso es injuria (art. 110 del Código Penal). Si la acusaran falsamente de un delito, sería calumnia.",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Honor, justicia y orden público",
+      "entradaLibro": "dp_honor_justicia"
+    }
+  },
+  {
+    "id": "dp-honor-03",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "El testigo amigo",
+    "situacion": "En un juicio, un testigo declara bajo juramento que el acusado estuvo con él toda la noche. En realidad no lo vio ese día: solo quiere ayudarlo.",
+    "pregunta": "¿Qué delito comete el testigo?",
+    "respuestaCorrecta": "Falso testimonio",
+    "respuestasIncorrectas": [
+      "Calumnia",
+      "Injuria",
+      "Estafa procesal",
+      "Apología del crimen",
+      "Encubrimiento por imprudencia"
+    ],
+    "pista": "Miente ante una autoridad cuando tiene el deber de decir la verdad.",
+    "explicacion": "El testigo mintió en un juicio, donde estaba obligado a decir la verdad. Eso es falso testimonio (art. 275 del Código Penal), un delito que perjudica el funcionamiento de la justicia.",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Honor, justicia y orden público",
+      "entradaLibro": "dp_honor_justicia"
+    }
+  },
+  {
+    "id": "dp-honor-04",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "El elogio público",
+    "situacion": "Durante un acto transmitido en vivo, un orador dice: «Lo que hizo el que incendió la comisaría estuvo perfecto; ojalá muchos lo imiten».",
+    "pregunta": "¿Qué delito podría estar cometiendo el orador?",
+    "respuestaCorrecta": "Apología del crimen",
+    "respuestasIncorrectas": [
+      "Calumnia",
+      "Injuria",
+      "Falso testimonio",
+      "Instigación culposa",
+      "Usurpación"
+    ],
+    "pista": "Está elogiando públicamente un delito.",
+    "explicacion": "Elogiar en público un delito, alentando a que otros lo repitan, puede ser apología del crimen (art. 213 del Código Penal). Opinar o analizar un delito no lo es.",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Honor, justicia y orden público",
+      "entradaLibro": "dp_honor_justicia"
+    }
+  },
+  {
+    "id": "dp-bien-01",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "El certificado trucho",
+    "situacion": "Un empleado falsifica un certificado médico con firma y sello de un profesional para justificar faltas en el trabajo.",
+    "pregunta": "¿Qué bien jurídico afecta principalmente?",
+    "respuestaCorrecta": "La fe pública",
+    "respuestasIncorrectas": [
+      "La propiedad",
+      "El honor",
+      "La integridad física",
+      "La administración de justicia",
+      "La seguridad pública"
+    ],
+    "pista": "Un certificado, una firma o un sello existen para que los demás confíen en ellos.",
+    "explicacion": "Los certificados, firmas y sellos existen para que todos podamos confiar en ellos. Falsificarlos ataca esa confianza, que la ley llama «fe pública».",
+    "referencia": {
+      "tipo": "Herramientas",
+      "titulo": "Bien jurídico y cómo buscar en el Código Penal",
+      "entradaLibro": "dp_bienes_codigo"
+    }
+  },
+  {
+    "id": "dp-bien-02",
+    "unidad": "derecho_penal",
+    "tipo": "clasificar",
+    "titulo": "¿Qué se protege?",
+    "situacion": "Estás ordenando delitos según el bien jurídico. Te toca la calumnia.",
+    "pregunta": "¿Qué bien jurídico protege?",
+    "respuestaCorrecta": "El honor",
+    "respuestasIncorrectas": [
+      "La fe pública",
+      "La propiedad",
+      "La libertad",
+      "La administración pública",
+      "La integridad sexual"
+    ],
+    "pista": "Pensá en qué sufre la víctima cuando alguien la acusa falsamente.",
+    "explicacion": "Una acusación falsa daña la reputación de la víctima. Eso que se protege, la buena reputación, se llama «honor».",
+    "referencia": {
+      "tipo": "Herramientas",
+      "titulo": "Bien jurídico y cómo buscar en el Código Penal",
+      "entradaLibro": "dp_bienes_codigo"
+    }
+  },
+  {
+    "id": "dp-bien-03",
+    "unidad": "derecho_penal",
+    "tipo": "concepto",
+    "titulo": "Cómo buscar en el Código",
+    "situacion": "Un cliente quiere encontrar él mismo el artículo del hurto en el Código Penal y no sabe por dónde empezar.",
+    "pregunta": "¿Cómo le explicás que está organizado?",
+    "respuestaCorrecta": "Por Libro, Título, Capítulo y Artículo; los Títulos agrupan por bien jurídico",
+    "respuestasIncorrectas": [
+      "Por orden alfabético del nombre de cada delito, de la A a la Z",
+      "Por gravedad de la pena, desde los delitos más graves a los más leves",
+      "Por el año en que se sancionó cada delito, del más antiguo al más nuevo",
+      "Por la provincia en la que se aplica cada delito del Código",
+      "Por tipo de acción: pública, de instancia privada y privada"
+    ],
+    "pista": "Si sabés qué protege cada delito, ¿sabés en qué parte del Código buscar?",
+    "explicacion": "El Código se divide en Libros, Títulos, Capítulos y Artículos. Cada Título agrupa los delitos que protegen lo mismo (la vida, la propiedad, el honor...). El hurto está en el Título de los delitos contra la propiedad.",
+    "referencia": {
+      "tipo": "Herramientas",
+      "titulo": "Bien jurídico y cómo buscar en el Código Penal",
+      "entradaLibro": "dp_bienes_codigo"
+    }
+  },
+  {
+    "id": "dp-bien-04",
+    "unidad": "derecho_penal",
+    "tipo": "concepto",
+    "titulo": "La fuente oficial",
+    "situacion": "Una compañera quiere citar el texto vigente del Código Penal en un trabajo y encontró versiones distintas en blogs.",
+    "pregunta": "¿Qué fuente le recomendás?",
+    "respuestaCorrecta": "InfoLEG, el sitio oficial de leyes nacionales actualizadas",
+    "respuestasIncorrectas": [
+      "Wikipedia, porque se actualiza más rápido que el Estado",
+      "El blog jurídico con más visitas, porque es el más leído",
+      "Un resumen de la cursada del año pasado, porque ya fue revisado",
+      "Las redes sociales del Ministerio de Justicia de la Nación",
+      "Cualquier PDF del Código, porque el texto no cambia nunca"
+    ],
+    "pista": "Buscás una página del propio Estado, donde el texto esté al día.",
+    "explicacion": "InfoLEG es el sitio oficial del Estado donde están las leyes nacionales actualizadas, con todos sus cambios, incluido el Código Penal.",
+    "referencia": {
+      "tipo": "Herramientas",
+      "titulo": "Bien jurídico y cómo buscar en el Código Penal",
+      "entradaLibro": "dp_bienes_codigo"
+    }
+  },
+  {
+    "id": "dp-accion-01",
+    "unidad": "derecho_penal",
+    "tipo": "caso",
+    "titulo": "¿Quién mueve el expediente? (I)",
+    "situacion": "Pérez, el tesorero acusado falsamente de robar en un tuit, quiere que el autor del tuit sea condenado por calumnia.",
+    "pregunta": "¿Qué tipo de acción penal corresponde y qué implica?",
+    "respuestaCorrecta": "Acción privada: Pérez debe iniciar y llevar adelante el caso",
+    "respuestasIncorrectas": [
+      "Acción pública: la fiscalía actúa por su cuenta aunque Pérez no quiera",
+      "Instancia privada: Pérez denuncia y después el Estado sigue solo",
+      "No hay acción posible porque el hecho ocurrió en una red social",
+      "La acción la inicia el juez de oficio apenas lee el tuit",
+      "Acción pública dependiente de la intervención de la AAIP"
+    ],
+    "pista": "Las calumnias e injurias son el ejemplo clásico de un tipo de acción.",
+    "explicacion": "En las calumnias e injurias, la víctima tiene que iniciar el juicio y llevarlo adelante ella misma (acción privada, art. 73 del Código Penal). Si deja de hacerlo, el caso termina.",
+    "referencia": {
+      "tipo": "Proceso",
+      "titulo": "Quién pone en marcha un caso penal",
+      "entradaLibro": "dp_acciones_vocabulario"
+    }
+  },
+  {
+    "id": "dp-accion-02",
+    "unidad": "derecho_penal",
+    "tipo": "caso",
+    "titulo": "¿Quién mueve el expediente? (II)",
+    "situacion": "Después de una discusión de tránsito, un hombre sufre lesiones leves. No hizo la denuncia todavía y la fiscalía se enteró por un video.",
+    "pregunta": "¿Puede la fiscalía avanzar sola?",
+    "respuestaCorrecta": "No: son de instancia privada; la víctima denuncia y luego el Estado continúa",
+    "respuestasIncorrectas": [
+      "Sí: todas las lesiones son de acción pública y la fiscalía actúa por su cuenta",
+      "No: son de acción privada y la víctima debe llevar adelante todo el juicio",
+      "Sí: el video publicado en redes reemplaza la denuncia de la víctima",
+      "No: las lesiones leves no son delito sino una contravención de tránsito",
+      "Sí, pero solamente si el agresor es reincidente o tiene antecedentes"
+    ],
+    "pista": "La víctima tiene que dar el primer paso. ¿Y después, quién sigue?",
+    "explicacion": "En las lesiones leves, el caso solo empieza si la víctima hace la denuncia. Después de eso, el Estado lo sigue por su cuenta (acción de instancia privada, art. 72 del Código Penal).",
+    "referencia": {
+      "tipo": "Proceso",
+      "titulo": "Quién pone en marcha un caso penal",
+      "entradaLibro": "dp_acciones_vocabulario"
+    }
+  },
+  {
+    "id": "dp-accion-03",
+    "unidad": "derecho_penal",
+    "tipo": "concepto",
+    "titulo": "Acción pública",
+    "situacion": "La familia de la víctima de un homicidio pregunta si el caso se cae si ellos no quieren seguir.",
+    "pregunta": "¿Qué les respondés?",
+    "respuestaCorrecta": "No: es de acción pública y el Estado sigue aunque la familia no intervenga",
+    "respuestasIncorrectas": [
+      "Sí: si no hay un querellante particular, el caso se archiva",
+      "Sí: es de instancia privada y la familia debe ratificarla cada mes",
+      "Depende de si el homicidio fue doloso o culposo según el fiscal",
+      "Sí: la familia puede perdonar al autor y así termina el proceso",
+      "No, pero si la familia se retira la pena se reduce a la mitad"
+    ],
+    "pista": "¿Quién empuja un caso de homicidio: la familia o el fiscal?",
+    "explicacion": "El homicidio es de acción pública: el fiscal (el Estado) investiga y acusa por su cuenta, sin depender de lo que quiera la familia.",
+    "referencia": {
+      "tipo": "Proceso",
+      "titulo": "Quién pone en marcha un caso penal",
+      "entradaLibro": "dp_acciones_vocabulario"
+    }
+  },
+  {
+    "id": "dp-vocab-01",
+    "unidad": "derecho_penal",
+    "tipo": "concepto",
+    "titulo": "¿Delito o crimen?",
+    "situacion": "Un compañero afirma: «Si la pena supera los 3 años es un crimen; si no, es un delito».",
+    "pregunta": "¿Es correcto?",
+    "respuestaCorrecta": "No: el término técnico es «delito» y esa regla de 3 años no existe",
+    "respuestasIncorrectas": [
+      "Sí: es la regla que establece el art. 1 del Código Penal",
+      "Sí, pero solo se aplica a los delitos informáticos",
+      "No: es al revés, más de 3 años es delito y menos es crimen",
+      "Sí: los crímenes son los de acción pública y los delitos, privados",
+      "No: crimen es cuando hay dolo y delito cuando hay culpa"
+    ],
+    "pista": "Pensá en qué palabra usa el propio Código Penal.",
+    "explicacion": "El Código Penal argentino habla siempre de «delitos». «Crimen» es una palabra del lenguaje común para hechos graves, y no existe una regla de «más de 3 años».",
+    "referencia": {
+      "tipo": "Proceso",
+      "titulo": "Quién pone en marcha un caso penal",
+      "entradaLibro": "dp_acciones_vocabulario"
+    }
+  },
+  {
+    "id": "dp-vocab-02",
+    "unidad": "derecho_penal",
+    "tipo": "concepto",
+    "titulo": "El experto del juicio",
+    "situacion": "En un juicio por un ataque informático, el juez designa a una ingeniera para analizar los registros del servidor y explicar qué pasó.",
+    "pregunta": "¿Qué rol cumple la ingeniera?",
+    "respuestaCorrecta": "Perita",
+    "respuestasIncorrectas": [
+      "Testigo de concepto del acusado",
+      "Querellante",
+      "Fiscal especializada",
+      "Magistrada suplente",
+      "Defensora oficial"
+    ],
+    "pista": "Sinónimo: experto o especialista.",
+    "explicacion": "Un perito es un experto (médico, informático, contador) al que se llama en un juicio para que explique cuestiones técnicas que el juez no conoce.",
+    "referencia": {
+      "tipo": "Parte especial",
+      "titulo": "Honor, justicia y orden público",
+      "entradaLibro": "dp_honor_justicia"
+    }
+  },
+  {
+    "id": "di-clas-01",
+    "unidad": "delitos_informaticos",
+    "tipo": "clasificar",
+    "titulo": "La amenaza por WhatsApp",
+    "situacion": "Un ex socio le manda a tu cliente un audio por WhatsApp: «Sé dónde vivís, cuidate».",
+    "pregunta": "¿Es un delito informático puro o impuro?",
+    "respuestaCorrecta": "Impuro: es una amenaza común y la tecnología es solo el medio",
+    "respuestasIncorrectas": [
+      "Puro: el objeto atacado es el sistema de mensajería de WhatsApp",
+      "Puro: toda conducta cometida por internet es delito informático puro",
+      "No es delito porque fue enviada por audio y no por escrito",
+      "Impuro, pero solo si el audio se viraliza en redes sociales",
+      "Es una contravención, no un delito, porque no hubo daño físico"
+    ],
+    "pista": "¿Qué se atacó: el sistema o la persona?",
+    "explicacion": "Amenazar es un delito de toda la vida, con o sin tecnología; WhatsApp fue solo el canal. Cuando la tecnología es solo el medio, el delito informático es impuro.",
+    "referencia": {
+      "tipo": "Clasificación",
+      "titulo": "Delitos informáticos puros e impuros",
+      "entradaLibro": "di_puros_impuros"
+    }
+  },
+  {
+    "id": "di-clas-02",
+    "unidad": "delitos_informaticos",
+    "tipo": "clasificar",
+    "titulo": "Los servidores cifrados",
+    "situacion": "Un grupo instala un ransomware que cifra todos los servidores de una clínica y deja las historias clínicas inaccesibles.",
+    "pregunta": "¿Es un delito informático puro o impuro?",
+    "respuestaCorrecta": "Puro: lo atacado son los sistemas y los datos",
+    "respuestasIncorrectas": [
+      "Impuro: es una extorsión común por internet",
+      "Impuro: la tecnología es solo el medio",
+      "No es delito si la clínica paga el rescate",
+      "Es solo un incidente técnico sin relevancia penal",
+      "Es un delito contra el honor"
+    ],
+    "pista": "¿Qué fue lo dañado directamente?",
+    "explicacion": "Lo que se atacó son los sistemas y los datos de la clínica (quedaron bloqueados). Cuando la tecnología es lo atacado, el delito informático es puro. Además, pedir rescate puede ser una extorsión.",
+    "referencia": {
+      "tipo": "Clasificación",
+      "titulo": "Delitos informáticos puros e impuros",
+      "entradaLibro": "di_puros_impuros"
+    }
+  },
+  {
+    "id": "di-clas-03",
+    "unidad": "delitos_informaticos",
+    "tipo": "clasificar",
+    "titulo": "La venta falsa en Marketplace",
+    "situacion": "Un usuario publica zapatillas que no tiene, cobra por transferencia y bloquea al comprador.",
+    "pregunta": "¿Es un delito informático puro o impuro?",
+    "respuestaCorrecta": "Impuro: es una estafa cometida por medios digitales",
+    "respuestasIncorrectas": [
+      "Puro: se atacó el sistema informático de Marketplace",
+      "Puro: hubo una transferencia electrónica de dinero",
+      "No es delito porque el comprador aceptó pagar por su cuenta",
+      "Es daño informático, porque se usó una plataforma digital",
+      "Es acceso ilegítimo a un sistema de pagos en línea"
+    ],
+    "pista": "Si sacás internet de la historia, ¿el delito sigue existiendo?",
+    "explicacion": "Es una estafa común (mentir para que te paguen) hecha por internet. La tecnología fue solo el medio: delito informático impuro.",
+    "referencia": {
+      "tipo": "Clasificación",
+      "titulo": "Delitos informáticos puros e impuros",
+      "entradaLibro": "di_puros_impuros"
+    }
+  },
+  {
+    "id": "di-clas-04",
+    "unidad": "delitos_informaticos",
+    "tipo": "clasificar",
+    "titulo": "El correo de la ex",
+    "situacion": "Gonzalo adivina la contraseña del correo de su ex pareja, entra y lee sus mensajes.",
+    "pregunta": "¿Es un delito informático puro o impuro?",
+    "respuestaCorrecta": "Puro: lo atacado es una cuenta y sus comunicaciones electrónicas",
+    "respuestasIncorrectas": [
+      "Impuro: es una calumnia cometida por internet contra su ex",
+      "No es delito porque la contraseña era fácil de adivinar",
+      "Impuro: es un hurto de información mediante tecnología",
+      "No es delito porque fueron pareja y se conocían las claves",
+      "Es usurpación de identidad, que es solo una contravención"
+    ],
+    "pista": "¿Gonzalo dañó la reputación de su ex o se metió en algo digital que era de ella?",
+    "explicacion": "Lo que se atacó es la cuenta de mail y los mensajes de otra persona. Cuando la tecnología es lo atacado, el delito es puro (entrar sin permiso y leer correspondencia ajena).",
+    "referencia": {
+      "tipo": "Clasificación",
+      "titulo": "Delitos informáticos puros e impuros",
+      "entradaLibro": "di_puros_impuros"
+    }
+  },
+  {
+    "id": "di-clas-05",
+    "unidad": "delitos_informaticos",
+    "tipo": "clasificar",
+    "titulo": "El rumor en Instagram",
+    "situacion": "Una cuenta anónima publica en Instagram que una profesora «cobra coimas para aprobar». Es falso.",
+    "pregunta": "¿Es un delito informático puro o impuro?",
+    "respuestaCorrecta": "Impuro: es una calumnia cometida por redes sociales",
+    "respuestasIncorrectas": [
+      "Puro: se atacó el sistema informático de Instagram",
+      "Puro: hubo publicación de datos en una plataforma",
+      "No es delito porque la cuenta es anónima",
+      "Es daño informático contra la cuenta de la profesora",
+      "Es grooming porque ocurrió en una red social"
+    ],
+    "pista": "¿Qué bien se afectó: un sistema o la reputación de una persona?",
+    "explicacion": "Acusar falsamente a alguien de un delito es calumnia, un delito de siempre. Instagram fue solo el medio: delito informático impuro.",
+    "referencia": {
+      "tipo": "Clasificación",
+      "titulo": "Delitos informáticos puros e impuros",
+      "entradaLibro": "di_puros_impuros"
+    }
+  },
+  {
+    "id": "di-26388-01",
+    "unidad": "delitos_informaticos",
+    "tipo": "norma",
+    "titulo": "La contraseña vieja",
+    "situacion": "Un ex empleado, despedido hace un mes, sigue entrando al sistema de facturación con su usuario, que nadie dio de baja. No modifica nada: solo mira.",
+    "pregunta": "¿Qué delito que la Ley 26.388 agregó al Código Penal puede aplicarse?",
+    "respuestaCorrecta": "Acceso ilegítimo (art. 153 bis)",
+    "respuestasIncorrectas": [
+      "Daño informático (art. 183)",
+      "Fraude informático (art. 173 inc. 16)",
+      "No hay delito porque el usuario seguía activo",
+      "Grooming (art. 131)",
+      "Hurto de información (art. 162)"
+    ],
+    "pista": "No rompió nada ni ganó dinero: entró donde ya no tenía permiso.",
+    "explicacion": "Entró sin permiso a un sistema con contraseña, aunque solo miró y no cambió nada. Eso ya es acceso ilegítimo (art. 153 bis del Código Penal, agregado por la Ley 26.388). Que la empresa no haya dado de baja su usuario no le da permiso.",
+    "referencia": {
+      "tipo": "Ley 26.388",
+      "titulo": "Ley 26.388: el Código Penal se actualiza a lo digital",
+      "entradaLibro": "di_ley_26388"
+    }
+  },
+  {
+    "id": "di-26388-02",
+    "unidad": "delitos_informaticos",
+    "tipo": "norma",
+    "titulo": "La base borrada",
+    "situacion": "Antes de irse, una empleada enojada borra a propósito toda la base de clientes del servidor de la empresa.",
+    "pregunta": "¿Qué delito del Código Penal describe mejor el borrado?",
+    "respuestaCorrecta": "Daño informático (art. 183)",
+    "respuestasIncorrectas": [
+      "Hurto de información (art. 162)",
+      "Estafa (art. 172)",
+      "Violación de correspondencia (art. 153)",
+      "Usurpación (art. 181)",
+      "Falso testimonio (art. 275)"
+    ],
+    "pista": "Destruir datos ajenos: la figura tradicional se actualizó para incluirlos.",
+    "explicacion": "Borrar datos ajenos a propósito es daño informático (art. 183 del Código Penal). La Ley 26.388 amplió el viejo delito de daño, que hablaba de romper cosas, para incluir datos y sistemas.",
+    "referencia": {
+      "tipo": "Ley 26.388",
+      "titulo": "Ley 26.388: el Código Penal se actualiza a lo digital",
+      "entradaLibro": "di_ley_26388"
+    }
+  },
+  {
+    "id": "di-26388-03",
+    "unidad": "delitos_informaticos",
+    "tipo": "norma",
+    "titulo": "Los centavos desviados",
+    "situacion": "Un programador del banco modifica el sistema para que los centavos de redondeo de miles de operaciones se desvíen a su cuenta.",
+    "pregunta": "¿Qué delito del Código Penal describe mejor la conducta?",
+    "respuestaCorrecta": "Fraude informático (art. 173 inc. 16)",
+    "respuestasIncorrectas": [
+      "Hurto simple (art. 162)",
+      "Daño informático (art. 183)",
+      "Acceso ilegítimo solamente (art. 153 bis)",
+      "Usura (art. 175 bis)",
+      "Robo con fuerza en las cosas (art. 164)"
+    ],
+    "pista": "Obtiene un beneficio patrimonial alterando el funcionamiento del sistema.",
+    "explicacion": "El programador cambió el funcionamiento del sistema para quedarse con dinero ajeno. Eso es fraude informático (art. 173 inc. 16 del Código Penal, agregado por la Ley 26.388).",
+    "referencia": {
+      "tipo": "Ley 26.388",
+      "titulo": "Ley 26.388: el Código Penal se actualiza a lo digital",
+      "entradaLibro": "di_ley_26388"
+    }
+  },
+  {
+    "id": "di-26388-04",
+    "unidad": "delitos_informaticos",
+    "tipo": "norma",
+    "titulo": "El mail ajeno",
+    "situacion": "Un jefe accede a la casilla personal de un empleado y lee correos que no estaban dirigidos a él.",
+    "pregunta": "¿Qué delito del Código Penal cubre específicamente este caso?",
+    "respuestaCorrecta": "Violación de correspondencia electrónica (art. 153)",
+    "respuestasIncorrectas": [
+      "Daño informático (art. 183)",
+      "Fraude informático (art. 173 inc. 16)",
+      "Grooming por medios electrónicos (art. 131)",
+      "Usurpación de la casilla (art. 181)",
+      "Apología del crimen (art. 213)"
+    ],
+    "pista": "El correo electrónico se equiparó a la carta en papel.",
+    "explicacion": "Leer correos que no son para uno es violación de correspondencia (art. 153 del Código Penal). La Ley 26.388 aclaró que esto incluye el correo electrónico, igual que una carta en papel.",
+    "referencia": {
+      "tipo": "Ley 26.388",
+      "titulo": "Ley 26.388: el Código Penal se actualiza a lo digital",
+      "entradaLibro": "di_ley_26388"
+    }
+  },
+  {
+    "id": "di-26388-05",
+    "unidad": "delitos_informaticos",
+    "tipo": "concepto",
+    "titulo": "¿Qué hizo la Ley 26.388?",
+    "situacion": "Un cliente cree que la Ley 26.388 es «un código aparte de delitos informáticos».",
+    "pregunta": "¿Qué le aclarás?",
+    "respuestaCorrecta": "Que modificó el Código Penal para incluir datos, sistemas y documentos digitales",
+    "respuestasIncorrectas": [
+      "Que es un código independiente que reemplazó al Código Penal en lo digital",
+      "Que regula la protección de datos personales en bases públicas y privadas",
+      "Que creó el delito de grooming contra menores de edad en internet",
+      "Que es la traducción oficial al castellano del Convenio de Budapest",
+      "Que solo regula contravenciones informáticas de tipo municipal"
+    ],
+    "pista": "Fijate dónde quedaron escritos los delitos informáticos después de esa ley.",
+    "explicacion": "La Ley 26.388 no creó un código nuevo: cambió artículos del Código Penal para que los delitos de siempre incluyan datos, sistemas, documentos digitales y correos electrónicos.",
+    "referencia": {
+      "tipo": "Ley 26.388",
+      "titulo": "Ley 26.388: el Código Penal se actualiza a lo digital",
+      "entradaLibro": "di_ley_26388"
+    }
+  },
+  {
+    "id": "di-26388-06",
+    "unidad": "delitos_informaticos",
+    "tipo": "concepto",
+    "titulo": "El contrato en PDF",
+    "situacion": "Un acusado sostiene que falsificar un contrato en PDF no puede ser delito porque «un documento es un papel».",
+    "pregunta": "¿Qué le contestás?",
+    "respuestaCorrecta": "Que desde la Ley 26.388 «documento» incluye el formato digital",
+    "respuestasIncorrectas": [
+      "Que tiene razón: solo los papeles firmados a mano son documentos",
+      "Que el PDF solo es documento si está impreso y certificado",
+      "Que depende de lo que diga el RGPD europeo sobre documentos",
+      "Que solo es delito si el PDF contiene datos personales sensibles",
+      "Que es una cuestión civil y nunca puede ser una cuestión penal"
+    ],
+    "pista": "La ley actualizó la definición de documento.",
+    "explicacion": "La Ley 26.388 cambió el art. 77 del Código Penal: un archivo digital también cuenta como documento, y una firma digital también cuenta como firma.",
+    "referencia": {
+      "tipo": "Ley 26.388",
+      "titulo": "Ley 26.388: el Código Penal se actualiza a lo digital",
+      "entradaLibro": "di_ley_26388"
+    }
+  },
+  {
+    "id": "di-leyes-01",
+    "unidad": "delitos_informaticos",
+    "tipo": "norma",
+    "titulo": "El chat del videojuego",
+    "situacion": "Un adulto se hace pasar por un chico de 13 años en el chat de un videojuego en línea y le pide fotos íntimas a una nena de 11.",
+    "pregunta": "¿Qué delito es y qué ley corresponde?",
+    "respuestaCorrecta": "Grooming (art. 131), Ley 26.904",
+    "respuestasIncorrectas": [
+      "Acceso ilegítimo (art. 153 bis), Ley 26.388",
+      "Violencia digital, Ley Olimpia 27.736",
+      "Calumnia (art. 109), Código Penal de 1921",
+      "Convenio de Budapest, Ley 27.411",
+      "Daño informático (art. 183), Ley 26.388"
+    ],
+    "pista": "Contacto con un menor, por tecnología, con propósito sexual.",
+    "explicacion": "Un adulto contacta a una menor por un medio tecnológico (el chat del juego) con intención sexual: eso es grooming (art. 131 del Código Penal, que agregó la Ley 26.904).",
+    "referencia": {
+      "tipo": "Normativa",
+      "titulo": "Grooming, material de abuso infantil, Ley Olimpia y Convenio de Budapest",
+      "entradaLibro": "di_otras_leyes"
+    }
+  },
+  {
+    "id": "di-leyes-02",
+    "unidad": "delitos_informaticos",
+    "tipo": "norma",
+    "titulo": "Solo lo tenía guardado",
+    "situacion": "En un allanamiento encuentran en la computadora de un hombre material de abuso sexual infantil. Él dice que no lo compartió con nadie, «solo lo tenía».",
+    "pregunta": "¿Qué ley es relevante?",
+    "respuestaCorrecta": "La Ley 27.436, que castiga también la simple tenencia",
+    "respuestasIncorrectas": [
+      "La Ley 26.904, que incorporó el grooming",
+      "La Ley Olimpia 27.736, sobre violencia digital",
+      "La Ley 25.326, sobre datos personales",
+      "Ninguna: la tenencia sin distribución no es delito",
+      "La Ley 27.411, de adhesión al Convenio de Budapest"
+    ],
+    "pista": "La defensa de «solo lo tenía» ya no funciona desde una reforma específica.",
+    "explicacion": "Desde la Ley 27.436, tener guardado material de abuso sexual infantil ya es delito, aunque no se lo comparta con nadie.",
+    "referencia": {
+      "tipo": "Normativa",
+      "titulo": "Grooming, material de abuso infantil, Ley Olimpia y Convenio de Budapest",
+      "entradaLibro": "di_otras_leyes"
+    }
+  },
+  {
+    "id": "di-leyes-03",
+    "unidad": "delitos_informaticos",
+    "tipo": "norma",
+    "titulo": "Las fotos difundidas",
+    "situacion": "Una mujer descubre que su ex pareja difundió fotos íntimas suyas en grupos de mensajería y además la vigila por sus redes.",
+    "pregunta": "¿Qué ley incorporó la violencia digital contra las mujeres al marco de protección?",
+    "respuestaCorrecta": "La Ley 27.736, conocida como Ley Olimpia",
+    "respuestasIncorrectas": [
+      "La Ley 26.904, que incorporó el grooming",
+      "La Ley 26.388, conocida como ley de delitos informáticos",
+      "La Ley 27.411, de adhesión al Convenio de Budapest",
+      "La Ley 25.326, de protección de datos personales",
+      "La Ley 27.436, sobre material de abuso sexual infantil"
+    ],
+    "pista": "Lleva el nombre de una activista mexicana.",
+    "explicacion": "La Ley Olimpia (27.736) reconoce la violencia digital (como difundir fotos íntimas sin permiso o vigilar a alguien por redes) como una forma de violencia contra las mujeres.",
+    "referencia": {
+      "tipo": "Normativa",
+      "titulo": "Grooming, material de abuso infantil, Ley Olimpia y Convenio de Budapest",
+      "entradaLibro": "di_otras_leyes"
+    }
+  },
+  {
+    "id": "di-leyes-04",
+    "unidad": "delitos_informaticos",
+    "tipo": "caso",
+    "titulo": "El servidor en el extranjero",
+    "situacion": "Investigás una estafa: la víctima está en Rosario, el atacante en otro continente y el servidor usado está alojado en un tercer país.",
+    "pregunta": "¿Qué norma facilita investigar un delito que involucra a varios países?",
+    "respuestaCorrecta": "El Convenio de Budapest (Ley 27.411)",
+    "respuestasIncorrectas": [
+      "La Ley 25.326 de protección de datos",
+      "El art. 19 de la Constitución",
+      "La Ley Olimpia",
+      "El RGPD europeo",
+      "La Resolución AAIP 47/2018"
+    ],
+    "pista": "Hace falta que varios países cooperen.",
+    "explicacion": "Cuando el atacante, la víctima y el servidor están en países distintos, hace falta que los países colaboren. Para eso existe el Convenio de Budapest, al que la Argentina se sumó con la Ley 27.411.",
+    "referencia": {
+      "tipo": "Normativa",
+      "titulo": "Grooming, material de abuso infantil, Ley Olimpia y Convenio de Budapest",
+      "entradaLibro": "di_otras_leyes"
+    }
+  },
+  {
+    "id": "di-prueba-01",
+    "unidad": "delitos_informaticos",
+    "tipo": "caso",
+    "titulo": "Formatear antes de denunciar",
+    "situacion": "Una pyme sufre un ataque. El encargado de sistemas quiere formatear todas las computadoras «para que quede limpio» y recién después hacer la denuncia.",
+    "pregunta": "¿Qué le recomendás?",
+    "respuestaCorrecta": "Preservar primero la evidencia: los registros pueden perderse",
+    "respuestasIncorrectas": [
+      "Formatear: la evidencia digital no sirve en un juicio",
+      "Formatear: después se recupera todo con el Convenio de Budapest",
+      "Esperar un año para ver si el atacante vuelve",
+      "Publicar los logs en redes para que otros ayuden",
+      "Pagar el rescate antes de cualquier otra cosa"
+    ],
+    "pista": "¿Qué pasa con la prueba digital si se la toca o se espera?",
+    "explicacion": "Los registros que muestran cómo entró el atacante se pierden si se formatean las computadoras. Hay que conservarlos con cuidado para poder usarlos como prueba en un juicio.",
+    "referencia": {
+      "tipo": "Investigación",
+      "titulo": "La prueba digital",
+      "entradaLibro": "di_prueba"
+    }
+  },
+  {
+    "id": "di-ataques-01",
+    "unidad": "delitos_informaticos",
+    "tipo": "clasificar",
+    "titulo": "El mail del banco",
+    "situacion": "Te llega un correo con el logo de tu banco: «Detectamos actividad sospechosa. Ingresá en este enlace para validar tu cuenta». La página es idéntica a la del banco, pero la dirección es otra.",
+    "pregunta": "¿Qué técnica es?",
+    "respuestaCorrecta": "Phishing",
+    "respuestasIncorrectas": [
+      "Ransomware",
+      "Ataque de denegación de servicio",
+      "Retest",
+      "Defensa en profundidad",
+      "Gap"
+    ],
+    "pista": "Imita una comunicación confiable para robar credenciales.",
+    "explicacion": "Un mensaje falso que imita a tu banco para llevarte a una página trucha y robarte la contraseña es phishing.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Cómo atacan: ingeniería social, phishing, malware y ransomware",
+      "entradaLibro": "di_ataques"
+    }
+  },
+  {
+    "id": "di-ataques-02",
+    "unidad": "delitos_informaticos",
+    "tipo": "clasificar",
+    "titulo": "La llamada de soporte",
+    "situacion": "Una empleada recibe una llamada de alguien que dice ser «de soporte técnico de la empresa». Con tono urgente le pide el código que le acaba de llegar por SMS «para evitar que bloqueen su cuenta».",
+    "pregunta": "¿Qué técnica se está usando?",
+    "respuestaCorrecta": "Ingeniería social",
+    "respuestasIncorrectas": [
+      "Malware",
+      "Ransomware",
+      "Pentest autorizado",
+      "Daño informático",
+      "Purple Team"
+    ],
+    "pista": "No se ataca a la máquina sino a la persona.",
+    "explicacion": "No hackearon ninguna computadora: engañaron a una persona usando urgencia y una identidad falsa para que entregue el código. Eso es ingeniería social (y no es phishing, porque fue una llamada).",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Cómo atacan: ingeniería social, phishing, malware y ransomware",
+      "entradaLibro": "di_ataques"
+    }
+  },
+  {
+    "id": "di-ataques-03",
+    "unidad": "delitos_informaticos",
+    "tipo": "clasificar",
+    "titulo": "El programa que copiaba teclas",
+    "situacion": "En la computadora de un estudio contable aparece un programa oculto que registra todo lo que se escribe y lo envía a un servidor desconocido.",
+    "pregunta": "¿Qué es ese programa?",
+    "respuestaCorrecta": "Malware",
+    "respuestasIncorrectas": [
+      "Phishing",
+      "Ingeniería social",
+      "Un gap",
+      "Un retest",
+      "Un firewall"
+    ],
+    "pista": "Es software y es malicioso.",
+    "explicacion": "Un programa oculto que espía lo que escribís es software malicioso, es decir, malware (este tipo se llama keylogger).",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Cómo atacan: ingeniería social, phishing, malware y ransomware",
+      "entradaLibro": "di_ataques"
+    }
+  },
+  {
+    "id": "di-ataques-04",
+    "unidad": "delitos_informaticos",
+    "tipo": "caso",
+    "titulo": "Pagar o publicar",
+    "situacion": "Una empresa recupera sus servidores cifrados desde un backup y decide no pagar. Al día siguiente el atacante escribe: «Tenemos copia de sus datos de clientes. Si no pagan, los publicamos».",
+    "pregunta": "¿Cómo se llama esta modalidad?",
+    "respuestaCorrecta": "Doble extorsión",
+    "respuestasIncorrectas": [
+      "Ransomware simple: solo cifrado",
+      "Phishing dirigido",
+      "Retest",
+      "Defensa en profundidad",
+      "Gap de seguridad"
+    ],
+    "pista": "El backup resolvió un problema, pero no el otro.",
+    "explicacion": "Además de bloquear los archivos, el atacante se llevó una copia y amenaza con publicarla. Por eso, aunque la empresa recuperó sus archivos del respaldo, sigue en riesgo: eso es la doble extorsión.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Cómo atacan: ingeniería social, phishing, malware y ransomware",
+      "entradaLibro": "di_ataques"
+    }
+  },
+  {
+    "id": "di-ataques-05",
+    "unidad": "delitos_informaticos",
+    "tipo": "clasificar",
+    "titulo": "El hacker sin permiso",
+    "situacion": "Un estudiante encuentra una falla en la web de un municipio entrando sin autorización. No roba nada y después avisa al municipio para que la arregle.",
+    "pregunta": "¿Cómo se clasifica a este hacker?",
+    "respuestaCorrecta": "Gray hat",
+    "respuestasIncorrectas": [
+      "White hat",
+      "Black hat",
+      "Blue Team del municipio",
+      "vCISO",
+      "Purple Team"
+    ],
+    "pista": "Buena intención no es lo mismo que autorización.",
+    "explicacion": "Tenía buenas intenciones (avisó de la falla), pero entró sin permiso: eso es un gray hat. Ojo: entrar sin permiso puede ser delito igual, aunque después avise.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Cómo atacan: ingeniería social, phishing, malware y ransomware",
+      "entradaLibro": "di_ataques"
+    }
+  },
+  {
+    "id": "di-cid-01",
+    "unidad": "delitos_informaticos",
+    "tipo": "clasificar",
+    "titulo": "Las notas cambiadas",
+    "situacion": "Un alumno entra al sistema de la facultad con la cuenta de un profesor y cambia su nota de 2 a 8.",
+    "pregunta": "La seguridad de la información cuida tres pilares, la llamada tríada CID: confidencialidad, integridad y disponibilidad. ¿Cuál se afectó principalmente?",
+    "respuestaCorrecta": "Integridad",
+    "respuestasIncorrectas": [
+      "Confidencialidad",
+      "Disponibilidad",
+      "Ninguno: el alumno usó una cuenta real del sistema",
+      "Confidencialidad, porque entró con una cuenta ajena",
+      "Ninguno: la nota es un dato público"
+    ],
+    "pista": "La información no se filtró ni dejó de estar disponible: fue alterada.",
+    "explicacion": "Cambiar una nota es modificar información sin permiso. Lo que se rompió es la integridad (que la información no se altere).",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "La tríada CID, las capas de defensa y los tipos de seguridad",
+      "entradaLibro": "di_cid_capas"
+    }
+  },
+  {
+    "id": "di-cid-02",
+    "unidad": "delitos_informaticos",
+    "tipo": "clasificar",
+    "titulo": "La filtración",
+    "situacion": "Por una mala configuración, la lista de pacientes de un hospital con sus diagnósticos queda publicada en internet. Los datos no se alteraron y el sistema sigue funcionando.",
+    "pregunta": "La seguridad de la información cuida tres pilares, la llamada tríada CID: confidencialidad, integridad y disponibilidad. ¿Cuál se afectó?",
+    "respuestaCorrecta": "Confidencialidad",
+    "respuestasIncorrectas": [
+      "Integridad",
+      "Disponibilidad",
+      "Ninguno, porque nada se modificó",
+      "Integridad, porque los datos quedaron expuestos",
+      "Disponibilidad, porque cualquiera puede descargar la lista"
+    ],
+    "pista": "¿Quién pudo VER la información?",
+    "explicacion": "Gente que no debía pudo ver los diagnósticos. Lo que se rompió es la confidencialidad (que la información solo la vea quien tiene permiso).",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "La tríada CID, las capas de defensa y los tipos de seguridad",
+      "entradaLibro": "di_cid_capas"
+    }
+  },
+  {
+    "id": "di-cid-03",
+    "unidad": "delitos_informaticos",
+    "tipo": "clasificar",
+    "titulo": "La web caída",
+    "situacion": "Durante el Hot Sale, una tienda online recibe millones de solicitudes falsas por segundo y la web queda fuera de servicio todo el día.",
+    "pregunta": "La seguridad de la información cuida tres pilares, la llamada tríada CID: confidencialidad, integridad y disponibilidad. ¿Cuál se afectó?",
+    "respuestaCorrecta": "Disponibilidad",
+    "respuestasIncorrectas": [
+      "Confidencialidad",
+      "Integridad",
+      "Ninguno: no se robaron datos",
+      "Integridad, porque las solicitudes eran falsas",
+      "Confidencialidad, porque el ataque vino desde afuera"
+    ],
+    "pista": "¿Los clientes pudieron usar el servicio cuando lo necesitaban?",
+    "explicacion": "La tienda dejó de funcionar y los clientes no pudieron usarla. Lo que se rompió es la disponibilidad (que el sistema se pueda usar cuando hace falta).",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "La tríada CID, las capas de defensa y los tipos de seguridad",
+      "entradaLibro": "di_cid_capas"
+    }
+  },
+  {
+    "id": "di-capas-01",
+    "unidad": "delitos_informaticos",
+    "tipo": "clasificar",
+    "titulo": "El curso anti-phishing",
+    "situacion": "Una empresa obliga a todo el personal a hacer un curso trimestral para reconocer correos fraudulentos y define un procedimiento para reportarlos.",
+    "pregunta": "¿Qué capa de la defensa en profundidad refuerza?",
+    "respuestaCorrecta": "Personas y procesos",
+    "respuestasIncorrectas": [
+      "Seguridad física",
+      "Seguridad de red",
+      "Seguridad de endpoints",
+      "Seguridad de datos",
+      "Seguridad de aplicaciones"
+    ],
+    "pista": "No es un aparato ni un software: es gente y procedimientos.",
+    "explicacion": "Capacitar a la gente y definir procedimientos refuerza la capa de «personas y procesos», que suele ser la más atacada (por ejemplo, con engaños).",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "La tríada CID, las capas de defensa y los tipos de seguridad",
+      "entradaLibro": "di_cid_capas"
+    }
+  },
+  {
+    "id": "di-capas-02",
+    "unidad": "delitos_informaticos",
+    "tipo": "clasificar",
+    "titulo": "El doble factor",
+    "situacion": "Para entrar al correo corporativo, además de la contraseña ahora se pide un código desde una app del celular.",
+    "pregunta": "¿Qué capa de la defensa en profundidad refuerza?",
+    "respuestaCorrecta": "Identidad y accesos",
+    "respuestasIncorrectas": [
+      "Seguridad física",
+      "Seguridad de red",
+      "Personas y procesos",
+      "Seguridad de datos",
+      "No es una capa: es un gap"
+    ],
+    "pista": "Se trata de comprobar QUIÉN entra.",
+    "explicacion": "Pedir un código además de la contraseña sirve para confirmar QUIÉN está entrando. Eso refuerza la capa de «identidad y accesos».",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "La tríada CID, las capas de defensa y los tipos de seguridad",
+      "entradaLibro": "di_cid_capas"
+    }
+  },
+  {
+    "id": "di-capas-03",
+    "unidad": "delitos_informaticos",
+    "tipo": "concepto",
+    "titulo": "¿Por qué tantas capas?",
+    "situacion": "El dueño de una empresa pregunta: «Si ya compré el mejor firewall, ¿para qué quiero más cosas?»",
+    "pregunta": "¿Qué concepto le explicás?",
+    "respuestaCorrecta": "La defensa en profundidad: varias capas por si una falla",
+    "respuestasIncorrectas": [
+      "La tríada CID: un solo buen control cubre los tres pilares",
+      "El retest: probar dos veces el mismo firewall para confirmarlo",
+      "El gap: comprar todo lo que exige la norma y nada más",
+      "El principio de finalidad aplicado a los equipos de seguridad",
+      "La última ratio: el firewall es siempre la última herramienta"
+    ],
+    "pista": "Pensá en un castillo con foso, muralla y guardias.",
+    "explicacion": "Ninguna protección es perfecta. La defensa en profundidad pone varias barreras (física, red, equipos, programas, datos, accesos, personas) para que si una falla, las otras sigan protegiendo.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "La tríada CID, las capas de defensa y los tipos de seguridad",
+      "entradaLibro": "di_cid_capas"
+    }
+  },
+  {
+    "id": "di-tipos-01",
+    "unidad": "delitos_informaticos",
+    "tipo": "clasificar",
+    "titulo": "El expediente bajo llave",
+    "situacion": "Un estudio jurídico guarda los expedientes en papel en un armario con llave y prohíbe hablar de los casos en el ascensor.",
+    "pregunta": "¿Qué disciplina está aplicando?",
+    "respuestaCorrecta": "Seguridad de la información",
+    "respuestasIncorrectas": [
+      "Seguridad informática",
+      "Ciberseguridad",
+      "Pentest",
+      "Red Team",
+      "Gestión de vulnerabilidades de red"
+    ],
+    "pista": "No hay ninguna computadora involucrada.",
+    "explicacion": "Proteger papeles y conversaciones, sin ninguna computadora de por medio, es seguridad de la información: protege la información en cualquier formato.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "La tríada CID, las capas de defensa y los tipos de seguridad",
+      "entradaLibro": "di_cid_capas"
+    }
+  },
+  {
+    "id": "di-tipos-02",
+    "unidad": "delitos_informaticos",
+    "tipo": "clasificar",
+    "titulo": "La notebook desconectada",
+    "situacion": "Un laboratorio cifra el disco de una notebook que nunca se conecta a internet y le pone contraseña de arranque.",
+    "pregunta": "¿Qué disciplina describe mejor esa medida?",
+    "respuestaCorrecta": "Seguridad informática",
+    "respuestasIncorrectas": [
+      "Ciberseguridad",
+      "Seguridad de la información exclusivamente en papel",
+      "Red Team",
+      "Ingeniería social",
+      "Habeas data"
+    ],
+    "pista": "Protege un sistema informático, pero no hay ninguna red de por medio.",
+    "explicacion": "Proteger una computadora que no se conecta a ninguna red es seguridad informática. La ciberseguridad se ocupa de ataques que llegan por la red.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "La tríada CID, las capas de defensa y los tipos de seguridad",
+      "entradaLibro": "di_cid_capas"
+    }
+  },
+  {
+    "id": "di-roles-01",
+    "unidad": "delitos_informaticos",
+    "tipo": "clasificar",
+    "titulo": "El equipo que ataca",
+    "situacion": "Un banco contrata a un equipo para que, con autorización, intente entrar a sus sistemas como lo haría un delincuente.",
+    "pregunta": "¿Cómo se llama ese equipo?",
+    "respuestaCorrecta": "Red Team",
+    "respuestasIncorrectas": [
+      "Blue Team",
+      "Purple Team",
+      "Black hat",
+      "SOC",
+      "vCISO"
+    ],
+    "pista": "Simula al adversario.",
+    "explicacion": "El equipo que ataca con permiso, para probar las defensas, es el Red Team. El Blue Team defiende y el Purple Team coordina a los dos.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Equipos, roles y pruebas de seguridad",
+      "entradaLibro": "di_roles_pentest"
+    }
+  },
+  {
+    "id": "di-roles-02",
+    "unidad": "delitos_informaticos",
+    "tipo": "clasificar",
+    "titulo": "Los que miran las alertas",
+    "situacion": "Un equipo monitorea las alertas de seguridad las 24 horas, detecta un acceso sospechoso y lo bloquea.",
+    "pregunta": "¿Cómo se llama ese equipo?",
+    "respuestaCorrecta": "Blue Team",
+    "respuestasIncorrectas": [
+      "Red Team",
+      "Purple Team",
+      "Gray hat",
+      "Black hat",
+      "Pentester externo"
+    ],
+    "pista": "Defiende y responde.",
+    "explicacion": "El equipo que vigila, detecta ataques y responde es el Blue Team.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Equipos, roles y pruebas de seguridad",
+      "entradaLibro": "di_roles_pentest"
+    }
+  },
+  {
+    "id": "di-roles-03",
+    "unidad": "delitos_informaticos",
+    "tipo": "clasificar",
+    "titulo": "El experto de los martes",
+    "situacion": "Una pyme no puede pagar un director de seguridad de tiempo completo. Contrata a una especialista externa que dos días por semana define políticas, gestiona riesgos y reporta al directorio.",
+    "pregunta": "¿Qué rol cumple?",
+    "respuestaCorrecta": "vCISO",
+    "respuestasIncorrectas": [
+      "Pentester",
+      "SOC Analyst",
+      "Red Team",
+      "Perito de parte",
+      "Gray hat"
+    ],
+    "pista": "Es el rol de dirección de seguridad, pero como servicio.",
+    "explicacion": "La persona que dirige la estrategia de seguridad de una organización es el CISO. Si se la contrata como servicio externo o a tiempo parcial, se la llama vCISO.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Equipos, roles y pruebas de seguridad",
+      "entradaLibro": "di_roles_pentest"
+    }
+  },
+  {
+    "id": "di-roles-04",
+    "unidad": "delitos_informaticos",
+    "tipo": "caso",
+    "titulo": "Después de corregir",
+    "situacion": "El pentest encontró 12 vulnerabilidades. El equipo de desarrollo dice que ya las corrigió todas.",
+    "pregunta": "¿Qué paso sigue para confirmarlo?",
+    "respuestaCorrecta": "Un retest",
+    "respuestasIncorrectas": [
+      "Un gap analysis contra ISO 27001",
+      "Cerrar el proyecto: si dicen que corrigieron, alcanza",
+      "Contratar un Black Team",
+      "Pedir un habeas data",
+      "Borrar el informe para que no se filtre"
+    ],
+    "pista": "Pentest → informe → correcciones → ...",
+    "explicacion": "Después de corregir las fallas, hay que volver a probar para confirmar que las correcciones funcionan. Eso es el retest.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Equipos, roles y pruebas de seguridad",
+      "entradaLibro": "di_roles_pentest"
+    }
+  },
+  {
+    "id": "di-roles-05",
+    "unidad": "delitos_informaticos",
+    "tipo": "clasificar",
+    "titulo": "El 30% con MFA",
+    "situacion": "La política de la empresa exige doble factor de autenticación para todos los empleados. Una auditoría detecta que solo el 30% lo tiene activado.",
+    "pregunta": "¿Cómo se llama ese hallazgo?",
+    "respuestaCorrecta": "Un gap",
+    "respuestasIncorrectas": [
+      "Una vulnerabilidad de inyección SQL",
+      "Un ransomware",
+      "Un retest",
+      "Un Purple Team",
+      "Una doble extorsión"
+    ],
+    "pista": "Se compara cómo está con cómo debería estar.",
+    "explicacion": "Comparar cómo está la empresa (30% con doble factor) con cómo debería estar (100%) muestra un gap, una brecha. Una vulnerabilidad sería una falla concreta que un atacante puede aprovechar.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Equipos, roles y pruebas de seguridad",
+      "entradaLibro": "di_roles_pentest"
+    }
+  },
+  {
+    "id": "di-roles-06",
+    "unidad": "delitos_informaticos",
+    "tipo": "concepto",
+    "titulo": "El informe final",
+    "situacion": "Un cliente pregunta qué debería recibir al terminar el pentest que contrató.",
+    "pregunta": "¿Qué le respondés?",
+    "respuestaCorrecta": "Un informe con hallazgos, evidencia, impacto, riesgo y recomendaciones",
+    "respuestasIncorrectas": [
+      "Solo un certificado que diga «sistema seguro» firmado por el pentester",
+      "Las contraseñas de todos los usuarios que se pudieron descifrar",
+      "Una copia completa de la base de datos de clientes",
+      "Una denuncia penal contra los empleados responsables",
+      "Únicamente la factura del servicio y el contrato"
+    ],
+    "pista": "Lo que recibís tiene que permitir entender y corregir cada problema.",
+    "explicacion": "El informe tiene que permitir entender y corregir cada falla: qué se encontró, pruebas, qué tan grave es, qué daño puede causar, cómo reproducirla y cómo arreglarla.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Equipos, roles y pruebas de seguridad",
+      "entradaLibro": "di_roles_pentest"
+    }
+  },
+  {
+    "id": "di-int-01",
+    "unidad": "delitos_informaticos",
+    "tipo": "caso",
+    "titulo": "Del ataque al expediente",
+    "situacion": "Un atacante envía phishing, roba credenciales, entra a la red de una empresa y cifra sus servidores pidiendo rescate. La empresa te consulta qué mira el Derecho Penal.",
+    "pregunta": "¿Qué le explicás?",
+    "respuestaCorrecta": "Que hay que analizar conducta, tipo penal, dolo, autoría, consumación y prueba",
+    "respuestasIncorrectas": [
+      "Que alcanza con el informe técnico: si hubo ataque, hay condena segura",
+      "Que no hay delito porque la empresa tenía sistemas inseguros",
+      "Que es un problema solo de ciberseguridad, sin relevancia penal alguna",
+      "Que solo importa penalmente si la empresa pagó el rescate pedido",
+      "Que el Derecho Penal solo analiza qué pilar de la tríada CID se afectó"
+    ],
+    "pista": "La ciberseguridad explica el CÓMO. ¿Qué agrega el Derecho Penal?",
+    "explicacion": "El informe técnico explica cómo pasó. Pero para el Derecho Penal hay que ver qué hizo cada persona, si eso coincide con algún delito (acceso sin permiso, daño a los datos, extorsión), si lo hizo a propósito, quién participó y qué pruebas hay.",
+    "referencia": {
+      "tipo": "Integración",
+      "titulo": "Del ataque informático al análisis legal",
+      "entradaLibro": "di_analisis_penal"
+    }
+  },
+  {
+    "id": "pd-dato-01",
+    "unidad": "proteccion_datos",
+    "tipo": "clasificar",
+    "titulo": "Los resfriados con nombre",
+    "situacion": "La preceptora manda al grupo de padres: «Juan Pérez, Ana Gómez y Pedro Ruiz faltaron por gripe».",
+    "pregunta": "¿Qué tipo de dato se compartió?",
+    "respuestaCorrecta": "Dato personal sensible: salud de personas identificadas",
+    "respuestasIncorrectas": [
+      "Dato estadístico, porque es información general de un curso",
+      "Dato personal no sensible, porque la gripe es una enfermedad leve",
+      "No es un dato personal porque el mensaje no incluye el DNI",
+      "Dato público, porque se compartió en un grupo de muchos padres",
+      "Dato disociado, porque no se dio el diagnóstico completo"
+    ],
+    "pista": "¿Se puede saber de quién es la información? ¿Y de qué trata?",
+    "explicacion": "Se nombra a personas concretas y se cuenta algo de su salud: es un dato personal y, además, sensible. Si dijera «tres alumnos faltaron por gripe» sin poder saber quiénes, sería un dato estadístico.",
+    "referencia": {
+      "tipo": "Conceptos",
+      "titulo": "Dato personal, dato sensible y dato estadístico",
+      "entradaLibro": "pd_conceptos"
+    }
+  },
+  {
+    "id": "pd-dato-02",
+    "unidad": "proteccion_datos",
+    "tipo": "clasificar",
+    "titulo": "Los resfriados sin nombre",
+    "situacion": "La escuela publica en su web: «Esta semana tres alumnos de 4° año faltaron por gripe». En el curso hay 35 alumnos y no se da ningún otro detalle.",
+    "pregunta": "¿Qué tipo de dato es?",
+    "respuestaCorrecta": "Dato estadístico",
+    "respuestasIncorrectas": [
+      "Dato personal sensible",
+      "Dato personal no sensible",
+      "Dato crediticio",
+      "Dato biométrico",
+      "Dato de categoría especial según el RGPD"
+    ],
+    "pista": "¿Alguien puede saber quiénes son esos tres alumnos?",
+    "explicacion": "Nadie puede saber quiénes son esos tres alumnos: es información sobre un grupo, en números. Eso es un dato estadístico.",
+    "referencia": {
+      "tipo": "Conceptos",
+      "titulo": "Dato personal, dato sensible y dato estadístico",
+      "entradaLibro": "pd_conceptos"
+    }
+  },
+  {
+    "id": "pd-dato-03",
+    "unidad": "proteccion_datos",
+    "tipo": "clasificar",
+    "titulo": "La ficha del gremio",
+    "situacion": "Una empresa arma una planilla interna con los nombres de los empleados afiliados al sindicato.",
+    "pregunta": "¿Qué tipo de dato es la afiliación sindical?",
+    "respuestaCorrecta": "Dato sensible",
+    "respuestasIncorrectas": [
+      "Dato personal común, sin protección especial",
+      "Dato estadístico",
+      "Dato público por naturaleza",
+      "Dato crediticio",
+      "No es un dato personal"
+    ],
+    "pista": "Es información que puede usarse para discriminar.",
+    "explicacion": "La afiliación a un sindicato está en la lista de datos sensibles, porque podría usarse para discriminar. La ley los protege más.",
+    "referencia": {
+      "tipo": "Conceptos",
+      "titulo": "Dato personal, dato sensible y dato estadístico",
+      "entradaLibro": "pd_conceptos"
+    }
+  },
+  {
+    "id": "pd-dato-04",
+    "unidad": "proteccion_datos",
+    "tipo": "clasificar",
+    "titulo": "El mail del cliente",
+    "situacion": "Una tienda online guarda el correo electrónico juanperez@mail.com de cada cliente para enviarle la factura.",
+    "pregunta": "¿Qué tipo de dato es?",
+    "respuestaCorrecta": "Dato personal, pero no sensible",
+    "respuestasIncorrectas": [
+      "Dato sensible",
+      "Dato estadístico",
+      "No es un dato personal porque es un mail",
+      "Dato biométrico",
+      "Dato crediticio"
+    ],
+    "pista": "¿Identifica a una persona? ¿Revela salud, religión, política, origen o vida sexual?",
+    "explicacion": "El mail permite saber de quién se trata, así que es un dato personal. Pero no habla de salud, religión, política ni otros temas íntimos: no es sensible.",
+    "referencia": {
+      "tipo": "Conceptos",
+      "titulo": "Dato personal, dato sensible y dato estadístico",
+      "entradaLibro": "pd_conceptos"
+    }
+  },
+  {
+    "id": "pd-dato-05",
+    "unidad": "proteccion_datos",
+    "tipo": "concepto",
+    "titulo": "Privacidad no es esconder",
+    "situacion": "Un usuario dice: «Yo no tengo nada que esconder, así que la privacidad no me importa».",
+    "pregunta": "¿Qué le explicarías?",
+    "respuestaCorrecta": "Que la privacidad también es controlar el uso de la propia información",
+    "respuestasIncorrectas": [
+      "Que tiene razón: la privacidad solo protege a quien hace algo malo",
+      "Que la privacidad solo se aplica a los datos bancarios y financieros",
+      "Que la privacidad es un tema exclusivamente técnico de seguridad",
+      "Que la privacidad solo existe en Europa gracias al RGPD",
+      "Que los datos pertenecen a la empresa que los almacena, no a él"
+    ],
+    "pista": "¿La privacidad es solo esconder cosas, o también decidir qué se hace con tus datos?",
+    "explicacion": "La privacidad no es solo esconder: es poder decidir qué se hace con tu información (quién la junta, para qué, cuánto tiempo, con quién la comparte). Los datos son tuyos, no de la empresa.",
+    "referencia": {
+      "tipo": "Conceptos",
+      "titulo": "Dato personal, dato sensible y dato estadístico",
+      "entradaLibro": "pd_conceptos"
+    }
+  },
+  {
+    "id": "pd-princ-01",
+    "unidad": "proteccion_datos",
+    "tipo": "clasificar",
+    "titulo": "El gimnasio que vende",
+    "situacion": "Un gimnasio pide nombre, teléfono y peso de sus socios para la inscripción. Un año después vende esa base a una aseguradora para que les ofrezca seguros.",
+    "pregunta": "¿Qué principio de la ley de datos personales se viola principalmente?",
+    "respuestaCorrecta": "Finalidad",
+    "respuestasIncorrectas": [
+      "Calidad",
+      "Seguridad",
+      "Derecho de acceso",
+      "Supremacía constitucional",
+      "Legalidad penal"
+    ],
+    "pista": "¿Para qué se pidieron los datos y para qué se usaron?",
+    "explicacion": "Los datos se pidieron para inscribirse al gimnasio, no para venderlos. Usarlos para otra cosa viola el principio de finalidad (y además haría falta tu autorización).",
+    "referencia": {
+      "tipo": "Ley 25.326",
+      "titulo": "Ley 25.326: las reglas para usar datos ajenos",
+      "entradaLibro": "pd_ley_principios"
+    }
+  },
+  {
+    "id": "pd-princ-02",
+    "unidad": "proteccion_datos",
+    "tipo": "clasificar",
+    "titulo": "Zapatillas y religión",
+    "situacion": "Para comprar zapatillas en una tienda online, el formulario obliga a completar religión, afiliación política y estado de salud.",
+    "pregunta": "¿Qué principio de la ley de datos personales se viola principalmente?",
+    "respuestaCorrecta": "Calidad",
+    "respuestasIncorrectas": [
+      "Finalidad",
+      "Confidencialidad",
+      "Derecho de rectificación",
+      "Derecho al olvido",
+      "Principio de reserva (art. 19)"
+    ],
+    "pista": "¿Hace falta esa información para vender zapatillas?",
+    "explicacion": "Para vender zapatillas no hace falta saber religión, política ni salud. Pedir datos de más viola el principio de calidad. Además son datos sensibles: nadie puede ser obligado a darlos.",
+    "referencia": {
+      "tipo": "Ley 25.326",
+      "titulo": "Ley 25.326: las reglas para usar datos ajenos",
+      "entradaLibro": "pd_ley_principios"
+    }
+  },
+  {
+    "id": "pd-princ-03",
+    "unidad": "proteccion_datos",
+    "tipo": "clasificar",
+    "titulo": "La vecina curiosa",
+    "situacion": "Una administrativa de una clínica entra al sistema y lee, por curiosidad, la historia clínica de su vecina. No la comparte con nadie.",
+    "pregunta": "¿Qué principio o deber de la ley de datos personales se viola?",
+    "respuestaCorrecta": "Confidencialidad",
+    "respuestasIncorrectas": [
+      "Ninguno: tenía usuario autorizado",
+      "Calidad",
+      "Derecho de acceso",
+      "Finalidad, solo si la comparte",
+      "Última ratio"
+    ],
+    "pista": "Tener permiso técnico para entrar no es lo mismo que tener un motivo legítimo.",
+    "explicacion": "Tener acceso al sistema por trabajo no autoriza a mirar datos por curiosidad. Hacerlo viola la confidencialidad (el deber de guardar secreto).",
+    "referencia": {
+      "tipo": "Ley 25.326",
+      "titulo": "Ley 25.326: las reglas para usar datos ajenos",
+      "entradaLibro": "pd_ley_principios"
+    }
+  },
+  {
+    "id": "pd-princ-04",
+    "unidad": "proteccion_datos",
+    "tipo": "clasificar",
+    "titulo": "La casilla tildada",
+    "situacion": "En el registro de una app, la casilla «Acepto compartir mis datos con empresas asociadas» ya viene tildada y está escondida al final de los términos.",
+    "pregunta": "¿Qué requisito falla?",
+    "respuestaCorrecta": "El consentimiento, que debe ser libre, expreso e informado",
+    "respuestasIncorrectas": [
+      "La finalidad, porque los datos se borran al cerrar la cuenta",
+      "La seguridad, porque la app no cifra los datos del registro",
+      "El derecho de acceso, porque no se muestra qué datos se guardan",
+      "Ninguno: el usuario siempre pudo destildar la casilla",
+      "El principio de legalidad penal del art. 18 de la Constitución"
+    ],
+    "pista": "¿El usuario realmente dijo que sí?",
+    "explicacion": "Una casilla que ya viene tildada y escondida no es un «sí» claro e informado del usuario. Falla el consentimiento, que tiene que ser libre, expreso e informado (art. 5 de la Ley 25.326).",
+    "referencia": {
+      "tipo": "Ley 25.326",
+      "titulo": "Ley 25.326: las reglas para usar datos ajenos",
+      "entradaLibro": "pd_ley_principios"
+    }
+  },
+  {
+    "id": "pd-princ-05",
+    "unidad": "proteccion_datos",
+    "tipo": "clasificar",
+    "titulo": "Contraseñas en texto plano",
+    "situacion": "Una empresa guarda las contraseñas de sus clientes sin cifrar, en una planilla compartida a la que accede todo el personal.",
+    "pregunta": "¿Qué obligación de la Ley 25.326 incumple?",
+    "respuestaCorrecta": "La de seguridad (art. 9)",
+    "respuestasIncorrectas": [
+      "La de calidad de los datos",
+      "El derecho de rectificación (art. 16)",
+      "El plazo de acceso (art. 14)",
+      "El derecho al olvido crediticio",
+      "Ninguna: la ley no habla de seguridad"
+    ],
+    "pista": "Pensá en el artículo que obliga a proteger las bases.",
+    "explicacion": "El art. 9 de la Ley 25.326 obliga a proteger las bases de datos. Guardar contraseñas sin cifrar y dejar que todos las vean es no protegerlas.",
+    "referencia": {
+      "tipo": "Ley 25.326",
+      "titulo": "Ley 25.326: las reglas para usar datos ajenos",
+      "entradaLibro": "pd_ley_principios"
+    }
+  },
+  {
+    "id": "pd-ley-01",
+    "unidad": "proteccion_datos",
+    "tipo": "norma",
+    "titulo": "La ley central",
+    "situacion": "Una startup te pregunta qué ley argentina tiene que leer antes de armar su base de clientes.",
+    "pregunta": "¿Cuál le recomendás?",
+    "respuestaCorrecta": "La Ley 25.326 de Protección de Datos Personales",
+    "respuestasIncorrectas": [
+      "La Ley 26.388 de delitos informáticos",
+      "La Ley 26.904 de grooming",
+      "La Ley 27.411 del Convenio de Budapest",
+      "El RGPD, porque es la ley argentina vigente",
+      "La Ley Olimpia 27.736 de violencia digital"
+    ],
+    "pista": "Es del año 2000 y se vincula con el habeas data.",
+    "explicacion": "La Ley 25.326 es la ley argentina de protección de datos personales: dice cómo se pueden juntar, guardar y usar los datos de las personas.",
+    "referencia": {
+      "tipo": "Ley 25.326",
+      "titulo": "Ley 25.326: las reglas para usar datos ajenos",
+      "entradaLibro": "pd_ley_principios"
+    }
+  },
+  {
+    "id": "pd-der-01",
+    "unidad": "proteccion_datos",
+    "tipo": "caso",
+    "titulo": "¿Qué saben de mí?",
+    "situacion": "Una clienta quiere saber qué datos suyos tiene guardados una app de delivery y para qué los usa. Le envía una carta documento.",
+    "pregunta": "¿Qué derecho de la Ley 25.326 ejerce y cuánto tiempo tiene la empresa para responder?",
+    "respuestaCorrecta": "Derecho de acceso (art. 14): 10 días corridos",
+    "respuestasIncorrectas": [
+      "Derecho de acceso (art. 14): 5 días hábiles",
+      "Derecho de rectificación (art. 16): 10 días corridos",
+      "Derecho de supresión: 30 días hábiles",
+      "Derecho al olvido: 5 años",
+      "Habeas corpus: 24 horas"
+    ],
+    "pista": "Quiere CONOCER, no corregir. Fijate si el plazo es en días corridos o hábiles.",
+    "explicacion": "Quiere SABER qué datos tienen de ella: eso es el derecho de acceso (art. 14 de la Ley 25.326). La empresa tiene 10 días corridos (contando todos los días del calendario) para responder.",
+    "referencia": {
+      "tipo": "Derechos",
+      "titulo": "Tus derechos sobre tus datos y los plazos para responder",
+      "entradaLibro": "pd_derechos_plazos"
+    }
+  },
+  {
+    "id": "pd-der-02",
+    "unidad": "proteccion_datos",
+    "tipo": "caso",
+    "titulo": "El DNI equivocado",
+    "situacion": "Un cliente descubre que una financiera tiene mal cargado su DNI y por eso le rechazan un préstamo. Reclama la corrección.",
+    "pregunta": "¿Qué derecho de la Ley 25.326 ejerce y qué plazo tiene la financiera?",
+    "respuestaCorrecta": "Derecho de rectificación (art. 16): 5 días hábiles",
+    "respuestasIncorrectas": [
+      "Derecho de acceso (art. 14): 10 días corridos",
+      "Derecho de rectificación (art. 16): 10 días corridos",
+      "Derecho de supresión: 2 años",
+      "Habeas corpus: 48 horas",
+      "Derecho de acceso: 5 días hábiles"
+    ],
+    "pista": "Quiere CORREGIR un dato falso.",
+    "explicacion": "Quiere CORREGIR un dato equivocado: eso es rectificación (art. 16 de la Ley 25.326). La financiera tiene 5 días hábiles (solo días laborables) para hacerlo.",
+    "referencia": {
+      "tipo": "Derechos",
+      "titulo": "Tus derechos sobre tus datos y los plazos para responder",
+      "entradaLibro": "pd_derechos_plazos"
+    }
+  },
+  {
+    "id": "pd-der-03",
+    "unidad": "proteccion_datos",
+    "tipo": "clasificar",
+    "titulo": "La mudanza",
+    "situacion": "Una persona se mudó hace dos años y su banco sigue mandando todo al domicilio anterior. El dato era correcto, pero quedó viejo.",
+    "pregunta": "¿Qué derecho corresponde ejercer?",
+    "respuestaCorrecta": "Actualización",
+    "respuestasIncorrectas": [
+      "Rectificación",
+      "Supresión",
+      "Acceso",
+      "Habeas corpus",
+      "Derecho al olvido crediticio"
+    ],
+    "pista": "El dato no era falso: cambió con el tiempo.",
+    "explicacion": "El domicilio no estaba mal cargado: era correcto, pero cambió. Poner al día un dato viejo es actualización. Corregir un dato que siempre estuvo mal sería rectificación.",
+    "referencia": {
+      "tipo": "Derechos",
+      "titulo": "Tus derechos sobre tus datos y los plazos para responder",
+      "entradaLibro": "pd_derechos_plazos"
+    }
+  },
+  {
+    "id": "pd-der-04",
+    "unidad": "proteccion_datos",
+    "tipo": "caso",
+    "titulo": "La empresa que no contesta",
+    "situacion": "Tu clienta pidió la supresión de un dato que una empresa no debería tener. Pasaron 15 días hábiles y la empresa no respondió.",
+    "pregunta": "¿Qué podés hacer?",
+    "respuestaCorrecta": "Iniciar una acción de habeas data",
+    "respuestasIncorrectas": [
+      "Iniciar un habeas corpus",
+      "Esperar 5 años al derecho al olvido",
+      "Presentar una iniciativa popular",
+      "Nada: la empresa decide si borra o no",
+      "Hacer una denuncia por calumnia"
+    ],
+    "pista": "Hay una garantía constitucional específica para los datos.",
+    "explicacion": "Si la empresa no responde ni corrige en el plazo, la persona puede ir a la justicia con una acción de habeas data (art. 43 de la Constitución).",
+    "referencia": {
+      "tipo": "Derechos",
+      "titulo": "Tus derechos sobre tus datos y los plazos para responder",
+      "entradaLibro": "pd_derechos_plazos"
+    }
+  },
+  {
+    "id": "pd-der-05",
+    "unidad": "proteccion_datos",
+    "tipo": "concepto",
+    "titulo": "Corridos o hábiles",
+    "situacion": "Para el examen tenés que recordar dos plazos de la Ley 25.326: el del derecho de acceso y el de rectificación.",
+    "pregunta": "¿Qué plazo corresponde a cada uno?",
+    "respuestaCorrecta": "Acceso: 10 días corridos. Rectificación: 5 días hábiles",
+    "respuestasIncorrectas": [
+      "Acceso: 5 días hábiles. Rectificación: 10 días corridos",
+      "Acceso: 10 días hábiles. Rectificación: 5 días corridos",
+      "Acceso: 10 días corridos. Rectificación: 10 días corridos",
+      "Acceso: 5 días hábiles. Rectificación: 5 días hábiles",
+      "Acceso: 30 días corridos. Rectificación: 15 días hábiles"
+    ],
+    "pista": "El número más grande va con «corridos».",
+    "explicacion": "Según la Ley 25.326, para saber qué datos tienen (acceso, art. 14): 10 días corridos. Para corregir, actualizar o borrar (art. 16): 5 días hábiles.",
+    "referencia": {
+      "tipo": "Derechos",
+      "titulo": "Tus derechos sobre tus datos y los plazos para responder",
+      "entradaLibro": "pd_derechos_plazos"
+    }
+  },
+  {
+    "id": "pd-cred-01",
+    "unidad": "proteccion_datos",
+    "tipo": "caso",
+    "titulo": "La deuda pagada hace 3 años",
+    "situacion": "Un cliente pagó una deuda con una tarjeta hace 3 años y todavía aparece en Veraz como antecedente negativo.",
+    "pregunta": "¿Debería seguir figurando?",
+    "respuestaCorrecta": "No: una deuda pagada puede informarse hasta 2 años desde el pago",
+    "respuestasIncorrectas": [
+      "Sí: toda deuda se informa 5 años, aunque se haya pagado",
+      "Sí: las deudas se informan durante 10 años desde que nacen",
+      "Sí, hasta que el cliente pida un nuevo crédito y lo aprueben",
+      "No: una deuda pagada no puede informarse ni un solo día",
+      "Depende exclusivamente de lo que decida Veraz en cada caso"
+    ],
+    "pista": "El plazo se acorta si la deuda se canceló.",
+    "explicacion": "Cuando una deuda se paga, solo puede informarse durante 2 años desde el pago. Ya pasaron 3, así que no debería aparecer.",
+    "referencia": {
+      "tipo": "Datos crediticios",
+      "titulo": "Veraz, deudas y «derecho al olvido»",
+      "entradaLibro": "pd_crediticios"
+    }
+  },
+  {
+    "id": "pd-cred-02",
+    "unidad": "proteccion_datos",
+    "tipo": "caso",
+    "titulo": "La deuda impaga de hace 6 años",
+    "situacion": "Una persona tiene una deuda impaga de hace 6 años. Pregunta si puede seguir apareciendo como deudora en Veraz y si la deuda «desapareció».",
+    "pregunta": "¿Qué le respondés?",
+    "respuestaCorrecta": "No debería figurar, pero la deuda sigue existiendo",
+    "respuestasIncorrectas": [
+      "Debe seguir figurando hasta que pague la totalidad de la deuda",
+      "No debe figurar y, además, la deuda quedó cancelada por el tiempo",
+      "Debe figurar durante 10 años desde que se generó la deuda",
+      "Debe figurar 2 años más, porque la deuda sigue sin pagarse",
+      "Solo deja de figurar si inicia una acción de habeas corpus"
+    ],
+    "pista": "Derecho al olvido: ¿qué se olvida, el antecedente o la deuda?",
+    "explicacion": "Una deuda sin pagar puede informarse durante 5 años. Después ya no debe aparecer (derecho al olvido), pero la persona sigue debiendo la plata.",
+    "referencia": {
+      "tipo": "Datos crediticios",
+      "titulo": "Veraz, deudas y «derecho al olvido»",
+      "entradaLibro": "pd_crediticios"
+    }
+  },
+  {
+    "id": "pd-cred-03",
+    "unidad": "proteccion_datos",
+    "tipo": "concepto",
+    "titulo": "¿Para qué existe Veraz?",
+    "situacion": "Un cliente pregunta por qué un banco puede consultar su historial antes de darle una tarjeta.",
+    "pregunta": "¿Qué función cumplen empresas como Veraz?",
+    "respuestaCorrecta": "Informar antecedentes de pago para evaluar si alguien es buen pagador",
+    "respuestasIncorrectas": [
+      "Cobrar las deudas en nombre de los bancos y las financieras",
+      "Registrar los antecedentes penales de cada persona del país",
+      "Guardar las historias clínicas de las prepagas y obras sociales",
+      "Fijar las tasas de interés de todo el sistema financiero",
+      "Controlar que las empresas cumplan con el RGPD europeo"
+    ],
+    "pista": "Piensan en el riesgo de prestarte dinero.",
+    "explicacion": "Veraz y empresas parecidas informan si una persona suele pagar sus deudas, para que los bancos decidan si prestarle. Por eso la ley les pone plazos y permite pedir correcciones.",
+    "referencia": {
+      "tipo": "Datos crediticios",
+      "titulo": "Veraz, deudas y «derecho al olvido»",
+      "entradaLibro": "pd_crediticios"
+    }
+  },
+  {
+    "id": "pd-seg-01",
+    "unidad": "proteccion_datos",
+    "tipo": "concepto",
+    "titulo": "¿Obligatorio o recomendado?",
+    "situacion": "Un gerente dice: «La Resolución AAIP 47/2018 son solo recomendaciones, así que no tengo ninguna obligación de proteger la base».",
+    "pregunta": "¿Qué le corregís?",
+    "respuestaCorrecta": "Que obliga el art. 9 de la Ley 25.326; la resolución dice cómo cumplirlo",
+    "respuestasIncorrectas": [
+      "Nada: si no hay una norma obligatoria, no hay que proteger nada",
+      "Que la Resolución 47/2018 es una ley penal de cumplimiento obligatorio",
+      "Que la obligación surge solamente de la norma internacional ISO 27001",
+      "Que solo los organismos públicos están obligados a proteger sus bases",
+      "Que la obligación de proteger vence a los 5 años de creada la base"
+    ],
+    "pista": "Distinguí la ley de la resolución.",
+    "explicacion": "La obligación de proteger los datos la impone el art. 9 de la Ley 25.326. La Resolución AAIP 47/2018 propone medidas concretas para cumplir esa obligación.",
+    "referencia": {
+      "tipo": "Seguridad",
+      "titulo": "Cómo hay que proteger las bases: art. 9, Resolución AAIP 47/2018 e ISO 27001",
+      "entradaLibro": "pd_seguridad"
+    }
+  },
+  {
+    "id": "pd-seg-02",
+    "unidad": "proteccion_datos",
+    "tipo": "caso",
+    "titulo": "Testing con datos reales",
+    "situacion": "Para probar un sistema nuevo, el equipo de desarrollo copia la base real de pacientes, sin anonimizar, en un servidor de pruebas al que acceden programadores externos.",
+    "pregunta": "¿Qué área de la Resolución AAIP 47/2018 aborda este riesgo?",
+    "respuestaCorrecta": "Entornos de desarrollo",
+    "respuestasIncorrectas": [
+      "Destrucción de la información",
+      "Recolección",
+      "Respaldo y recuperación",
+      "Habeas data",
+      "Gestión de la tríada CID"
+    ],
+    "pista": "El problema aparece mientras se construye el sistema.",
+    "explicacion": "Usar datos reales de pacientes para probar un sistema, y que los vean programadores externos, es un riesgo que la Resolución 47/2018 trata en el área «entornos de desarrollo».",
+    "referencia": {
+      "tipo": "Seguridad",
+      "titulo": "Cómo hay que proteger las bases: art. 9, Resolución AAIP 47/2018 e ISO 27001",
+      "entradaLibro": "pd_seguridad"
+    }
+  },
+  {
+    "id": "pd-seg-03",
+    "unidad": "proteccion_datos",
+    "tipo": "caso",
+    "titulo": "Los discos a la basura",
+    "situacion": "Una clínica tira a un contenedor discos viejos con historias clínicas, sin borrarlos.",
+    "pregunta": "¿Qué área de la Resolución AAIP 47/2018 se descuidó?",
+    "respuestaCorrecta": "Destrucción de la información",
+    "respuestasIncorrectas": [
+      "Entornos de desarrollo",
+      "Control de cambios",
+      "Recolección de los datos",
+      "Gestión de vulnerabilidades",
+      "Respaldo y recuperación"
+    ],
+    "pista": "El problema está al final del ciclo de vida del dato.",
+    "explicacion": "Cuando los datos ya no se necesitan, hay que eliminarlos de forma segura. La Resolución 47/2018 lo trata en el área «destrucción de la información».",
+    "referencia": {
+      "tipo": "Seguridad",
+      "titulo": "Cómo hay que proteger las bases: art. 9, Resolución AAIP 47/2018 e ISO 27001",
+      "entradaLibro": "pd_seguridad"
+    }
+  },
+  {
+    "id": "pd-seg-04",
+    "unidad": "proteccion_datos",
+    "tipo": "concepto",
+    "titulo": "ISO o AAIP",
+    "situacion": "Una consultora te pregunta en qué se diferencia la ISO 27001 de la Resolución AAIP 47/2018.",
+    "pregunta": "¿Qué le respondés?",
+    "respuestaCorrecta": "La ISO 27001 cubre toda la información; la 47/2018, solo datos personales",
+    "respuestasIncorrectas": [
+      "Son idénticas: la AAIP tradujo la ISO 27001 al castellano",
+      "La ISO 27001 es una ley argentina obligatoria y la 47/2018 no lo es",
+      "La Resolución 47/2018 solo trata la información guardada en papel",
+      "La ISO 27001 solo se aplica a bancos y entidades financieras",
+      "La Resolución 47/2018 reemplazó a la ISO 27001 en la Argentina"
+    ],
+    "pista": "Una es general; la otra, específica.",
+    "explicacion": "La ISO 27001 sirve para organizar la seguridad de toda la información de una empresa. La Resolución 47/2018 se enfoca solo en los datos personales.",
+    "referencia": {
+      "tipo": "Seguridad",
+      "titulo": "Cómo hay que proteger las bases: art. 9, Resolución AAIP 47/2018 e ISO 27001",
+      "entradaLibro": "pd_seguridad"
+    }
+  },
+  {
+    "id": "pd-seg-05",
+    "unidad": "proteccion_datos",
+    "tipo": "norma",
+    "titulo": "La norma vieja",
+    "situacion": "Un manual de 2015 de una empresa cita la Disposición DNPDP 11/2006 con sus niveles básico, medio y crítico.",
+    "pregunta": "¿Qué deberías advertir?",
+    "respuestaCorrecta": "Que fue abrogada por la Resolución AAIP 47/2018",
+    "respuestasIncorrectas": [
+      "Que sigue vigente y reemplazó a la Ley 25.326",
+      "Que fue incorporada al RGPD de la Unión Europea",
+      "Que es un artículo del Código Penal sobre datos",
+      "Que solo rige en la Ciudad de Buenos Aires",
+      "Que la reemplazó la norma internacional ISO 27001"
+    ],
+    "pista": "Fijate si esa norma de 2006 sigue vigente o si otra la reemplazó.",
+    "explicacion": "La Disposición 11/2006 ya no está vigente: la reemplazó (abrogó) la Resolución AAIP 47/2018.",
+    "referencia": {
+      "tipo": "Seguridad",
+      "titulo": "Cómo hay que proteger las bases: art. 9, Resolución AAIP 47/2018 e ISO 27001",
+      "entradaLibro": "pd_seguridad"
+    }
+  },
+  {
+    "id": "pd-rgpd-01",
+    "unidad": "proteccion_datos",
+    "tipo": "norma",
+    "titulo": "Fechas europeas",
+    "situacion": "En un repaso te preguntan cuándo empezó a aplicarse el RGPD.",
+    "pregunta": "¿Cuál es la respuesta correcta?",
+    "respuestaCorrecta": "El 25 de mayo de 2018",
+    "respuestasIncorrectas": [
+      "El 27 de abril de 2016",
+      "El 4 de octubre de 2000",
+      "El 1 de enero de 2020",
+      "El 25 de mayo de 2016",
+      "El 2 de noviembre de 2000"
+    ],
+    "pista": "Hubo dos años entre su aprobación y su aplicación.",
+    "explicacion": "El RGPD se aprobó el 27 de abril de 2016 y empezó a aplicarse el 25 de mayo de 2018. Las fechas del año 2000 son de la ley argentina 25.326.",
+    "referencia": {
+      "tipo": "Europa",
+      "titulo": "RGPD: el reglamento europeo de datos",
+      "entradaLibro": "pd_rgpd"
+    }
+  },
+  {
+    "id": "pd-rgpd-02",
+    "unidad": "proteccion_datos",
+    "tipo": "concepto",
+    "titulo": "Los cuatro requisitos",
+    "situacion": "Te piden completar: según el RGPD, el consentimiento debe ser libre, informado y...",
+    "pregunta": "¿Cuáles son los cuatro requisitos generales?",
+    "respuestaCorrecta": "Libre, específico, informado e inequívoco",
+    "respuestasIncorrectas": [
+      "Libre, expreso, informado y escrito",
+      "Libre, gratuito, informado y notarial",
+      "Expreso, tácito, informado y verbal",
+      "Libre, informado, anual y renovable",
+      "Específico, presunto, informado e irrevocable"
+    ],
+    "pista": "No confundas con la ley argentina, que dice «libre, expreso e informado».",
+    "explicacion": "Para el RGPD, el consentimiento tiene que ser libre (sin presiones), específico (para un uso concreto), informado (sabiendo para qué) e inequívoco (sin dudas de que dijo que sí).",
+    "referencia": {
+      "tipo": "Europa",
+      "titulo": "RGPD: el reglamento europeo de datos",
+      "entradaLibro": "pd_rgpd"
+    }
+  },
+  {
+    "id": "pd-rgpd-03",
+    "unidad": "proteccion_datos",
+    "tipo": "clasificar",
+    "titulo": "La huella en la puerta",
+    "situacion": "Una oficina en España instala un lector de huellas digitales para identificar a cada empleado al entrar.",
+    "pregunta": "¿Qué tipo de dato trata según el RGPD?",
+    "respuestaCorrecta": "Un dato biométrico, que es categoría especial",
+    "respuestasIncorrectas": [
+      "Un dato estadístico, porque se usa en una oficina",
+      "Un dato común, sin protección especial",
+      "Un dato crediticio del empleado",
+      "No es un dato personal: es solo una huella",
+      "Un dato de contacto, como el correo"
+    ],
+    "pista": "Identifica de forma única a una persona por una característica física.",
+    "explicacion": "La huella digital identifica a una persona por una característica de su cuerpo: es un dato biométrico, una de las «categorías especiales» (datos sensibles) del RGPD.",
+    "referencia": {
+      "tipo": "Europa",
+      "titulo": "RGPD: el reglamento europeo de datos",
+      "entradaLibro": "pd_rgpd"
+    }
+  },
+  {
+    "id": "pd-rgpd-04",
+    "unidad": "proteccion_datos",
+    "tipo": "norma",
+    "titulo": "La multa máxima",
+    "situacion": "Una multinacional con facturación anual de 10.000 millones de euros pregunta cuál es el tope de las multas más graves del RGPD.",
+    "pregunta": "¿Qué le respondés?",
+    "respuestaCorrecta": "20 millones de euros o el 4% de la facturación mundial, lo que sea mayor",
+    "respuestasIncorrectas": [
+      "20 millones de euros como tope fijo, sin importar la facturación",
+      "El 4% de la facturación mundial o 20 millones, lo que sea menor",
+      "Un monto fijo de 100.000 euros por cada infracción comprobada",
+      "No hay multas: el RGPD solo prevé advertencias y apercibimientos",
+      "El 1% de la ganancia neta que la empresa obtuvo en Europa"
+    ],
+    "pista": "Para una empresa muy grande, ¿qué tope le dolería más: un monto fijo o un porcentaje de lo que factura?",
+    "explicacion": "El tope es 20 millones de euros o el 4% de lo que la empresa factura por año en el mundo, lo que sea MAYOR. Para esta empresa, el 4% son 400 millones, así que ese es el tope.",
+    "referencia": {
+      "tipo": "Europa",
+      "titulo": "RGPD: el reglamento europeo de datos",
+      "entradaLibro": "pd_rgpd"
+    }
+  },
+  {
+    "id": "pd-dis-01",
+    "unidad": "proteccion_datos",
+    "tipo": "caso",
+    "titulo": "El botón de borrar",
+    "situacion": "Estás diseñando una app. El equipo propone agregar «más adelante» la forma de que un usuario consulte, corrija o elimine sus datos.",
+    "pregunta": "¿Qué principio te lleva a incluirlo desde el inicio?",
+    "respuestaCorrecta": "Privacidad desde el diseño",
+    "respuestasIncorrectas": [
+      "Última ratio",
+      "Supremacía constitucional",
+      "Defensa en profundidad física",
+      "Principio de legalidad penal",
+      "Concurso ideal"
+    ],
+    "pista": "No es un parche que se agrega al final.",
+    "explicacion": "Pensar en la protección de los datos desde el inicio del proyecto, y no como un agregado al final, es «privacidad desde el diseño». Si el sistema no puede encontrar ni borrar los datos de una persona, no va a poder cumplir la ley.",
+    "referencia": {
+      "tipo": "Práctica profesional",
+      "titulo": "Privacidad desde el diseño: el rol de quien hace sistemas",
+      "entradaLibro": "pd_diseno"
+    }
+  },
+  {
+    "id": "pd-dis-02",
+    "unidad": "proteccion_datos",
+    "tipo": "concepto",
+    "titulo": "¿Por qué le importa a un programador?",
+    "situacion": "Un estudiante de sistemas pregunta por qué tiene que estudiar protección de datos si él «solo programa».",
+    "pregunta": "¿Qué le respondés?",
+    "respuestaCorrecta": "Porque al diseñar decide qué datos se piden, quién los ve y cuándo se borran",
+    "respuestasIncorrectas": [
+      "Porque los programadores son los únicos responsables penales de toda filtración",
+      "Porque la ley solo se aplica a programadores",
+      "No tiene por qué: es un tema exclusivo de abogados",
+      "Porque el RGPD exige un título de abogado para programar",
+      "Porque la Ley 25.326 regula los lenguajes de programación"
+    ],
+    "pista": "Las decisiones técnicas afectan derechos de personas reales.",
+    "explicacion": "Al diseñar un sistema se decide qué datos se piden, quién los ve y cuándo se borran. Esas decisiones técnicas afectan los derechos de personas reales y tienen consecuencias legales.",
+    "referencia": {
+      "tipo": "Práctica profesional",
+      "titulo": "Privacidad desde el diseño: el rol de quien hace sistemas",
+      "entradaLibro": "pd_diseno"
+    }
+  }
+]

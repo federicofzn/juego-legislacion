@@ -1,0 +1,190 @@
+{
+  "unidad": { "key": "proteccion_datos", "titulo": "Protección de Datos Personales" },
+  "entradas": {
+    "pd_glosario": {
+      "categoria": "Empezá por acá",
+      "titulo": "Palabras básicas de Protección de Datos",
+      "intro": [
+        "Estas palabras aparecen en toda la unidad. Si en otra entrada encontrás una que no entendés, volvé acá."
+      ],
+      "notas": [
+        "Dato personal: cualquier información sobre una persona que se pueda identificar. Ejemplo: tu nombre, tu DNI, tu dirección, tu mail, tu foto.",
+        "Titular de los datos: la persona a la que se refieren los datos. Si una empresa guarda tu nombre y tu mail, vos sos el titular.",
+        "Base de datos: cualquier conjunto ordenado de datos, en papel o digital. Ejemplo: la lista de clientes de un comercio, el sistema de pacientes de una clínica.",
+        "Responsable de la base de datos: la persona o empresa que decide qué datos guardar y para qué, y que tiene que cuidarlos.",
+        "Tratamiento de datos: cualquier cosa que se haga con los datos: pedirlos, guardarlos, ordenarlos, usarlos, compartirlos, borrarlos.",
+        "Consentimiento: la autorización que da el titular para que se usen sus datos.",
+        "Ley 25.326: la ley argentina de protección de datos personales, del año 2000.",
+        "AAIP (Agencia de Acceso a la Información Pública): el organismo del Estado que controla que se cumpla la ley de datos personales en la Argentina.",
+        "RGPD: el reglamento de protección de datos de la Unión Europea. En inglés se llama GDPR.",
+        "Habeas data: la acción judicial para defender tus datos personales (ver la unidad Derecho y Estado)."
+      ],
+      "ejemplos": [
+        "Te anotás en un gimnasio: vos sos el titular, el gimnasio es el responsable, la ficha de inscripción entra en su base de datos, y guardarla es un tratamiento de datos."
+      ],
+      "ojo": "Los datos pertenecen a su titular, no a la empresa que los guarda."
+    },
+    "pd_conceptos": {
+      "categoria": "Conceptos",
+      "titulo": "Dato personal, dato sensible y dato estadístico",
+      "intro": [
+        "Todo lo que hacemos en internet (comprar, chatear, buscar, usar una app) deja rastros que terminan guardados en bases de datos de empresas y organismos.",
+        "La ley protege esa información cuando permite saber de QUIÉN se trata. Por eso, la pregunta clave para cualquier dato es: ¿con esto puedo saber a qué persona se refiere?"
+      ],
+      "notas": [
+        "Dato personal: información sobre una persona identificada (con nombre, DNI) o identificable (no se dice el nombre, pero cruzando datos se puede saber quién es). Ejemplos: nombre, DNI, domicilio, mail, teléfono, ubicación, una foto de la cara.",
+        "Dato sensible: un tipo especial de dato personal que revela cosas muy íntimas, que podrían usarse para discriminar a alguien. Son: origen racial o étnico, opiniones políticas, creencias religiosas, filosóficas o morales, afiliación a un sindicato, información sobre la salud y sobre la vida sexual. La ley los protege más.",
+        "Dato estadístico (o disociado): información sobre un grupo, expresada en números, que NO permite saber quién es cada persona. Ejemplo: «tres alumnos del curso faltaron por gripe», si no hay forma de saber quiénes fueron.",
+        "Privacidad: no es solo esconder cosas. Es poder CONTROLAR tu información: saber qué datos tuyos se juntan, para qué se usan, cuánto tiempo se guardan, con quién se comparten y cómo se protegen."
+      ],
+      "pasos": [
+        "¿Puedo saber a qué persona se refiere el dato? Si no → dato estadístico (no lo protege esta ley).",
+        "Si sí → es dato personal. ¿Habla de salud, religión, política, origen étnico, sindicato o vida sexual? Si sí → además es dato sensible."
+      ],
+      "ejemplos": [
+        "«Juan, Ana y Pedro faltaron por gripe»: dato personal y sensible (salud de personas identificadas).",
+        "«Tres alumnos faltaron por gripe», sin forma de saber quiénes: dato estadístico.",
+        "El mail de un cliente: dato personal, pero no sensible."
+      ],
+      "ojo": "Un dato de salud deja de ser personal solo si es imposible saber a quién pertenece."
+    },
+    "pd_ley_principios": {
+      "categoria": "Ley 25.326",
+      "titulo": "Ley 25.326: las reglas para usar datos ajenos",
+      "intro": [
+        "La Ley 25.326 es la ley argentina de protección de datos personales. Se aplica a cualquier base de datos, pública o privada, que contenga información de personas.",
+        "La ley no prohíbe usar datos: dice bajo qué REGLAS se pueden usar. Esas reglas se llaman «principios». Si una empresa no cumple alguno, está violando la ley."
+      ],
+      "notas": [
+        "Consentimiento (art. 5): para usar los datos de una persona, hace falta que ella lo autorice, y esa autorización tiene que ser LIBRE (sin presiones), EXPRESA (que diga claramente que sí, no que se suponga) e INFORMADA (sabiendo para qué se van a usar). Hay algunas excepciones en la ley. Una casilla que ya viene tildada, o el silencio, no son un consentimiento expreso.",
+        "Finalidad: los datos solo se pueden usar para el objetivo para el que se pidieron. Si te pidieron el mail para mandarte la factura, no lo pueden usar para venderlo a otra empresa.",
+        "Calidad: los datos que se guardan tienen que ser verdaderos, estar actualizados y ser los NECESARIOS para el objetivo, sin pedir de más. Pedir la religión para venderte zapatillas es pedir de más.",
+        "Seguridad (art. 9): quien guarda la base tiene que protegerla con medidas técnicas (contraseñas, cifrado, copias de seguridad) y organizativas (reglas internas, permisos), para que nadie entre sin permiso, ni se pierdan ni se alteren los datos.",
+        "Confidencialidad: quien tiene acceso a datos por su trabajo tiene que guardar el secreto. Tener permiso para entrar al sistema no te autoriza a mirar o usar los datos para cosas personales.",
+        "Datos sensibles: nadie puede ser obligado a darlos, y como regla general no se pueden armar bases de datos que los revelen, salvo excepciones de la ley.",
+        "Artículos que conviene ubicar: art. 1 (para qué existe la ley), art. 2 (definiciones como dato personal y dato sensible), art. 5 (consentimiento), art. 9 (seguridad), art. 14 (derecho de acceso) y art. 16 (corrección y borrado)."
+      ],
+      "pasos": [
+        "¿Usaron los datos sin que la persona lo autorice claramente? → falla el consentimiento.",
+        "¿Usaron los datos para algo distinto de lo que se dijo? → falla la finalidad.",
+        "¿Pidieron datos de más, o los tienen mal o desactualizados? → falla la calidad.",
+        "¿Los guardaron sin proteger? → falla la seguridad.",
+        "¿Alguien con acceso por su trabajo los miró o usó para otra cosa? → falla la confidencialidad."
+      ],
+      "ejemplos": [
+        "Un gimnasio pide tus datos para la inscripción y después se los vende a una aseguradora: falla la finalidad.",
+        "Una empleada de una clínica mira por curiosidad la historia clínica de su vecina: falla la confidencialidad."
+      ],
+      "ojo": "Finalidad = PARA QUÉ se usa el dato. Calidad = QUÉ datos se piden y si están bien."
+    },
+    "pd_derechos_plazos": {
+      "categoria": "Derechos",
+      "titulo": "Tus derechos sobre tus datos y los plazos para responder",
+      "intro": [
+        "La ley no solo le pone obligaciones a las empresas: también te da herramientas concretas para controlar tus datos, con plazos cortos que la empresa tiene que respetar.",
+        "Atención a dos tipos de días: «días corridos» cuenta todos los días del calendario (incluidos sábados, domingos y feriados); «días hábiles» cuenta solo los días laborables."
+      ],
+      "notas": [
+        "Derecho de acceso (art. 14): pedirle a una empresa u organismo que te diga qué datos tuyos tiene y para qué los usa. Es gratis si lo pedís cada seis meses o más.",
+        "Plazo para responder el acceso: 10 DÍAS CORRIDOS desde que la empresa recibió el pedido de forma fehaciente (es decir, de una forma que deje constancia, como una carta documento).",
+        "Rectificación (art. 16): pedir que corrijan un dato que está MAL. Ejemplo: tienen mal cargado tu DNI.",
+        "Actualización (art. 16): pedir que pongan al día un dato que era correcto pero CAMBIÓ. Ejemplo: te mudaste y siguen teniendo la dirección vieja.",
+        "Supresión (art. 16): pedir que BORREN un dato que no deberían tener o que ya no corresponde que guarden.",
+        "Plazo para rectificar, actualizar o suprimir: 5 DÍAS HÁBILES desde que recibieron el reclamo o desde que se dieron cuenta del error.",
+        "Habeas data: si la empresa no te responde o no corrige dentro del plazo, podés ir a la justicia con una acción de habeas data (art. 43 de la Constitución)."
+      ],
+      "pasos": [
+        "¿La persona quiere SABER qué datos tienen? → acceso, 10 días corridos.",
+        "¿Quiere CORREGIR, ACTUALIZAR o BORRAR un dato? → art. 16, 5 días hábiles.",
+        "¿Pasó el plazo y no respondieron? → habeas data."
+      ],
+      "ejemplos": [
+        "Querés saber qué datos tuyos guarda una app de delivery: derecho de acceso, 10 días corridos.",
+        "Una financiera tiene mal tu DNI y te rechazan un préstamo: rectificación, 5 días hábiles."
+      ],
+      "ojo": "Acceso = 10 días CORRIDOS. Corregir, actualizar o borrar = 5 días HÁBILES."
+    },
+    "pd_crediticios": {
+      "categoria": "Datos crediticios",
+      "titulo": "Veraz, deudas y «derecho al olvido»",
+      "intro": [
+        "Hay empresas, como Veraz, que juntan información sobre si las personas pagan o no sus deudas. Los bancos las consultan antes de darte un préstamo o una tarjeta.",
+        "Como aparecer como «deudor» puede impedirte conseguir un crédito, la ley pone límites de tiempo: después de cierto plazo, la deuda ya no se puede informar."
+      ],
+      "notas": [
+        "Para qué sirve Veraz: informar los antecedentes de pago de una persona (si pagó a tiempo, si debe plata) para que un banco evalúe si es confiable prestarle.",
+        "Deuda que NUNCA se pagó: se puede informar durante 5 AÑOS. Pasados los 5 años, ya no tiene que aparecer. A esto se lo llama «derecho al olvido».",
+        "Ojo: el derecho al olvido no borra la deuda. La persona sigue debiendo la plata; lo único que cambia es que deja de figurar como antecedente.",
+        "Deuda que SÍ se pagó: el plazo se acorta a 2 AÑOS desde el día del pago, y tiene que figurar que fue pagada.",
+        "Si la información es falsa o está desactualizada: primero se le pide a la empresa que la corrija o la borre (5 días hábiles). Si no lo hace, se puede iniciar un habeas data."
+      ],
+      "pasos": [
+        "¿La deuda se pagó? Si sí: ¿pasaron más de 2 años desde el pago? → ya no debería figurar.",
+        "Si no se pagó: ¿pasaron más de 5 años? → ya no debería figurar, aunque la deuda siga existiendo."
+      ],
+      "ejemplos": [
+        "Pagaste una deuda hace 3 años y seguís apareciendo en Veraz: no deberías figurar (pasaron más de 2 años).",
+        "Tenés una deuda sin pagar de hace 6 años: no deberías figurar como deudor, pero la deuda sigue existiendo."
+      ],
+      "ojo": "5 años = deuda sin pagar. 2 años = deuda pagada. El derecho al olvido borra el antecedente, no la deuda."
+    },
+    "pd_seguridad": {
+      "categoria": "Seguridad",
+      "titulo": "Cómo hay que proteger las bases: art. 9, Resolución AAIP 47/2018 e ISO 27001",
+      "intro": [
+        "Proteger una base de datos personales no es una opción: es una obligación legal. Pero hay varias normas sobre el tema, y conviene distinguir cuál OBLIGA y cuál RECOMIENDA cómo hacerlo."
+      ],
+      "notas": [
+        "Artículo 9 de la Ley 25.326 (la obligación): obliga a quien tiene una base de datos a tomar medidas técnicas y organizativas para protegerla, para que los datos no se alteren, se pierdan, ni los vea o use alguien sin permiso.",
+        "Resolución AAIP 47/2018 (las recomendaciones): una norma de la AAIP que propone medidas de seguridad concretas para cumplir con esa obligación cuando los datos están en sistemas informáticos. Son medidas recomendadas.",
+        "Las ocho áreas de la Resolución 47/2018: A) cómo se recolectan los datos; B) quién puede acceder; C) cómo se registran los cambios; D) copias de seguridad y recuperación; E) cómo se buscan y corrigen fallas de seguridad; F) cómo se destruye la información cuando ya no se necesita; G) qué hacer ante un incidente; H) cómo se cuidan los datos mientras se desarrolla un sistema (entornos de desarrollo).",
+        "Norma anterior: la Resolución 47/2018 reemplazó (abrogó) a la Disposición DNPDP 11/2006, que clasificaba la seguridad en niveles básico, medio y crítico.",
+        "ISO/IEC 27001: un estándar internacional (no una ley) para organizar la seguridad de TODA la información de una empresa, no solo de los datos personales. La Resolución 47/2018, en cambio, se enfoca específicamente en datos personales."
+      ],
+      "ejemplos": [
+        "El equipo de programación copia la base real de pacientes, sin ocultar los nombres, para probar un sistema nuevo con programadores externos: es un riesgo del área «entornos de desarrollo».",
+        "Una clínica tira a la basura discos viejos con historias clínicas sin borrarlos: falla el área de «destrucción»."
+      ],
+      "ojo": "La OBLIGACIÓN de proteger viene del art. 9 de la ley. La Resolución AAIP 47/2018 RECOMIENDA cómo cumplirla."
+    },
+    "pd_rgpd": {
+      "categoria": "Europa",
+      "titulo": "RGPD: el reglamento europeo de datos",
+      "intro": [
+        "El RGPD (Reglamento General de Protección de Datos) es la norma de la Unión Europea sobre datos personales. En inglés se llama GDPR. Es una referencia en todo el mundo y suele compararse con la ley argentina."
+      ],
+      "notas": [
+        "Fechas: se aprobó el 27 de abril de 2016 y empezó a aplicarse el 25 de mayo de 2018 (hubo dos años para que las empresas se adaptaran).",
+        "Consentimiento: tiene que ser LIBRE (sin presiones), ESPECÍFICO (para un uso concreto), INFORMADO (sabiendo qué se va a hacer) e INEQUÍVOCO (que no deje dudas de que la persona dijo que sí). Además, la persona puede retirarlo tan fácil como lo dio.",
+        "Consentimiento explícito: un sí todavía más claro y directo, que el RGPD exige solo en casos especiales, por ejemplo para tratar ciertos datos sensibles.",
+        "Categorías especiales: así llama el RGPD a los datos sensibles. Son: origen racial o étnico, opiniones políticas, creencias religiosas o filosóficas, afiliación sindical, datos genéticos, datos biométricos que identifican a una persona (como la huella digital o el reconocimiento facial), salud, vida sexual u orientación sexual.",
+        "Principios: los datos se tienen que usar de forma legal y transparente, solo para fines concretos, pidiendo lo mínimo necesario, manteniéndolos correctos, guardándolos solo el tiempo necesario y protegiéndolos.",
+        "Multas: hasta 20 millones de euros o hasta el 4% de lo que la empresa factura en un año en todo el mundo, lo que sea MAYOR. Se puede multar no solo por filtrar datos, sino también por no protegerlos bien."
+      ],
+      "ejemplos": [
+        "Una oficina en España usa un lector de huellas para que entren sus empleados: trata datos biométricos, una categoría especial."
+      ],
+      "ojo": "Ley argentina: consentimiento libre, expreso e informado. RGPD: libre, específico, informado e inequívoco."
+    },
+    "pd_diseno": {
+      "categoria": "Práctica profesional",
+      "titulo": "Privacidad desde el diseño: el rol de quien hace sistemas",
+      "intro": [
+        "Quien diseña o programa un sistema decide, aunque no lo note, qué datos se piden, quién los puede ver, cómo se guardan y cuándo se borran. Esas decisiones técnicas tienen consecuencias legales.",
+        "«Privacidad desde el diseño» significa pensar en la protección de los datos desde el primer día del proyecto, y no agregarla como un parche al final."
+      ],
+      "notas": [
+        "Pedir solo lo necesario: si un dato no hace falta para lo que hace el sistema, no se pide (esto se llama «minimización»).",
+        "Definir para qué se usan los datos antes de empezar a juntarlos.",
+        "Permisos: cada usuario del sistema tiene que poder ver solo lo que necesita para su tarea.",
+        "Medidas técnicas habituales: control de acceso, contraseñas y doble factor, registros de actividad (logs), cifrado, copias de seguridad, reglas internas, capacitación y evaluación de riesgos.",
+        "Respetar los derechos del titular: el sistema tiene que permitir encontrar, corregir, actualizar o borrar los datos de una persona cuando lo pide.",
+        "Impacto en personas reales: los términos y condiciones, los algoritmos, los puntajes de riesgo (scoring) y la inteligencia artificial pueden afectar derechos concretos de la gente."
+      ],
+      "ejemplos": [
+        "Incluir desde el inicio un botón «borrar mi cuenta» que realmente elimine los datos: privacidad desde el diseño."
+      ],
+      "ojo": "Si el sistema no puede encontrar ni borrar los datos de una persona, no va a poder cumplir la ley cuando ella lo pida."
+    }
+  }
+}

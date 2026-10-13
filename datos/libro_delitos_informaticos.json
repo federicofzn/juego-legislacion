@@ -1,0 +1,215 @@
+{
+  "unidad": { "key": "delitos_informaticos", "titulo": "Delitos Informáticos" },
+  "entradas": {
+    "di_glosario": {
+      "categoria": "Empezá por acá",
+      "titulo": "Palabras básicas de Delitos Informáticos",
+      "intro": [
+        "Esta unidad mezcla palabras del Derecho y de la informática. Si encontrás una que no entendés, volvé acá. Para las palabras del Derecho Penal (delito, pena, dolo...) mirá también «Palabras básicas» en la unidad de Derecho Penal."
+      ],
+      "notas": [
+        "Sistema informático: cualquier conjunto de equipos y programas que procesa información: una computadora, un servidor, el sistema de un banco, una app.",
+        "Dato informático: información guardada en formato digital: un archivo, un registro en una base de datos, una foto, un correo.",
+        "Servidor: una computadora que guarda información o presta servicios a otras computadoras por una red (por ejemplo, la que aloja una página web o la base de clientes de una empresa).",
+        "Credenciales: los datos que permiten entrar a una cuenta o sistema: usuario, contraseña, códigos de verificación.",
+        "Acceso: entrar a un sistema o a una cuenta. Es «sin autorización» cuando nadie te dio permiso para entrar.",
+        "Cifrar: transformar la información para que no se pueda leer sin una clave. Se usa para proteger datos, pero también lo usan los atacantes para bloquear archivos ajenos.",
+        "Logs (registros): archivos donde un sistema anota lo que pasa: quién entró, cuándo, desde dónde, qué hizo. Son una prueba muy importante en una investigación.",
+        "Incidente de seguridad: un hecho que pone en riesgo la información o los sistemas: un hackeo, una filtración, un virus.",
+        "Vulnerabilidad: una falla o debilidad en un sistema que un atacante puede aprovechar para entrar o causar daño.",
+        "Ley 26.388: la ley de 2008 que actualizó el Código Penal para incluir delitos contra datos y sistemas informáticos."
+      ],
+      "ejemplos": [
+        "Un atacante roba las credenciales de un empleado, entra al servidor de la empresa y cifra los archivos. Los logs muestran desde dónde y a qué hora entró."
+      ],
+      "ojo": "Que un sistema tenga una vulnerabilidad no hace legal entrar sin permiso."
+    },
+    "di_puros_impuros": {
+      "categoria": "Clasificación",
+      "titulo": "Delitos informáticos puros e impuros",
+      "intro": [
+        "La tecnología puede aparecer en un delito de dos maneras distintas.",
+        "A veces la tecnología es solo la HERRAMIENTA para cometer un delito de toda la vida: por ejemplo, amenazar a alguien por WhatsApp en lugar de en persona. Otras veces lo que se ataca ES la tecnología misma: por ejemplo, borrar los archivos de una empresa o meterse en una cuenta ajena.",
+        "La pregunta clave es: ¿qué fue lo que se dañó? ¿Una persona o su dinero (y la tecnología fue el medio)? ¿O los datos, sistemas o cuentas en sí?"
+      ],
+      "notas": [
+        "Delito informático impuro: un delito común (amenaza, estafa, calumnia, extorsión, discriminación) que se comete usando tecnología. La tecnología es solo el MEDIO. Si sacás la tecnología de la historia, el delito igual existiría (se podría amenazar por carta o estafar en persona).",
+        "Delito informático puro: lo atacado son los propios sistemas, datos, programas, redes o comunicaciones electrónicas. La tecnología es el OBJETO del ataque. Ejemplos: entrar sin permiso a una cuenta o a un sistema, borrar o arruinar datos ajenos, leer correos ajenos, bloquear un sistema.",
+        "Por qué se hizo esta distinción: antes de 2008, muchas conductas puras no encajaban bien en los delitos tradicionales. Por ejemplo, el delito de daño hablaba de romper «cosas», y no quedaba claro si borrar un archivo era romper una cosa. Por eso se dictó la Ley 26.388.",
+        "Qué protegen los delitos puros: que la información sea confidencial (que solo la vea quien debe), íntegra (que nadie la altere) y disponible (que se pueda usar cuando se necesita). Ver la entrada de la tríada CID."
+      ],
+      "pasos": [
+        "Identificá qué se dañó.",
+        "Si se dañó a una persona, su reputación o su dinero, y la tecnología fue solo el canal → impuro.",
+        "Si se dañaron o invadieron datos, sistemas, cuentas o comunicaciones electrónicas → puro."
+      ],
+      "ejemplos": [
+        "Amenazar a alguien por WhatsApp: impuro (la amenaza es el delito; WhatsApp es el medio).",
+        "Instalar un programa que bloquea los servidores de una clínica: puro (lo atacado son el sistema y los datos).",
+        "Vender por Marketplace un producto que no existe: impuro (es una estafa de siempre, por internet)."
+      ],
+      "ojo": "Tecnología como MEDIO = impuro. Tecnología como OBJETO atacado = puro."
+    },
+    "di_ley_26388": {
+      "categoria": "Ley 26.388",
+      "titulo": "Ley 26.388: el Código Penal se actualiza a lo digital",
+      "intro": [
+        "La Ley 26.388 (del año 2008) no es un código aparte. Lo que hizo fue modificar artículos del Código Penal para que los delitos de siempre también cubran los datos, los sistemas y las comunicaciones electrónicas.",
+        "Abajo están las figuras principales. Los números de artículo sirven para buscarlas en el Código Penal (por ejemplo, en InfoLEG)."
+      ],
+      "notas": [
+        "Documento y firma digital (art. 77): antes, «documento» se entendía como un papel. Desde esta ley, un archivo digital también es un documento, y una firma digital también es una firma. Por eso falsificar un contrato en PDF puede ser delito igual que falsificarlo en papel.",
+        "Violación de correspondencia (art. 153): abrir, leer, quedarse con, desviar o interceptar una comunicación que no está dirigida a uno. La ley aclaró que incluye las comunicaciones electrónicas, como el correo electrónico o los mensajes.",
+        "Acceso ilegítimo (art. 153 bis): entrar a sabiendas y sin permiso a un sistema o a datos que tienen acceso restringido (con contraseña o con permisos). También cuenta entrar a partes del sistema donde no te autorizaron. No hace falta romper ni robar nada: el delito es entrar donde no te dieron permiso.",
+        "Publicación indebida (art. 155): publicar una comunicación electrónica (un mail, un chat) que no estaba pensada para ser pública, si eso puede perjudicar a alguien.",
+        "Acceso a bancos de datos personales (art. 157 bis): entrar sin permiso a una base de datos con información de personas, o revelar información de esa base que debía mantenerse en secreto.",
+        "Fraude informático (art. 173 inc. 16): quedarse con dinero o bienes ajenos manipulando un sistema informático (por ejemplo, alterando un programa para que transfiera plata a tu cuenta).",
+        "Daño informático (art. 183): alterar, destruir o inutilizar datos, documentos, programas o sistemas informáticos ajenos. También distribuir programas hechos para causar daños (por ejemplo, virus).",
+        "Interrupción de comunicaciones (art. 197): interrumpir o entorpecer comunicaciones, incluidas las electrónicas."
+      ],
+      "pasos": [
+        "¿Entró a un sistema o cuenta sin permiso? → acceso ilegítimo.",
+        "¿Leyó, tomó o interceptó comunicaciones ajenas (mails, chats)? → violación de correspondencia.",
+        "¿Borró, alteró o arruinó datos o sistemas? → daño informático.",
+        "¿Manipuló un sistema para quedarse con dinero? → fraude informático.",
+        "Pueden darse varios a la vez: por ejemplo, entrar sin permiso (acceso ilegítimo) y después borrar todo (daño informático)."
+      ],
+      "ejemplos": [
+        "Un ex empleado usa su contraseña vieja, que nadie dio de baja, para entrar al sistema de la empresa y solo mirar: acceso ilegítimo.",
+        "Ese mismo ex empleado, una vez adentro, borra la base de clientes: además, daño informático.",
+        "Alguien entra a la cuenta de mail de su pareja y lee sus mensajes: violación de correspondencia electrónica (y acceso ilegítimo)."
+      ],
+      "ojo": "Que la empresa se haya olvidado de dar de baja tu usuario no te da permiso para entrar."
+    },
+    "di_otras_leyes": {
+      "categoria": "Normativa",
+      "titulo": "Grooming, material de abuso infantil, Ley Olimpia y Convenio de Budapest",
+      "intro": [
+        "Además de la Ley 26.388, la unidad presenta otras normas pensadas para problemas específicos del mundo digital: la protección de chicos y chicas, la violencia digital contra las mujeres y la cooperación entre países para investigar."
+      ],
+      "notas": [
+        "Grooming (Ley 26.904, art. 131 del Código Penal): cuando un adulto contacta a una persona menor de edad por cualquier medio tecnológico (chat, red social, videojuego en línea) con el objetivo de cometer un abuso sexual contra ella. Muchas veces el adulto se hace pasar por alguien de la misma edad para ganarse su confianza.",
+        "Material de abuso sexual infantil, MASI (Ley 27.436, art. 128): castiga producir, distribuir o comercializar imágenes de abuso sexual de menores, y desde esta ley también la simple tenencia (tenerlas guardadas aunque no se compartan).",
+        "Ley Olimpia (Ley 27.736): reconoce la violencia digital como una forma de violencia contra las mujeres. Por ejemplo: difundir fotos íntimas sin consentimiento, acosar o vigilar a una mujer a través de redes o dispositivos. Lleva el nombre de Olimpia Coral Melo, activista mexicana.",
+        "Convenio de Budapest: un tratado internacional sobre ciberdelitos. Busca que los países tengan leyes parecidas y que cooperen entre sí para investigar y conservar pruebas digitales. La Argentina se sumó con la Ley 27.411 (2017).",
+        "Por qué hace falta cooperación: en un ciberdelito, el atacante, la víctima, los servidores y las pruebas pueden estar en países distintos. Sin acuerdos entre países, la investigación se traba."
+      ],
+      "ejemplos": [
+        "Un adulto se hace pasar por un chico de 13 años en el chat de un videojuego y le pide fotos a una nena de 11: grooming.",
+        "La víctima está en Rosario, el atacante en otro continente y el servidor en un tercer país: hace falta cooperación internacional (Convenio de Budapest)."
+      ],
+      "ojo": "Grooming = el contacto con el menor con fin sexual. MASI = el material. Son delitos distintos."
+    },
+    "di_prueba": {
+      "categoria": "Investigación",
+      "titulo": "La prueba digital",
+      "intro": [
+        "«Prueba» es todo lo que sirve para demostrar en un juicio qué pasó y quién lo hizo. En los delitos informáticos, la prueba suele ser digital: registros, correos, archivos, conexiones.",
+        "El problema es que la prueba digital es frágil: se puede borrar, cambiar o perder muy fácilmente, y a veces se borra sola con el tiempo."
+      ],
+      "notas": [
+        "Hay que actuar rápido: los logs (registros de actividad), las conexiones, las cuentas y los metadatos (datos sobre los archivos, como fecha de creación o autor) pueden desaparecer o sobrescribirse en poco tiempo.",
+        "Hay que preservarla bien: si la evidencia se toca o se modifica sin cuidado, puede perder valor en un juicio, porque no se puede asegurar que sea la original. Un perito informático (un experto) ayuda a obtenerla y explicarla.",
+        "La seguridad informática también genera responsabilidades: no proteger los sistemas, exponer datos, manejar mal las contraseñas o responder mal a un incidente puede tener consecuencias legales para quien estaba a cargo."
+      ],
+      "ejemplos": [
+        "Una empresa sufre un ataque y el encargado formatea todas las computadoras «para que quede limpio» antes de denunciar. Así se pierden los registros que mostraban cómo entró el atacante."
+      ],
+      "ojo": "Ante un incidente, lo primero es preservar la evidencia, no borrar."
+    },
+    "di_ataques": {
+      "categoria": "Ciberseguridad",
+      "titulo": "Cómo atacan: ingeniería social, phishing, malware y ransomware",
+      "intro": [
+        "Estas son las técnicas de ataque más comunes. Muchas veces se combinan: primero engañan a una persona para robarle la contraseña, con esa contraseña entran a la red, y adentro instalan un programa que bloquea todo."
+      ],
+      "notas": [
+        "Ingeniería social: engañar o manipular a una PERSONA para que haga algo que no debería: dar una contraseña, abrir un archivo, transferir dinero. No ataca a la computadora: ataca la confianza, el miedo o la urgencia de la gente. Puede ser por mail, por teléfono, por mensaje o cara a cara.",
+        "Phishing: un tipo de ingeniería social que usa un mensaje falso (casi siempre un mail o un SMS) que imita a alguien confiable, como tu banco, para llevarte a una página trucha donde dejás tus datos. Viene de «fishing» (pescar): el atacante tira el anzuelo y espera.",
+        "Malware: cualquier programa malicioso, hecho para dañar, espiar, robar o tomar control de un equipo. Ejemplos: virus, troyanos, keyloggers (programas que registran todo lo que escribís).",
+        "Ransomware: un tipo de malware que cifra (bloquea) los archivos o sistemas de la víctima y le pide un rescate (normalmente en criptomonedas) para devolverle el acceso. «Ransom» significa rescate en inglés.",
+        "Doble extorsión: el atacante, además de bloquear los archivos, se lleva una copia y amenaza con publicarla si no le pagan. Así, aunque la víctima recupere sus archivos desde un respaldo, sigue en riesgo.",
+        "Hacker: una persona con conocimientos técnicos para encontrar formas no evidentes de usar o entrar a sistemas. No todos son delincuentes. White hat (sombrero blanco): trabaja con permiso, para proteger. Black hat (sombrero negro): actúa para dañar o lucrar. Gray hat (sombrero gris): entra sin permiso, aunque sin querer dañar (por ejemplo, para avisar de una falla)."
+      ],
+      "ejemplos": [
+        "Te llaman haciéndose pasar por soporte técnico y te piden el código que te llegó por SMS: ingeniería social.",
+        "Te llega un mail «del banco» con un link a una página igual a la real para «validar tu cuenta»: phishing."
+      ],
+      "ojo": "Todo phishing es ingeniería social, pero no toda ingeniería social es phishing (por ejemplo, una llamada telefónica engañosa)."
+    },
+    "di_cid_capas": {
+      "categoria": "Ciberseguridad",
+      "titulo": "La tríada CID, las capas de defensa y los tipos de seguridad",
+      "intro": [
+        "Cuando se habla de proteger información, se busca cuidar tres cosas, que juntas se llaman «tríada CID»: Confidencialidad, Integridad y Disponibilidad. En cualquier incidente, la pregunta es: ¿cuál de las tres se rompió?",
+        "Para protegerlas se usan varias barreras a la vez, lo que se llama «defensa en profundidad»."
+      ],
+      "notas": [
+        "Confidencialidad: que la información la VEA solo quien tiene permiso. Se rompe cuando alguien no autorizado la lee o cuando se filtra. Ejemplo: se publican en internet los diagnósticos de los pacientes de un hospital.",
+        "Integridad: que la información no se CAMBIE sin permiso. Se rompe cuando alguien la altera. Ejemplo: un alumno entra al sistema y cambia su nota de 2 a 8.",
+        "Disponibilidad: que la información y los sistemas se puedan USAR cuando hacen falta. Se rompe cuando el sistema deja de funcionar o los archivos quedan bloqueados. Ejemplo: una tienda online queda caída todo el día por un ataque.",
+        "Defensa en profundidad: poner varias capas de protección, una detrás de la otra, para que si una falla las demás sigan protegiendo. Como un castillo con foso, muralla y guardias. No hay una cantidad oficial de capas; en clase se vio un modelo de siete:",
+        "Las siete capas: 1) física: quién puede entrar al edificio o a la sala de servidores; 2) red: firewalls (filtros de tráfico) y separación de redes; 3) endpoints: las computadoras y celulares de los usuarios; 4) aplicaciones: los programas; 5) datos: cifrado y copias de seguridad; 6) identidad y accesos: contraseñas, doble factor, permisos; 7) personas y procesos: capacitación y reglas internas.",
+        "Seguridad de la información: protege la información en CUALQUIER formato, también papel o conversaciones. Ejemplo: guardar expedientes bajo llave.",
+        "Seguridad informática: protege computadoras, programas y datos digitales, aunque no estén conectados a internet. Ejemplo: cifrar el disco de una notebook que nunca se conecta.",
+        "Ciberseguridad: protege sistemas y redes conectados frente a ataques que llegan por la red. Ejemplo: frenar un ataque que viene de internet."
+      ],
+      "pasos": [
+        "¿Alguien vio o se llevó información que no debía? → se afectó la confidencialidad.",
+        "¿Alguien modificó información sin permiso? → se afectó la integridad.",
+        "¿El sistema o los datos dejaron de poder usarse? → se afectó la disponibilidad."
+      ],
+      "ejemplos": [
+        "Un ransomware bloquea los archivos: se afecta la disponibilidad. Si además se los llevan y amenazan con publicarlos: también la confidencialidad."
+      ],
+      "ojo": "C = quién puede VERLO. I = quién puede CAMBIARLO. D = si puedo USARLO cuando lo necesito."
+    },
+    "di_roles_pentest": {
+      "categoria": "Ciberseguridad",
+      "titulo": "Equipos, roles y pruebas de seguridad",
+      "intro": [
+        "En una organización, la seguridad la hacen varios equipos: algunos atacan a propósito y con permiso para encontrar fallas, otros defienden, y alguien dirige la estrategia.",
+        "Un pentest (prueba de penetración) es un ataque simulado, autorizado y con límites acordados, que se hace para encontrar debilidades antes de que las encuentre un delincuente."
+      ],
+      "notas": [
+        "Red Team (equipo rojo): hace de atacante. Intenta entrar a los sistemas como lo haría un delincuente, pero con autorización, para probar las defensas.",
+        "Blue Team (equipo azul): defiende. Vigila los sistemas, detecta ataques y responde.",
+        "Purple Team (equipo violeta): coordina a los dos anteriores para que lo que descubre el rojo sirva para mejorar las defensas del azul.",
+        "CISO: el director o directora de seguridad de la información de una organización. Decide la estrategia, las reglas internas, los riesgos a atender y controla que se cumpla. vCISO: la misma función, pero contratada como servicio externo o a tiempo parcial (la «v» viene de «virtual»).",
+        "Informe de pentest: el documento que se entrega al terminar la prueba. Incluye qué se probó y cómo, qué fallas se encontraron, pruebas de cada falla, qué tan graves son, qué daño podrían causar, cómo reproducirlas y cómo corregirlas.",
+        "Retest: después de que la organización corrige las fallas, se vuelve a probar para confirmar que las correcciones funcionan. El orden es: pentest → informe → correcciones → retest.",
+        "Vulnerabilidad: una falla concreta que un atacante puede aprovechar. Ejemplo: un formulario web que permite meter comandos en la base de datos.",
+        "Gap (brecha): la diferencia entre cómo está la organización hoy y cómo debería estar según sus propias reglas o un estándar. Ejemplo: la política dice que todos deben usar doble factor de autenticación, pero solo lo usa el 30% del personal."
+      ],
+      "ejemplos": [
+        "Una pyme contrata a una especialista externa que dos días por semana define las reglas de seguridad y reporta a los dueños: es una vCISO.",
+        "Sin autorización, un «pentest» deja de serlo y puede ser el delito de acceso ilegítimo."
+      ],
+      "ojo": "Una vulnerabilidad es una falla que se puede aprovechar. Un gap es una diferencia contra un objetivo."
+    },
+    "di_analisis_penal": {
+      "categoria": "Integración",
+      "titulo": "Del ataque informático al análisis legal",
+      "intro": [
+        "La ciberseguridad explica CÓMO ocurrió un ataque. El Derecho Penal decide si eso es un delito, de quién es la responsabilidad y qué consecuencias tiene. Son dos miradas sobre el mismo hecho.",
+        "Un informe técnico solo no alcanza para condenar a alguien: hay que encontrar a una persona, probar qué hizo y ver si eso encaja en algún delito."
+      ],
+      "notas": [
+        "Conducta: ¿qué hizo concretamente la persona?",
+        "Tipicidad: ¿eso coincide con algún delito del Código Penal? (acceso ilegítimo, daño informático, extorsión...)",
+        "Bien jurídico: ¿qué se dañó? (la privacidad, el patrimonio, los datos...)",
+        "Dolo o culpa: ¿lo hizo a propósito o fue un descuido?",
+        "Consumación o tentativa: ¿lo logró o quedó en el intento?",
+        "Autoría y participación: ¿quién lo hizo y quién ayudó?",
+        "Concurso: ¿hay uno o varios delitos?",
+        "Imputabilidad: ¿la persona podía entender lo que hacía?",
+        "Acción penal: ¿quién tiene que impulsar el caso?",
+        "Prueba: ¿qué evidencia hay para demostrarlo?"
+      ],
+      "ejemplos": [
+        "Un atacante manda un mail trucho (phishing), roba una contraseña, entra a la red y bloquea los servidores pidiendo rescate (ransomware). Legalmente puede haber acceso ilegítimo, daño informático y extorsión."
+      ],
+      "ojo": "Que un sistema sea inseguro no hace legal entrar sin permiso."
+    }
+  }
+}

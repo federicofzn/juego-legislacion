@@ -1,0 +1,130 @@
+[
+  {
+    "id": "err-dye-normas",
+    "titulo": "Los tipos de normas",
+    "oraciones": [
+      "Las normas morales vienen de la propia conciencia y nadie las impone por la fuerza.",
+      "Las normas sociales son costumbres de trato que se esperan dentro de un grupo.",
+      "Las normas religiosas obligan solo a quienes forman parte de esa religión.",
+      "Las normas jurídicas son obligatorias, generales y coercibles.",
+      "Lo que distingue a la norma jurídica de las otras normas es que es general."
+    ],
+    "incorrecta": 4,
+    "correccion": "Lo que distingue a la norma jurídica de las otras normas es que es coercible.",
+    "pista": "Buscá cuál de sus tres características es la que ninguna otra norma tiene.",
+    "explicacion": "Coercible significa que el Estado puede obligarte a cumplirla, por ejemplo con una multa o un embargo. Esa es la marca propia de la norma jurídica.",
+    "libro": "dye_normas"
+  },
+  {
+    "id": "err-dye-fuentes",
+    "titulo": "Las fuentes del Derecho",
+    "oraciones": [
+      "Las fuentes del Derecho son los lugares de donde salen las reglas jurídicas.",
+      "La jurisprudencia es lo que escriben los profesores de Derecho en sus libros.",
+      "La ley es una norma escrita que dicta la autoridad competente, como el Congreso.",
+      "La costumbre vale como regla jurídica cuando el Derecho la acepta.",
+      "El Derecho Privado regula relaciones entre particulares en igualdad de condiciones."
+    ],
+    "incorrecta": 1,
+    "correccion": "La doctrina es lo que escriben los profesores de Derecho en sus libros.",
+    "pista": "Hay dos fuentes que se suelen confundir: una viene de los jueces y otra de los estudiosos.",
+    "explicacion": "La jurisprudencia sale de las sentencias de los jueces. Lo que escriben los especialistas en libros y artículos es la doctrina.",
+    "libro": "dye_derecho_fuentes"
+  },
+  {
+    "id": "err-dye-constitucion",
+    "titulo": "La Constitución",
+    "oraciones": [
+      "La Constitución Nacional es la ley más importante de la Argentina.",
+      "El art. 31 de la Constitución establece la supremacía constitucional.",
+      "Si una norma contradice la Constitución, esa norma no vale.",
+      "La parte orgánica de la Constitución reconoce los derechos de las personas.",
+      "Las sentencias de los jueces no son un escalón de la pirámide normativa."
+    ],
+    "incorrecta": 3,
+    "correccion": "La parte dogmática de la Constitución reconoce los derechos de las personas.",
+    "pista": "Revisá qué parte de la Constitución habla de las personas y cuál del Estado.",
+    "explicacion": "La parte dogmática habla de las personas y sus derechos. La parte orgánica explica cómo se organiza el Estado: el Congreso, la Presidencia y el Poder Judicial.",
+    "libro": "dye_constitucion"
+  },
+  {
+    "id": "err-dye-tratados",
+    "titulo": "Tratados y generaciones de derechos",
+    "oraciones": [
+      "Los tratados que enumera el art. 75 inc. 22 de la Constitución están por encima de ella.",
+      "Esos tratados de derechos humanos ganaron su jerarquía con la reforma de 1994.",
+      "Los derechos de primera generación protegen la libertad de cada persona frente al Estado.",
+      "El art. 14 bis de la Constitución reconoce derechos de segunda generación, como el trabajo digno.",
+      "El derecho a un ambiente sano es un derecho de tercera generación."
+    ],
+    "incorrecta": 0,
+    "correccion": "Los tratados que enumera el art. 75 inc. 22 de la Constitución tienen su mismo nivel.",
+    "pista": "Pensá qué significa exactamente tener «jerarquía constitucional».",
+    "explicacion": "Esos tratados tienen jerarquía constitucional: están al mismo nivel que la Constitución, no por encima.",
+    "libro": "dye_tratados_generaciones"
+  },
+  {
+    "id": "err-dye-estado",
+    "titulo": "Estado, gobierno y forma de gobierno",
+    "oraciones": [
+      "El Estado tiene cuatro elementos: población, territorio, gobierno y soberanía.",
+      "El gobierno cambia con las elecciones, y el Estado sigue siendo el mismo.",
+      "Que el país sea republicano significa que el poder se reparte entre la Nación y las provincias.",
+      "Una nación puede existir aunque no tenga un Estado propio.",
+      "Con la iniciativa popular, los ciudadanos juntan firmas y presentan un proyecto de ley."
+    ],
+    "incorrecta": 2,
+    "correccion": "Que el país sea federal significa que el poder se reparte entre la Nación y las provincias.",
+    "pista": "Republicano y federal no significan lo mismo.",
+    "explicacion": "Republicano significa que el poder está dividido en tres (Ejecutivo, Legislativo y Judicial). El reparto entre la Nación y las provincias es lo que hace al país federal.",
+    "libro": "dye_estado_gobierno"
+  },
+  {
+    "id": "err-dye-poderes",
+    "titulo": "Los poderes y sus mandatos",
+    "oraciones": [
+      "El Congreso está formado por la Cámara de Diputados y el Senado.",
+      "Los diputados duran 4 años y la Cámara se renueva por mitades cada 2 años (art. 50 de la Constitución).",
+      "El presidente dura 4 años y puede ser reelegido una sola vez seguida (art. 90 de la Constitución).",
+      "Cuando un juez no aplica una ley porque va contra la Constitución, hace control de constitucionalidad.",
+      "Los senadores duran 4 años y el Senado se renueva por tercios cada 2 años (art. 56 de la Constitución)."
+    ],
+    "incorrecta": 4,
+    "correccion": "Los senadores duran 6 años y el Senado se renueva por tercios cada 2 años (art. 56 de la Constitución).",
+    "pista": "Revisá los números: ¿quién tiene el mandato más largo?",
+    "explicacion": "Los senadores tienen el mandato más largo: 6 años, con reelección sin límite. Los que duran 4 años son los diputados y el presidente.",
+    "libro": "dye_poderes"
+  },
+  {
+    "id": "err-dye-art18",
+    "titulo": "Los artículos 18 y 19",
+    "oraciones": [
+      "Por el art. 18 de la Constitución, a nadie se lo puede castigar sin un juicio previo.",
+      "El art. 18 permite crear un tribunal especial después del hecho si el caso es muy grave.",
+      "Nadie puede ser obligado a declarar contra sí mismo (art. 18).",
+      "Las cárceles tienen que ser sanas y limpias, para seguridad y no para castigo.",
+      "Por el art. 19, las acciones privadas que no dañan a otros no le incumben al Estado."
+    ],
+    "incorrecta": 1,
+    "correccion": "El art. 18 prohíbe crear un tribunal especial después del hecho para juzgar un caso.",
+    "pista": "Acordate de la garantía del juez natural.",
+    "explicacion": "Es la garantía del juez natural: a cada persona la juzgan los jueces que la ley ya había designado antes del hecho, sin importar lo grave que sea el caso.",
+    "libro": "dye_art18_19"
+  },
+  {
+    "id": "err-dye-garantias",
+    "titulo": "Habeas corpus, habeas data y amparo",
+    "oraciones": [
+      "El habeas corpus, el habeas data y el amparo están en el art. 43 de la Constitución.",
+      "El habeas corpus protege la libertad física de las personas.",
+      "El amparo protege los demás derechos de la Constitución, como la salud o el trabajo.",
+      "El habeas data sirve para recuperar la libertad cuando alguien está detenido sin orden.",
+      "Las tres son pedidos a un juez para que proteja rápido un derecho que se está violando."
+    ],
+    "incorrecta": 3,
+    "correccion": "El habeas data sirve para saber qué datos tuyos guardan y pedir que los corrijan o borren.",
+    "pista": "Pensá qué significa «data».",
+    "explicacion": "«Data» significa datos: el habeas data protege los datos personales. Para recuperar la libertad física se usa el habeas corpus.",
+    "libro": "dye_garantias"
+  }
+]

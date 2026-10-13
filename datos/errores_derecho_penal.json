@@ -1,0 +1,130 @@
+[
+  {
+    "id": "err-dp-dolo",
+    "titulo": "El dolo",
+    "oraciones": [
+      "Hay dolo cuando la persona sabe que va a causar el daño, o que puede causarlo, y sigue igual.",
+      "En el dolo directo de primer grado, el daño es exactamente lo que la persona quería lograr.",
+      "En el dolo eventual, la persona sabe que el daño va a ocurrir seguro, aunque no sea su meta.",
+      "El dolo se castiga más que la culpa, que es cuando el daño pasa por un descuido.",
+      "Matar a otro con dolo, sin circunstancias especiales, es homicidio simple (art. 79 del Código Penal)."
+    ],
+    "incorrecta": 2,
+    "correccion": "En el dolo directo de segundo grado, la persona sabe que el daño va a ocurrir seguro, aunque no sea su meta.",
+    "pista": "Distinguí entre un daño seguro y un daño solo posible.",
+    "explicacion": "En el dolo eventual el daño no es seguro, solo posible, y a la persona le da lo mismo que pase. Cuando el daño es seguro aunque no sea la meta, es dolo directo de segundo grado.",
+    "libro": "dp_dolo"
+  },
+  {
+    "id": "err-dp-culpa",
+    "titulo": "La culpa",
+    "oraciones": [
+      "En la culpa con representación, a la persona ni siquiera se le ocurrió que el daño podía pasar.",
+      "Hay culpa cuando la persona no quería el daño, pero pasó porque no tuvo el cuidado debido.",
+      "La imprudencia es hacer algo arriesgado que no había que hacer.",
+      "La negligencia es no hacer algo que había que hacer.",
+      "La impericia es hacer una tarea sin los conocimientos que esa tarea exige."
+    ],
+    "incorrecta": 0,
+    "correccion": "En la culpa sin representación, a la persona ni siquiera se le ocurrió que el daño podía pasar.",
+    "pista": "«Representación» quiere decir que la persona se imaginó el riesgo.",
+    "explicacion": "En la culpa con representación la persona sí vio el riesgo, pero confió en que no iba a pasar. Cuando ni se le ocurrió, es culpa sin representación.",
+    "libro": "dp_culpa"
+  },
+  {
+    "id": "err-dp-filtros",
+    "titulo": "Los cinco filtros del delito",
+    "oraciones": [
+      "Para que haya delito, el hecho tiene que pasar cinco filtros, en orden.",
+      "El primer filtro es la acción: un comportamiento de una persona, hecho con voluntad.",
+      "Si lo que hizo la persona no coincide con ningún delito escrito, la conducta es atípica.",
+      "La legítima defensa hace que la persona sea inimputable, aunque haya lastimado a alguien.",
+      "Inimputable es quien, en el momento del hecho, no podía entender que lo que hacía estaba mal."
+    ],
+    "incorrecta": 3,
+    "correccion": "La legítima defensa hace que la conducta esté permitida, aunque se haya lastimado a alguien.",
+    "pista": "Legítima defensa e inimputabilidad fallan en filtros distintos.",
+    "explicacion": "En la legítima defensa lo que hiciste estaba permitido: falla la antijuridicidad. En la inimputabilidad el hecho sigue prohibido, pero la persona no podía entenderlo.",
+    "libro": "dp_teoria_delito"
+  },
+  {
+    "id": "err-dp-legalidad",
+    "titulo": "Los límites del Derecho Penal",
+    "oraciones": [
+      "El Derecho Penal decide qué acciones son delitos y qué pena corresponde a cada una.",
+      "Por el principio de legalidad, la ley que prohíbe una conducta tiene que existir antes del hecho.",
+      "Tipificar es escribir en una ley qué conducta es delito y qué pena tiene.",
+      "La parte especial del Código Penal es la lista de delitos concretos, como el hurto o la estafa.",
+      "Si una conducta no está en la ley, el juez puede castigarla por analogía con un delito parecido."
+    ],
+    "incorrecta": 4,
+    "correccion": "Si una conducta no está en la ley, el juez no puede castigarla por analogía con un delito parecido.",
+    "pista": "Acordate de qué puede hacer un juez con un caso que la ley no menciona.",
+    "explicacion": "En Derecho Penal está prohibida la analogía para castigar. El juez puede interpretar qué significan las palabras de la ley, pero no aplicarla a casos que no menciona.",
+    "libro": "dp_que_es"
+  },
+  {
+    "id": "err-dp-etapas",
+    "titulo": "Tentativa, concurso y reincidencia",
+    "oraciones": [
+      "Hay tentativa cuando alguien empieza un delito y no lo termina por algo que no depende de él.",
+      "Hay concurso ideal cuando una persona comete varios hechos separados, cada uno con su delito.",
+      "La reincidencia exige una condena anterior a prisión, ya cumplida en todo o en parte.",
+      "Una agravante es una circunstancia que hace al delito más grave y sube la pena.",
+      "La tentativa se castiga, pero con una pena menor que el delito completo."
+    ],
+    "incorrecta": 1,
+    "correccion": "Hay concurso real cuando una persona comete varios hechos separados, cada uno con su delito.",
+    "pista": "Contá cuántos hechos hay en cada clase de concurso.",
+    "explicacion": "Varios hechos separados son concurso real. El concurso ideal es un solo hecho que encaja en dos delitos a la vez, como un golpe que rompe unos anteojos y lastima a la persona.",
+    "libro": "dp_etapas_concurso"
+  },
+  {
+    "id": "err-dp-personas",
+    "titulo": "Homicidio y lesiones",
+    "oraciones": [
+      "El homicidio simple tiene una pena de 8 a 25 años de prisión (art. 79 del Código Penal).",
+      "Matar a un hijo o al cónyuge es homicidio agravado y tiene prisión perpetua.",
+      "Quien mata por emoción violenta es inimputable, porque estaba fuera de sí.",
+      "El homicidio culposo es causar una muerte sin quererlo, por un descuido.",
+      "Una mano que funciona, pero con menos fuerza que antes, es una debilitación permanente."
+    ],
+    "incorrecta": 2,
+    "correccion": "Quien mata por emoción violenta recibe una pena más baja, pero sigue siendo responsable.",
+    "pista": "Pensá si la emoción violenta borra la responsabilidad o solo la reduce.",
+    "explicacion": "La emoción violenta baja la pena, pero la persona sabía lo que hacía. Por eso no es inimputable.",
+    "libro": "dp_personas"
+  },
+  {
+    "id": "err-dp-propiedad",
+    "titulo": "Delitos contra la propiedad",
+    "oraciones": [
+      "La diferencia entre hurto y robo es el valor de la cosa que se llevó el autor.",
+      "La usurpación es quitarle a alguien un inmueble, como una casa o un terreno.",
+      "En la estafa, la víctima entrega su dinero porque la engañaron.",
+      "En la extorsión, la víctima paga porque la amenazan con hacerle un daño.",
+      "En la usura no hay engaño ni amenaza: hay abuso de la necesidad de la víctima."
+    ],
+    "incorrecta": 0,
+    "correccion": "La diferencia entre hurto y robo es si el autor usó fuerza en las cosas o violencia en las personas.",
+    "pista": "Lo que separa al hurto del robo es CÓMO se llevó la cosa.",
+    "explicacion": "El hurto es llevarse algo sin fuerza ni violencia; el robo, usando fuerza sobre una cosa o violencia sobre una persona. El valor de lo que se llevó no cambia esa diferencia.",
+    "libro": "dp_propiedad"
+  },
+  {
+    "id": "err-dp-honor",
+    "titulo": "Honor, justicia y orden público",
+    "oraciones": [
+      "La calumnia es acusar falsamente a una persona de haber cometido un delito concreto.",
+      "La injuria es ofender o desprestigiar a alguien sin acusarlo de un delito.",
+      "El falso testimonio es mentir al declarar ante un juez cuando hay obligación de decir la verdad.",
+      "Opinar o analizar un delito en público, aunque no se lo elogie, ya es apología del crimen.",
+      "Un perito es un experto al que se llama en un juicio para explicar cuestiones técnicas."
+    ],
+    "incorrecta": 3,
+    "correccion": "Elogiar en público un delito, de una forma que incentive a otros, puede ser apología del crimen.",
+    "pista": "No cualquier comentario sobre un delito es un delito.",
+    "explicacion": "La apología exige elogiar o defender un delito de un modo que anime a repetirlo. Opinar o analizar un delito no es apología.",
+    "libro": "dp_honor_justicia"
+  }
+]

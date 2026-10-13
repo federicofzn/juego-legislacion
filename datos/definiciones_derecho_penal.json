@@ -1,0 +1,345 @@
+[
+  {
+    "id": "def-dp-dolo1",
+    "grupo": "dolo-culpa",
+    "termino": "Dolo directo de primer grado",
+    "definicion": "El daño que se produjo es exactamente lo que la persona quería lograr: era su meta.",
+    "ejemplo": "Ana quiere que su socio muera, le dispara y lo mata.",
+    "libro": "dp_dolo"
+  },
+  {
+    "id": "def-dp-dolo2",
+    "grupo": "dolo-culpa",
+    "termino": "Dolo directo de segundo grado",
+    "definicion": "La persona buscaba otra cosa, pero sabía que su plan iba a causar ese daño sí o sí.",
+    "ejemplo": "Pone una bomba para matar a un empresario sabiendo que el chofer también va a morir.",
+    "libro": "dp_dolo"
+  },
+  {
+    "id": "def-dp-doloev",
+    "grupo": "dolo-culpa",
+    "termino": "Dolo eventual",
+    "definicion": "La persona se dio cuenta de que el daño podía pasar y siguió igual porque le daba lo mismo.",
+    "ejemplo": "Corre una picada entre peatones pensando «si atropello a alguien, mala suerte».",
+    "libro": "dp_dolo"
+  },
+  {
+    "id": "def-dp-culpacon",
+    "grupo": "dolo-culpa",
+    "termino": "Culpa con representación",
+    "definicion": "La persona se dio cuenta de que el daño podía pasar, pero confió en que no iba a pasar.",
+    "ejemplo": "Adelanta en una curva pensando «es arriesgado, pero manejo bien».",
+    "libro": "dp_culpa"
+  },
+  {
+    "id": "def-dp-culpasin",
+    "grupo": "dolo-culpa",
+    "termino": "Culpa sin representación",
+    "definicion": "A la persona ni se le ocurrió que el daño podía pasar, aunque debería haberlo pensado.",
+    "ejemplo": "Deja pastillas al alcance de un nene sin pensar que las puede tomar.",
+    "libro": "dp_culpa"
+  },
+  {
+    "id": "def-dp-imprudencia",
+    "grupo": "formas-culpa",
+    "termino": "Imprudencia",
+    "definicion": "Hacer algo arriesgado que no había que hacer: un descuido por hacer de más.",
+    "ejemplo": "Manejar a 140 km/h por una calle de barrio.",
+    "libro": "dp_culpa"
+  },
+  {
+    "id": "def-dp-negligencia",
+    "grupo": "formas-culpa",
+    "termino": "Negligencia",
+    "definicion": "No hacer algo que había que hacer: un descuido por hacer de menos.",
+    "ejemplo": "El médico que no controla al paciente después de operarlo.",
+    "libro": "dp_culpa"
+  },
+  {
+    "id": "def-dp-impericia",
+    "grupo": "formas-culpa",
+    "termino": "Impericia",
+    "definicion": "Hacer una tarea sin tener los conocimientos o la habilidad que esa tarea exige.",
+    "ejemplo": "Alguien que nunca estudió electricidad hace una instalación y causa un incendio.",
+    "libro": "dp_culpa"
+  },
+  {
+    "id": "def-dp-inobservancia",
+    "grupo": "formas-culpa",
+    "termino": "Inobservancia de los reglamentos",
+    "definicion": "No cumplir una regla escrita (reglamento, protocolo o norma) que había que respetar.",
+    "ejemplo": "El técnico que no hace la copia de seguridad que exige el reglamento del hospital.",
+    "libro": "dp_culpa"
+  },
+  {
+    "id": "def-dp-tipicidad",
+    "grupo": "teoria",
+    "termino": "Tipicidad",
+    "definicion": "Que lo que hizo la persona coincida con un delito descripto en el Código Penal.",
+    "ejemplo": "Llevarse un celular ajeno coincide con el delito de hurto.",
+    "pista": "Es el filtro que falla cuando una conducta molesta, como mirar fijo a alguien, no figura en ninguna ley.",
+    "libro": "dp_teoria_delito"
+  },
+  {
+    "id": "def-dp-antijuridicidad",
+    "grupo": "teoria",
+    "termino": "Antijuridicidad",
+    "definicion": "Que lo que hizo esté prohibido por el Derecho y no haya una razón que la ley acepte para permitirlo.",
+    "ejemplo": "Lastimar a alguien que te ataca no es antijurídico: es legítima defensa.",
+    "libro": "dp_teoria_delito"
+  },
+  {
+    "id": "def-dp-culpabilidad",
+    "grupo": "teoria",
+    "termino": "Culpabilidad",
+    "definicion": "Que se le pueda reprochar el hecho a la persona, porque podía entender lo que hacía.",
+    "ejemplo": "A alguien en pleno brote psicótico no se le puede reprochar el hecho.",
+    "pista": "Es el filtro que falla con alguien que, en pleno brote psicótico, no sabía lo que hacía.",
+    "libro": "dp_teoria_delito"
+  },
+  {
+    "id": "def-dp-inimputable",
+    "grupo": "teoria",
+    "termino": "Inimputable",
+    "definicion": "Persona que, al momento del hecho, no podía entender que estaba mal o no podía controlarse.",
+    "ejemplo": "Quien rompe una vidriera durante un brote psicótico.",
+    "libro": "dp_teoria_delito"
+  },
+  {
+    "id": "def-dp-legitima",
+    "grupo": "teoria",
+    "termino": "Legítima defensa",
+    "definicion": "Situación en la que la ley permite defenderse de un ataque, aunque al hacerlo se lastime al agresor.",
+    "ejemplo": "Empujar a quien te ataca con un cuchillo.",
+    "libro": "dp_teoria_delito"
+  },
+  {
+    "id": "def-dp-legalidad",
+    "grupo": "teoria",
+    "termino": "Principio de legalidad",
+    "definicion": "Nadie puede ser castigado por algo que no era delito según una ley anterior al hecho.",
+    "ejemplo": "Una ley de 2026 no puede castigar algo hecho en 2025.",
+    "pista": "Pensá en este ejemplo: una ley de 2026 no se aplica a algo que alguien hizo en 2025.",
+    "libro": "dp_que_es"
+  },
+  {
+    "id": "def-dp-bienjur",
+    "grupo": "teoria",
+    "termino": "Bien jurídico",
+    "definicion": "Lo valioso que la ley quiere proteger con cada delito, como la vida o la propiedad.",
+    "ejemplo": "El homicidio protege la vida.",
+    "pista": "Pensá en este ejemplo: con la calumnia, la ley cuida la buena reputación.",
+    "libro": "dp_bienes_codigo"
+  },
+  {
+    "id": "def-dp-tipificar",
+    "grupo": "teoria",
+    "termino": "Tipificar",
+    "definicion": "Escribir en una ley, con detalle, qué conducta es delito y qué pena tiene.",
+    "ejemplo": "El art. 79 tipifica el homicidio: «el que matare a otro».",
+    "libro": "dp_que_es"
+  },
+  {
+    "id": "def-dp-tentativa",
+    "grupo": "etapas",
+    "termino": "Tentativa",
+    "definicion": "Empezar a cometer un delito y no terminarlo por algo que no depende de la persona.",
+    "ejemplo": "Dispara para matar, pero la ambulancia salva a la víctima.",
+    "libro": "dp_etapas_concurso"
+  },
+  {
+    "id": "def-dp-concreal",
+    "grupo": "etapas",
+    "termino": "Concurso real",
+    "definicion": "Una persona comete varios hechos separados, y cada uno es un delito distinto.",
+    "ejemplo": "En enero hurta un celular y en marzo estafa a un vecino.",
+    "libro": "dp_etapas_concurso"
+  },
+  {
+    "id": "def-dp-concideal",
+    "grupo": "etapas",
+    "termino": "Concurso ideal",
+    "definicion": "Un único hecho que encaja al mismo tiempo en dos o más delitos.",
+    "ejemplo": "Un solo golpe que rompe los anteojos (daño) y lastima la cara (lesiones).",
+    "libro": "dp_etapas_concurso"
+  },
+  {
+    "id": "def-dp-reincidencia",
+    "grupo": "etapas",
+    "termino": "Reincidencia",
+    "definicion": "Volver a cometer un delito después de haber cumplido una condena de prisión.",
+    "ejemplo": "Sale de la cárcel tras cumplir pena por robo y al año comete una estafa.",
+    "pista": "Pensá en este ejemplo: alguien sale de la cárcel por un robo y al año estafa a un vecino.",
+    "libro": "dp_etapas_concurso"
+  },
+  {
+    "id": "def-dp-agravante",
+    "grupo": "etapas",
+    "termino": "Agravante",
+    "definicion": "Una circunstancia que hace más grave el delito y por eso sube la pena.",
+    "ejemplo": "Matar a un familiar directo.",
+    "libro": "dp_etapas_concurso"
+  },
+  {
+    "id": "def-dp-atenuante",
+    "grupo": "etapas",
+    "termino": "Atenuante",
+    "definicion": "Una circunstancia que hace menos grave el delito y por eso baja la pena.",
+    "ejemplo": "Matar bajo emoción violenta.",
+    "libro": "dp_etapas_concurso"
+  },
+  {
+    "id": "def-dp-hurto",
+    "grupo": "propiedad",
+    "termino": "Hurto",
+    "definicion": "Llevarse una cosa ajena sin romper nada y sin lastimar ni amenazar a nadie.",
+    "ejemplo": "Guardarse un celular olvidado en la mesa de un bar.",
+    "libro": "dp_propiedad"
+  },
+  {
+    "id": "def-dp-robo",
+    "grupo": "propiedad",
+    "termino": "Robo",
+    "definicion": "Llevarse una cosa ajena rompiendo algo o usando violencia contra una persona.",
+    "ejemplo": "Romper la ventanilla de un auto para sacar una mochila.",
+    "libro": "dp_propiedad"
+  },
+  {
+    "id": "def-dp-usurpacion",
+    "grupo": "propiedad",
+    "termino": "Usurpación",
+    "definicion": "Quitarle a alguien una casa o un terreno, por ejemplo metiéndose a vivir en él.",
+    "ejemplo": "Entrar a una casa ajena y cambiar la cerradura.",
+    "pista": "Pensá en este ejemplo: un grupo ocupa un departamento vacío y cambia la cerradura.",
+    "libro": "dp_propiedad"
+  },
+  {
+    "id": "def-dp-estafa",
+    "grupo": "propiedad",
+    "termino": "Estafa",
+    "definicion": "Engañar a alguien para que, creyendo algo falso, entregue él mismo su dinero.",
+    "ejemplo": "Cobrar la seña de una moto que no existe.",
+    "libro": "dp_propiedad"
+  },
+  {
+    "id": "def-dp-extorsion",
+    "grupo": "propiedad",
+    "termino": "Extorsión",
+    "definicion": "Obligar a alguien a dar dinero metiéndole miedo con hacerle un daño.",
+    "ejemplo": "«Si no pagás, te quemo el local».",
+    "libro": "dp_propiedad"
+  },
+  {
+    "id": "def-dp-chantaje",
+    "grupo": "propiedad",
+    "termino": "Chantaje",
+    "definicion": "Obligar a alguien a dar dinero amenazándolo con contar algo que lo perjudica.",
+    "ejemplo": "«Si no pagás, le cuento todo a tu familia».",
+    "libro": "dp_propiedad"
+  },
+  {
+    "id": "def-dp-usura",
+    "grupo": "propiedad",
+    "termino": "Usura",
+    "definicion": "Aprovecharse de que alguien está desesperado para cobrarle intereses abusivos.",
+    "ejemplo": "Prestar plata para una operación urgente al 80% mensual.",
+    "libro": "dp_propiedad"
+  },
+  {
+    "id": "def-dp-dano",
+    "grupo": "propiedad",
+    "termino": "Daño",
+    "definicion": "Romper, destruir o inutilizar una cosa ajena, sin llevársela.",
+    "ejemplo": "Rayar un auto con una llave.",
+    "libro": "dp_propiedad"
+  },
+  {
+    "id": "def-dp-calumnia",
+    "grupo": "honor",
+    "termino": "Calumnia",
+    "definicion": "Acusar falsamente a una persona de haber cometido un delito concreto.",
+    "ejemplo": "Publicar que el tesorero se robó la plata del club, cuando es mentira.",
+    "libro": "dp_honor_justicia"
+  },
+  {
+    "id": "def-dp-injuria",
+    "grupo": "honor",
+    "termino": "Injuria",
+    "definicion": "Ofender o desprestigiar a una persona sin acusarla de un delito.",
+    "ejemplo": "Decir públicamente que una maestra es una inútil.",
+    "libro": "dp_honor_justicia"
+  },
+  {
+    "id": "def-dp-falsotest",
+    "grupo": "honor",
+    "termino": "Falso testimonio",
+    "definicion": "Mentir al declarar ante un juez cuando se tiene la obligación de decir la verdad.",
+    "ejemplo": "Un testigo que inventa una coartada para ayudar al acusado.",
+    "libro": "dp_honor_justicia"
+  },
+  {
+    "id": "def-dp-apologia",
+    "grupo": "honor",
+    "termino": "Apología del crimen",
+    "definicion": "Elogiar en público un delito, o a quien lo cometió, alentando a repetirlo.",
+    "ejemplo": "Decir en un acto que hay que imitar al que incendió la comisaría.",
+    "libro": "dp_honor_justicia"
+  },
+  {
+    "id": "def-dp-perito",
+    "grupo": "honor",
+    "termino": "Perito",
+    "definicion": "Experto al que se llama en un juicio para explicar cuestiones técnicas.",
+    "ejemplo": "Una ingeniera que analiza los registros de un servidor hackeado.",
+    "libro": "dp_honor_justicia"
+  },
+  {
+    "id": "def-dp-accpub",
+    "grupo": "proceso",
+    "termino": "Acción pública",
+    "definicion": "El Estado inicia el caso y lo lleva adelante por su cuenta, aunque la víctima no quiera.",
+    "ejemplo": "Un homicidio o un robo.",
+    "libro": "dp_acciones_vocabulario"
+  },
+  {
+    "id": "def-dp-accinst",
+    "grupo": "proceso",
+    "termino": "Acción de instancia privada",
+    "definicion": "El caso empieza solo si la víctima denuncia, y después el Estado lo sigue solo.",
+    "ejemplo": "Las lesiones leves.",
+    "libro": "dp_acciones_vocabulario"
+  },
+  {
+    "id": "def-dp-accpriv",
+    "grupo": "proceso",
+    "termino": "Acción privada",
+    "definicion": "La víctima tiene que iniciar el caso y llevarlo adelante ella misma hasta el final.",
+    "ejemplo": "Las calumnias y las injurias.",
+    "libro": "dp_acciones_vocabulario"
+  },
+  {
+    "id": "def-dp-querellante",
+    "grupo": "proceso",
+    "termino": "Querellante",
+    "definicion": "La víctima, o su abogado, cuando participa del juicio acusando también ella.",
+    "ejemplo": "La persona calumniada que inicia el juicio contra quien la calumnió.",
+    "pista": "Pensá en este ejemplo: alguien calumniado en Twitter que lleva adelante el caso contra el autor.",
+    "libro": "dp_glosario"
+  },
+  {
+    "id": "def-dp-imputado",
+    "grupo": "proceso",
+    "termino": "Imputado",
+    "definicion": "La persona acusada de un delito mientras se la investiga o se la juzga.",
+    "ejemplo": "Todavía no fue declarada culpable por un juez.",
+    "libro": "dp_glosario"
+  },
+  {
+    "id": "def-dp-fiscal",
+    "grupo": "proceso",
+    "termino": "Fiscal",
+    "definicion": "El abogado del Estado que investiga el delito y acusa a la persona sospechada.",
+    "ejemplo": "Quien investiga un robo aunque el dueño del comercio no lo pida.",
+    "libro": "dp_glosario"
+  }
+]

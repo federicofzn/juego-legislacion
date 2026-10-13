@@ -1,0 +1,650 @@
+[
+  {
+    "id": "di-clas-01",
+    "tipo": "clasificar",
+    "titulo": "La amenaza por WhatsApp",
+    "situacion": "Un ex socio le manda a tu cliente un audio por WhatsApp: «Sé dónde vivís, cuidate».",
+    "pregunta": "¿Es un delito informático puro o impuro?",
+    "correcta": "Impuro: es una amenaza común y la tecnología es solo el medio",
+    "incorrectas": [
+      "Puro: el objeto atacado es el sistema de mensajería de WhatsApp",
+      "Puro: toda conducta cometida por internet es delito informático puro",
+      "No es delito porque fue enviada por audio y no por escrito",
+      "Impuro, pero solo si el audio se viraliza en redes sociales",
+      "Es una contravención, no un delito, porque no hubo daño físico"
+    ],
+    "pista": "¿Qué se atacó: el sistema o la persona?",
+    "explicacion": "Amenazar es un delito de toda la vida, con o sin tecnología; WhatsApp fue solo el canal. Cuando la tecnología es solo el medio, el delito informático es impuro.",
+    "libro": "di_puros_impuros"
+  },
+  {
+    "id": "di-clas-02",
+    "tipo": "clasificar",
+    "titulo": "Los servidores cifrados",
+    "situacion": "Un grupo instala un ransomware que cifra todos los servidores de una clínica y deja las historias clínicas inaccesibles.",
+    "pregunta": "¿Es un delito informático puro o impuro?",
+    "correcta": "Puro: lo atacado son los sistemas y los datos",
+    "incorrectas": [
+      "Impuro: es una extorsión común por internet",
+      "Impuro: la tecnología es solo el medio",
+      "No es delito si la clínica paga el rescate",
+      "Es solo un incidente técnico sin relevancia penal",
+      "Es un delito contra el honor"
+    ],
+    "pista": "¿Qué fue lo dañado directamente?",
+    "explicacion": "Lo que se atacó son los sistemas y los datos de la clínica (quedaron bloqueados). Cuando la tecnología es lo atacado, el delito informático es puro. Además, pedir rescate puede ser una extorsión.",
+    "libro": "di_puros_impuros"
+  },
+  {
+    "id": "di-clas-03",
+    "tipo": "clasificar",
+    "titulo": "La venta falsa en Marketplace",
+    "situacion": "Un usuario publica zapatillas que no tiene, cobra por transferencia y bloquea al comprador.",
+    "pregunta": "¿Es un delito informático puro o impuro?",
+    "correcta": "Impuro: es una estafa cometida por medios digitales",
+    "incorrectas": [
+      "Puro: se atacó el sistema informático de Marketplace",
+      "Puro: hubo una transferencia electrónica de dinero",
+      "No es delito porque el comprador aceptó pagar por su cuenta",
+      "Es daño informático, porque se usó una plataforma digital",
+      "Es acceso ilegítimo a un sistema de pagos en línea"
+    ],
+    "pista": "Si sacás internet de la historia, ¿el delito sigue existiendo?",
+    "explicacion": "Es una estafa común (mentir para que te paguen) hecha por internet. La tecnología fue solo el medio: delito informático impuro.",
+    "libro": "di_puros_impuros"
+  },
+  {
+    "id": "di-clas-04",
+    "tipo": "clasificar",
+    "titulo": "El correo de la ex",
+    "situacion": "Gonzalo adivina la contraseña del correo de su ex pareja, entra y lee sus mensajes.",
+    "pregunta": "¿Es un delito informático puro o impuro?",
+    "correcta": "Puro: lo atacado es una cuenta y sus comunicaciones electrónicas",
+    "incorrectas": [
+      "Impuro: es una calumnia cometida por internet contra su ex",
+      "No es delito porque la contraseña era fácil de adivinar",
+      "Impuro: es un hurto de información mediante tecnología",
+      "No es delito porque fueron pareja y se conocían las claves",
+      "Es usurpación de identidad, que es solo una contravención"
+    ],
+    "pista": "¿Gonzalo dañó la reputación de su ex o se metió en algo digital que era de ella?",
+    "explicacion": "Lo que se atacó es la cuenta de mail y los mensajes de otra persona. Cuando la tecnología es lo atacado, el delito es puro (entrar sin permiso y leer correspondencia ajena).",
+    "libro": "di_puros_impuros"
+  },
+  {
+    "id": "di-clas-05",
+    "tipo": "clasificar",
+    "titulo": "El rumor en Instagram",
+    "situacion": "Una cuenta anónima publica en Instagram que una profesora «cobra coimas para aprobar». Es falso.",
+    "pregunta": "¿Es un delito informático puro o impuro?",
+    "correcta": "Impuro: es una calumnia cometida por redes sociales",
+    "incorrectas": [
+      "Puro: se atacó el sistema informático de Instagram",
+      "Puro: hubo publicación de datos en una plataforma",
+      "No es delito porque la cuenta es anónima",
+      "Es daño informático contra la cuenta de la profesora",
+      "Es grooming porque ocurrió en una red social"
+    ],
+    "pista": "¿Qué bien se afectó: un sistema o la reputación de una persona?",
+    "explicacion": "Acusar falsamente a alguien de un delito es calumnia, un delito de siempre. Instagram fue solo el medio: delito informático impuro.",
+    "libro": "di_puros_impuros"
+  },
+  {
+    "id": "di-26388-01",
+    "tipo": "norma",
+    "titulo": "La contraseña vieja",
+    "situacion": "Un ex empleado, despedido hace un mes, sigue entrando al sistema de facturación con su usuario, que nadie dio de baja. No modifica nada: solo mira.",
+    "pregunta": "¿Qué delito que la Ley 26.388 agregó al Código Penal puede aplicarse?",
+    "correcta": "Acceso ilegítimo (art. 153 bis)",
+    "incorrectas": [
+      "Daño informático (art. 183)",
+      "Fraude informático (art. 173 inc. 16)",
+      "No hay delito porque el usuario seguía activo",
+      "Grooming (art. 131)",
+      "Hurto de información (art. 162)"
+    ],
+    "pista": "No rompió nada ni ganó dinero: entró donde ya no tenía permiso.",
+    "explicacion": "Entró sin permiso a un sistema con contraseña, aunque solo miró y no cambió nada. Eso ya es acceso ilegítimo (art. 153 bis del Código Penal, agregado por la Ley 26.388). Que la empresa no haya dado de baja su usuario no le da permiso.",
+    "libro": "di_ley_26388"
+  },
+  {
+    "id": "di-26388-02",
+    "tipo": "norma",
+    "titulo": "La base borrada",
+    "situacion": "Antes de irse, una empleada enojada borra a propósito toda la base de clientes del servidor de la empresa.",
+    "pregunta": "¿Qué delito del Código Penal describe mejor el borrado?",
+    "correcta": "Daño informático (art. 183)",
+    "incorrectas": [
+      "Hurto de información (art. 162)",
+      "Estafa (art. 172)",
+      "Violación de correspondencia (art. 153)",
+      "Usurpación (art. 181)",
+      "Falso testimonio (art. 275)"
+    ],
+    "pista": "Destruir datos ajenos: la figura tradicional se actualizó para incluirlos.",
+    "explicacion": "Borrar datos ajenos a propósito es daño informático (art. 183 del Código Penal). La Ley 26.388 amplió el viejo delito de daño, que hablaba de romper cosas, para incluir datos y sistemas.",
+    "libro": "di_ley_26388"
+  },
+  {
+    "id": "di-26388-03",
+    "tipo": "norma",
+    "titulo": "Los centavos desviados",
+    "situacion": "Un programador del banco modifica el sistema para que los centavos de redondeo de miles de operaciones se desvíen a su cuenta.",
+    "pregunta": "¿Qué delito del Código Penal describe mejor la conducta?",
+    "correcta": "Fraude informático (art. 173 inc. 16)",
+    "incorrectas": [
+      "Hurto simple (art. 162)",
+      "Daño informático (art. 183)",
+      "Acceso ilegítimo solamente (art. 153 bis)",
+      "Usura (art. 175 bis)",
+      "Robo con fuerza en las cosas (art. 164)"
+    ],
+    "pista": "Obtiene un beneficio patrimonial alterando el funcionamiento del sistema.",
+    "explicacion": "El programador cambió el funcionamiento del sistema para quedarse con dinero ajeno. Eso es fraude informático (art. 173 inc. 16 del Código Penal, agregado por la Ley 26.388).",
+    "libro": "di_ley_26388"
+  },
+  {
+    "id": "di-26388-04",
+    "tipo": "norma",
+    "titulo": "El mail ajeno",
+    "situacion": "Un jefe accede a la casilla personal de un empleado y lee correos que no estaban dirigidos a él.",
+    "pregunta": "¿Qué delito del Código Penal cubre específicamente este caso?",
+    "correcta": "Violación de correspondencia electrónica (art. 153)",
+    "incorrectas": [
+      "Daño informático (art. 183)",
+      "Fraude informático (art. 173 inc. 16)",
+      "Grooming por medios electrónicos (art. 131)",
+      "Usurpación de la casilla (art. 181)",
+      "Apología del crimen (art. 213)"
+    ],
+    "pista": "El correo electrónico se equiparó a la carta en papel.",
+    "explicacion": "Leer correos que no son para uno es violación de correspondencia (art. 153 del Código Penal). La Ley 26.388 aclaró que esto incluye el correo electrónico, igual que una carta en papel.",
+    "libro": "di_ley_26388"
+  },
+  {
+    "id": "di-26388-05",
+    "tipo": "concepto",
+    "titulo": "¿Qué hizo la Ley 26.388?",
+    "situacion": "Un cliente cree que la Ley 26.388 es «un código aparte de delitos informáticos».",
+    "pregunta": "¿Qué le aclarás?",
+    "correcta": "Que modificó el Código Penal para incluir datos, sistemas y documentos digitales",
+    "incorrectas": [
+      "Que es un código independiente que reemplazó al Código Penal en lo digital",
+      "Que regula la protección de datos personales en bases públicas y privadas",
+      "Que creó el delito de grooming contra menores de edad en internet",
+      "Que es la traducción oficial al castellano del Convenio de Budapest",
+      "Que solo regula contravenciones informáticas de tipo municipal"
+    ],
+    "pista": "Fijate dónde quedaron escritos los delitos informáticos después de esa ley.",
+    "explicacion": "La Ley 26.388 no creó un código nuevo: cambió artículos del Código Penal para que los delitos de siempre incluyan datos, sistemas, documentos digitales y correos electrónicos.",
+    "libro": "di_ley_26388"
+  },
+  {
+    "id": "di-26388-06",
+    "tipo": "concepto",
+    "titulo": "El contrato en PDF",
+    "situacion": "Un acusado sostiene que falsificar un contrato en PDF no puede ser delito porque «un documento es un papel».",
+    "pregunta": "¿Qué le contestás?",
+    "correcta": "Que desde la Ley 26.388 «documento» incluye el formato digital",
+    "incorrectas": [
+      "Que tiene razón: solo los papeles firmados a mano son documentos",
+      "Que el PDF solo es documento si está impreso y certificado",
+      "Que depende de lo que diga el RGPD europeo sobre documentos",
+      "Que solo es delito si el PDF contiene datos personales sensibles",
+      "Que es una cuestión civil y nunca puede ser una cuestión penal"
+    ],
+    "pista": "La ley actualizó la definición de documento.",
+    "explicacion": "La Ley 26.388 cambió el art. 77 del Código Penal: un archivo digital también cuenta como documento, y una firma digital también cuenta como firma.",
+    "libro": "di_ley_26388"
+  },
+  {
+    "id": "di-leyes-01",
+    "tipo": "norma",
+    "titulo": "El chat del videojuego",
+    "situacion": "Un adulto se hace pasar por un chico de 13 años en el chat de un videojuego en línea y le pide fotos íntimas a una nena de 11.",
+    "pregunta": "¿Qué delito es y qué ley corresponde?",
+    "correcta": "Grooming (art. 131), Ley 26.904",
+    "incorrectas": [
+      "Acceso ilegítimo (art. 153 bis), Ley 26.388",
+      "Violencia digital, Ley Olimpia 27.736",
+      "Calumnia (art. 109), Código Penal de 1921",
+      "Convenio de Budapest, Ley 27.411",
+      "Daño informático (art. 183), Ley 26.388"
+    ],
+    "pista": "Contacto con un menor, por tecnología, con propósito sexual.",
+    "explicacion": "Un adulto contacta a una menor por un medio tecnológico (el chat del juego) con intención sexual: eso es grooming (art. 131 del Código Penal, que agregó la Ley 26.904).",
+    "libro": "di_otras_leyes"
+  },
+  {
+    "id": "di-leyes-02",
+    "tipo": "norma",
+    "titulo": "Solo lo tenía guardado",
+    "situacion": "En un allanamiento encuentran en la computadora de un hombre material de abuso sexual infantil. Él dice que no lo compartió con nadie, «solo lo tenía».",
+    "pregunta": "¿Qué ley es relevante?",
+    "correcta": "La Ley 27.436, que castiga también la simple tenencia",
+    "incorrectas": [
+      "La Ley 26.904, que incorporó el grooming",
+      "La Ley Olimpia 27.736, sobre violencia digital",
+      "La Ley 25.326, sobre datos personales",
+      "Ninguna: la tenencia sin distribución no es delito",
+      "La Ley 27.411, de adhesión al Convenio de Budapest"
+    ],
+    "pista": "La defensa de «solo lo tenía» ya no funciona desde una reforma específica.",
+    "explicacion": "Desde la Ley 27.436, tener guardado material de abuso sexual infantil ya es delito, aunque no se lo comparta con nadie.",
+    "libro": "di_otras_leyes"
+  },
+  {
+    "id": "di-leyes-03",
+    "tipo": "norma",
+    "titulo": "Las fotos difundidas",
+    "situacion": "Una mujer descubre que su ex pareja difundió fotos íntimas suyas en grupos de mensajería y además la vigila por sus redes.",
+    "pregunta": "¿Qué ley incorporó la violencia digital contra las mujeres al marco de protección?",
+    "correcta": "La Ley 27.736, conocida como Ley Olimpia",
+    "incorrectas": [
+      "La Ley 26.904, que incorporó el grooming",
+      "La Ley 26.388, conocida como ley de delitos informáticos",
+      "La Ley 27.411, de adhesión al Convenio de Budapest",
+      "La Ley 25.326, de protección de datos personales",
+      "La Ley 27.436, sobre material de abuso sexual infantil"
+    ],
+    "pista": "Lleva el nombre de una activista mexicana.",
+    "explicacion": "La Ley Olimpia (27.736) reconoce la violencia digital (como difundir fotos íntimas sin permiso o vigilar a alguien por redes) como una forma de violencia contra las mujeres.",
+    "libro": "di_otras_leyes"
+  },
+  {
+    "id": "di-leyes-04",
+    "tipo": "caso",
+    "titulo": "El servidor en el extranjero",
+    "situacion": "Investigás una estafa: la víctima está en Rosario, el atacante en otro continente y el servidor usado está alojado en un tercer país.",
+    "pregunta": "¿Qué norma facilita investigar un delito que involucra a varios países?",
+    "correcta": "El Convenio de Budapest (Ley 27.411)",
+    "incorrectas": [
+      "La Ley 25.326 de protección de datos",
+      "El art. 19 de la Constitución",
+      "La Ley Olimpia",
+      "El RGPD europeo",
+      "La Resolución AAIP 47/2018"
+    ],
+    "pista": "Hace falta que varios países cooperen.",
+    "explicacion": "Cuando el atacante, la víctima y el servidor están en países distintos, hace falta que los países colaboren. Para eso existe el Convenio de Budapest, al que la Argentina se sumó con la Ley 27.411.",
+    "libro": "di_otras_leyes"
+  },
+  {
+    "id": "di-prueba-01",
+    "tipo": "caso",
+    "titulo": "Formatear antes de denunciar",
+    "situacion": "Una pyme sufre un ataque. El encargado de sistemas quiere formatear todas las computadoras «para que quede limpio» y recién después hacer la denuncia.",
+    "pregunta": "¿Qué le recomendás?",
+    "correcta": "Preservar primero la evidencia: los registros pueden perderse",
+    "incorrectas": [
+      "Formatear: la evidencia digital no sirve en un juicio",
+      "Formatear: después se recupera todo con el Convenio de Budapest",
+      "Esperar un año para ver si el atacante vuelve",
+      "Publicar los logs en redes para que otros ayuden",
+      "Pagar el rescate antes de cualquier otra cosa"
+    ],
+    "pista": "¿Qué pasa con la prueba digital si se la toca o se espera?",
+    "explicacion": "Los registros que muestran cómo entró el atacante se pierden si se formatean las computadoras. Hay que conservarlos con cuidado para poder usarlos como prueba en un juicio.",
+    "libro": "di_prueba"
+  },
+  {
+    "id": "di-ataques-01",
+    "tipo": "clasificar",
+    "titulo": "El mail del banco",
+    "situacion": "Te llega un correo con el logo de tu banco: «Detectamos actividad sospechosa. Ingresá en este enlace para validar tu cuenta». La página es idéntica a la del banco, pero la dirección es otra.",
+    "pregunta": "¿Qué técnica es?",
+    "correcta": "Phishing",
+    "incorrectas": [
+      "Ransomware",
+      "Ataque de denegación de servicio",
+      "Retest",
+      "Defensa en profundidad",
+      "Gap"
+    ],
+    "pista": "Imita una comunicación confiable para robar credenciales.",
+    "explicacion": "Un mensaje falso que imita a tu banco para llevarte a una página trucha y robarte la contraseña es phishing.",
+    "libro": "di_ataques"
+  },
+  {
+    "id": "di-ataques-02",
+    "tipo": "clasificar",
+    "titulo": "La llamada de soporte",
+    "situacion": "Una empleada recibe una llamada de alguien que dice ser «de soporte técnico de la empresa». Con tono urgente le pide el código que le acaba de llegar por SMS «para evitar que bloqueen su cuenta».",
+    "pregunta": "¿Qué técnica se está usando?",
+    "correcta": "Ingeniería social",
+    "incorrectas": [
+      "Malware",
+      "Ransomware",
+      "Pentest autorizado",
+      "Daño informático",
+      "Purple Team"
+    ],
+    "pista": "No se ataca a la máquina sino a la persona.",
+    "explicacion": "No hackearon ninguna computadora: engañaron a una persona usando urgencia y una identidad falsa para que entregue el código. Eso es ingeniería social (y no es phishing, porque fue una llamada).",
+    "libro": "di_ataques"
+  },
+  {
+    "id": "di-ataques-03",
+    "tipo": "clasificar",
+    "titulo": "El programa que copiaba teclas",
+    "situacion": "En la computadora de un estudio contable aparece un programa oculto que registra todo lo que se escribe y lo envía a un servidor desconocido.",
+    "pregunta": "¿Qué es ese programa?",
+    "correcta": "Malware",
+    "incorrectas": [
+      "Phishing",
+      "Ingeniería social",
+      "Un gap",
+      "Un retest",
+      "Un firewall"
+    ],
+    "pista": "Es software y es malicioso.",
+    "explicacion": "Un programa oculto que espía lo que escribís es software malicioso, es decir, malware (este tipo se llama keylogger).",
+    "libro": "di_ataques"
+  },
+  {
+    "id": "di-ataques-04",
+    "tipo": "caso",
+    "titulo": "Pagar o publicar",
+    "situacion": "Una empresa recupera sus servidores cifrados desde un backup y decide no pagar. Al día siguiente el atacante escribe: «Tenemos copia de sus datos de clientes. Si no pagan, los publicamos».",
+    "pregunta": "¿Cómo se llama esta modalidad?",
+    "correcta": "Doble extorsión",
+    "incorrectas": [
+      "Ransomware simple: solo cifrado",
+      "Phishing dirigido",
+      "Retest",
+      "Defensa en profundidad",
+      "Gap de seguridad"
+    ],
+    "pista": "El backup resolvió un problema, pero no el otro.",
+    "explicacion": "Además de bloquear los archivos, el atacante se llevó una copia y amenaza con publicarla. Por eso, aunque la empresa recuperó sus archivos del respaldo, sigue en riesgo: eso es la doble extorsión.",
+    "libro": "di_ataques"
+  },
+  {
+    "id": "di-ataques-05",
+    "tipo": "clasificar",
+    "titulo": "El hacker sin permiso",
+    "situacion": "Un estudiante encuentra una falla en la web de un municipio entrando sin autorización. No roba nada y después avisa al municipio para que la arregle.",
+    "pregunta": "¿Cómo se clasifica a este hacker?",
+    "correcta": "Gray hat",
+    "incorrectas": [
+      "White hat",
+      "Black hat",
+      "Blue Team del municipio",
+      "vCISO",
+      "Purple Team"
+    ],
+    "pista": "Buena intención no es lo mismo que autorización.",
+    "explicacion": "Tenía buenas intenciones (avisó de la falla), pero entró sin permiso: eso es un gray hat. Ojo: entrar sin permiso puede ser delito igual, aunque después avise.",
+    "libro": "di_ataques"
+  },
+  {
+    "id": "di-cid-01",
+    "tipo": "clasificar",
+    "titulo": "Las notas cambiadas",
+    "situacion": "Un alumno entra al sistema de la facultad con la cuenta de un profesor y cambia su nota de 2 a 8.",
+    "pregunta": "La seguridad de la información cuida tres pilares, la llamada tríada CID: confidencialidad, integridad y disponibilidad. ¿Cuál se afectó principalmente?",
+    "correcta": "Integridad",
+    "incorrectas": [
+      "Confidencialidad",
+      "Disponibilidad",
+      "Ninguno: el alumno usó una cuenta real del sistema",
+      "Confidencialidad, porque entró con una cuenta ajena",
+      "Ninguno: la nota es un dato público"
+    ],
+    "pista": "La información no se filtró ni dejó de estar disponible: fue alterada.",
+    "explicacion": "Cambiar una nota es modificar información sin permiso. Lo que se rompió es la integridad (que la información no se altere).",
+    "libro": "di_cid_capas"
+  },
+  {
+    "id": "di-cid-02",
+    "tipo": "clasificar",
+    "titulo": "La filtración",
+    "situacion": "Por una mala configuración, la lista de pacientes de un hospital con sus diagnósticos queda publicada en internet. Los datos no se alteraron y el sistema sigue funcionando.",
+    "pregunta": "La seguridad de la información cuida tres pilares, la llamada tríada CID: confidencialidad, integridad y disponibilidad. ¿Cuál se afectó?",
+    "correcta": "Confidencialidad",
+    "incorrectas": [
+      "Integridad",
+      "Disponibilidad",
+      "Ninguno, porque nada se modificó",
+      "Integridad, porque los datos quedaron expuestos",
+      "Disponibilidad, porque cualquiera puede descargar la lista"
+    ],
+    "pista": "¿Quién pudo VER la información?",
+    "explicacion": "Gente que no debía pudo ver los diagnósticos. Lo que se rompió es la confidencialidad (que la información solo la vea quien tiene permiso).",
+    "libro": "di_cid_capas"
+  },
+  {
+    "id": "di-cid-03",
+    "tipo": "clasificar",
+    "titulo": "La web caída",
+    "situacion": "Durante el Hot Sale, una tienda online recibe millones de solicitudes falsas por segundo y la web queda fuera de servicio todo el día.",
+    "pregunta": "La seguridad de la información cuida tres pilares, la llamada tríada CID: confidencialidad, integridad y disponibilidad. ¿Cuál se afectó?",
+    "correcta": "Disponibilidad",
+    "incorrectas": [
+      "Confidencialidad",
+      "Integridad",
+      "Ninguno: no se robaron datos",
+      "Integridad, porque las solicitudes eran falsas",
+      "Confidencialidad, porque el ataque vino desde afuera"
+    ],
+    "pista": "¿Los clientes pudieron usar el servicio cuando lo necesitaban?",
+    "explicacion": "La tienda dejó de funcionar y los clientes no pudieron usarla. Lo que se rompió es la disponibilidad (que el sistema se pueda usar cuando hace falta).",
+    "libro": "di_cid_capas"
+  },
+  {
+    "id": "di-capas-01",
+    "tipo": "clasificar",
+    "titulo": "El curso anti-phishing",
+    "situacion": "Una empresa obliga a todo el personal a hacer un curso trimestral para reconocer correos fraudulentos y define un procedimiento para reportarlos.",
+    "pregunta": "¿Qué capa de la defensa en profundidad refuerza?",
+    "correcta": "Personas y procesos",
+    "incorrectas": [
+      "Seguridad física",
+      "Seguridad de red",
+      "Seguridad de endpoints",
+      "Seguridad de datos",
+      "Seguridad de aplicaciones"
+    ],
+    "pista": "No es un aparato ni un software: es gente y procedimientos.",
+    "explicacion": "Capacitar a la gente y definir procedimientos refuerza la capa de «personas y procesos», que suele ser la más atacada (por ejemplo, con engaños).",
+    "libro": "di_cid_capas"
+  },
+  {
+    "id": "di-capas-02",
+    "tipo": "clasificar",
+    "titulo": "El doble factor",
+    "situacion": "Para entrar al correo corporativo, además de la contraseña ahora se pide un código desde una app del celular.",
+    "pregunta": "¿Qué capa de la defensa en profundidad refuerza?",
+    "correcta": "Identidad y accesos",
+    "incorrectas": [
+      "Seguridad física",
+      "Seguridad de red",
+      "Personas y procesos",
+      "Seguridad de datos",
+      "No es una capa: es un gap"
+    ],
+    "pista": "Se trata de comprobar QUIÉN entra.",
+    "explicacion": "Pedir un código además de la contraseña sirve para confirmar QUIÉN está entrando. Eso refuerza la capa de «identidad y accesos».",
+    "libro": "di_cid_capas"
+  },
+  {
+    "id": "di-capas-03",
+    "tipo": "concepto",
+    "titulo": "¿Por qué tantas capas?",
+    "situacion": "El dueño de una empresa pregunta: «Si ya compré el mejor firewall, ¿para qué quiero más cosas?»",
+    "pregunta": "¿Qué concepto le explicás?",
+    "correcta": "La defensa en profundidad: varias capas por si una falla",
+    "incorrectas": [
+      "La tríada CID: un solo buen control cubre los tres pilares",
+      "El retest: probar dos veces el mismo firewall para confirmarlo",
+      "El gap: comprar todo lo que exige la norma y nada más",
+      "El principio de finalidad aplicado a los equipos de seguridad",
+      "La última ratio: el firewall es siempre la última herramienta"
+    ],
+    "pista": "Pensá en un castillo con foso, muralla y guardias.",
+    "explicacion": "Ninguna protección es perfecta. La defensa en profundidad pone varias barreras (física, red, equipos, programas, datos, accesos, personas) para que si una falla, las otras sigan protegiendo.",
+    "libro": "di_cid_capas"
+  },
+  {
+    "id": "di-tipos-01",
+    "tipo": "clasificar",
+    "titulo": "El expediente bajo llave",
+    "situacion": "Un estudio jurídico guarda los expedientes en papel en un armario con llave y prohíbe hablar de los casos en el ascensor.",
+    "pregunta": "¿Qué disciplina está aplicando?",
+    "correcta": "Seguridad de la información",
+    "incorrectas": [
+      "Seguridad informática",
+      "Ciberseguridad",
+      "Pentest",
+      "Red Team",
+      "Gestión de vulnerabilidades de red"
+    ],
+    "pista": "No hay ninguna computadora involucrada.",
+    "explicacion": "Proteger papeles y conversaciones, sin ninguna computadora de por medio, es seguridad de la información: protege la información en cualquier formato.",
+    "libro": "di_cid_capas"
+  },
+  {
+    "id": "di-tipos-02",
+    "tipo": "clasificar",
+    "titulo": "La notebook desconectada",
+    "situacion": "Un laboratorio cifra el disco de una notebook que nunca se conecta a internet y le pone contraseña de arranque.",
+    "pregunta": "¿Qué disciplina describe mejor esa medida?",
+    "correcta": "Seguridad informática",
+    "incorrectas": [
+      "Ciberseguridad",
+      "Seguridad de la información exclusivamente en papel",
+      "Red Team",
+      "Ingeniería social",
+      "Habeas data"
+    ],
+    "pista": "Protege un sistema informático, pero no hay ninguna red de por medio.",
+    "explicacion": "Proteger una computadora que no se conecta a ninguna red es seguridad informática. La ciberseguridad se ocupa de ataques que llegan por la red.",
+    "libro": "di_cid_capas"
+  },
+  {
+    "id": "di-roles-01",
+    "tipo": "clasificar",
+    "titulo": "El equipo que ataca",
+    "situacion": "Un banco contrata a un equipo para que, con autorización, intente entrar a sus sistemas como lo haría un delincuente.",
+    "pregunta": "¿Cómo se llama ese equipo?",
+    "correcta": "Red Team",
+    "incorrectas": [
+      "Blue Team",
+      "Purple Team",
+      "Black hat",
+      "SOC",
+      "vCISO"
+    ],
+    "pista": "Simula al adversario.",
+    "explicacion": "El equipo que ataca con permiso, para probar las defensas, es el Red Team. El Blue Team defiende y el Purple Team coordina a los dos.",
+    "libro": "di_roles_pentest"
+  },
+  {
+    "id": "di-roles-02",
+    "tipo": "clasificar",
+    "titulo": "Los que miran las alertas",
+    "situacion": "Un equipo monitorea las alertas de seguridad las 24 horas, detecta un acceso sospechoso y lo bloquea.",
+    "pregunta": "¿Cómo se llama ese equipo?",
+    "correcta": "Blue Team",
+    "incorrectas": [
+      "Red Team",
+      "Purple Team",
+      "Gray hat",
+      "Black hat",
+      "Pentester externo"
+    ],
+    "pista": "Defiende y responde.",
+    "explicacion": "El equipo que vigila, detecta ataques y responde es el Blue Team.",
+    "libro": "di_roles_pentest"
+  },
+  {
+    "id": "di-roles-03",
+    "tipo": "clasificar",
+    "titulo": "El experto de los martes",
+    "situacion": "Una pyme no puede pagar un director de seguridad de tiempo completo. Contrata a una especialista externa que dos días por semana define políticas, gestiona riesgos y reporta al directorio.",
+    "pregunta": "¿Qué rol cumple?",
+    "correcta": "vCISO",
+    "incorrectas": [
+      "Pentester",
+      "SOC Analyst",
+      "Red Team",
+      "Perito de parte",
+      "Gray hat"
+    ],
+    "pista": "Es el rol de dirección de seguridad, pero como servicio.",
+    "explicacion": "La persona que dirige la estrategia de seguridad de una organización es el CISO. Si se la contrata como servicio externo o a tiempo parcial, se la llama vCISO.",
+    "libro": "di_roles_pentest"
+  },
+  {
+    "id": "di-roles-04",
+    "tipo": "caso",
+    "titulo": "Después de corregir",
+    "situacion": "El pentest encontró 12 vulnerabilidades. El equipo de desarrollo dice que ya las corrigió todas.",
+    "pregunta": "¿Qué paso sigue para confirmarlo?",
+    "correcta": "Un retest",
+    "incorrectas": [
+      "Un gap analysis contra ISO 27001",
+      "Cerrar el proyecto: si dicen que corrigieron, alcanza",
+      "Contratar un Black Team",
+      "Pedir un habeas data",
+      "Borrar el informe para que no se filtre"
+    ],
+    "pista": "Pentest → informe → correcciones → ...",
+    "explicacion": "Después de corregir las fallas, hay que volver a probar para confirmar que las correcciones funcionan. Eso es el retest.",
+    "libro": "di_roles_pentest"
+  },
+  {
+    "id": "di-roles-05",
+    "tipo": "clasificar",
+    "titulo": "El 30% con MFA",
+    "situacion": "La política de la empresa exige doble factor de autenticación para todos los empleados. Una auditoría detecta que solo el 30% lo tiene activado.",
+    "pregunta": "¿Cómo se llama ese hallazgo?",
+    "correcta": "Un gap",
+    "incorrectas": [
+      "Una vulnerabilidad de inyección SQL",
+      "Un ransomware",
+      "Un retest",
+      "Un Purple Team",
+      "Una doble extorsión"
+    ],
+    "pista": "Se compara cómo está con cómo debería estar.",
+    "explicacion": "Comparar cómo está la empresa (30% con doble factor) con cómo debería estar (100%) muestra un gap, una brecha. Una vulnerabilidad sería una falla concreta que un atacante puede aprovechar.",
+    "libro": "di_roles_pentest"
+  },
+  {
+    "id": "di-roles-06",
+    "tipo": "concepto",
+    "titulo": "El informe final",
+    "situacion": "Un cliente pregunta qué debería recibir al terminar el pentest que contrató.",
+    "pregunta": "¿Qué le respondés?",
+    "correcta": "Un informe con hallazgos, evidencia, impacto, riesgo y recomendaciones",
+    "incorrectas": [
+      "Solo un certificado que diga «sistema seguro» firmado por el pentester",
+      "Las contraseñas de todos los usuarios que se pudieron descifrar",
+      "Una copia completa de la base de datos de clientes",
+      "Una denuncia penal contra los empleados responsables",
+      "Únicamente la factura del servicio y el contrato"
+    ],
+    "pista": "Lo que recibís tiene que permitir entender y corregir cada problema.",
+    "explicacion": "El informe tiene que permitir entender y corregir cada falla: qué se encontró, pruebas, qué tan grave es, qué daño puede causar, cómo reproducirla y cómo arreglarla.",
+    "libro": "di_roles_pentest"
+  },
+  {
+    "id": "di-int-01",
+    "tipo": "caso",
+    "titulo": "Del ataque al expediente",
+    "situacion": "Un atacante envía phishing, roba credenciales, entra a la red de una empresa y cifra sus servidores pidiendo rescate. La empresa te consulta qué mira el Derecho Penal.",
+    "pregunta": "¿Qué le explicás?",
+    "correcta": "Que hay que analizar conducta, tipo penal, dolo, autoría, consumación y prueba",
+    "incorrectas": [
+      "Que alcanza con el informe técnico: si hubo ataque, hay condena segura",
+      "Que no hay delito porque la empresa tenía sistemas inseguros",
+      "Que es un problema solo de ciberseguridad, sin relevancia penal alguna",
+      "Que solo importa penalmente si la empresa pagó el rescate pedido",
+      "Que el Derecho Penal solo analiza qué pilar de la tríada CID se afectó"
+    ],
+    "pista": "La ciberseguridad explica el CÓMO. ¿Qué agrega el Derecho Penal?",
+    "explicacion": "El informe técnico explica cómo pasó. Pero para el Derecho Penal hay que ver qué hizo cada persona, si eso coincide con algún delito (acceso sin permiso, daño a los datos, extorsión), si lo hizo a propósito, quién participó y qué pruebas hay.",
+    "libro": "di_analisis_penal"
+  }
+]

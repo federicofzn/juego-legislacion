@@ -1,0 +1,130 @@
+[
+  {
+    "id": "err-pd-datos",
+    "titulo": "Tipos de datos",
+    "oraciones": [
+      "Un dato personal es información sobre una persona identificada o identificable.",
+      "El mail de un cliente es un dato sensible, porque permite contactarlo.",
+      "La afiliación a un sindicato es un dato sensible.",
+      "Un dato estadístico habla de un grupo y no permite saber quién es cada persona.",
+      "La privacidad es poder controlar qué se hace con tu información."
+    ],
+    "incorrecta": 1,
+    "correccion": "El mail de un cliente es un dato personal, pero no sensible.",
+    "pista": "Los datos sensibles revelan cosas íntimas que podrían usarse para discriminar.",
+    "explicacion": "Son sensibles los datos sobre salud, religión, opiniones políticas, afiliación sindical, origen étnico o vida sexual. Un mail es un dato personal común.",
+    "libro": "pd_conceptos"
+  },
+  {
+    "id": "err-pd-principios",
+    "titulo": "Los principios de la Ley 25.326",
+    "oraciones": [
+      "La Ley 25.326 se aplica a bases de datos públicas y privadas con información de personas.",
+      "El consentimiento tiene que ser libre, expreso e informado (art. 5 de la Ley 25.326).",
+      "Una casilla que ya viene tildada no es un consentimiento expreso.",
+      "Pedir la religión para venderte zapatillas viola el principio de finalidad.",
+      "Tener permiso para entrar a un sistema no autoriza a mirar datos por curiosidad."
+    ],
+    "incorrecta": 3,
+    "correccion": "Pedir la religión para venderte zapatillas viola el principio de calidad.",
+    "pista": "Un principio mira PARA QUÉ se usa el dato y otro QUÉ datos se piden.",
+    "explicacion": "Pedir datos de más viola la calidad, que exige pedir solo lo necesario. La finalidad se viola cuando se usa un dato para un objetivo distinto del que se pidió.",
+    "libro": "pd_ley_principios"
+  },
+  {
+    "id": "err-pd-plazos",
+    "titulo": "Los plazos de la Ley 25.326",
+    "oraciones": [
+      "El derecho de acceso permite saber qué datos tuyos tiene una empresa y para qué los usa.",
+      "La empresa tiene 10 días corridos para responder un pedido de acceso.",
+      "La actualización sirve para poner al día un dato que era correcto pero cambió.",
+      "Si la empresa no responde en el plazo, se puede iniciar una acción de habeas data.",
+      "Para corregir o borrar un dato, la empresa tiene 10 días hábiles."
+    ],
+    "incorrecta": 4,
+    "correccion": "Para corregir o borrar un dato, la empresa tiene 5 días hábiles.",
+    "pista": "Hay dos plazos distintos: uno para responder y otro para corregir.",
+    "explicacion": "Rectificar, actualizar o suprimir: 5 días hábiles (art. 16 de la Ley 25.326). Los 10 días corridos son para responder un pedido de acceso.",
+    "libro": "pd_derechos_plazos"
+  },
+  {
+    "id": "err-pd-veraz",
+    "titulo": "Veraz y el derecho al olvido",
+    "oraciones": [
+      "Una deuda impaga se puede informar como antecedente durante 2 años.",
+      "Una deuda pagada se puede informar hasta 2 años después del pago.",
+      "Veraz informa los antecedentes de pago para que un banco evalúe si prestarle a alguien.",
+      "El derecho al olvido no borra la deuda: solo hace que deje de figurar como antecedente.",
+      "Si la información es falsa, primero se le pide a la empresa que la corrija."
+    ],
+    "incorrecta": 0,
+    "correccion": "Una deuda impaga se puede informar como antecedente durante 5 años.",
+    "pista": "Una deuda pagada y una impaga no tienen el mismo plazo.",
+    "explicacion": "Deuda sin pagar: 5 años. Deuda pagada: 2 años desde el pago. Pasado ese plazo, deja de figurar (derecho al olvido).",
+    "libro": "pd_crediticios"
+  },
+  {
+    "id": "err-pd-seguridad",
+    "titulo": "La seguridad de las bases de datos",
+    "oraciones": [
+      "El art. 9 de la Ley 25.326 obliga a proteger las bases de datos personales.",
+      "La Resolución AAIP 47/2018 propone medidas concretas para cumplir esa obligación.",
+      "La ISO 27001 es una ley argentina que se aplica solo a los datos personales.",
+      "La Resolución 47/2018 reemplazó a la Disposición DNPDP 11/2006.",
+      "Tirar discos con historias clínicas sin borrarlos es descuidar la destrucción de la información."
+    ],
+    "incorrecta": 2,
+    "correccion": "La ISO 27001 es un estándar internacional para la seguridad de toda la información de una empresa.",
+    "pista": "Una de estas normas no es argentina ni es una ley.",
+    "explicacion": "La ISO 27001 no es una ley: es un estándar internacional, y abarca toda la información, no solo los datos personales.",
+    "libro": "pd_seguridad"
+  },
+  {
+    "id": "err-pd-rgpd",
+    "titulo": "El reglamento europeo (RGPD)",
+    "oraciones": [
+      "El RGPD es el reglamento de protección de datos de la Unión Europea.",
+      "El RGPD se empezó a aplicar el 25 de mayo de 2018.",
+      "Para el RGPD, la huella digital que identifica a una persona es un dato de categoría especial.",
+      "El RGPD exige un consentimiento libre, expreso, informado y escrito.",
+      "Las multas más graves llegan a 20 millones de euros o al 4% de la facturación mundial, lo que sea mayor."
+    ],
+    "incorrecta": 3,
+    "correccion": "El RGPD exige un consentimiento libre, específico, informado e inequívoco.",
+    "pista": "El RGPD y la ley argentina no piden exactamente lo mismo para el consentimiento.",
+    "explicacion": "«Libre, expreso e informado» es la fórmula de la ley argentina. El RGPD pide un consentimiento libre, específico, informado e inequívoco.",
+    "libro": "pd_rgpd"
+  },
+  {
+    "id": "err-pd-diseno",
+    "titulo": "Privacidad desde el diseño",
+    "oraciones": [
+      "Privacidad desde el diseño significa agregar la protección de datos cuando el sistema ya funciona.",
+      "La minimización consiste en no pedir datos que el sistema no necesita.",
+      "Cada usuario del sistema debería ver solo los datos que necesita para su tarea.",
+      "El sistema tiene que permitir encontrar, corregir o borrar los datos de una persona.",
+      "Los algoritmos y los puntajes de riesgo pueden afectar derechos concretos de la gente."
+    ],
+    "incorrecta": 0,
+    "correccion": "Privacidad desde el diseño significa pensar la protección de datos desde el primer día del proyecto.",
+    "pista": "El nombre del principio dice en qué momento hay que pensar la protección.",
+    "explicacion": "La idea es lo contrario de un parche al final: la protección de los datos se planifica desde el inicio del proyecto.",
+    "libro": "pd_diseno"
+  },
+  {
+    "id": "err-pd-derechos",
+    "titulo": "Los derechos sobre tus datos",
+    "oraciones": [
+      "La rectificación sirve para corregir un dato que está mal, como un DNI mal cargado.",
+      "La supresión sirve para poner al día un dato que era correcto pero cambió, como un domicilio.",
+      "El derecho de acceso es gratis si se pide cada seis meses o más.",
+      "Los días corridos cuentan todos los días del calendario, incluidos los feriados.",
+      "Los días hábiles cuentan solo los días laborables."
+    ],
+    "incorrecta": 1,
+    "correccion": "La actualización sirve para poner al día un dato que era correcto pero cambió, como un domicilio.",
+    "pista": "Corregir, poner al día y borrar son tres pedidos distintos.",
+    "explicacion": "La supresión es pedir que borren un dato que no deberían tener. Poner al día un dato que quedó viejo es la actualización.",
+    "libro": "pd_derechos_plazos"
+  }
+]

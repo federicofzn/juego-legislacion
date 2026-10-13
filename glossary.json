@@ -1,0 +1,335 @@
+[
+  {
+    "id": "norma",
+    "termino": "Norma",
+    "definicion": "Una regla que dice cómo hay que comportarse.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))normas?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": [
+      "dye_glosario",
+      "dye_normas"
+    ]
+  },
+  {
+    "id": "constitucion",
+    "termino": "Constitución",
+    "definicion": "La ley más importante del país.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))Constitución(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": [
+      "dye_glosario",
+      "dye_constitucion"
+    ]
+  },
+  {
+    "id": "delito",
+    "termino": "Delito",
+    "definicion": "Algo que está penado por la ley, como robar o matar.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))delitos?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": [
+      "dp_glosario",
+      "dp_teoria_delito"
+    ]
+  },
+  {
+    "id": "pena",
+    "termino": "Pena",
+    "definicion": "Lo que le toca a quien hace algo prohibido: por ejemplo, ir preso o pagar una multa.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))penas?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": [
+      "dp_glosario"
+    ]
+  },
+  {
+    "id": "forma",
+    "termino": "Forma (de gobierno)",
+    "definicion": "Quiere decir «manera» o «modelo». La forma de gobierno es el modelo que la Argentina adoptó para gobernarse.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))forma(?=\\s+(?:federal|republicana|representativa|de gobierno|de Estado)(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}])))",
+    "definidoEn": []
+  },
+  {
+    "id": "organo",
+    "termino": "Órgano",
+    "definicion": "Cada parte del Estado con una función propia, como el Congreso o un tribunal. Igual que los órganos del cuerpo.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))órganos?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "organismo",
+    "termino": "Organismo",
+    "definicion": "Oficina o institución del Estado que se ocupa de un tema, como un ministerio o una agencia.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))organismos?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "poder-judicial",
+    "termino": "Poder Judicial",
+    "definicion": "El poder formado por los jueces y tribunales, que resuelve los conflictos aplicando las leyes.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))Poder Judicial(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": [
+      "dye_poderes"
+    ]
+  },
+  {
+    "id": "congreso",
+    "termino": "Congreso",
+    "definicion": "Donde se hacen las leyes del país. Lo forman la Cámara de Diputados y el Senado.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))Congreso(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "legislatura",
+    "termino": "Legislatura",
+    "definicion": "El órgano que hace las leyes de una provincia.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))legislaturas?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "sancionar",
+    "termino": "Sancionar (una ley)",
+    "definicion": "Aprobar una ley: el Congreso o una legislatura la vota. Ojo: acá «sancionar» no significa castigar.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))sanciona(?:r|n|do|da)?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))(?=\\s+(?:una|la|las|leyes)(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}])))",
+    "definidoEn": []
+  },
+  {
+    "id": "decreto",
+    "termino": "Decreto",
+    "definicion": "Una norma que dicta el Presidente.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))decretos?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "mandato",
+    "termino": "Mandato",
+    "definicion": "Tiempo durante el cual una persona elegida ocupa su cargo. Viene de «mandar» como encargar: los votantes le encargan la tarea.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))mandatos?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": [
+      "dye_poderes"
+    ]
+  },
+  {
+    "id": "soberania",
+    "termino": "Soberanía",
+    "definicion": "El poder de un Estado para decidir sin depender de otro país.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))soberanía(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "tratado",
+    "termino": "Tratado (o convención)",
+    "definicion": "Acuerdo firmado entre países, que los obliga a cumplir lo que pactaron.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))(?:tratados?|convenci(?:ón|ones))(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": [
+      "dye_glosario",
+      "dye_tratados_generaciones"
+    ]
+  },
+  {
+    "id": "inconstitucional",
+    "termino": "Inconstitucional",
+    "definicion": "Que va en contra de lo que dice la Constitución.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))inconstitucional(?:es)?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "competente",
+    "termino": "Autoridad competente",
+    "definicion": "La autoridad que, según la ley, tiene el poder de decidir sobre ese tema. Acá «competente» no significa hábil.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))competentes?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "vigente",
+    "termino": "Vigente",
+    "definicion": "Que se aplica hoy: la norma sigue valiendo y nadie la reemplazó ni la dejó sin efecto.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))vigentes?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "abrogar",
+    "termino": "Abrogar",
+    "definicion": "Dejar sin efecto una norma por completo.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))abrog\\w*",
+    "definidoEn": []
+  },
+  {
+    "id": "codigo-penal",
+    "termino": "Código Penal",
+    "definicion": "El conjunto de normas que reúne casi todos los delitos y sus penas en la Argentina.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))Código Penal(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": [
+      "dp_glosario",
+      "dp_bienes_codigo"
+    ]
+  },
+  {
+    "id": "inciso",
+    "termino": "Inciso (inc.)",
+    "definicion": "Cada parte numerada dentro de un artículo de una ley.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))inc\\.(?=\\s*\\d)",
+    "definidoEn": []
+  },
+  {
+    "id": "bis",
+    "termino": "Bis",
+    "definicion": "Artículo agregado después de otro. «Bis» es latín y significa «dos veces»: el número se repite y la numeración sigue igual.",
+    "source": "(?<=\\d\\s)bis(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "figura",
+    "termino": "Figura (penal)",
+    "definicion": "Cada delito descripto en la ley. Se le dice así porque la ley «dibuja» la conducta prohibida. Ej.: el hurto es una figura.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))figuras?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))(?!\\s+(?:como|en)(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}])))",
+    "definidoEn": []
+  },
+  {
+    "id": "corte-suprema",
+    "termino": "Corte Suprema",
+    "definicion": "El tribunal más alto del país. «Corte» es otro nombre para un tribunal, y «suprema», que está por encima de los demás.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))Corte Suprema(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "tribunal",
+    "termino": "Tribunal",
+    "definicion": "Órgano formado por uno o varios magistrados que decide los conflictos.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))tribunal(?:es)?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "sentencia",
+    "termino": "Sentencia",
+    "definicion": "Decisión que toma un juez al final de un juicio.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))sentencias?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "fallo",
+    "termino": "Fallo",
+    "definicion": "La decisión de un tribunal sobre un caso. Viene de «fallar», que en Derecho significa decidir un juicio, no equivocarse.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))fallos?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))(?=\\s+(?:de|del)(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}])))",
+    "definidoEn": []
+  },
+  {
+    "id": "fiscalia",
+    "termino": "Fiscalía",
+    "definicion": "El organismo donde trabajan los fiscales, que investigan los delitos y acusan en los juicios.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))fiscalía(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "denuncia",
+    "termino": "Denuncia",
+    "definicion": "Aviso formal a la policía o a la fiscalía de que ocurrió un posible delito.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))denuncia(?:r|s)?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "allanamiento",
+    "termino": "Allanamiento",
+    "definicion": "Orden de un juez para entrar a un lugar, como una casa, y buscar pruebas.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))allanamientos?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "testigo",
+    "termino": "Testigo",
+    "definicion": "Persona que cuenta en un juicio lo que vio o sabe sobre el hecho.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))testigos?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "juramento",
+    "termino": "Bajo juramento",
+    "definicion": "Después de prometer formalmente ante el juez que se va a decir la verdad.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))juramento(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "coartada",
+    "termino": "Coartada",
+    "definicion": "Explicación de que el acusado estaba en otro lugar cuando ocurrió el hecho.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))coartadas?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "condena",
+    "termino": "Condena",
+    "definicion": "Decisión del juez que declara culpable a una persona y le aplica una pena.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))condena(?:s|do|da|dos|das)?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": [
+      "dp_glosario"
+    ]
+  },
+  {
+    "id": "perpetua",
+    "termino": "Prisión perpetua",
+    "definicion": "La pena de prisión más grave del Código Penal. «Perpetua» significa «para toda la vida», aunque a veces se puede salir tras muchos años.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))prisión perpetua(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "antecedente",
+    "termino": "Antecedente",
+    "definicion": "Registro de algo que pasó antes y que se puede tener en cuenta después, como una deuda impaga o una condena.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))antecedentes?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "arbitrario",
+    "termino": "Arbitrario",
+    "definicion": "Que se hace por capricho, sin una razón legal que lo justifique.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))arbitrari(?:o|a|os|as)(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "patrimonio",
+    "termino": "Patrimonio",
+    "definicion": "El conjunto de bienes y dinero que tiene una persona.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))patrimoni(?:o|al|ales)(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": [
+      "dp_propiedad"
+    ]
+  },
+  {
+    "id": "inmueble",
+    "termino": "Inmueble",
+    "definicion": "Una casa, un departamento o un terreno: los bienes que están fijos en el suelo.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))inmuebles?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "embargo",
+    "termino": "Embargo",
+    "definicion": "Orden de un juez para retener dinero o bienes de una persona y así cubrir una deuda.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))embarg(?:o|os|ar|an|aron|ado|ada)(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "intimacion",
+    "termino": "Intimación",
+    "definicion": "Reclamo formal para que alguien cumpla algo, por ejemplo pagar una deuda.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))intimaci(?:ón|ones)(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "carta-documento",
+    "termino": "Carta documento",
+    "definicion": "Carta con valor legal: deja constancia de qué se envió, a quién y cuándo.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))carta documento(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "sena",
+    "termino": "Seña",
+    "definicion": "Dinero que se paga por adelantado para reservar una compra.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))señas?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  },
+  {
+    "id": "coima",
+    "termino": "Coima",
+    "definicion": "Pago ilegal a un funcionario para que haga o deje de hacer algo.",
+    "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))coimas?(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
+    "definidoEn": []
+  }
+]
