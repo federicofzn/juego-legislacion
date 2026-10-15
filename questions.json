@@ -501,7 +501,7 @@
     "explicacion": "Revisar si una ley respeta la Constitución, y no aplicarla si no la respeta, es «control de constitucionalidad». Lo hacen los jueces: el Poder Judicial.",
     "referencia": {
       "tipo": "Estado",
-      "titulo": "Los tres poderes y cuánto duran los mandatos",
+      "titulo": "Los tres poderes, los mandatos y cómo se hace una ley",
       "entradaLibro": "dye_poderes"
     }
   },
@@ -524,7 +524,7 @@
     "explicacion": "Art. 56 de la Constitución: los senadores duran 6 años, pueden ser reelegidos sin límite y cada 2 años se renueva un tercio del Senado. (Los diputados duran 4 años y se renuevan por mitades).",
     "referencia": {
       "tipo": "Estado",
-      "titulo": "Los tres poderes y cuánto duran los mandatos",
+      "titulo": "Los tres poderes, los mandatos y cómo se hace una ley",
       "entradaLibro": "dye_poderes"
     }
   },
@@ -547,7 +547,7 @@
     "explicacion": "Art. 50 de la Constitución: los diputados duran 4 años, pueden ser reelegidos y cada 2 años se renueva la mitad de la Cámara.",
     "referencia": {
       "tipo": "Estado",
-      "titulo": "Los tres poderes y cuánto duran los mandatos",
+      "titulo": "Los tres poderes, los mandatos y cómo se hace una ley",
       "entradaLibro": "dye_poderes"
     }
   },
@@ -570,7 +570,7 @@
     "explicacion": "Art. 90 de la Constitución: el mandato presidencial dura 4 años y se permite una sola reelección seguida. Después de dos mandatos seguidos hay que esperar un mandato antes de volver a presentarse.",
     "referencia": {
       "tipo": "Estado",
-      "titulo": "Los tres poderes y cuánto duran los mandatos",
+      "titulo": "Los tres poderes, los mandatos y cómo se hace una ley",
       "entradaLibro": "dye_poderes"
     }
   },
@@ -593,7 +593,30 @@
     "explicacion": "La Constitución (art. 45) da una regla: un diputado cada 33.000 habitantes, que el Congreso puede actualizar después de cada censo. Hoy hay 257 diputados.",
     "referencia": {
       "tipo": "Estado",
-      "titulo": "Los tres poderes y cuánto duran los mandatos",
+      "titulo": "Los tres poderes, los mandatos y cómo se hace una ley",
+      "entradaLibro": "dye_poderes"
+    }
+  },
+  {
+    "id": "dye-poderes-06",
+    "unidad": "derecho_y_estado",
+    "tipo": "caso",
+    "titulo": "Antes de promulgar",
+    "situacion": "Un diputado presentó un proyecto de ley para crear un impuesto nuevo. La Cámara de Diputados ya lo aprobó, y un periodista te pregunta cuándo lo va a promulgar el Presidente.",
+    "pregunta": "¿Qué tiene que pasar antes de que el Presidente pueda promulgar la ley?",
+    "respuestaCorrecta": "Que el Senado también lo apruebe: se necesitan las dos cámaras",
+    "respuestasIncorrectas": [
+      "Nada más: con la aprobación de Diputados ya se puede promulgar",
+      "Que la Corte Suprema revise si el impuesto respeta la Constitución",
+      "Que se publique en el Boletín Oficial antes de llegar al Presidente",
+      "Que lo apruebe una consulta popular, porque es un impuesto nuevo",
+      "Que el Senado lo apruebe solo si Diputados no llegó a dos tercios"
+    ],
+    "pista": "Diputados no decide solo.",
+    "explicacion": "Un proyecto tiene que pasar por las dos cámaras del Congreso: la de origen (acá Diputados, porque los proyectos de impuestos empiezan ahí) y la revisora (el Senado). Recién cuando las dos lo aprueban, la ley queda sancionada y pasa al Presidente, que puede promulgarla o vetarla. Después se publica en el Boletín Oficial para que entre en vigencia.",
+    "referencia": {
+      "tipo": "Estado",
+      "titulo": "Los tres poderes, los mandatos y cómo se hace una ley",
       "entradaLibro": "dye_poderes"
     }
   },

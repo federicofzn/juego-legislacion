@@ -72,7 +72,7 @@
   {
     "id": "sancionar",
     "termino": "Sancionar (una ley)",
-    "definicion": "Aprobar una ley: el Congreso o una legislatura la vota. Ojo: acá «sancionar» no significa castigar.",
+    "definicion": "Aprobar una ley: pasa cuando las dos cámaras del Congreso la votan a favor. Acá «sancionar» no significa castigar.",
     "patron": "\\bsanciona(?:r|n|do|da)?\\b(?=\\s+(?:una|la|las|leyes)\\b)"
   },
   {

@@ -468,6 +468,24 @@
     "libro": "dye_poderes"
   },
   {
+    "id": "dye-poderes-06",
+    "tipo": "caso",
+    "titulo": "Antes de promulgar",
+    "situacion": "Un diputado presentó un proyecto de ley para crear un impuesto nuevo. La Cámara de Diputados ya lo aprobó, y un periodista te pregunta cuándo lo va a promulgar el Presidente.",
+    "pregunta": "¿Qué tiene que pasar antes de que el Presidente pueda promulgar la ley?",
+    "correcta": "Que el Senado también lo apruebe: se necesitan las dos cámaras",
+    "incorrectas": [
+      "Nada más: con la aprobación de Diputados ya se puede promulgar",
+      "Que la Corte Suprema revise si el impuesto respeta la Constitución",
+      "Que se publique en el Boletín Oficial antes de llegar al Presidente",
+      "Que lo apruebe una consulta popular, porque es un impuesto nuevo",
+      "Que el Senado lo apruebe solo si Diputados no llegó a dos tercios"
+    ],
+    "pista": "Diputados no decide solo.",
+    "explicacion": "Un proyecto tiene que pasar por las dos cámaras del Congreso: la de origen (acá Diputados, porque los proyectos de impuestos empiezan ahí) y la revisora (el Senado). Recién cuando las dos lo aprueban, la ley queda sancionada y pasa al Presidente, que puede promulgarla o vetarla. Después se publica en el Boletín Oficial para que entre en vigencia.",
+    "libro": "dye_poderes"
+  },
+  {
     "id": "dye-garant-01",
     "tipo": "caso",
     "titulo": "Detenido sin orden",

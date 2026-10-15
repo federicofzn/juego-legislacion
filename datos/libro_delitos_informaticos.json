@@ -1,5 +1,8 @@
 {
-  "unidad": { "key": "delitos_informaticos", "titulo": "Delitos Informáticos" },
+  "unidad": {
+    "key": "delitos_informaticos",
+    "titulo": "Delitos Informáticos"
+  },
   "entradas": {
     "di_glosario": {
       "categoria": "Empezá por acá",
@@ -89,7 +92,7 @@
       ],
       "notas": [
         "Grooming (Ley 26.904, art. 131 del Código Penal): cuando un adulto contacta a una persona menor de edad por cualquier medio tecnológico (chat, red social, videojuego en línea) con el objetivo de cometer un abuso sexual contra ella. Muchas veces el adulto se hace pasar por alguien de la misma edad para ganarse su confianza.",
-        "Material de abuso sexual infantil, MASI (Ley 27.436, art. 128): castiga producir, distribuir o comercializar imágenes de abuso sexual de menores, y desde esta ley también la simple tenencia (tenerlas guardadas aunque no se compartan).",
+        "Material de abuso sexual infantil, MASI (Ley 27.436, art. 128 del Código Penal): castiga producir, distribuir o comercializar imágenes de abuso sexual de menores, y desde esta ley también la simple tenencia (tenerlas guardadas aunque no se compartan).",
         "Ley Olimpia (Ley 27.736): reconoce la violencia digital como una forma de violencia contra las mujeres. Por ejemplo: difundir fotos íntimas sin consentimiento, acosar o vigilar a una mujer a través de redes o dispositivos. Lleva el nombre de Olimpia Coral Melo, activista mexicana.",
         "Convenio de Budapest: un tratado internacional sobre ciberdelitos. Busca que los países tengan leyes parecidas y que cooperen entre sí para investigar y conservar pruebas digitales. La Argentina se sumó con la Ley 27.411 (2017).",
         "Por qué hace falta cooperación: en un ciberdelito, el atacante, la víctima, los servidores y las pruebas pueden estar en países distintos. Sin acuerdos entre países, la investigación se traba."

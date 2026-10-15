@@ -1,5 +1,8 @@
 {
-  "unidad": { "key": "derecho_y_estado", "titulo": "Derecho y Estado" },
+  "unidad": {
+    "key": "derecho_y_estado",
+    "titulo": "Derecho y Estado"
+  },
   "entradas": {
     "dye_glosario": {
       "categoria": "Empezá por acá",
@@ -144,7 +147,7 @@
     },
     "dye_poderes": {
       "categoria": "Estado",
-      "titulo": "Los tres poderes y cuánto duran los mandatos",
+      "titulo": "Los tres poderes, los mandatos y cómo se hace una ley",
       "intro": [
         "El poder del Estado está dividido en tres para que ninguna persona o grupo lo concentre todo. Cada poder tiene una tarea y además controla a los otros.",
         "«Mandato» es el tiempo que una persona elegida ocupa su cargo."
@@ -156,10 +159,17 @@
         "Presidente y vicepresidente (art. 90): duran 4 años. Pueden ser reelegidos UNA sola vez seguida. Después de dos mandatos seguidos, tienen que esperar un mandato (4 años) antes de volver a presentarse.",
         "Diputados (art. 50): duran 4 años y pueden ser reelegidos. La Cámara se renueva por MITADES cada 2 años (cada elección cambia la mitad de los diputados).",
         "Senadores (art. 56): duran 6 años y pueden ser reelegidos sin límite. El Senado se renueva por TERCIOS cada 2 años (cada elección cambia un tercio).",
-        "Cantidad de diputados (art. 45): la Constitución fija una regla: un diputado cada 33.000 habitantes (o fracción de por lo menos 16.500), y el Congreso puede actualizarla después de cada censo. Hoy la Cámara tiene 257 diputados."
+        "Cantidad de diputados (art. 45): la Constitución fija una regla: un diputado cada 33.000 habitantes (o fracción de por lo menos 16.500), y el Congreso puede actualizarla después de cada censo. Hoy la Cámara tiene 257 diputados.",
+        "Cómo se presenta un proyecto de ley: lo pueden presentar los diputados y senadores, el Presidente, o los ciudadanos con una iniciativa popular (que entra por la Cámara de Diputados).",
+        "Cámara de origen y cámara revisora: todo proyecto entra por una de las dos cámaras del Congreso. La primera que lo trata es la cámara de origen; la otra, la cámara revisora. Algunos temas tienen que empezar en una cámara fija: los impuestos y el reclutamiento de tropas, en Diputados; el reparto de impuestos entre la Nación y las provincias (coparticipación), en el Senado.",
+        "Sanción: el proyecto queda sancionado, es decir, aprobado por el Congreso, cuando lo aprueban las dos cámaras. Si la revisora le hace cambios, vuelve a la cámara de origen, que puede aceptarlos o insistir con su texto. Si la revisora lo rechaza del todo, no se puede volver a tratar en las sesiones de ese año.",
+        "Promulgación: después de la sanción, la ley pasa al Presidente, que la aprueba con un decreto. Si no dice nada en 10 días hábiles, queda promulgada igual.",
+        "Veto: el Presidente también puede rechazar (vetar) la ley entera o una parte. Entonces vuelve al Congreso: si las dos cámaras insisten con dos tercios de los votos, la ley sale igual.",
+        "Publicación: para entrar en vigencia, la ley se publica en el Boletín Oficial. Ahí termina el proceso."
       ],
       "ejemplos": [
-        "Un juez declara que un decreto del presidente viola la Constitución: es el Poder Judicial controlando al Ejecutivo."
+        "Un juez declara que un decreto del presidente viola la Constitución: es el Poder Judicial controlando al Ejecutivo.",
+        "Un proyecto sobre un impuesto nuevo empieza en Diputados (cámara de origen) y pasa al Senado (cámara revisora). Cuando las dos lo aprueban, el Presidente lo promulga y se publica en el Boletín Oficial."
       ],
       "ojo": "Diputados: 4 años, se renuevan por mitades. Senadores: 6 años, se renuevan por tercios. En los dos casos hay elecciones cada 2 años."
     },
