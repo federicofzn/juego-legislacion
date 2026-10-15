@@ -62,12 +62,15 @@ body {
   gap: 12px;
 }
 
+/* El nombre nunca baja de ~190px: si no entra junto a los contadores, los contadores pasan a otra linea. */
 .player-main > :first-child {
-  flex: 1 1 auto;
+  flex: 1 1 190px;
   min-width: 0;
 }
 
 .player-panel p {
+  overflow: hidden;
+  text-overflow: ellipsis;
   white-space: nowrap;
 }
 
@@ -79,14 +82,14 @@ body {
 }
 
 @media (min-width: 1024px) {
-  .player-main,
   .player-stats {
     flex-wrap: nowrap;
   }
 }
 
-/* Debajo de 1536px los indicadores muestran solo icono y numero (la etiqueta queda como tooltip). */
-@media (min-width: 1024px) and (max-width: 1535px) {
+/* En computadora los indicadores muestran solo icono y numero (la etiqueta queda como tooltip):
+   con las etiquetas, los indicadores no dejan lugar al nombre del jugador. */
+@media (min-width: 1024px) {
   .stat-chip > .stat-label,
   .delete-game-label {
     display: none;
@@ -322,6 +325,57 @@ body {
   padding: 0 12px;
   font-weight: 900;
   outline: none;
+}
+
+/* Unidades que entran en la partida (pantalla inicial). */
+.unit-picker {
+  border: 1px solid #cbd5e1;
+  border-radius: 14px;
+  background: white;
+  padding: 10px 14px 12px;
+}
+
+.unit-picker legend {
+  padding: 0 4px;
+  color: #64748b;
+  font-size: 0.75rem;
+  font-weight: 900;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.unit-checks {
+  display: grid;
+  gap: 6px 14px;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+}
+
+.unit-check {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.unit-check input {
+  width: 17px;
+  height: 17px;
+  flex-shrink: 0;
+  accent-color: #0f766e;
+}
+
+.unit-picker-hint {
+  margin-top: 6px;
+  color: #be123c;
+  font-size: 0.82rem;
+  font-weight: 800;
+}
+
+.primary-btn:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+  box-shadow: none;
 }
 
 /* Opcion "Modo reloj" de la pantalla inicial. */

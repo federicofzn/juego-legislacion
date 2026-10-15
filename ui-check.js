@@ -130,6 +130,7 @@ assert(js.includes("gloss.closest(\"button, [role=") && js.includes("event.stopP
 assert(!css.includes(".gloss::after") && /.gloss {[^}]*font-style: italic/.test(css) && css.includes(".gloss-tip"), "las palabras del glosario van en cursiva con subrayado, sin icono, y tienen tooltip");
 assert(html.includes('id="bookExpandBtn"') && js.includes("function setBookExpanded") && css.includes(".bottom-row.book-expanded .game-panel"), "el libro tiene un boton para expandirse a todo el ancho y ocultar el panel de juego");
 assert(js.includes("const bookGloss = (key)") && js.includes("render: highlightSearchText") && js.includes("renderNote(note, gloss)"), "el libro marca las palabras del glosario, salvo en la entrada que las define");
+assert(html.includes('id="unitChecks"') && js.includes("function inPlay") && js.includes(".filter(inPlay)") && js.includes("enabledUnits: state.enabledUnits"), "antes de empezar se eligen las unidades, y los desafios salen solo de ellas");
 console.log("glossary checks ok");
 assert(!/\.path-step\.future\.(shop|timed|definition|boss|match|review)/.test(css) && css.includes(".path-step.future .path-icon"), "los pasos futuros del mapa deben verse apagados, sin el color de su tipo");
 assert(html.includes('id="bookLock"') && js.includes("els.bookPanel.inert = locked"), "el libro de consulta se bloquea durante el jefe");

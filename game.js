@@ -77,7 +77,8 @@ const REVIEW = {
 const STORAGE = {
   game: "estudioUndav.partida",
   memory: "estudioUndav.memoria",
-  achievements: "estudioUndav.logros"
+  achievements: "estudioUndav.logros",
+  units: "estudioUndav.unidades"
 };
 
 // Cantidad de errores que terminan la partida.
@@ -127,6 +128,7 @@ const state = {
   playerTitle: "Dr.",
   playerName: "Estudiante",
   clockMode: false,
+  enabledUnits: null,
   inventory: {
     hint: 0,
     discard: 0,
@@ -191,7 +193,7 @@ function bindElements() {
     "discardBtn", "swapBtn", "bookTitle", "bookBackBtn", "bookSearch",
     "bookSearchCount", "bookPrevMatchBtn", "bookNextMatchBtn", "bookUnits",
     "bookEntries", "suggestedEntryBtn", "gameOverModal",
-    "finalStats", "restartBtn", "caseTitle", "playerName", "titleSelect", "clockModeCheck",
+    "finalStats", "restartBtn", "caseTitle", "playerName", "titleSelect", "clockModeCheck", "unitChecks", "unitPickerHint",
     "playerDisplay", "caseUnitLabel", "hintCount", "discardCount", "swapCount",
     "shopScreen", "buyHintBtn", "buyDiscardBtn", "buySwapBtn", "buyEraseBtn", "continueFromShopBtn",
     "shopPoints", "shopHintOwned", "shopDiscardOwned", "shopSwapOwned", "shopMistakes",
@@ -206,6 +208,7 @@ function bindElements() {
 }
 
 function bindEvents() {
+  renderUnitPicker();
   bindGlossaryTooltip();
   els.startBtn.addEventListener("click", startGame);
   els.restartBtn.addEventListener("click", startGame);
@@ -240,6 +243,10 @@ function startGame() {
   state.playerTitle = els.titleSelect.value;
   state.playerName = els.playerName.value.trim() || "Estudiante";
   state.clockMode = els.clockModeCheck.checked;
+  state.enabledUnits = selectedUnits();
+  if (!state.enabledUnits.length) return;
+  writeStorage(STORAGE.units, state.enabledUnits);
+  state.matchGroups = null;
   state.score = 0;
   state.mistakes = 0;
   state.solved = 0;
@@ -262,6 +269,8 @@ function startGame() {
 
 function showGameLayout() {
   els.playerDisplay.textContent = `${state.playerTitle} ${state.playerName}`;
+  // Si el nombre no entra y se corta con "…", al pasar el mouse se ve completo.
+  els.playerDisplay.title = els.playerDisplay.textContent;
   els.startScreen.classList.add("hidden");
   els.gameScreen.classList.remove("hidden");
   els.gameOverModal.classList.add("hidden");
@@ -337,8 +346,9 @@ function showCase() {
 // Entre las candidatas, pesan mas las que el jugador fallo en partidas anteriores.
 function pickQuestion(kind) {
   const pools = { definition: state.definitions, timed: state.timedQuestions, error: state.errors };
-  const pool = pools[kind] || state.questions;
-  const source = pool.length ? pool : state.questions;
+  const pool = (pools[kind] || state.questions).filter(inPlay);
+  const fallback = state.questions.filter(inPlay);
+  const source = pool.length ? pool : fallback.length ? fallback : state.questions;
   const pending = new Set(state.path.steps.filter((step) => step.reviewId).map((step) => step.reviewId));
   const recent = new Set(state.recentIds);
   const correct = new Set(state.correctIds);
@@ -997,6 +1007,7 @@ function saveGame() {
     playerTitle: state.playerTitle,
     playerName: state.playerName,
     clockMode: state.clockMode,
+    enabledUnits: state.enabledUnits,
     score: state.score,
     mistakes: state.mistakes,
     solved: state.solved,
@@ -1038,6 +1049,8 @@ function restoreGame() {
     playerTitle: saved.playerTitle,
     playerName: saved.playerName,
     clockMode: Boolean(saved.clockMode),
+    enabledUnits: saved.enabledUnits || null,
+    matchGroups: null,
     score: saved.score,
     mistakes: saved.mistakes,
     solved: saved.solved,
@@ -1062,6 +1075,7 @@ function restoreGame() {
   els.titleSelect.value = state.playerTitle;
   els.playerName.value = state.playerName;
   els.clockModeCheck.checked = state.clockMode;
+  syncUnitPicker(state.enabledUnits);
   showGameLayout();
   renderPath({ animate: false });
 
@@ -1145,6 +1159,7 @@ function deleteGame() {
   els.progressTrack.innerHTML = "";
   els.startScreen.classList.remove("hidden");
   els.playerDisplay.textContent = "Sin registrar";
+  els.playerDisplay.title = "";
   els.deleteGameBtn.disabled = true;
   renderSuggestedEntry();
   updateStats();
@@ -1230,6 +1245,42 @@ function clockModeNotice() {
   return `El reloj de los eventos sigue en ${now} segundos, el mínimo.`;
 }
 
+// ---------- Unidades de la partida ----------
+// Antes de empezar se eligen las unidades: los desafios salen solo de ellas. El libro sigue mostrando todas.
+function inPlay(item) {
+  return !state.enabledUnits || state.enabledUnits.includes(item.unidad);
+}
+
+function renderUnitPicker() {
+  const saved = readStorage(STORAGE.units);
+  els.unitChecks.innerHTML = state.reference.unidades.map((unit) => `
+    <label class="unit-check">
+      <input type="checkbox" value="${escapeHtml(unit.key)}" checked>
+      <span>${escapeHtml(unit.titulo)}</span>
+    </label>
+  `).join("");
+  els.unitChecks.addEventListener("change", updateUnitPicker);
+  syncUnitPicker(Array.isArray(saved) ? saved : null);
+}
+
+// Marca las unidades indicadas (null = todas) y actualiza el boton de empezar.
+function syncUnitPicker(keys) {
+  els.unitChecks.querySelectorAll("input").forEach((input) => {
+    input.checked = !keys || keys.includes(input.value);
+  });
+  updateUnitPicker();
+}
+
+function selectedUnits() {
+  return [...els.unitChecks.querySelectorAll("input:checked")].map((input) => input.value);
+}
+
+function updateUnitPicker() {
+  const none = selectedUnits().length === 0;
+  els.startBtn.disabled = none;
+  els.unitPickerHint.classList.toggle("hidden", !none);
+}
+
 // Expandir: el libro ocupa todo el ancho y el panel de juego se oculta. Contraer vuelve a las dos columnas.
 function setBookExpanded(expanded) {
   els.bottomRow.classList.toggle("book-expanded", expanded);
@@ -1281,7 +1332,7 @@ const MATCH_BONUS_SECONDS = 5;
 function definitionGroups() {
   if (!state.matchGroups) {
     const groups = new Map();
-    state.definitions.forEach((item) => {
+    state.definitions.filter(inPlay).forEach((item) => {
       const key = `${item.unidad}:${item.grupo}`;
       if (!groups.has(key)) groups.set(key, []);
       groups.get(key).push(item);
