@@ -281,6 +281,7 @@ function showGameLayout() {
   els.shopScreen.classList.add("hidden");
   els.progressEmpty.classList.add("hidden");
   els.deleteGameBtn.disabled = false;
+  renderBook();
 }
 
 // Prepara un desafio en el panel central: caso comun, contrarreloj, definicion o repaso.
@@ -1250,7 +1251,7 @@ function clockModeNotice() {
 }
 
 // ---------- Unidades de la partida ----------
-// Antes de empezar se eligen las unidades: los desafios salen solo de ellas. El libro sigue mostrando todas.
+// Los desafíos y el libro usan las unidades elegidas para la partida.
 function inPlay(item) {
   return !state.enabledUnits || state.enabledUnits.includes(item.unidad);
 }
@@ -1715,7 +1716,7 @@ function showBookIndex() {
   els.bookTitle.textContent = "Indice";
   els.bookBackBtn.classList.add("hidden");
   els.bookUnits.innerHTML = "";
-  state.reference.unidades.forEach((unit) => {
+  availableBookUnits().forEach((unit) => {
     const matchCount = countUnitMatches(unit.key);
     const button = document.createElement("button");
     button.className = `unit-btn ${matchCount ? "has-search-match" : ""}`;
@@ -1734,6 +1735,10 @@ function renderBook(highlightKey = null) {
 
 function openBookSection(unitKey, highlightKey = null) {
   const unit = findUnit(unitKey);
+  if (!unit || !inPlay({ unidad: unitKey })) {
+    showBookIndex();
+    return;
+  }
   state.selectedUnit = unitKey;
   state.searchHitIndex = -1;
   els.bookTitle.textContent = unit ? unit.titulo : "Seccion";
@@ -1868,7 +1873,11 @@ function getVisibleSearchHits() {
 }
 
 function countAllUnitMatches() {
-  return state.reference.unidades.reduce((total, unit) => total + countUnitMatches(unit.key), 0);
+  return availableBookUnits().reduce((total, unit) => total + countUnitMatches(unit.key), 0);
+}
+
+function availableBookUnits() {
+  return state.reference.unidades.filter((unit) => inPlay({ unidad: unit.key }));
 }
 
 function countUnitMatches(unitKey) {

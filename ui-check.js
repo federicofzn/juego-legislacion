@@ -1,6 +1,7 @@
 const assert = require("assert");
 const fs = require("fs");
 const path = require("path");
+const vm = require("vm");
 
 const html = fs.readFileSync(path.join(__dirname, "index.html"), "utf8");
 const js = fs.readFileSync(path.join(__dirname, "game.js"), "utf8");
@@ -145,3 +146,47 @@ assert(js.includes('classList.toggle("book-fullscreen", expanded)') && css.inclu
 assert(js.includes("hint: 3,") && js.includes("discard: 4,") && js.includes("swap: 5,") && html.includes("3 puntos · muestra una ayuda") && html.includes("4 puntos · elimina") && html.includes("5 puntos · reemplaza"), "la tienda cobra 3 la pista, 4 descartar y 5 cambiar");
 assert(js.includes("launchFireworks(els.achievementToast, tier)") && js.includes("function fireworkColors(tier)") && js.includes("prefers-reduced-motion: reduce") && css.includes(".fireworks-canvas") && css.includes("pointer-events: none"), "al desbloquear un logro salen fuegos artificiales del aviso, sin bloquear clics y respetando reducir movimiento");
 assert(js.includes("queueAchievementToasts(leveled)") && js.includes("setTimeout(showNextAchievementToast, 400)"), "si se desbloquean varios logros juntos, los avisos salen uno despues del otro");
+
+// El libro debe respetar la selección también al iniciar o restaurar la partida.
+function bookElement() {
+  return {
+    children: [],
+    classList: { add() {}, remove() {} },
+    addEventListener() {},
+    querySelectorAll() { return []; },
+    appendChild(child) { this.children.push(child); },
+    set innerHTML(value) { this.children = []; this.html = value; },
+    get innerHTML() { return this.html || ""; }
+  };
+}
+const bookContext = vm.createContext({
+  document: { addEventListener() {}, createElement: bookElement }
+});
+vm.runInContext(js, bookContext);
+const book = vm.runInContext("({ state, els, showBookIndex, showGameLayout, openBookSection, countAllUnitMatches, countUnitMatches })", bookContext);
+book.state.reference = JSON.parse(fs.readFileSync(path.join(__dirname, "reference.json"), "utf8"));
+for (const id of ["bookTitle", "bookBackBtn", "bookUnits", "bookEntries", "suggestedEntryBtn", "bookSearchCount", "bookPrevMatchBtn", "bookNextMatchBtn", "playerDisplay", "startScreen", "gameScreen", "gameOverModal", "shopScreen", "progressEmpty", "deleteGameBtn"]) {
+  book.els[id] = bookElement();
+}
+book.showBookIndex();
+assert.strictEqual(book.els.bookUnits.children.length, 8, "sin partida el índice debe ofrecer las ocho unidades");
+book.state.enabledUnits = ["derecho_laboral"];
+book.showBookIndex();
+assert.strictEqual(book.els.bookUnits.children.length, 1, "el índice debe ocultar las unidades excluidas de la partida");
+assert(book.els.bookUnits.children[0].innerHTML.includes("Derecho Laboral"));
+book.state.bookSearchTerm = "NIC";
+assert(book.countUnitMatches("propiedad_intelectual") > 0, "la palabra de prueba debe existir en una unidad excluida");
+assert.strictEqual(book.countAllUnitMatches(), book.countUnitMatches("derecho_laboral"), "la búsqueda no debe contar resultados de unidades excluidas");
+book.openBookSection("propiedad_intelectual");
+assert.strictEqual(book.state.selectedUnit, null, "un acceso directo no debe abrir una unidad excluida");
+assert.strictEqual(book.els.bookEntries.children.length, 0);
+book.state.enabledUnits = null;
+book.showBookIndex();
+book.state.selectedUnit = "propiedad_intelectual";
+book.els.bookEntries.innerHTML = "contenido de la partida anterior";
+book.state.enabledUnits = ["contratos", "ejercicio_profesional"];
+book.showGameLayout();
+assert.strictEqual(book.state.selectedUnit, null, "iniciar o restaurar debe volver al índice de la partida");
+assert.strictEqual(book.els.bookUnits.children.length, 2, "iniciar o restaurar debe actualizar las unidades del libro");
+assert.strictEqual(book.els.bookEntries.innerHTML, "", "no debe conservar contenido de una unidad excluida");
+console.log("book unit selection checks ok");
