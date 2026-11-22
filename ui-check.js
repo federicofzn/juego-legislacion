@@ -151,7 +151,9 @@ assert(js.includes("queueAchievementToasts(leveled)") && js.includes("setTimeout
 function bookElement() {
   return {
     children: [],
-    classList: { add() {}, remove() {} },
+    classList: { add() {}, remove() {}, toggle() {} },
+    attributes: {},
+    setAttribute(name, value) { this.attributes[name] = value; },
     addEventListener() {},
     querySelectorAll() { return []; },
     appendChild(child) { this.children.push(child); },
@@ -165,7 +167,7 @@ const bookContext = vm.createContext({
 vm.runInContext(js, bookContext);
 const book = vm.runInContext("({ state, els, showBookIndex, showGameLayout, openBookSection, countAllUnitMatches, countUnitMatches })", bookContext);
 book.state.reference = JSON.parse(fs.readFileSync(path.join(__dirname, "reference.json"), "utf8"));
-for (const id of ["bookTitle", "bookBackBtn", "bookUnits", "bookEntries", "suggestedEntryBtn", "bookSearchCount", "bookPrevMatchBtn", "bookNextMatchBtn", "playerDisplay", "startScreen", "gameScreen", "gameOverModal", "shopScreen", "progressEmpty", "deleteGameBtn"]) {
+for (const id of ["bookTitle", "bookBackBtn", "bookAllBtn", "bookSearch", "bookUnits", "bookEntries", "suggestedEntryBtn", "bookSearchCount", "bookPrevMatchBtn", "bookNextMatchBtn", "playerDisplay", "startScreen", "gameScreen", "gameOverModal", "shopScreen", "progressEmpty", "deleteGameBtn", "nextBtn"]) {
   book.els[id] = bookElement();
 }
 book.showBookIndex();
@@ -190,3 +192,35 @@ assert.strictEqual(book.state.selectedUnit, null, "iniciar o restaurar debe volv
 assert.strictEqual(book.els.bookUnits.children.length, 2, "iniciar o restaurar debe actualizar las unidades del libro");
 assert.strictEqual(book.els.bookEntries.innerHTML, "", "no debe conservar contenido de una unidad excluida");
 console.log("book unit selection checks ok");
+
+assert.strictEqual(vm.runInContext("typeof toggleBookView", bookContext), "function", "debe existir el modo de lectura continua del libro");
+const continuousBook = vm.runInContext("({ toggleBookView, updateBookSearch, proceedAfterAnswer })", bookContext);
+continuousBook.toggleBookView();
+assert.strictEqual(book.state.bookAllUnits, true);
+assert.strictEqual(book.els.bookAllBtn.attributes["aria-pressed"], "true");
+const allowedEntries = Object.entries(book.state.reference.entradas)
+  .filter(([, entry]) => book.state.enabledUnits.includes(entry.unidad)).map(([key]) => `entry-${key}`);
+assert.deepStrictEqual(book.els.bookEntries.children.filter((node) => node.className === "book-entry").map((node) => node.id).sort(), allowedEntries.sort(), "la lectura continua debe incluir solo las entradas de las unidades elegidas");
+assert.deepStrictEqual(book.els.bookEntries.children.filter((node) => node.className === "book-unit-heading").map((node) => node.textContent), ["Contratos", "Ejercicio Profesional"], "las unidades deben estar identificadas y ordenadas");
+book.els.bookSearch.value = "matrícula";
+continuousBook.updateBookSearch();
+assert.strictEqual(book.state.bookAllUnits, true, "buscar no debe abandonar la lectura continua");
+assert(book.els.bookEntries.children.some((node) => node.innerHTML.includes('class="book-search-hit"')), "las coincidencias deben resaltarse en el texto continuo");
+book.els.bookEntries.scrollTop = 350;
+const renderedEntries = book.els.bookEntries.children;
+book.els.nextBtn.disabled = false;
+book.state.mistakes = 10;
+vm.runInContext("gameOver = () => {}", bookContext);
+continuousBook.proceedAfterAnswer();
+assert.strictEqual(book.state.bookAllUnits, true, "Siguiente debe conservar el modo de lectura");
+assert.strictEqual(book.els.bookEntries.children, renderedEntries, "Siguiente no debe reconstruir el libro continuo");
+assert.strictEqual(book.els.bookEntries.scrollTop, 350, "Siguiente debe conservar la posición de lectura");
+continuousBook.toggleBookView();
+assert.strictEqual(book.state.bookAllUnits, false);
+assert.strictEqual(book.state.selectedUnit, null);
+assert.strictEqual(book.els.bookAllBtn.attributes["aria-pressed"], "false");
+assert.strictEqual(book.els.bookUnits.children.length, 2, "volver al índice debe conservar el filtro de unidades");
+assert.strictEqual(book.els.bookEntries.innerHTML, "");
+assert(html.includes('id="bookAllBtn"'), "la lectura continua debe tener un control accesible en el libro");
+assert(css.includes("max-width: 80ch") && css.includes("margin-inline: auto"), "el libro expandido debe tener la columna de lectura de Logística");
+console.log("continuous book reading checks ok");

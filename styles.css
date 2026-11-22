@@ -1340,6 +1340,12 @@ button.match-item:not(:disabled):hover {
   background: white;
 }
 
+#bookAllBtn[aria-pressed="true"] {
+  border-color: #0f766e;
+  background: #ccfbf1;
+  color: #115e59;
+}
+
 /* Libro expandido: ocupa toda la pantalla; se ocultan el panel de juego y la fila de arriba. */
 .bottom-row.book-expanded {
   grid-template-columns: minmax(0, 1fr);
@@ -1501,6 +1507,27 @@ button.match-item:not(:disabled):hover {
   min-height: 0;
   overflow-y: auto;
   padding-right: 4px;
+}
+
+.book-unit-heading {
+  margin: 12px 0 0;
+  border-bottom: 2px solid #99f6e4;
+  padding: 6px 2px;
+  color: #115e59;
+  font-family: "Roboto Slab", Georgia, serif;
+  font-size: 1.1rem;
+  font-weight: 900;
+}
+
+.app-shell.book-fullscreen .book-panel > .book-entry,
+.app-shell.book-fullscreen .book-panel > .book-unit-heading {
+  width: 100%;
+  max-width: 80ch;
+  margin-inline: auto;
+}
+
+.app-shell.book-fullscreen .book-panel > .book-unit-heading {
+  max-width: calc(80ch / 1.1);
 }
 
 .book-empty {
