@@ -1,0 +1,218 @@
+[
+  {
+    "id": "def-pi-dnda",
+    "grupo": "pi_organismos",
+    "termino": "DNDA",
+    "definicion": "Organismo argentino dedicado al derecho de autor y al registro de obras y actos de ese régimen.",
+    "ejemplo": "Una novelista inscribe su texto para contar con fecha cierta y prueba.",
+    "pista": "Camila quiere dejar constancia de la fecha de su novela.",
+    "libro": "pi_obras_organismos"
+  },
+  {
+    "id": "def-pi-inpi",
+    "grupo": "pi_organismos",
+    "termino": "INPI",
+    "definicion": "Organismo argentino competente en propiedad industrial, como marcas, patentes, modelos de utilidad y diseños.",
+    "ejemplo": "Un fabricante tramita la protección del signo que distingue sus zapatillas.",
+    "pista": "Un taller necesita proteger el signo de sus zapatillas.",
+    "libro": "pi_obras_organismos"
+  },
+  {
+    "id": "def-pi-ompi",
+    "grupo": "pi_organismos",
+    "termino": "OMPI / WIPO",
+    "definicion": "Organización internacional de cooperación, tratados y servicios de propiedad intelectual, con siglas en español e inglés.",
+    "ejemplo": "Una guía cita WIPO y otra OMPI para referirse a la misma organización.",
+    "pista": "Un formulario dice WIPO y otro OMPI: no son dos oficinas distintas.",
+    "libro": "pi_obras_organismos"
+  },
+  {
+    "id": "def-pi-paternidad",
+    "grupo": "pi_facultades",
+    "termino": "Paternidad autoral",
+    "definicion": "Derecho moral al reconocimiento de la autoría de una obra.",
+    "ejemplo": "Una editora debe respetar que la creadora de la novela sea identificada como tal.",
+    "pista": "En la tapa de una novela falta el nombre de quien la escribió.",
+    "libro": "pi_autoria"
+  },
+  {
+    "id": "def-pi-integridad",
+    "grupo": "pi_facultades",
+    "termino": "Integridad de la obra",
+    "definicion": "Derecho moral que protege frente a alteraciones de la obra que afectan los intereses protegidos del autor.",
+    "ejemplo": "Una escritora cuestiona cambios que afectan su obra y los intereses protegidos por esta facultad.",
+    "pista": "En una edición se cambia el final y se perjudica a la escritora.",
+    "libro": "pi_autoria"
+  },
+  {
+    "id": "def-pi-reproduccion",
+    "grupo": "pi_facultades",
+    "termino": "Reproducción",
+    "definicion": "Facultad patrimonial de realizar ejemplares o copias de una obra.",
+    "ejemplo": "Una editorial obtiene autorización para imprimir una tirada de un libro.",
+    "pista": "Una imprenta prepara mil libros iguales.",
+    "libro": "pi_autoria"
+  },
+  {
+    "id": "def-pi-transformacion",
+    "grupo": "pi_facultades",
+    "termino": "Transformación",
+    "definicion": "Facultad patrimonial de autorizar traducciones, adaptaciones o modificaciones de una obra.",
+    "ejemplo": "La autora autoriza que su novela sea traducida para una edición en otro idioma.",
+    "pista": "La novela pasa del castellano al francés.",
+    "libro": "pi_autoria"
+  },
+  {
+    "id": "def-pi-denominativa",
+    "grupo": "pi_tipos_marca",
+    "termino": "Marca denominativa",
+    "definicion": "Signo formado por palabras, letras o números sin reivindicar un diseño particular.",
+    "ejemplo": "SOLVIA solicitado como denominación, sin una composición gráfica específica.",
+    "pista": "Al leer SOLVIA en voz alta ya se identifica lo que se pide proteger.",
+    "libro": "pi_marcas"
+  },
+  {
+    "id": "def-pi-figurativa",
+    "grupo": "pi_tipos_marca",
+    "termino": "Marca figurativa",
+    "definicion": "Signo formado por elementos gráficos sin letras ni números.",
+    "ejemplo": "Una hoja dibujada sin texto que distingue los servicios de una cafetería.",
+    "pista": "En el sello del negocio aparece una hoja y no hay nada para leer.",
+    "libro": "pi_marcas"
+  },
+  {
+    "id": "def-pi-mixta",
+    "grupo": "pi_tipos_marca",
+    "termino": "Marca mixta",
+    "definicion": "Signo que combina denominación y elementos gráficos, o utiliza una grafía estilizada.",
+    "ejemplo": "SOLVIA integrado a una hoja dibujada y a una composición gráfica.",
+    "pista": "La solicitud muestra SOLVIA junto a una hoja en un mismo conjunto.",
+    "libro": "pi_marcas"
+  },
+  {
+    "id": "def-pi-patente",
+    "grupo": "pi_proteccion_industrial",
+    "termino": "Patente de invención",
+    "definicion": "Protección de una solución técnica que satisface requisitos de patentabilidad, por 20 años desde la solicitud, improrrogables.",
+    "ejemplo": "Una máquina que cumple novedad, actividad inventiva y aplicación industrial.",
+    "pista": "Un taller presenta una máquina novedosa y no solo una carcasa decorada.",
+    "libro": "pi_invenciones_tratados"
+  },
+  {
+    "id": "def-pi-utilidad",
+    "grupo": "pi_proteccion_industrial",
+    "termino": "Modelo de utilidad",
+    "definicion": "Protección de una disposición o forma nueva de un objeto que mejora su uso o función, por 10 años desde la solicitud, improrrogables.",
+    "ejemplo": "Una disposición nueva de una herramienta mejora su utilización y cumple los requisitos de ese régimen.",
+    "pista": "Un mango reorganizado permite sostener la herramienta con menos esfuerzo.",
+    "libro": "pi_invenciones_tratados"
+  },
+  {
+    "id": "def-pi-diseno",
+    "grupo": "pi_proteccion_industrial",
+    "termino": "Diseño industrial",
+    "definicion": "Protección de la apariencia u ornamentación de un producto, por 5 años iniciales y dos renovaciones de 5.",
+    "ejemplo": "Un envase se distingue por su aspecto ornamental, sin invocar una solución técnica nueva.",
+    "pista": "La botella funciona igual; el cambio está en cómo luce en la vidriera.",
+    "libro": "pi_invenciones_tratados"
+  },
+  {
+    "id": "def-pi-by",
+    "grupo": "pi_condiciones_cc",
+    "termino": "CC BY",
+    "definicion": "Condición de Creative Commons que exige atribución de la autoría.",
+    "ejemplo": "Una ilustración se comparte reconociendo a quien la creó según la licencia.",
+    "pista": "Al pie del afiche se agrega el crédito de Lucía.",
+    "libro": "pi_cc"
+  },
+  {
+    "id": "def-pi-nc",
+    "grupo": "pi_condiciones_cc",
+    "termino": "CC NC",
+    "definicion": "Condición de Creative Commons que limita los usos comerciales.",
+    "ejemplo": "Un comercio debe atender esta restricción antes de usar una imagen en una campaña de ventas.",
+    "pista": "Una tienda quiere poner la foto en el anuncio de sus ofertas.",
+    "libro": "pi_cc"
+  },
+  {
+    "id": "def-pi-sa",
+    "grupo": "pi_condiciones_cc",
+    "termino": "CC SA",
+    "definicion": "Condición de Creative Commons que exige compartir las adaptaciones bajo la misma licencia.",
+    "ejemplo": "Una versión adaptada de una ilustración BY-SA debe conservar esa licencia al compartirse.",
+    "pista": "El afiche se remezcla y la versión nueva conserva BY-SA.",
+    "libro": "pi_cc"
+  },
+  {
+    "id": "def-pi-nd",
+    "grupo": "pi_condiciones_cc",
+    "termino": "CC ND",
+    "definicion": "Condición de Creative Commons que impide compartir material adaptado bajo esa licencia.",
+    "ejemplo": "No se puede publicar una versión modificada invocando únicamente el permiso BY-ND.",
+    "pista": "El equipo recorta y altera el afiche BY-ND antes de subirlo.",
+    "libro": "pi_cc"
+  },
+  {
+    "id": "def-pi-dns",
+    "grupo": "pi_identificadores",
+    "termino": "DNS",
+    "definicion": "Sistema que relaciona nombres con registros técnicos para localizar servicios de Internet, sin una relación obligatoria uno a uno con las IP.",
+    "ejemplo": "Un nombre puede relacionarse con más de una dirección IP y varios nombres pueden usar una IP.",
+    "pista": "Al escribir la dirección del sitio, una consulta orienta la conexión.",
+    "libro": "pi_dominios"
+  },
+  {
+    "id": "def-pi-gtld",
+    "grupo": "pi_identificadores",
+    "termino": "gTLD",
+    "definicion": "Dominio de nivel superior genérico, como .com o .org.",
+    "ejemplo": "La terminación .org pertenece a esta categoría.",
+    "pista": "Una asociación compara .org con .ar antes de elegir su dirección.",
+    "libro": "pi_dominios"
+  },
+  {
+    "id": "def-pi-cctld",
+    "grupo": "pi_identificadores",
+    "termino": "ccTLD",
+    "definicion": "Dominio de nivel superior correspondiente a un país, como .ar.",
+    "ejemplo": "La terminación .ar se vincula con Argentina.",
+    "pista": "El equipo compara .ar con .com antes de elegir su dirección.",
+    "libro": "pi_dominios"
+  },
+  {
+    "id": "def-pi-subdominio",
+    "grupo": "pi_identificadores",
+    "termino": "Subdominio",
+    "definicion": "Nivel subordinado dentro de un nombre ya registrado, como www en www.empresa.com.ar.",
+    "ejemplo": "La parte www se encuentra dentro de empresa.com.ar.",
+    "pista": "Un comercio agrega tienda delante de su dirección existente.",
+    "libro": "pi_dominios"
+  },
+  {
+    "id": "def-pi-licencia",
+    "grupo": "pi_acuerdos",
+    "termino": "Licencia de explotación",
+    "definicion": "Acuerdo que autoriza usos delimitados sin transmitir por sí solo la titularidad de los derechos.",
+    "ejemplo": "Una empresa permite usar su programa en ciertos equipos conservando la titularidad.",
+    "pista": "El consultorio puede ejecutar la agenda en dos computadoras.",
+    "libro": "pi_software"
+  },
+  {
+    "id": "def-pi-cesion",
+    "grupo": "pi_acuerdos",
+    "termino": "Cesión patrimonial",
+    "definicion": "Acuerdo que transmite derechos económicos dentro del alcance convenido.",
+    "ejemplo": "La creadora transfiere a una editorial derechos de explotación, sin convertirse la editorial en autora.",
+    "pista": "La novela cambia de titular para su explotación comercial.",
+    "libro": "pi_software"
+  },
+  {
+    "id": "def-pi-nda",
+    "grupo": "pi_acuerdos",
+    "termino": "NDA",
+    "definicion": "Acuerdo de confidencialidad que obliga a guardar reserva y no concede por sí mismo una patente.",
+    "ejemplo": "Un taller exige reserva antes de mostrar su prototipo a un posible socio.",
+    "pista": "Antes de ver el prototipo, el visitante firma que no contará lo que vea.",
+    "libro": "pi_software"
+  }
+]

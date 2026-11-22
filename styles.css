@@ -1189,6 +1189,22 @@ button.match-item:not(:disabled):hover {
   background: #b45309;
 }
 
+.case-unit-chip[data-unit="propiedad_intelectual"] {
+  background: #0f766e;
+}
+
+.case-unit-chip[data-unit="contratos"] {
+  background: #4338ca;
+}
+
+.case-unit-chip[data-unit="derecho_laboral"] {
+  background: #166534;
+}
+
+.case-unit-chip[data-unit="ejercicio_profesional"] {
+  background: #9a3412;
+}
+
 /* Linea que separa las respuestas de las herramientas. */
 .tools-row {
   border-top: 1px solid #e2e8f0;

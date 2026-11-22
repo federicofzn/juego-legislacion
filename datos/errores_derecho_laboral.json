@@ -1,0 +1,152 @@
+[
+  {
+    "id": "err-dl-dependencia", "titulo": "Tres aspectos del vínculo",
+    "oraciones": [
+      "La autonomía técnica de un especialista impide calificarlo como trabajador dependiente.",
+      "Las instrucciones sobre tareas y procedimientos son indicios de subordinación técnica.",
+      "Cobrar sueldo sin asumir pérdidas del negocio ilustra subordinación económica.",
+      "Tener jefe, horario y autorización de vacaciones ilustra subordinación jurídica.",
+      "La calificación exige valorar los indicios en conjunto y reconstruir el funcionamiento real del vínculo."
+    ],
+    "incorrecta": 0,
+    "correccion": "Un especialista puede conservar autonomía técnica y seguir siendo trabajador dependiente.",
+    "pista": "Pensá en una experta que elige su método, pero debe pedir permiso para faltar.",
+    "explicacion": "Un especialista puede conservar autonomía técnica y seguir siendo trabajador dependiente. La dependencia se analiza mediante indicios conjuntos; conocer mejor la técnica no descarta dirección jurídica o trabajo por cuenta ajena.",
+    "libro": "dl_dependencia"
+  },
+  {
+    "id": "err-dl-minimos", "titulo": "Una firma y los mínimos",
+    "oraciones": [
+      "El CCT puede regular categorías, salarios, adicionales, jornadas y licencias dentro de su ámbito.",
+      "Firmar que se deja de cobrar el SAC obligatorio permite eliminar ese mínimo legal.",
+      "El art. 14 bis reconoce jornada limitada, descanso y vacaciones pagas, entre otros derechos.",
+      "Para verificar un salario se revisan tareas reales, categoría, escala del período y adicionales del CCT aplicable.",
+      "La buena fe exige conducta leal tanto del empleador como de quien trabaja."
+    ],
+    "incorrecta": 1,
+    "correccion": "Firmar que se deja de cobrar el SAC obligatorio no elimina ese mínimo legal.",
+    "pista": "La voluntad individual tiene límites cuando se negocia el piso obligatorio de protección.",
+    "explicacion": "Firmar que se deja de cobrar el SAC obligatorio no elimina ese mínimo legal. La irrenunciabilidad protege derechos de la ley, estatutos y convenios; no corresponde convertir la aceptación individual en permiso para suprimirlos.",
+    "libro": "dl_principios_cct"
+  },
+  {
+    "id": "err-dl-prueba", "titulo": "Inicio del trabajo y prueba",
+    "oraciones": [
+      "El contrato es el acuerdo de prestar servicios dependientes remunerados y la relación es su ejecución efectiva.",
+      "El período general de prueba del art. 92 bis es de seis meses, con ampliaciones posibles por CCT dentro de sus límites.",
+      "En una empresa de 30 trabajadores, el empleador puede fijar ocho meses de prueba sin ampliación del CCT.",
+      "Durante prueba hay salario, cobertura, aportes y cómputo de servicios desde el inicio del vínculo.",
+      "Omitir la registración hace perder al empleador el período de prueba y no permite repetirlo con la misma persona."
+    ],
+    "incorrecta": 2,
+    "correccion": "En una empresa de 30 trabajadores, llegar a ocho meses de prueba requiere ampliación del CCT dentro del art. 92 bis.",
+    "pista": "El tamaño de la empresa y quién puede establecer una extensión son datos diferentes.",
+    "explicacion": "En una empresa de 30 trabajadores, llegar a ocho meses de prueba requiere ampliación del CCT dentro del art. 92 bis. La extensión hasta ocho meses está prevista para empresas de 6 a 100 personas mediante convenio colectivo, no por decisión unilateral.",
+    "libro": "dl_contrato_prueba"
+  },
+  {
+    "id": "err-dl-sac", "titulo": "Recibo y aguinaldo",
+    "oraciones": [
+      "La remuneración puede comprender básico, comisiones, premios, adicionales y horas extras según su naturaleza.",
+      "El bruto se distingue del neto que resulta después de aplicar los descuentos.",
+      "Una notebook entregada para trabajar no equivale automáticamente a sueldo en especie.",
+      "Las cuotas ordinarias del SAC vencen el 30 de junio y el 31 de diciembre.",
+      "Para el semestre completo, cada cuota de SAC es el 50 % de la mayor remuneración mensual devengada del semestre."
+    ],
+    "incorrecta": 3,
+    "correccion": "Las cuotas ordinarias del SAC vencen el 30 de junio y el 18 de diciembre.",
+    "pista": "El vencimiento del segundo pago se adelanta al cierre del semestre.",
+    "explicacion": "Las cuotas ordinarias del SAC vencen el 30 de junio y el 18 de diciembre. En diciembre se estima lo que corresponda y se realiza un eventual ajuste; no se traslada por eso el vencimiento al último día del año.",
+    "libro": "dl_remuneracion"
+  },
+  {
+    "id": "err-dl-descansos", "titulo": "Jornada y descanso diario",
+    "oraciones": [
+      "El máximo general del resumen es de 8 horas diarias o 48 semanales, con regímenes y excepciones a examinar.",
+      "El tiempo de disponibilidad para el empleador integra el análisis de la jornada, además de la actividad productiva.",
+      "El CCT puede establecer una jornada menor que la general.",
+      "Para tareas declaradas insalubres, el límite general es de 6 horas diarias o 36 semanales.",
+      "El descanso general entre el fin de una jornada y el inicio de la siguiente es de 10 horas."
+    ],
+    "incorrecta": 4,
+    "correccion": "El descanso general entre el fin de una jornada y el inicio de la siguiente es de 12 horas.",
+    "pista": "Salir a las 22 y volver a las 8 deja un intervalo que todavía resulta insuficiente.",
+    "explicacion": "El descanso general entre el fin de una jornada y el inicio de la siguiente es de 12 horas. Ese intervalo no debe confundirse con la duración máxima de la jornada ni con el descanso semanal.",
+    "libro": "dl_jornada_guardias"
+  },
+  {
+    "id": "err-dl-vacaciones", "titulo": "Tramos de vacaciones completas",
+    "oraciones": [
+      "En la escala mínima del período completo, cinco años exactos al 31 de diciembre dan 21 días corridos.",
+      "En esa escala, seis años de antigüedad al 31 de diciembre dan 21 días corridos.",
+      "En esa escala, veinte años exactos al 31 de diciembre dan 28 días corridos.",
+      "En esa escala, veintiún años al 31 de diciembre dan 35 días corridos.",
+      "Para el período completo se exige trabajar al menos la mitad de los días hábiles computables del año, sin perjuicio de mejoras."
+    ],
+    "incorrecta": 0,
+    "correccion": "En la escala mínima del período completo, cinco años exactos al 31 de diciembre dan 14 días corridos.",
+    "pista": "Revisá si alcanzar exactamente el primer límite basta para pasar al tramo siguiente.",
+    "explicacion": "En la escala mínima del período completo, cinco años exactos al 31 de diciembre dan 14 días corridos. El tramo de 21 días exige más de cinco y hasta diez años; para más de diez y hasta veinte son 28 y para más de veinte son 35.",
+    "libro": "dl_licencias"
+  },
+  {
+    "id": "err-dl-extincion", "titulo": "Quién termina el vínculo",
+    "oraciones": [
+      "En la renuncia, la decisión de terminar el vínculo pertenece al trabajador.",
+      "El despido indirecto justificado se trata como renuncia sin indemnizaciones por despido.",
+      "El despido sin causa es decidido por el empleador sin imputar una injuria suficiente.",
+      "En un despido con causa, el incumplimiento invocado requiere gravedad, contexto, proporcionalidad y prueba.",
+      "La causa debe comunicarse por escrito con claridad y no puede reemplazarse después por una diferente."
+    ],
+    "incorrecta": 1,
+    "correccion": "El despido indirecto justificado puede generar las indemnizaciones de los arts. 232, 233 y 245 según sus presupuestos.",
+    "pista": "No alcanza con observar quién envía la comunicación: también importa a quién se atribuye la falta grave.",
+    "explicacion": "El despido indirecto justificado puede generar las indemnizaciones de los arts. 232, 233 y 245 según sus presupuestos. Lo comunica el trabajador por incumplimiento grave patronal; no equivale a una renuncia voluntaria sin esa imputación.",
+    "libro": "dl_extincion"
+  },
+  {
+    "id": "err-dl-rubros", "titulo": "Pagos distintos al terminar",
+    "oraciones": [
+      "La liquidación final puede incluir salarios pendientes, SAC proporcional y compensación por vacaciones no gozadas.",
+      "Fuera de prueba, el preaviso patronal general es de un mes hasta cinco años de antigüedad y dos meses si los supera.",
+      "En la regla del art. 245, una fracción de tres meses exactos agrega un mes de base al cómputo por años completos.",
+      "La indemnización sustitutiva de preaviso corresponde cuando se omite un aviso que debía darse.",
+      "La integración del art. 233 cubre los días faltantes del mes bajo sus presupuestos y se excluye durante prueba."
+    ],
+    "incorrecta": 2,
+    "correccion": "En la regla del art. 245, la fracción debe ser mayor de tres meses para agregar un mes de base al cómputo por años completos.",
+    "pista": "Distinguí llegar al umbral temporal de superarlo; la regla no expresa esas dos cosas del mismo modo.",
+    "explicacion": "En la regla del art. 245, la fracción debe ser mayor de tres meses para agregar un mes de base al cómputo por años completos. Esto no determina por sí solo una liquidación total: preaviso, integración y conceptos finales se revisan por separado.",
+    "libro": "dl_indemnizaciones"
+  },
+  {
+    "id": "err-dl-art", "titulo": "Riesgos y prestaciones",
+    "oraciones": [
+      "Tener ART no libera al empleador de capacitar ni de mantener condiciones adecuadas de seguridad.",
+      "El accidente in itinere corresponde al trayecto protegido entre el domicilio y el trabajo.",
+      "La ART brinda asistencia, medicamentos, rehabilitación, prótesis y prestaciones económicas en los supuestos cubiertos.",
+      "Una dolencia queda reconocida como profesional por el solo hecho de que la persona use computadora.",
+      "Las Comisiones Médicas intervienen en controversias como alta e incapacidad según el procedimiento aplicable."
+    ],
+    "incorrecta": 3,
+    "correccion": "Una enfermedad profesional exige vinculación laboral en los términos del sistema; usar computadora no basta para reconocerla.",
+    "pista": "Coincidir una ocupación y un problema de salud no demuestra por sí solo la relación exigida para la cobertura.",
+    "explicacion": "Una enfermedad profesional exige vinculación laboral en los términos del sistema; usar computadora no basta para reconocerla. El sistema distingue contingencias y exige examinar las condiciones de reconocimiento, sin automatismos por profesión.",
+    "libro": "dl_riesgos"
+  },
+  {
+    "id": "err-dl-seclo", "titulo": "Jurisdicción y conciliación",
+    "oraciones": [
+      "SECLO atiende conflictos individuales y pluriindividuales de competencia de la Justicia Nacional del Trabajo.",
+      "En su ámbito, la Ley 24.635 prevé instancia previa obligatoria con excepciones como amparos y cautelares.",
+      "La conciliación no obliga al trabajador a aceptar la oferta de la empresa.",
+      "El acuerdo conciliatorio requiere control y homologación, distintos de la mera presentación de una propuesta.",
+      "SECLO es la instancia previa de los conflictos laborales de competencia de la justicia provincial."
+    ],
+    "incorrecta": 4,
+    "correccion": "SECLO no es una instancia uniforme de las provincias: su ámbito corresponde a la competencia de la Justicia Nacional del Trabajo.",
+    "pista": "Que un conflicto sea laboral no define por sí solo cuál es su jurisdicción y procedimiento.",
+    "explicacion": "SECLO no es una instancia uniforme de las provincias: su ámbito corresponde a la competencia de la Justicia Nacional del Trabajo. Antes de indicar una instancia previa hay que identificar la jurisdicción; tampoco debe confundirse esta conciliación individual con la de conflictos colectivos.",
+    "libro": "dl_reclamos_prueba"
+  }
+]

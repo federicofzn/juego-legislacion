@@ -87,6 +87,7 @@ assert(js.includes("const MAX_MISTAKES = 10") && !js.includes("mistakes >= 5"), 
 assert(html.includes("/10</strong>"), "el indicador de errores debe mostrar el maximo de 10");
 assert(html.includes('id="achievementsRow"') && js.includes("ACHIEVEMENTS") && js.includes("STORAGE.achievements"), "debe existir la fila de logros persistentes");
 assert(["unit:derecho_y_estado", "unit:derecho_penal", "unit:delitos_informaticos", "unit:proteccion_datos", "kind:case", "kind:timed", "kind:definition"].every((key) => js.includes(key)), "debe haber logros por unidad y por tipo de desafio");
+assert(["propiedad_intelectual", "contratos", "derecho_laboral", "ejercicio_profesional"].every((key) => js.includes(`unit:${key}`)), "las cuatro unidades nuevas deben tener sus logros");
 assert(css.includes(".badge.tier-5") && css.includes("@keyframes badge-shine"), "el nivel dorado debe tener destello");
 assert(css.includes("var(--top-row-h"), "el alto del juego debe adaptarse a la fila superior");
 console.log("achievements checks ok");

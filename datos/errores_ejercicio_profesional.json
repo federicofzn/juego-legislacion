@@ -1,0 +1,152 @@
+[
+  {
+    "id":"err-ep-habilitacion", "titulo":"Del título al acto concreto",
+    "oraciones":[
+      "La matrícula amplía por sí sola los alcances del título que acredita el profesional.",
+      "El diploma acredita formación y una denominación profesional.",
+      "El análisis de habilitación debe atender al acto concreto y a su jurisdicción.",
+      "El artículo 2 del Decreto-Ley 6070/58 comprende actividades gratuitas y remuneradas.",
+      "El carácter interno de un trabajo no crea por sí solo una exención general de matrícula."
+    ],
+    "incorrecta":0,
+    "correccion":"La matrícula no amplía por sí sola los alcances del título que acredita el profesional.",
+    "pista":"Pensá si inscribirse convierte a alguien en egresado de otra especialidad.",
+    "explicacion":"La matrícula no amplía por sí sola los alcances del título que acredita el profesional. Título, funciones y registro responden preguntas distintas; los artículos 11 y 12 relacionan esos elementos sin crear habilitación universal.",
+    "libro":"ep_habilitacion"
+  },
+  {
+    "id":"err-ep-instituciones", "titulo":"Instituciones y funciones",
+    "oraciones":[
+      "CPCIBA es la referencia de ciencias informáticas de PBA bajo la Ley 13.016.",
+      "La asociación civil CPCI de CABA otorga una matrícula legal equivalente a COPITEC.",
+      "CESSI es una cámara empresaria y no sustituye la habilitación de quien firma.",
+      "Los sindicatos del material representan intereses laborales, sin otorgar habilitación profesional.",
+      "El reparto entre CPCIBA y Colegio de Ingenieros requiere analizar título, tarea e incumbencias."
+    ],
+    "incorrecta":1,
+    "correccion":"La pertenencia a la asociación civil CPCI de CABA no sustituye una matrícula legal.",
+    "pista":"Diferenciá una adhesión voluntaria de una inscripción bajo funciones públicas delegadas.",
+    "explicacion":"La pertenencia a la asociación civil CPCI de CABA no sustituye una matrícula legal. Las siglas parecidas no equiparan su naturaleza a COPITEC o CPCIBA, y representación laboral o empresaria tampoco habilita firmas.",
+    "libro":"ep_instituciones"
+  },
+  {
+    "id":"err-ep-etica", "titulo":"Independencia en el asesoramiento",
+    "oraciones":[
+      "El código exige guardar secreto, salvo obligación legal de revelarlo.",
+      "La firma requiere haber estudiado, ejecutado o controlado personalmente la documentación.",
+      "Se permite aceptar beneficios de un proveedor interesado si paga después del asesoramiento.",
+      "No corresponde prometer un servicio ajeno a la capacidad personal.",
+      "La orden del cliente no habilita a ejecutar actos contrarios a la buena técnica."
+    ],
+    "incorrecta":2,
+    "correccion":"Corresponde rechazar beneficios de un proveedor interesado, aunque pague después del asesoramiento.",
+    "pista":"Mover la fecha de una comisión no elimina el incentivo para favorecer a quien la ofrece.",
+    "explicacion":"Corresponde rechazar beneficios de un proveedor interesado, aunque pague después del asesoramiento. La independencia profesional debe preservarse junto con la reserva, la capacidad técnica y la intervención personal necesaria para firmar.",
+    "libro":"ep_etica"
+  },
+  {
+    "id":"err-ep-disciplina", "titulo":"Defensa y sanciones del texto",
+    "oraciones":[
+      "El código contempla prueba y asistencia letrada en la causa ética.",
+      "El rechazo manifiesto es apelable ante Junta Central en cinco días hábiles según el material.",
+      "La suspensión prevista en el artículo 28 va de un mes a dos años.",
+      "El descargo para domiciliados en Capital Federal tiene seis días según el texto leído.",
+      "La expresión de multa en moneda nacional es histórica y no acredita una cuantificación actual."
+    ],
+    "incorrecta":3,
+    "correccion":"El descargo para domiciliados en Capital Federal tiene diez días hábiles según el texto leído.",
+    "pista":"No confundas la primera defensa con el traslado del informe posterior para alegar.",
+    "explicacion":"El descargo para domiciliados en Capital Federal tiene diez días hábiles según el texto leído. Los seis días corresponden al alegato sobre el informe posterior; para tramitar una causa actual se revisan además las disposiciones complementarias.",
+    "libro":"ep_disciplina"
+  },
+  {
+    "id":"err-ep-convenio", "titulo":"Cooperación y requisitos personales",
+    "oraciones":[
+      "El convenio marco leído organiza cooperación institucional en tecnologías de información y comunicaciones.",
+      "Cada actividad requiere acuerdos específicos mediante Anexos Operativos Complementarios.",
+      "El personal conserva su dependencia de origen durante la ejecución de las actividades.",
+      "La cláusula séptima prevé tres años desde la firma y denuncia con treinta días corridos de anticipación.",
+      "El anexo operativo otorga matrícula automática a los graduados que participen en el proyecto."
+    ],
+    "incorrecta":4,
+    "correccion":"El anexo operativo concreta actividades de cooperación y no otorga matrícula automática a graduados.",
+    "pista":"Organizar equipos y recursos de un proyecto no resuelve la habilitación individual para firmar.",
+    "explicacion":"El anexo operativo concreta actividades de cooperación y no otorga matrícula automática a graduados. Las cláusulas tampoco amplían incumbencias ni garantizan empleo, y estudiar su duración no prueba vigencia actual.",
+    "libro":"ep_convenio"
+  },
+  {
+    "id":"err-ep-cid", "titulo":"Tres objetivos de protección",
+    "oraciones":[
+      "La integridad limita quién puede leer la información reservada.",
+      "La confidencialidad limita el acceso a personas autorizadas.",
+      "La integridad protege información completa, exacta y sin cambios no autorizados.",
+      "La disponibilidad permite acceder a información y sistemas cuando se necesitan.",
+      "Una caída del servicio no demuestra por sí sola que alguien haya leído o alterado registros."
+    ],
+    "incorrecta":0,
+    "correccion":"La confidencialidad limita quién puede leer la información reservada.",
+    "pista":"Separá conocer un dato ajeno, cambiar su valor y no poder usar el servicio.",
+    "explicacion":"La confidencialidad limita quién puede leer la información reservada. Integridad se refiere a exactitud y ausencia de cambios no autorizados; disponibilidad se refiere a poder acceder cuando se necesita.",
+    "libro":"ep_riesgo_cid"
+  },
+  {
+    "id":"err-ep-riesgo", "titulo":"Hallazgo y evaluación de riesgo",
+    "oraciones":[
+      "Una vulnerabilidad es una debilidad explotable.",
+      "Hallar una vulnerabilidad demuestra que ya ocurrió un incidente de seguridad.",
+      "Una amenaza es un evento potencialmente perjudicial.",
+      "El riesgo combina posibilidad de ocurrencia e impacto sobre los activos.",
+      "Los errores humanos pueden ser amenazas internas, además de los actos deliberados."
+    ],
+    "incorrecta":1,
+    "correccion":"Hallar una vulnerabilidad no demuestra por sí solo que ya ocurrió un incidente de seguridad.",
+    "pista":"Una puerta mal cerrada puede encontrarse antes de que alguien entre por ella.",
+    "explicacion":"Hallar una vulnerabilidad no demuestra por sí solo que ya ocurrió un incidente de seguridad. La evaluación distingue una debilidad presente de un evento potencial y de la combinación de posibilidad e impacto.",
+    "libro":"ep_riesgo_cid"
+  },
+  {
+    "id":"err-ep-controles", "titulo":"Barreras y analogías de seguridad",
+    "oraciones":[
+      "El mínimo privilegio limita accesos a lo necesario para la tarea.",
+      "El análisis de logs puede ayudar a detectar actividad anómala.",
+      "Las capas 8 y 9 del apunte son ampliaciones oficiales del modelo OSI.",
+      "La defensa en profundidad combina barreras técnicas, humanas y organizativas.",
+      "Aislar un equipo comprometido puede contener la propagación de un incidente."
+    ],
+    "incorrecta":2,
+    "correccion":"Las capas 8 y 9 del apunte son analogías sobre usuarios, políticas y organización, no capas oficiales de OSI.",
+    "pista":"El material usa una metáfora para incluir a las personas y sus procedimientos.",
+    "explicacion":"Las capas 8 y 9 del apunte son analogías sobre usuarios, políticas y organización, no capas oficiales de OSI. Las barreras complementarias se distribuyen entre prevención, detección y respuesta según su función.",
+    "libro":"ep_controles"
+  },
+  {
+    "id":"err-ep-continuidad", "titulo":"Volver a operar y recuperar datos",
+    "oraciones":[
+      "El BCP sostiene el funcionamiento organizacional durante una crisis.",
+      "El DRP se centra en recuperar sistemas, datos y servicios tecnológicos.",
+      "El RTO fija un tiempo objetivo para recuperar el servicio.",
+      "El RPO fija cuánto puede durar la interrupción del servicio.",
+      "Tener una copia no demuestra por sí solo que se puedan cumplir los objetivos de recuperación."
+    ],
+    "incorrecta":3,
+    "correccion":"El RPO fija el punto temporal al que deben recuperarse los datos y expresa la pérdida temporal tolerada.",
+    "pista":"Diferenciá perder quince minutos de ventas de mantener dos horas cerrada la caja.",
+    "explicacion":"El RPO fija el punto temporal al que deben recuperarse los datos y expresa la pérdida temporal tolerada. El RTO limita la interrupción; las pruebas deben comprobar tanto rapidez de restauración como información recuperable.",
+    "libro":"ep_continuidad"
+  },
+  {
+    "id":"err-ep-marcos", "titulo":"Fuentes de ciberseguridad",
+    "oraciones":[
+      "NIST CSF 2.0 incorpora Gobernar y reúne seis funciones.",
+      "El artículo 9 de la Ley 25.326 establece el deber legal de seguridad de los datos.",
+      "La Resolución AAIP 47/2018 aprueba medidas recomendadas.",
+      "La Ley 27.401 tiene un catálogo específico y no cubre de modo general la negligencia informática.",
+      "La RG CNV 856/2020 establece medidas generales de ciberseguridad y reporte de incidentes."
+    ],
+    "incorrecta":4,
+    "correccion":"La RG CNV 856/2020 trata restricciones y condiciones de operaciones con valores negociables.",
+    "pista":"Una referencia copiada puede ser real y, aun así, ocuparse de otra materia.",
+    "explicacion":"La RG CNV 856/2020 trata restricciones y condiciones de operaciones con valores negociables. No respalda la atribución del PDF sobre ciberseguridad; las fuentes tampoco verificaron plazos sectoriales concretos de BCRA o ENACOM.",
+    "libro":"ep_normas_ciber"
+  }
+]

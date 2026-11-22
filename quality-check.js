@@ -7,6 +7,33 @@ const reference = JSON.parse(fs.readFileSync(path.join(__dirname, "reference.jso
 
 const TIPOS = ["caso", "clasificar", "concepto", "norma"];
 
+const NEW_UNITS = {
+  propiedad_intelectual: "propiedad intelectual/resumen_propiedad_intelectual.md",
+  contratos: "contratos/resumen_contratos.md",
+  derecho_laboral: "derecho laboral/resumen_derecho_laboral.md",
+  ejercicio_profesional: "ejercicio profesional/resumen_ejercicio_profesional.md"
+};
+const EXPECTED_UNITS = ["derecho_y_estado", "derecho_penal", "delitos_informaticos", "proteccion_datos", ...Object.keys(NEW_UNITS)];
+assert.deepStrictEqual(reference.unidades.map((unit) => unit.key), EXPECTED_UNITS, "el juego debe incluir las ocho unidades de la materia");
+
+for (const [unitKey, source] of Object.entries(NEW_UNITS)) {
+  const summary = Object.values(reference.entradas).find((entry) => entry.unidad === unitKey && entry.archivoFuente === source);
+  assert(summary, `la unidad ${unitKey} debe incluir su resumen completo en el libro`);
+  assert(summary.notas.join(" ").length >= 7000, `el resumen ${unitKey} no debe reducirse a unas pocas notas`);
+  const markdown = fs.readFileSync(path.join(__dirname, "datos", "resumenes", path.basename(source)), "utf8");
+  assert(summary.notas.length >= 20 && summary.notas.join(" ").length >= markdown.length * 0.65, `${unitKey}: el resumen del libro está truncado`);
+  for (const [, title] of markdown.matchAll(/^#{2,6} (.+)$/gm)) {
+    assert(summary.notas.join(" ").includes(title.trim()), `${unitKey}: falta el apartado ${title.trim()} en el libro`);
+  }
+}
+
+const embeddedHtml = fs.readFileSync(path.join(__dirname, "index.html"), "utf8");
+for (const name of ["questions", "reference", "definitions", "errors", "glossary"]) {
+  const match = embeddedHtml.match(new RegExp(`<script id="${name}-data" type="application/json">([\\s\\S]*?)<\\/script>`));
+  assert(match, `falta el bloque incrustado ${name}`);
+  assert.deepStrictEqual(JSON.parse(match[1]), JSON.parse(fs.readFileSync(path.join(__dirname, `${name}.json`), "utf8")), `${name}: el HTML no contiene los datos actualizados`);
+}
+
 assert(questions.length >= 140, "el banco debe tener al menos 140 casos");
 
 for (const item of questions) {
@@ -71,7 +98,7 @@ for (const [key, entry] of Object.entries(reference.entradas)) {
   assert(intro.length >= 80, `la entrada ${key} necesita una introduccion explicativa`);
   assert(entry.notas.length >= 3, `la entrada ${key} necesita al menos 3 puntos clave`);
   assert(entry.ejemplos && entry.ejemplos.length >= 1, `la entrada ${key} necesita al menos un ejemplo`);
-  if (entry.categoria !== "Empezá por acá") {
+  if (entry.categoria !== "Empezá por acá" && !entry.archivoFuente) {
     assert(questions.some((item) => item.referencia.entradaLibro === key), `la entrada ${key} no la usa ningun caso`);
   }
 }
@@ -88,7 +115,8 @@ console.log(`${questions.length} casos y ${Object.keys(reference.entradas).lengt
 const definitions = JSON.parse(fs.readFileSync(path.join(__dirname, "definitions.json"), "utf8"));
 assert(definitions.length >= 80, "debe haber al menos 80 definiciones");
 for (const unit of reference.unidades) {
-  assert(definitions.filter((item) => item.unidad === unit.key).length >= 15, `la unidad ${unit.titulo} necesita al menos 15 definiciones`);
+  const minimum = NEW_UNITS[unit.key] ? 18 : 15;
+  assert(definitions.filter((item) => item.unidad === unit.key).length >= minimum, `la unidad ${unit.titulo} necesita al menos ${minimum} definiciones`);
 }
 for (const item of definitions) {
   assert(item.respuestasIncorrectas.length >= 2, `[${item.id}] necesita al menos 2 distractores del mismo grupo`);

@@ -1,0 +1,232 @@
+{
+  "unidad": {
+    "key": "propiedad_intelectual",
+    "titulo": "Propiedad Intelectual"
+  },
+  "entradas": {
+    "pi_glosario": {
+      "categoria": "Empezá por acá",
+      "titulo": "Obra, marca, invención y dirección web",
+      "intro": [
+        "La propiedad intelectual reúne derechos sobre bienes intangibles. Para resolver un caso conviene identificar qué se creó, qué uso se discute y quién está habilitado para autorizarlo, sin confundir los distintos registros."
+      ],
+      "notas": [
+        "Obra: expresión original de una creación intelectual humana, como un texto o un programa; una idea abstracta no equivale a su expresión.",
+        "Autor y titular: autor es quien crea; titular patrimonial es quien puede explotar los derechos, por creación, transmisión o disposición legal.",
+        "Marca e invención: la primera distingue productos o servicios; la segunda propone una solución técnica y debe cumplir requisitos para obtener una patente.",
+        "Dominio y handle: el dominio identifica dentro del DNS; el handle identifica una cuenta dentro de una plataforma.",
+        "Ius excluendi o prohibendi: facultad de excluir usos no autorizados dentro del objeto, territorio, plazo y límites del régimen correspondiente."
+      ],
+      "ejemplos": [
+        "Una aplicación puede reunir código protegido, una marca, un dominio y cuentas sociales: registrar uno no obtiene los demás."
+      ],
+      "ojo": "Antes de elegir el trámite, identificá el objeto y el uso concreto; pagar o registrar primero no resuelve por sí solo el conflicto."
+    },
+    "pi_obras_organismos": {
+      "categoria": "Objetos y organismos",
+      "titulo": "Qué protege cada sistema",
+      "intro": [
+        "La protección autoral recae sobre una expresión original perceptible, no sobre la idea de un producto ni sobre su éxito comercial. Cada organismo tiene una competencia y registrar un objeto no crea una protección universal."
+      ],
+      "notas": [
+        "Obra e idea: organizar turnos es una idea; el código, los textos y diseños originales que la expresan pueden ser obras. No se exige mérito artístico, precio alto ni éxito.",
+        "DNDA: la Dirección Nacional del Derecho de Autor se ocupa de obras y actos del derecho de autor; no sustituye el registro de marcas.",
+        "INPI: el Instituto Nacional de la Propiedad Industrial se ocupa de marcas, patentes, modelos de utilidad y modelos o diseños industriales.",
+        "OMPI y WIPO: son las siglas en español e inglés del mismo organismo internacional, que trabaja en cooperación, tratados y servicios; no concede una propiedad universal sobre toda creación.",
+        "Normas de referencia: el artículo 17 de la Constitución reconoce la protección por el plazo legal; la Ley 11.723 es el régimen autoral central y la Ley 25.036 incorporó expresamente software fuente y objeto y compilaciones de datos.",
+        "Fotografía e imagen: la autoría de la foto y los derechos de la persona retratada son cuestiones diferentes. El artículo 31 de la Ley 11.723 trata el retrato; los artículos 53 y 55 del CCyC regulan imagen/voz y consentimiento personalísimo.",
+        "Nombre personal: sus reglas están en los artículos 62 a 72 del CCyC, especialmente las acciones del artículo 71. El artículo 53 no es la norma general sobre el nombre."
+      ],
+      "ejemplos": [
+        "Una fotógrafa creó una imagen, pero antes de usar el retrato en publicidad se debe analizar también la imagen de la persona identificable."
+      ],
+      "ojo": "Un sitio puede contener obras de varios titulares: registrar su dominio no convierte al registrante en autor de cada foto o texto."
+    },
+    "pi_autoria": {
+      "categoria": "Personas y derechos",
+      "titulo": "Crear, explotar y reconocer la autoría",
+      "intro": [
+        "Autoría y titularidad patrimonial pueden coincidir o pertenecer a personas distintas. La autorización para explotar una obra no borra el vínculo personal de quien la creó, y el contrato debe precisar qué facultades se transmiten."
+      ],
+      "notas": [
+        "Autor: persona que crea la obra. Un editor o comprador de derechos económicos no se convierte por ello en su creador.",
+        "Titular patrimonial: sujeto habilitado para explotar derechos; puede ser el autor, un heredero, un cesionario o un titular por disposición legal.",
+        "Derechos morales: protegen el vínculo personal; la paternidad exige reconocer la autoría y la integridad protege frente a alteraciones que afecten la obra y los intereses protegidos del autor.",
+        "Derechos patrimoniales: controlan reproducción, transformación, distribución y comunicación pública. Reproducción es hacer ejemplares; transformación comprende traducción o adaptación.",
+        "Cesión y límite: los artículos 51 y 52 de la Ley 11.723 permiten diferenciar la transferencia económica de la conservación de la autoría y fidelidad de la obra.",
+        "Software dependiente: el artículo 4 inciso d de la Ley 11.723 contempla al empleador del dependiente contratado para elaborar software creado en sus funciones, salvo pacto contrario.",
+        "Proveedor independiente: pagar un encargo externo no atribuye automáticamente al cliente todos los derechos. Deben precisarse licencia o cesión, entregables, código fuente y usos autorizados.",
+        "Clasificación doctrinal: el apunte caracteriza los derechos morales como irrenunciables, inalienables, imprescriptibles y perpetuos, y los patrimoniales como pecuniarios, transmisibles y temporales. Esa clasificación no permite deducir un derecho general a retirar obras pagando una indemnización."
+      ],
+      "ejemplos": [
+        "Una editorial obtiene la explotación comercial de una novela; la escritora conserva su autoría y la editorial no puede presentarse como creadora."
+      ],
+      "ojo": "La regla especial del software dependiente no debe trasladarse al profesional independiente por el solo hecho de haber recibido un pago."
+    },
+    "pi_software": {
+      "categoria": "Software y contratos",
+      "titulo": "Precisar los permisos sobre el código",
+      "intro": [
+        "Comprar una licencia permite los usos acordados, sin implicar necesariamente acceso al código fuente, modificaciones o distribución. En un proyecto informático hay que separar cada permiso y documentar el alcance de la entrega."
+      ],
+      "notas": [
+        "Licencia: autoriza usos delimitados sin transmitir por sí sola la titularidad. El artículo 55 bis de la Ley 11.723 contempla licencias de uso o reproducción.",
+        "Cesión: transmite derechos dentro del alcance acordado; no equivale simplemente a permitir el uso de un ejemplar.",
+        "NDA: acuerdo de confidencialidad que obliga a guardar reserva; no concede por sí mismo una patente ni transfiere derechos de explotación.",
+        "Facultades separadas: uso, reproducción, modificación, distribución y acceso al código fuente deben distinguirse. El pago de la licencia no incorpora necesariamente cada una.",
+        "Copia de salvaguardia: el artículo 9 regula una copia identificada para reemplazar el ejemplar licenciado perdido o inutilizado; no habilita repartir copias a terceros.",
+        "Base de datos: puede protegerse una selección u organización original, sin convertir cada dato aislado en propiedad autoral exclusiva.",
+        "Medidas complementarias: contratos, controles de acceso, DRM y prueba de copia cumplen funciones distintas; los ejemplos de marcas o errores inocuos no autorizan alterar datos personales reales."
+      ],
+      "ejemplos": [
+        "Una empresa licencia un sistema para usarlo en su oficina; para redistribuirlo o exigir la entrega de sus fuentes debe comprobar que esos permisos estén incluidos."
+      ],
+      "ojo": "Confidencialidad, permiso de uso y transmisión de derechos son soluciones diferentes; un NDA no reemplaza las otras."
+    },
+    "pi_registro_plazos": {
+      "categoria": "Registro y duración",
+      "titulo": "Prueba, exclusividad y dominio público",
+      "intro": [
+        "Crear una obra y registrarla son hechos diferentes. La inscripción brinda herramientas probatorias y publicidad de actos, mientras que la duración de los derechos económicos determina cuándo cesa la exclusividad sobre esa obra."
+      ],
+      "notas": [
+        "Registro DNDA: aporta fecha cierta, prueba para comparar obras y publicidad de actos registrados. Berna establece protección sin formalidades, pero el régimen argentino contiene deberes y efectos específicos, incluidos los artículos 57 y 63, según el supuesto.",
+        "Plazo general: vida del autor más 70 años, computados desde el 1 de enero siguiente al fallecimiento. Existen categorías y derechos conexos con plazos especiales.",
+        "Dominio público: vencimiento de la exclusividad patrimonial sobre la obra; no permite atribuirse la autoría ajena.",
+        "Obra derivada: traducción o adaptación con aporte original propio que puede seguir protegido aunque el original ya sea de dominio público.",
+        "Derechos conexos: protegen aportes de intérpretes, productores y otros sujetos distintos del autor de la composición. Una grabación nueva puede estar protegida aunque la composición sea de dominio público.",
+        "Dominio público pagante: según el FNA, puede comprender obras de autores nacionales y extranjeros. Se debe revisar el tipo de utilización y las exenciones aplicables; la nacionalidad extranjera no basta para presumir exención.",
+        "Marco del FNA: el régimen incluye el Decreto-Ley 1224/1958 y su reglamentación. El vencimiento del derecho económico del autor no elimina por sí solo el análisis de ese régimen."
+      ],
+      "ejemplos": [
+        "Para publicar un clásico extranjero se comprueba el vencimiento de la exclusividad, la protección de la traducción elegida y el uso y las exenciones del régimen del FNA."
+      ],
+      "ojo": "Ni los 70 años ni el dominio público deben usarse como respuestas universales para grabaciones, traducciones o modalidades de utilización distintas."
+    },
+    "pi_cc": {
+      "categoria": "Permisos abiertos",
+      "titulo": "Leer una licencia Creative Commons",
+      "intro": [
+        "Creative Commons permite autorizar determinados usos de una obra bajo condiciones identificables. El autor conserva derechos y la combinación elegida define qué puede compartir otra persona y con qué requisitos."
+      ],
+      "notas": [
+        "BY: exige atribución, es decir, reconocer la autoría conforme a la licencia.",
+        "NC: limita los usos comerciales; una autorización que incluya NC no equivale a un permiso general para explotar comercialmente.",
+        "SA: exige compartir las adaptaciones bajo la misma licencia.",
+        "ND: impide compartir material adaptado bajo esa licencia; no debe confundirse con SA, que regula cómo compartir una adaptación permitida.",
+        "Combinaciones: hay que leer las condiciones conjuntamente. BY-SA y BY-ND no conceden los mismos permisos sobre una adaptación.",
+        "Copyright y alcance: copyright no es una autorización de copia; CC no significa dominio público. Las licencias CC generales no son la opción recomendada para software."
+      ],
+      "ejemplos": [
+        "Para compartir una adaptación de una ilustración BY-SA se reconocen los créditos y se mantiene la misma licencia; una BY-ND no permite compartir esa adaptación bajo sus términos."
+      ],
+      "ojo": "No alcanza con ver el logo CC: hay que identificar la combinación y el uso que se pretende realizar."
+    },
+    "pi_marcas": {
+      "categoria": "Identidad comercial",
+      "titulo": "Elegir y buscar una marca",
+      "intro": [
+        "Una marca distingue productos o servicios mediante un signo con capacidad distintiva. Elegir un nombre atractivo es una tarea comercial; evaluar si puede registrarse exige además analizar antecedentes y el ámbito de actividad."
+      ],
+      "notas": [
+        "Denominativa: palabras, letras o números sin reivindicar un diseño particular; por ejemplo, SOLVIA escrito como denominación.",
+        "Figurativa: elementos gráficos sin letras ni números; por ejemplo, el dibujo de una hoja sin texto.",
+        "Mixta: denominación y elementos gráficos, o una grafía estilizada; por ejemplo, SOLVIA integrado a una hoja dibujada.",
+        "Naming: proceso de elegir un nombre para identidad y diferenciación comercial. No es una habilitación legal ni reemplaza una búsqueda.",
+        "Antecedentes marcarios: se buscan signos iguales o semejantes y se revisan titular, productos, servicios y estado; pueden existir confusiones fonéticas, visuales o conceptuales.",
+        "Distintividad: una designación necesaria del producto no funciona como una denominación distintiva para ese mismo producto; el ejemplo del apunte es Chocolate para chocolate.",
+        "Resultado de búsqueda: no encontrar coincidencias exactas no garantiza concesión. La búsqueda del INPI y la evaluación del signo cumplen una función distinta de la creación del nombre."
+      ],
+      "ejemplos": [
+        "Una agencia propone SOLVIA y un dibujo: el conjunto es mixto. Antes de solicitarlo, se revisan también nombres que suenen parecidos para actividades relevantes."
+      ],
+      "ojo": "Un dominio disponible y una buena propuesta de naming no prueban que la marca esté libre ni que vaya a ser concedida."
+    },
+    "pi_tramite_marca": {
+      "categoria": "Registro de marcas",
+      "titulo": "Clases, vigencia y oposición",
+      "intro": [
+        "El registro marcario requiere describir los productos o servicios y tramitar la solicitud ante el INPI. Su alcance territorial y temporal no se confunde con el de un dominio ni con una protección automática para cualquier actividad."
+      ],
+      "notas": [
+        "Niza: clasificación de 45 clases, repartidas en 34 de productos y 11 de servicios. Tiene su sistema y acuerdo propios; no nace del Convenio de París.",
+        "TMclass: ayuda a identificar descripciones y clases; no sirve para determinar si un nombre está disponible. Los antecedentes se consultan por otra vía en el INPI.",
+        "Actividad y clases: una misma actividad puede necesitar cobertura en más de una clase; elegir una clase no equivale a apropiarse de cada palabra para cualquier rubro.",
+        "Territorio y plazo: el registro argentino protege en Argentina y para su ámbito de productos o servicios, sin perjuicio de signos notorios. Dura 10 años desde la concesión, renovables con los requisitos legales.",
+        "Marca de hecho: signo usado sin registro cuya defensa puede requerir probar antecedentes y circunstancias; no equivale al título registral.",
+        "Vista: observación del trámite que debe responderse. Oposición es el planteo de un tercero contra la solicitud.",
+        "Oposición y artículo 13: la Ley 22.362 fija 30 días corridos desde la publicación para oponerse, no desde el descubrimiento personal de la solicitud.",
+        "Tiempos de trámite: las estimaciones docentes sobre meses hasta la publicación o el título no son plazos garantizados; hay que atender el procedimiento y las notificaciones."
+      ],
+      "ejemplos": [
+        "Un comercio encuentra una solicitud semejante ya publicada: debe tomar la publicación como punto de partida del plazo de oposición, aunque la haya descubierto después."
+      ],
+      "ojo": "Los diez años se cuentan desde la concesión; los treinta días de oposición, desde la publicación: son hitos diferentes."
+    },
+    "pi_invenciones_tratados": {
+      "categoria": "Industria y cooperación",
+      "titulo": "Solución técnica, apariencia y tratados",
+      "intro": [
+        "Una solución técnica, una mejora funcional y una apariencia ornamental son objetos distintos. Sus regímenes tienen requisitos y plazos propios, y los tratados facilitan protección o solicitudes sin crear por eso un derecho mundial automático."
+      ],
+      "notas": [
+        "Patente de invención: protege una solución técnica que satisface novedad, actividad inventiva y aplicación industrial. Su plazo es de 20 años desde la solicitud, improrrogables.",
+        "Modelo de utilidad: disposición o forma nueva de un objeto que mejora su utilización o función, conforme al régimen. Dura 10 años desde la solicitud, improrrogables.",
+        "Modelo o diseño industrial: apariencia u ornamentación del producto, no la solución técnica en sí. Tiene 5 años iniciales y dos renovaciones de 5, hasta 15 años.",
+        "Condiciones: estos plazos no eliminan concesión, mantenimiento ni pagos. La protección autoral de software no vuelve patentable a un programa por sí sola.",
+        "Normativa de invenciones: Ley 24.481, modificada por la 24.572 y ordenada por Decreto 260/1996.",
+        "París: propiedad industrial, trato nacional, prioridad e independencia de derechos nacionales. Bajo sus condiciones, prioridad de 12 meses para patentes y modelos de utilidad y de 6 para marcas y diseños.",
+        "Berna y Roma: Berna trata obras y derechos de autor, protección sin formalidades, trato nacional e independencia; Roma protege intérpretes, productores de fonogramas y radiodifusión.",
+        "ADPIC y WCT: ADPIC/TRIPS fija estándares en el sistema de la OMC; WCT trata derecho de autor en el entorno digital, incluidos programas y compilaciones originales.",
+        "PCT: vía de solicitud internacional de patentes que no concede una patente mundial. Según la revisión del 22/11/2026, Argentina no figura como parte en la lista oficial consultada; una aprobación interna no equivale a vinculación internacional efectiva."
+      ],
+      "ejemplos": [
+        "Una botella puede tener una mejora funcional analizable como modelo de utilidad y una ornamentación analizable como diseño: no tienen el mismo objeto ni plazo."
+      ],
+      "ojo": "Hay que distinguir avance de un trámite interno, pertenencia internacional al PCT y concesión nacional; no son etapas intercambiables."
+    },
+    "pi_dominios": {
+      "categoria": "Direcciones de Internet",
+      "titulo": "DNS y registro de dominios",
+      "intro": [
+        "Un dominio identifica dentro del sistema de nombres de Internet. Registrarlo permite una titularidad sujeta a reglas y renovación, mientras que el alojamiento del sitio, sus contenidos y la marca comercial se gestionan por vías diferentes."
+      ],
+      "notas": [
+        "DNS: relaciona nombres con registros técnicos para localizar servicios. No exige un dominio por una única IP ni una IP por un único dominio.",
+        "ICANN: coordina identificadores únicos del sistema mundial de Internet; esa función no equivale al registro marcario argentino.",
+        "gTLD y ccTLD: un gTLD es genérico, como .com o .org; un ccTLD corresponde a un país, como .ar.",
+        "Subdominio: en www.empresa.com.ar, www es un nivel dentro del nombre ya registrado. No es por sí mismo otra marca ni un registro independiente en NIC.",
+        "NIC Argentina: administra .ar y las zonas bajo su competencia; el reglamento exceptúa .edu.ar, administrado por ARIU.",
+        "Independencia: registrar marca, dominio y handle son actos separados; dominio, hosting y contenido del sitio también son cosas distintas.",
+        "Reglamento NIC: la Resolución SLyT 2/2022 establece prioridad de solicitud con excepciones en el artículo 17 y supuestos de rechazo o revocación, como confusión o mala fe, en el 19.",
+        "Vigencia anual: el artículo 20 prevé registro por un año y períodos posteriores al vencimiento; el 21 regula renovación. Las transferencias se tratan en los artículos 24 a 27.",
+        "Zonas y costos: algunas zonas requieren habilitación y documentación. Los aranceles no se estudian como cifras permanentes y el registro no es una propiedad perpetua."
+      ],
+      "ejemplos": [
+        "Una empresa puede cambiar de hosting conservando su dominio; además debe renovar el registro anual aunque su marca siga vigente."
+      ],
+      "ojo": "La disponibilidad de un dominio no acredita derechos sobre el nombre comercial y la prioridad de solicitud tiene excepciones."
+    },
+    "pi_disputas_redes": {
+      "categoria": "Conflictos y prueba",
+      "titulo": "Reclamar un dominio o una cuenta",
+      "intro": [
+        "El conflicto por un nombre exige identificar el sistema aplicable y reunir prueba. Tener una marca puede ser relevante, pero ni el trámite local de NIC ni los mecanismos de plataformas se resuelven por una transferencia automática."
+      ],
+      "notas": [
+        "Disputa NIC: los artículos 28 y siguientes regulan el procedimiento. Hay que acreditar mejor derecho o interés legítimo y la prueba del caso; se valoran usos, fechas, derechos y conducta del registrante.",
+        "UDRP: en dominios sujetos a esa política deben acreditarse conjuntamente semejanza confundible con una marca, falta de derechos o intereses legítimos y registro y uso de mala fe.",
+        "Remedios UDRP: permite cancelación o transferencia del dominio, no una indemnización dineraria. La OMPI administra controversias, pero sus requisitos no se trasladan sin más al procedimiento local de NIC.",
+        "Handle: nombre de usuario dentro de una plataforma; sus términos regulan asignación, transferencia y suspensión. No equivale a un dominio administrado por NIC.",
+        "Handle squatting: apropiación de nombres vinculados a terceros para bloquearlos o negociar su entrega. Se debe guardar prueba del uso, titularidad o suplantación, identificar quién controla la cuenta y usar los mecanismos de reclamo.",
+        "Normas y plataformas: las condiciones de una red no eliminan las leyes sobre marcas, nombre, imagen, contratos o responsabilidad. Una marca no asegura que la plataforma transfiera el usuario.",
+        "Cautelares y noticias: una cautelar es provisional y requiere justificación; no equivale a sentencia definitiva. Las narraciones docentes y noticias del aula no se presentan como expedientes verificados.",
+        "Recursos del aula: Kevin Bacon permite discutir nombre, imagen y signo comercial; Google.com.ar ilustra continuidad del dominio; la noticia sobre Meta e IA describe una controversia, no una autorización general ni el estado procesal actual."
+      ],
+      "ejemplos": [
+        "Una marca registrada descubre un dominio parecido: reúne prueba de fechas, uso y conducta para el procedimiento aplicable, en vez de suponer que el título marcario ordena su transferencia."
+      ],
+      "ojo": "Una defensa empresarial, un titular periodístico o una medida provisional no deben estudiarse como una regla legal o sentencia definitiva."
+    }
+  }
+}

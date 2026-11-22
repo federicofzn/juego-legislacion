@@ -1,0 +1,344 @@
+[
+  {
+    "id": "ep-caso-01", "tipo": "caso", "titulo": "El diploma y la firma",
+    "situacion": "Lucía obtuvo su diploma y quiere firmar un informe profesional para una autoridad que exige habilitación específica.",
+    "pregunta": "¿Qué debe comprobar antes de firmar?",
+    "correcta": "Título y alcances, acto, materia, jurisdicción y destinatario",
+    "incorrectas": ["Solo la autenticidad del diploma, sin revisar el acto", "Solo la experiencia técnica, sin revisar jurisdicción", "Solo una certificación privada en la herramienta usada", "Solo el domicilio del cliente, sin atender al destinatario", "Solo la matrícula de un colega que supervise el envío"],
+    "pista": "Pensá qué cambia si el mismo informe se presenta ante otra autoridad.",
+    "explicacion": "La habilitación se analiza para un acto concreto: el diploma acredita formación, los alcances delimitan funciones y debe identificarse el régimen y la autoridad que recibirá el trabajo.", "libro": "ep_habilitacion"
+  },
+  {
+    "id": "ep-caso-02", "tipo": "norma", "titulo": "El ámbito del artículo 1",
+    "situacion": "Un estudio lee el artículo 1 del Decreto-Ley 6070/58 para preparar una pericia ante un tribunal nacional.",
+    "pregunta": "¿Qué ámbito señala ese artículo?",
+    "correcta": "Jurisdicción nacional o actuación ante autoridades o tribunales nacionales",
+    "incorrectas": ["Toda actuación tecnológica provincial con independencia del destinatario", "Solo servicios remunerados ante empresas privadas", "Solo actuaciones que se realicen dentro de universidades", "Toda tarea informática determinada únicamente por el domicilio del profesional", "Solo presentaciones ante consejos y colegios provinciales"],
+    "pista": "Ubicá el carácter de la autoridad que recibe la pericia.",
+    "explicacion": "El artículo 1 delimita ese ámbito nacional. No convierte al régimen en una habilitación que sustituya automáticamente los registros provinciales ni regula por sí solo toda actividad tecnológica.", "libro": "ep_habilitacion"
+  },
+  {
+    "id": "ep-caso-03", "tipo": "caso", "titulo": "Auditoría interna sin cobrar",
+    "situacion": "Un ingeniero hará gratuitamente una auditoría interna y propone omitir el análisis de habilitación porque no habrá presentación externa.",
+    "pregunta": "¿Cómo debe evaluarse su argumento?",
+    "correcta": "La gratuidad y el carácter interno no crean una exención general; hay que analizar el acto",
+    "incorrectas": ["La gratuidad excluye el acto aunque se trate de una actividad regulada", "El carácter interno excluye el acto aunque encuadre en el régimen", "La combinación de gratuidad y trabajo interno sustituye la matrícula exigible", "Solo importa si el informe lleva membrete de la empresa", "El artículo 2 comprende servicios únicamente cuando se facturan"],
+    "pista": "La definición de ejercicio considera más elementos que cobrar o enviar un documento afuera.",
+    "explicacion": "El artículo 2 del Decreto-Ley 6070/58 incluye actividades gratuitas y remuneradas. La ausencia de cobro o presentación externa no resuelve por sí sola el encuadre, que exige revisar título, tarea y jurisdicción.", "libro": "ep_habilitacion"
+  },
+  {
+    "id": "ep-caso-04", "tipo": "caso", "titulo": "De CABA a un encargo provincial",
+    "situacion": "Un profesional matriculado en COPITEC recibe un encargo en PBA y supone que su inscripción reemplaza los requisitos provinciales.",
+    "pregunta": "¿Qué corresponde hacer?",
+    "correcta": "Revisar título, incumbencias, tarea y destinatario bajo el régimen provincial",
+    "incorrectas": ["Usar la inscripción COPITEC como reemplazo automático de la provincial", "Elegir CPCIBA para software sin examinar título ni tarea", "Elegir Colegio de Ingenieros para hardware sin examinar incumbencias", "Elegir el registro con mayor prestigio como criterio jurídico suficiente", "Elegir el consejo del domicilio del cliente sin revisar el organismo receptor"],
+    "pista": "Cambiar el lugar o la autoridad puede cambiar el encuadre del mismo trabajo.",
+    "explicacion": "La Ley 13.016 y la Ley 10.416 deben analizarse según título, incumbencias, tarea y organismo receptor. El prestigio institucional y la división software/hardware no resuelven el reparto, y COPITEC no sustituye automáticamente matrículas provinciales.", "libro": "ep_instituciones"
+  },
+  {
+    "id": "ep-caso-05", "tipo": "clasificar", "titulo": "Tres pertenencias distintas",
+    "situacion": "Ana se asocia al CPCI de CABA, consulta a un sindicato y trabaja en una empresa vinculada con CESSI.",
+    "pregunta": "¿Cómo se distinguen esas instituciones?",
+    "correcta": "CPCI es asociación civil; el sindicato representa trabajo y CESSI intereses empresariales",
+    "incorrectas": ["CPCI es matrícula legal; el sindicato representa trabajo y CESSI empresas", "CPCI es asociación civil; el sindicato habilita firmas y CESSI empresas", "CPCI es asociación civil; el sindicato representa trabajo y CESSI matricula", "CPCI es colegio provincial; el sindicato fija incumbencias y CESSI empresas", "CPCI es consejo nacional; el sindicato matricula y CESSI representa trabajo"],
+    "pista": "Diferenciá comunidad profesional, representación laboral y representación de empleadores.",
+    "explicacion": "El CPCI de CABA aparece como asociación civil voluntaria, los sindicatos representan intereses laborales y CESSI es una cámara empresaria. Esas pertenencias no equivalen a una habilitación para firmar.", "libro": "ep_instituciones"
+  },
+  {
+    "id": "ep-caso-06", "tipo": "norma", "titulo": "La matrícula en la Ley 13.016",
+    "situacion": "Un equipo estudia las reglas de ejercicio informático de PBA y busca el artículo que exige inscripción para la actividad regulada.",
+    "pregunta": "¿Qué correspondencia es correcta?",
+    "correcta": "Ley 13.016, artículo 4: exigencia de matrícula para el ejercicio que regula",
+    "incorrectas": ["Ley 13.016, artículo 5: escala de multa por ejercicio sin matrícula", "Ley 13.016, artículo 6: listado de tareas de análisis y auditoría", "Ley 13.016, artículo 7: exención de matrícula para seguridad", "Ley 13.016, artículo 2: ingreso permanente de idóneos sin condiciones", "Ley 10.416, artículo 2: exención de cuota anual para ingeniería"],
+    "pista": "Separá condiciones de ingreso, requisito de ejercicio, actividades y consecuencia por incumplir.",
+    "explicacion": "En la Ley 13.016 el artículo 4 exige matrícula, el 5 comprende ofrecimiento de servicios y denominaciones, el 6 prevé multa de 10 a 500 veces el derecho de inscripción y el 7 incluye actividades. La vía de idóneos es transitoria y condicionada. La Ley 10.416 exige título y matrícula, incluida cuota anual.", "libro": "ep_instituciones"
+  },
+  {
+    "id": "ep-caso-07", "tipo": "caso", "titulo": "Firmar un informe ajeno",
+    "situacion": "Un cliente envía un informe preparado por otra persona y pide a la ingeniera que lo firme sin estudiarlo porque confía en su autor.",
+    "pregunta": "¿Qué exige la regla sobre firma?",
+    "correcta": "Haber estudiado, ejecutado o controlado personalmente la documentación",
+    "incorrectas": ["Conocer la reputación del autor aunque no se controle el contenido", "Obtener una liberación de responsabilidad firmada por el cliente", "Agregar la frase documento recibido sin estudiar y firmar igualmente", "Cobrar solo por la firma sin revisar el trabajo técnico", "Comprobar únicamente la fecha y el membrete del informe"],
+    "pista": "La firma compromete una intervención propia sobre lo que el documento afirma.",
+    "explicacion": "El código prohíbe firmar documentación no estudiada, ejecutada o controlada personalmente. Confiar en el autor, revisar la apariencia o acordar una liberación con el cliente no reemplaza esa intervención.", "libro": "ep_etica"
+  },
+  {
+    "id": "ep-caso-08", "tipo": "caso", "titulo": "Mostrar secretos como publicidad",
+    "situacion": "Para conseguir clientes, una consultora quiere publicar detalles reservados de un proyecto. No hay obligación legal de revelarlos.",
+    "pregunta": "¿Qué debe prevalecer en este caso?",
+    "correcta": "La reserva profesional; el interés publicitario no es la excepción legal",
+    "incorrectas": ["El interés comercial del estudio como excepción suficiente al secreto", "La antigüedad del proyecto como autorización automática para divulgar", "La ausencia de pago por la publicación como excepción al secreto", "El aval de un proveedor como sustituto de la obligación legal", "El uso de una red profesional como habilitación para divulgar"],
+    "pista": "Compará una razón de conveniencia con un deber impuesto por el ordenamiento.",
+    "explicacion": "El código exige secreto salvo obligación legal. Mostrar experiencia o conseguir clientes no constituye esa excepción; tampoco la generan por sí solos el tiempo transcurrido o el medio de publicación.", "libro": "ep_etica"
+  },
+  {
+    "id": "ep-caso-09", "tipo": "caso", "titulo": "La comisión del proveedor",
+    "situacion": "Mientras selecciona equipos para su cliente, un profesional recibe una oferta de comisión personal del proveedor interesado.",
+    "pregunta": "¿Qué conducta corresponde?",
+    "correcta": "Rechazar el beneficio del proveedor interesado para preservar independencia",
+    "incorrectas": ["Aceptar porque la comisión no modifica las especificaciones escritas", "Aceptar si el proveedor también ofrece una garantía extendida", "Aceptar porque el precio final coincide con el presupuesto", "Aceptar si se cobra después de terminar el asesoramiento", "Aceptar porque la comisión la paga el proveedor y no el cliente"],
+    "pista": "Pensá cómo un incentivo personal puede interferir con la selección aconsejada.",
+    "explicacion": "El código rechaza beneficios de proveedores interesados. La independencia puede verse comprometida aunque el precio o el producto parezcan adecuados; cambiar el momento o la fuente del pago no elimina ese conflicto.", "libro": "ep_etica"
+  },
+  {
+    "id": "ep-caso-10", "tipo": "caso", "titulo": "Prometer fuera de la capacidad",
+    "situacion": "Un cliente exige resolver una tarea ajena a la capacidad técnica del profesional y pide aplicar una solución contraria a la buena técnica.",
+    "pregunta": "¿Qué criterio debe seguir el profesional?",
+    "correcta": "No prometer lo ajeno a su capacidad ni ejecutar una solución contraria a la buena técnica",
+    "incorrectas": ["Aceptar porque la orden del cliente desplaza el deber técnico", "Prometer el resultado y dejar el problema de capacidad para después", "Ejecutar la solución si el cliente firma que conoce el riesgo", "Aceptar porque la matrícula amplía automáticamente su capacidad", "Ejecutar la solución si el cliente ofrece remuneración adicional"],
+    "pista": "Ni el consentimiento ni el precio convierten una mala práctica en una prestación responsable.",
+    "explicacion": "El código exige buena técnica aun frente a órdenes y prohíbe promesas de cumplimiento muy dudoso, imposible o ajeno a la capacidad personal. La matrícula y la voluntad del cliente no sustituyen competencia ni diligencia.", "libro": "ep_etica"
+  },
+  {
+    "id": "ep-caso-11", "tipo": "caso", "titulo": "El mínimo arancelario del PDF",
+    "situacion": "Un alumno ve en el PDF ético la prohibición de reducir honorarios arancelarios del punto 2.2.1.4 y la copia como regla vigente.",
+    "pregunta": "¿Qué corrección necesita su ficha?",
+    "correcta": "El Decreto 240/1999 identifica ese punto como derogado",
+    "incorrectas": ["El punto sigue vigente porque figura en el PDF de cursada", "El punto solo se derogó para quienes trabajan en relación de dependencia", "El punto se convirtió en una regla del convenio UNDAV–COPITEC", "El punto fue reemplazado por una prohibición de prestar servicios gratuitos", "El punto se mantiene si el cliente acepta por escrito el mínimo"],
+    "pista": "El material histórico debe leerse junto con la modificación oficial contrastada.",
+    "explicacion": "El artículo 1.a.1 del Decreto 240/1999 identifica expresamente como derogado el punto 2.2.1.4. Su presencia en el PDF no acredita vigencia; tampoco corresponde leer la competencia por honorarios al margen de la desregulación.", "libro": "ep_etica"
+  },
+  {
+    "id": "ep-caso-12", "tipo": "caso", "titulo": "La multa en moneda nacional",
+    "situacion": "Una ficha transforma los $200 a $100.000 moneda nacional del artículo 28 del Decreto-Ley 6070/58 en pesos actuales.",
+    "pregunta": "¿Cómo debe corregirse esa lectura?",
+    "correcta": "La expresión monetaria es histórica y no se verificó un importe operativo actual",
+    "incorrectas": ["Los números pueden usarse sin conversión como pesos actuales", "La cifra equivale a la escala de 10 a 500 derechos de inscripción", "La cifra se actualiza automáticamente por la cuota anual de COPITEC", "La referencia histórica elimina la posibilidad de sanciones disciplinarias", "La cifra corresponde a una indemnización civil y no a una multa"],
+    "pista": "Identificá la unidad monetaria y separá el régimen nacional de la escala provincial.",
+    "explicacion": "El artículo 28 contempla advertencia, amonestación, censura pública, multa, suspensión de un mes a dos años y cancelación. La multa publicada está en moneda nacional histórica; las fuentes no verifican su cuantificación operativa actual.", "libro": "ep_disciplina"
+  },
+  {
+    "id": "ep-caso-13", "tipo": "caso", "titulo": "Preparar el descargo ético",
+    "situacion": "Una profesional domiciliada en Capital Federal estudia el plazo de descargo reproducido en el código ético del material.",
+    "pregunta": "¿Qué plazo del texto corresponde?",
+    "correcta": "Diez días hábiles, con ampliación razonable por distancia cuando corresponda",
+    "incorrectas": ["Cinco días hábiles, previstos para apelar un rechazo manifiesto", "Seis días, previstos para alegar sobre el informe posterior", "Treinta días desde que las actuaciones estén en estado de resolución", "Tres meses de reserva previstos para la falta de ratificación", "Tres años desde la falta previstos como plazo de prescripción"],
+    "pista": "Ubicá el momento en que la persona denunciada presenta su primera defensa.",
+    "explicacion": "El texto da diez días hábiles para descargo en Capital Federal, ampliables razonablemente por distancia. Apelación del rechazo, alegato, resolución, reserva y prescripción son momentos diferentes. Para tramitar actualmente deben revisarse además las disposiciones complementarias.", "libro": "ep_disciplina"
+  },
+  {
+    "id": "ep-caso-14", "tipo": "caso", "titulo": "Lanzar un laboratorio conjunto",
+    "situacion": "UNDAV y COPITEC proyectan un laboratorio bajo el convenio marco leído y necesitan fijar responsables, recursos y derechos sobre resultados.",
+    "pregunta": "¿Qué instrumento prevé el texto?",
+    "correcta": "Un Anexo Operativo Complementario que concrete la actividad",
+    "incorrectas": ["Una carta de intención que omita derechos y recursos del proyecto", "Una comunicación informal sin definir aportes ni responsables", "El convenio marco por sí solo, sin acuerdo específico de la actividad", "Una solicitud de financiamiento sin condiciones de ejecución", "Un acta de difusión que reemplace el plan y los responsables"],
+    "pista": "El acuerdo general abre la cooperación, pero cada actividad necesita sus condiciones propias.",
+    "explicacion": "La segunda cláusula exige convenios específicos mediante Anexos Operativos Complementarios. La tercera enumera objetivos, plazos, responsables, aportes, recursos, financiamiento y derechos, entre otras condiciones del proyecto.", "libro": "ep_convenio"
+  },
+  {
+    "id": "ep-caso-15", "tipo": "norma", "titulo": "Duración escrita del convenio",
+    "situacion": "En un examen se pide reconstruir la cláusula séptima del convenio, sin afirmar que se haya comprobado su vigencia actual.",
+    "pregunta": "¿Qué combinación reproduce el texto?",
+    "correcta": "Tres años desde la firma, renovación automática y denuncia con treinta días corridos de anticipación",
+    "incorrectas": ["Tres años desde la firma, renovación expresa y denuncia con treinta días hábiles", "Dos años desde la firma, renovación automática y denuncia con treinta días corridos", "Tres años desde la aprobación, sin renovación y denuncia con diez días hábiles", "Tres años desde la firma, renovación automática y denuncia con cinco días hábiles", "Cinco años desde la firma, renovación expresa y denuncia con sesenta días corridos"],
+    "pista": "Separá duración inicial, mecanismo de renovación y clase de días para avisar.",
+    "explicacion": "La séptima cláusula establece tres años desde la firma, renovación automática y denuncia anticipada en treinta días corridos. Es contenido contractual del texto; no prueba ausencia de denuncia posterior ni vigencia en 2026.", "libro": "ep_convenio"
+  },
+  {
+    "id": "ep-caso-16", "tipo": "caso", "titulo": "El convenio y la matrícula",
+    "situacion": "Un graduado interpreta que la renovación automática del convenio le garantiza matrícula y empleo y demuestra que sigue vigente.",
+    "pregunta": "¿Qué conclusión permiten las fuentes?",
+    "correcta": "El texto organiza cooperación, sin otorgar matrícula ni empleo ni acreditar vigencia actual",
+    "incorrectas": ["La renovación demuestra vigencia actual y matrícula automática, pero no empleo", "La noticia de firma garantiza empleo, aunque no amplíe incumbencias", "El convenio amplía alcances del título aunque no dé matrícula automática", "La falta de fecha completa demuestra que el convenio jamás fue firmado", "La denuncia extingue de inmediato los proyectos pendientes aunque no se rescindan"],
+    "pista": "Distinguí cláusulas del acuerdo, beneficios individuales y evidencia del estado documental.",
+    "explicacion": "No hay matrícula automática, ampliación de incumbencias ni empleo garantizado. No se verificaron versión final, modificaciones o denuncia posterior; los espacios incompletos tampoco prueban ausencia de firma. La denuncia no interrumpe acciones pendientes no expresamente rescindidas.", "libro": "ep_convenio"
+  },
+  {
+    "id": "ep-caso-17", "tipo": "caso", "titulo": "La nómina leída sin permiso",
+    "situacion": "Una empleada lee sin permiso la nómina; no la cambia y sigue accesible.",
+    "pregunta": "¿Qué objetivo CID se afecta?",
+    "correcta": "Confidencialidad",
+    "incorrectas": ["Integridad", "Disponibilidad", "Integridad y disponibilidad", "Confidencialidad e integridad", "Confidencialidad y disponibilidad"],
+    "pista": "Fijate quién pudo conocer los sueldos, aunque el archivo siguiera intacto.",
+    "explicacion": "La lectura por una persona no autorizada afecta confidencialidad. El caso no describe alteración del archivo ni interrupción del acceso, por lo que no fundamenta integridad o disponibilidad como objetivos afectados.", "libro": "ep_riesgo_cid"
+  },
+  {
+    "id": "ep-caso-18", "tipo": "caso", "titulo": "El importe alterado",
+    "situacion": "Alguien cambia un importe sin permiso; el sistema sigue accesible y no hay lectura ajena.",
+    "pregunta": "¿Qué objetivo CID se afecta?",
+    "correcta": "Integridad",
+    "incorrectas": ["Confidencialidad", "Disponibilidad", "Confidencialidad y disponibilidad", "Confidencialidad e integridad", "Integridad y disponibilidad"],
+    "pista": "Compará el valor original con el que ahora figura en la cuenta.",
+    "explicacion": "Integridad protege información completa, exacta y sin alteraciones no autorizadas. El cambio de importe es el hecho relevante; no se describen acceso de lectores ajenos ni caída del servicio.", "libro": "ep_riesgo_cid"
+  },
+  {
+    "id": "ep-caso-19", "tipo": "caso", "titulo": "El portal de turnos caído",
+    "situacion": "El portal de turnos deja de funcionar; no se detectan lecturas ni cambios en los registros.",
+    "pregunta": "¿Qué objetivo CID se afecta?",
+    "correcta": "Disponibilidad",
+    "incorrectas": ["Confidencialidad", "Integridad", "Confidencialidad e integridad", "Confidencialidad y disponibilidad", "Integridad y disponibilidad"],
+    "pista": "El problema aparece cuando alguien necesita reservar y no puede hacerlo.",
+    "explicacion": "Disponibilidad significa poder acceder a información y sistemas cuando se necesitan. La caída impide usar el portal; no demuestra por sí sola lectura no autorizada ni alteración de los registros.", "libro": "ep_riesgo_cid"
+  },
+  {
+    "id": "ep-caso-20", "tipo": "clasificar", "titulo": "El servidor sin parche",
+    "situacion": "Una auditoría descubre un servidor sin parche, contempla un posible ataque y estima la posibilidad y el impacto de una interrupción.",
+    "pregunta": "¿Cómo se ordenan esos tres elementos?",
+    "correcta": "Servidor sin parche: vulnerabilidad; ataque posible: amenaza; posibilidad e impacto: riesgo",
+    "incorrectas": ["Servidor sin parche: amenaza; ataque posible: vulnerabilidad; posibilidad e impacto: riesgo", "Servidor sin parche: riesgo; ataque posible: amenaza; posibilidad e impacto: vulnerabilidad", "Servidor sin parche: vulnerabilidad; ataque posible: riesgo; posibilidad e impacto: amenaza", "Servidor sin parche: incidente probado; ataque posible: amenaza; posibilidad e impacto: control", "Servidor sin parche: amenaza; ataque posible: incidente probado; posibilidad e impacto: vulnerabilidad"],
+    "pista": "Separá una debilidad presente, un evento potencial y la evaluación de sus consecuencias.",
+    "explicacion": "Una vulnerabilidad es una debilidad explotable, una amenaza es un evento potencialmente perjudicial y el riesgo combina posibilidad e impacto. El hallazgo del parche faltante no prueba que ya haya ocurrido un ataque.", "libro": "ep_riesgo_cid"
+  },
+  {
+    "id": "ep-caso-21", "tipo": "caso", "titulo": "Permisos antes del incidente",
+    "situacion": "Una PYME limita los permisos de facturación a las tareas necesarias antes de que se produzca un uso indebido.",
+    "pregunta": "¿Cómo se clasifica esta medida?",
+    "correcta": "Preventiva: aplica mínimo privilegio para reducir oportunidades de abuso",
+    "incorrectas": ["Detectiva: descubre un abuso ya ocurrido mediante análisis de logs", "De respuesta: aísla una estación después de confirmar el incidente", "De recuperación: restaura una copia posterior a la interrupción", "Forense: reconstruye hechos mediante evidencia preservada", "De continuidad: traslada la atención a un procedimiento manual"],
+    "pista": "Ubicá la medida antes de que se produzca el daño y observá qué permite evitar.",
+    "explicacion": "El mínimo privilegio concede solo accesos necesarios y reduce posibilidades de uso indebido: es prevención. Revisar eventos ayuda a detectar; contener, restaurar y mantener atención corresponden a otras funciones.", "libro": "ep_controles"
+  },
+  {
+    "id": "ep-caso-22", "tipo": "caso", "titulo": "Una alerta en los registros",
+    "situacion": "El equipo reúne logs en un SIEM y descubre una secuencia de accesos anómalos. Todavía no aisló equipos ni restauró servicios.",
+    "pregunta": "¿Qué función cumple esa actividad?",
+    "correcta": "Detección mediante monitoreo y análisis de eventos",
+    "incorrectas": ["Prevención mediante concesión de permisos mínimos", "Contención mediante aislamiento de equipos comprometidos", "Restauración mediante recuperación de sistemas y datos", "Continuidad mediante una sede alternativa de atención", "Remediación mediante eliminación de la causa del incidente"],
+    "pista": "El resultado inmediato es conocer que algo anómalo está ocurriendo.",
+    "explicacion": "Monitoreo, logs y SIEM ayudan a detectar actividad anómala. La alerta no equivale a aislar, remediar o restaurar: esas acciones forman parte de etapas posteriores de respuesta.", "libro": "ep_controles"
+  },
+  {
+    "id": "ep-caso-23", "tipo": "caso", "titulo": "Aislar para limitar el daño",
+    "situacion": "Tras confirmar una intrusión, el equipo separa la estación comprometida de la red para impedir que el atacante avance.",
+    "pregunta": "¿Qué acción está realizando?",
+    "correcta": "Contención como parte de la respuesta al incidente",
+    "incorrectas": ["Detección inicial mediante lectura de una alerta", "Prevención previa mediante capacitación del personal", "Restauración completa de los servicios afectados", "Evaluación previa de probabilidad e impacto", "Verificación final de un objetivo de recuperación cumplido"],
+    "pista": "La intrusión ya se confirmó; ahora se busca frenar su propagación.",
+    "explicacion": "Aislar el equipo limita propagación y es contención dentro de la respuesta. No significa que el servicio esté restaurado ni reemplaza remediación, análisis forense y aprendizaje posterior.", "libro": "ep_controles"
+  },
+  {
+    "id": "ep-caso-24", "tipo": "caso", "titulo": "Atender durante la caída",
+    "situacion": "Una farmacia activa atención manual y responsables alternativos durante una caída, mientras otro equipo restaura los servidores.",
+    "pregunta": "¿Qué distingue esas dos actividades?",
+    "correcta": "La atención sostiene el BCP; restaurar tecnología corresponde al DRP",
+    "incorrectas": ["La atención sostiene el DRP; restaurar tecnología corresponde al BCP", "Ambas son solo DRP porque se originaron en una falla informática", "Ambas son solo BCP y el DRP se limita a comprar equipos", "BCP fija la antigüedad de datos y DRP fija el plazo de respuesta legal", "BCP y DRP son nombres intercambiables de una copia de respaldo"],
+    "pista": "Una actividad mantiene la organización funcionando y la otra recupera sus medios digitales.",
+    "explicacion": "BCP abarca continuidad organizacional y puede incluir atención manual y personal alternativo. DRP se centra en recuperar sistemas, datos y servicios tecnológicos; se articulan sin ser sinónimos.", "libro": "ep_continuidad"
+  },
+  {
+    "id": "ep-caso-25", "tipo": "caso", "titulo": "Volver en dos horas",
+    "situacion": "Un comercio establece que el portal debe volver a funcionar como máximo dos horas después de la interrupción.",
+    "pregunta": "¿Qué objetivo está fijando?",
+    "correcta": "RTO: tiempo objetivo para recuperar el servicio",
+    "incorrectas": ["RPO: punto temporal de los datos que se deben recuperar", "RPO: tiempo máximo para volver a prestar el servicio", "RTO: antigüedad máxima tolerada de los registros recuperados", "RTO: frecuencia mínima obligatoria de las copias", "RPO: duración del simulacro de recuperación"],
+    "pista": "La condición habla del tiempo sin operar y no de cuántas ventas podrían perderse.",
+    "explicacion": "RTO limita la interrupción mediante un tiempo objetivo de recuperación. El RPO expresa el punto temporal de recuperación de datos; cumplir dos horas no demuestra por sí solo que los registros sean suficientemente recientes.", "libro": "ep_continuidad"
+  },
+  {
+    "id": "ep-caso-26", "tipo": "caso", "titulo": "Quince minutos de ventas",
+    "situacion": "Un comercio admite perder como máximo los registros de los últimos quince minutos ante una caída, aunque volver a operar lleve más tiempo.",
+    "pregunta": "¿Qué objetivo describe esa tolerancia?",
+    "correcta": "RPO: punto temporal recuperable que limita la pérdida de datos",
+    "incorrectas": ["RTO: tiempo máximo de interrupción del servicio", "RPO: plazo para que el sistema vuelva a funcionar", "RTO: intervalo máximo entre dos copias de respaldo", "RPO: tiempo medio para detectar una intrusión", "RTO: tiempo medio para responder a una alerta"],
+    "pista": "Lo que se tolera perder son ventas recientes, no minutos de atención al público.",
+    "explicacion": "RPO orienta a qué punto temporal deben recuperarse los datos y, por eso, la pérdida temporal tolerada. RTO limita el tiempo de interrupción; frecuencia de copias y rapidez de restauración atienden objetivos diferentes.", "libro": "ep_continuidad"
+  },
+  {
+    "id": "ep-caso-27", "tipo": "caso", "titulo": "Simular un adversario",
+    "situacion": "En una evaluación autorizada, un grupo intenta alcanzar objetivos de ataque y registrar las brechas que logra frente a las defensas.",
+    "pregunta": "¿Qué rol describe el ejercicio?",
+    "correcta": "Red Team: simulación autorizada de adversarios",
+    "incorrectas": ["Blue Team: monitoreo, detección y contención defensiva", "Purple Team: colaboración para revisar hallazgos entre equipos", "Red Team: vigilancia defensiva medida solo por MTTD", "Blue Team: simulación ofensiva medida por brechas logradas", "Purple Team: intrusión independiente sin coordinación defensiva"],
+    "pista": "Observá quién intenta recorrer caminos de ataque dentro del permiso acordado.",
+    "explicacion": "Red simula adversarios con autorización y se evalúa por objetivos y brechas. Blue cumple funciones defensivas; Purple articula el aprendizaje conjunto. La denominación del equipo no sustituye el permiso para la evaluación.", "libro": "ep_equipos_ot"
+  },
+  {
+    "id": "ep-caso-28", "tipo": "caso", "titulo": "Compartir hallazgos de la prueba",
+    "situacion": "Después de una prueba, ofensores y defensores revisan juntos qué recorridos no generaron alertas y ajustan detección y respuesta.",
+    "pregunta": "¿Qué enfoque representa esa colaboración?",
+    "correcta": "Purple Team: intercambio Red–Blue para mejorar las defensas",
+    "incorrectas": ["Red Team: nueva intrusión sin intercambio con defensores", "Blue Team: medición exclusiva de objetivos ofensivos alcanzados", "Purple Team: reemplazo completo de Red y Blue por otro atacante", "Red Team: administración cotidiana de accesos y permisos", "Blue Team: evaluación ofensiva independiente sin análisis de alertas"],
+    "pista": "La clave es aprender juntos de lo que una parte hizo y la otra pudo observar.",
+    "explicacion": "Purple designa colaboración Red–Blue para compartir hallazgos y mejorar detección y respuesta. Blue monitorea, detecta, contiene y remedia; el material lo evalúa con MTTD y MTTR, sin convertir la cooperación en un ataque independiente.", "libro": "ep_equipos_ot"
+  },
+  {
+    "id": "ep-caso-29", "tipo": "caso", "titulo": "Actualizar un controlador",
+    "situacion": "Una planta integró su red de oficinas con PLC antiguos y propone actualizar firmware sin evaluar efectos sobre la producción.",
+    "pregunta": "¿Qué enfoque corresponde al entorno OT/ICS?",
+    "correcta": "Evaluar impacto físico, segmentar IT/OT y gestionar firmware considerando el proceso",
+    "incorrectas": ["Aplicar el mismo procedimiento de oficina sin analizar el proceso físico", "Priorizar solo secreto de archivos y omitir disponibilidad operativa", "Conectar directamente todos los controladores para simplificar administración", "Elegir ISO/IEC 27001 como si fuera una norma exclusiva para PLC", "Tratar IEC 62443 como una regla exclusiva de correo corporativo"],
+    "pista": "Un cambio digital aquí puede detener maquinaria o afectar a quienes trabajan cerca.",
+    "explicacion": "OT/ICS protege procesos físicos, SCADA y PLC. Equipos antiguos e integración IT/OT requieren segmentación, gestión de firmware y análisis de consecuencias físicas. IEC 62443 se refiere a seguridad industrial; ISO/IEC 27001 a un SGSI.", "libro": "ep_equipos_ot"
+  },
+  {
+    "id": "ep-caso-30", "tipo": "caso", "titulo": "La función que faltaba en NIST",
+    "situacion": "Un equipo usa CSF 2.0, pero copia del PDF únicamente Identificar, Proteger, Detectar, Responder y Recuperar.",
+    "pregunta": "¿Qué función falta en esa lista?",
+    "correcta": "Gobernar",
+    "incorrectas": ["Certificar", "Auditar", "Sancionar", "Asegurar", "Investigar"],
+    "pista": "Pensá en quién orienta las decisiones y la gestión del riesgo de toda la organización.",
+    "explicacion": "NIST CSF 2.0 tiene seis funciones e incorpora Gobernar a las cinco del esquema previo. El listado antiguo del apunte no debe memorizarse como la estructura de CSF 2.0.", "libro": "ep_normas_ciber"
+  },
+  {
+    "id": "ep-caso-31", "tipo": "caso", "titulo": "Obligación y recomendación",
+    "situacion": "Una organización trata datos personales y pregunta qué fuente obliga a adoptar medidas de seguridad y cuál ofrece recomendaciones.",
+    "pregunta": "¿Qué relación es correcta?",
+    "correcta": "Ley 25.326, art. 9: deber de seguridad; AAIP 47/2018: medidas recomendadas",
+    "incorrectas": ["AAIP 47/2018: única fuente del deber; art. 9: recomendación optativa", "Ley 25.326, art. 9: solo confidencialidad verbal; AAIP 47/2018: penas automáticas", "AAIP 47/2018: lista universal de infracciones; art. 9: solo una guía técnica", "Ley 25.326, art. 9: deber solo para papel; AAIP 47/2018: deber solo digital", "Ley 25.326, art. 9: certificación voluntaria; AAIP 47/2018: exención por antivirus"],
+    "pista": "Separá la base legal de la exigencia y el carácter que la resolución da a sus medidas.",
+    "explicacion": "El artículo 9 exige medidas técnicas y organizativas frente a alteración, pérdida y accesos o tratamientos no autorizados. AAIP 47/2018 aprueba medidas recomendadas para tratamientos informatizados y no informatizados, sin ser una lista universal de sanciones automáticas.", "libro": "ep_normas_ciber"
+  },
+  {
+    "id": "ep-caso-32", "tipo": "caso", "titulo": "La referencia CNV equivocada",
+    "situacion": "Un informe atribuye a la RG CNV 856/2020 un plazo general para reportar incidentes de seguridad, copiando el apunte sin su corrección.",
+    "pregunta": "¿Qué revisión corresponde?",
+    "correcta": "Retirar esa atribución: la resolución trata operaciones con valores negociables",
+    "incorrectas": ["Mantenerla como plazo de ciberseguridad para cualquier empresa", "Aplicarla solo a PYMES por el tamaño de sus bases", "Aplicarla como una ampliación del catálogo de la Ley 27.401", "Usarla como norma BCRA de reporte aunque esté citada como CNV", "Transformarla en obligación de ENACOM sin identificar otra disposición"],
+    "pista": "Verificá la materia de la resolución antes de adjudicarle un deber técnico.",
+    "explicacion": "La RG CNV 856/2020 regula restricciones y condiciones de operaciones con valores, no ciberseguridad. Las fuentes tampoco individualizan normas BCRA o ENACOM que permitan reemplazarla por un plazo sectorial supuesto.", "libro": "ep_normas_ciber"
+  },
+  {
+    "id": "ep-caso-33", "tipo": "caso", "titulo": "La empresa y la Ley 27.401",
+    "situacion": "Tras una configuración negligente, un informe sostiene que la Ley 27.401 hace responder penalmente a la empresa por todo delito informático.",
+    "pregunta": "¿Qué precisión necesita esa afirmación?",
+    "correcta": "La ley tiene un catálogo específico y no cubre de modo general toda negligencia informática",
+    "incorrectas": ["La ley comprende cada incidente cuando hay datos personales", "La ley comprende cada delito informático si el autor es empleado", "La ley comprende cada falla si un proveedor cobró por el sistema", "La ley convierte toda interrupción del servicio en delito empresarial", "La ley sustituye el análisis del tipo penal por una certificación técnica"],
+    "pista": "El ámbito penal de una norma depende de los hechos que enumera, no del nombre del sector.",
+    "explicacion": "La Ley 27.401 contempla un catálogo específico, como cohecho y tráfico de influencias, negociaciones incompatibles, concusión, enriquecimiento ilícito y balances e informes falsos agravados. No crea responsabilidad empresarial general por cualquier negligencia informática.", "libro": "ep_normas_ciber"
+  },
+  {
+    "id": "ep-caso-34", "tipo": "caso", "titulo": "Una caída y la responsabilidad",
+    "situacion": "Un profesional liberal sufre una caída en un sistema que administra. No se ha determinado un resultado concreto comprometido ni la causa del daño.",
+    "pregunta": "¿Qué análisis corresponde según las fuentes?",
+    "correcta": "Examinar deberes, medidas, incumplimiento, daño y causalidad bajo el art. 1768",
+    "incorrectas": ["Aplicar responsabilidad objetiva a toda tarea informática por el art. 1757", "Presumir delito y responsabilidad civil por el solo hecho de la caída", "Descartar responsabilidad si el profesional menciona un estándar técnico", "Aplicar la sanción disciplinaria como sustituto de examinar el daño", "Eximir al profesional porque una falla técnica excluye culpa por definición"],
+    "pista": "El resultado observado no explica por sí solo cómo actuó la persona ni por qué ocurrió.",
+    "explicacion": "El art. 1768 CCyC establece responsabilidad subjetiva del profesional liberal salvo resultado concreto comprometido y contempla salvedad por vicio de cosas. Deben analizarse deberes, medidas, incumplimiento, daño y causalidad; el incidente no basta ni un estándar exonera por sí solo.", "libro": "ep_normas_ciber"
+  },
+  {
+    "id": "ep-caso-35", "tipo": "caso", "titulo": "La guía de contraseñas actualizada",
+    "situacion": "Un equipo redacta una guía basada en NIST SP 800-63B-4 para contraseñas usadas como único factor y sin evidencia de compromiso.",
+    "pregunta": "¿Qué pauta coincide con la fuente resumida?",
+    "correcta": "Mínimo quince caracteres, sin mezcla obligatoria ni cambio periódico por calendario",
+    "incorrectas": ["Mínimo ocho caracteres con factor único y mezcla obligatoria", "Más de doce caracteres y cambio periódico obligatorio por calendario", "Mínimo quince caracteres y mezcla obligatoria de cuatro clases", "Mínimo ocho caracteres con factor único y cambio mensual obligatorio", "Mínimo quince caracteres y prohibición de cambiar ante compromiso"],
+    "pista": "Diferenciá el uso de un solo factor del uso dentro de MFA y el calendario de una evidencia concreta.",
+    "explicacion": "La precisión sobre NIST SP 800-63B-4 indica quince caracteres con factor único y mínimo ocho dentro de MFA, sin composición obligatoria ni cambios periódicos sin evidencia de compromiso. Ante compromiso se fuerza el cambio. Es una guía técnica, no ley argentina general.", "libro": "ep_controles"
+  },
+  {
+    "id": "ep-caso-36", "tipo": "caso", "titulo": "Reemplazar a una colega",
+    "situacion": "Un cliente pide a una ingeniera reemplazar de inmediato a una colega y evitar avisarle, aunque aún no está clara su desvinculación.",
+    "pregunta": "¿Qué conducta exige el código leído?",
+    "correcta": "Conocer fehacientemente la desvinculación, avisar y advertir sobre honorarios pendientes sin juzgar su monto",
+    "incorrectas": ["Aceptar la versión informal del cliente y omitir comunicación a la colega", "Avisar solo si la colega acepta reducir sus honorarios pendientes", "Juzgar primero si los honorarios anteriores son altos y luego decidir si avisar", "Aceptar de inmediato porque la nueva matrícula extingue el vínculo anterior", "Omitir el aviso si el nuevo trabajo se paga con un descuento"],
+    "pista": "La nueva contratación no elimina el deber de trato profesional hacia quien venía interviniendo.",
+    "explicacion": "La regla de reemplazo pide conocer fehacientemente la desvinculación, comunicar al colega y advertir al cliente sobre honorarios pendientes sin juzgar su monto. La urgencia y el descuento no sustituyen esos pasos.", "libro": "ep_etica"
+  },
+  {
+    "id": "ep-caso-37", "tipo": "caso", "titulo": "Programar no resuelve el encuadre",
+    "situacion": "Un compañero afirma que cualquier persona que escriba código debe tener la misma matrícula nacional, sin importar título o actividad.",
+    "pregunta": "¿Qué criterio corrige esa generalización?",
+    "correcta": "Analizar título, funciones, acto y jurisdicción; programar no define por sí solo la exigencia",
+    "incorrectas": ["Exigir COPITEC por el solo uso de un lenguaje de programación", "Exigir CPCIBA por el solo uso de una base de datos fuera de PBA", "Prescindir del título y atender únicamente al salario del programador", "Prescindir del acto concreto y atender solo al tamaño de la empresa", "Exigir colegiatura en PBA por cualquier tarea digital realizada en el país"],
+    "pista": "Una descripción tecnológica muy amplia no reemplaza el análisis de una actividad regulada.",
+    "explicacion": "Los artículos 11 y 12 vinculan matrícula, consejo correspondiente y funciones del título dentro del régimen aplicable. Eso no prueba una matrícula universal para cualquier programador ni una habilitación territorial ilimitada.", "libro": "ep_habilitacion"
+  },
+  {
+    "id": "ep-caso-38", "tipo": "caso", "titulo": "Más que un antivirus",
+    "situacion": "Una PYME propone reemplazar capacitación, segmentación, copias externas y revisión de permisos por la compra de un antivirus.",
+    "pregunta": "¿Qué criterio de seguridad debe recuperar?",
+    "correcta": "Defensa en profundidad: combinar barreras técnicas, humanas y organizativas",
+    "incorrectas": ["Defensa en profundidad: concentrar la protección en un único producto", "Defensa en profundidad: agregar capas oficiales 8 y 9 al modelo OSI", "Defensa en profundidad: reemplazar copias externas por monitoreo", "Defensa en profundidad: sustituir roles y permisos por contraseñas largas", "Defensa en profundidad: usar capacitación como reemplazo de actualizaciones"],
+    "pista": "Un engaño al personal, una falla técnica y la pérdida de equipos requieren barreras distintas.",
+    "explicacion": "La defensa en profundidad combina planos físicos, de red, equipos, aplicaciones, datos, operación y personas. Para PYMES se recomiendan varias medidas complementarias; capa 8 y capa 9 son analogías, no extensiones oficiales de OSI.", "libro": "ep_controles"
+  }
+]

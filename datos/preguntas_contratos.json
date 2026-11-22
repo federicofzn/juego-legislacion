@@ -1,0 +1,382 @@
+[
+  {
+    "id": "ct-caso-01", "tipo": "caso", "titulo": "Aceptación con un agregado",
+    "situacion": "Un proveedor ofrece migrar una base por un precio fijo. El cliente contesta que acepta si se incluye además un año de soporte, que no figuraba en la propuesta.",
+    "pregunta": "¿Cómo se califica, como regla, la respuesta del cliente?",
+    "correcta": "Nueva propuesta, porque modifica el alcance de la oferta",
+    "incorrectas": ["Aceptación plena, porque mantiene el precio ofrecido", "Aceptación tácita, porque el soporte es una condición accesoria", "Recepción definitiva, porque fija el servicio esperado", "Oferta original prorrogada, porque añade una prestación", "Confirmación de recepción sin efectos sobre el consentimiento"],
+    "pista": "Compará las prestaciones del presupuesto con las de la respuesta.",
+    "explicacion": "El art. 978 exige coincidencia con la oferta. Agregar una prestación constituye, como regla, una nueva propuesta, aunque se conserve el precio y se utilice la palabra aceptar.",
+    "libro": "ct_formacion"
+  },
+  {
+    "id": "ct-caso-02", "tipo": "norma", "titulo": "El correo que llega a tiempo",
+    "situacion": "Una oferta de mantenimiento sigue vigente hasta el viernes. El cliente acepta por correo sin cambios el miércoles y el oferente recibe esa aceptación el jueves.",
+    "pregunta": "¿Cuándo se perfecciona el acuerdo entre ausentes según el art. 980?",
+    "correcta": "El jueves, cuando el oferente recibe la aceptación vigente",
+    "incorrectas": ["El miércoles, cuando el cliente redacta su aceptación", "Al enviarse el presupuesto, antes de que el cliente responda", "El viernes, al vencer el plazo de la oferta", "Cuando el proveedor envíe una segunda aceptación obligatoria", "Al terminar el primer mes de mantenimiento"],
+    "pista": "Diferenciá la salida del mensaje de su llegada al destinatario.",
+    "explicacion": "Entre ausentes, el art. 980 toma la recepción de la aceptación durante la vigencia de la oferta. No exige esperar al vencimiento ni identifica perfeccionamiento con el comienzo del servicio.",
+    "libro": "ct_formacion"
+  },
+  {
+    "id": "ct-caso-03", "tipo": "caso", "titulo": "El presupuesto sin respuesta",
+    "situacion": "Una consultora manda un presupuesto a un posible cliente. Este lo lee, pero no responde ni realiza actos de ejecución; tampoco existe acuerdo, práctica ni uso que lo obligue a contestar.",
+    "pregunta": "¿Qué permite concluir ese silencio sobre la aceptación?",
+    "correcta": "No expresa aceptación en el contexto indicado",
+    "incorrectas": ["Acepta al dejar transcurrir un día sin rechazar", "Acepta porque la lectura equivale a una conducta concluyente", "Acepta parcialmente el alcance, aunque deja abierto el precio", "Acepta con efecto diferido hasta el inicio del servicio", "Acepta porque el envío convirtió al destinatario en contratante"],
+    "pista": "Buscá si los antecedentes imponían una conducta al destinatario.",
+    "explicacion": "El silencio normalmente no acepta. El art. 979 permite atender a un deber de responder derivado de acuerdo, usos, prácticas o antecedentes, que en este caso fueron expresamente descartados.",
+    "libro": "ct_formacion"
+  },
+  {
+    "id": "ct-caso-04", "tipo": "caso", "titulo": "Una oferta abierta al público",
+    "situacion": "Una tienda publica para consumidores una computadora identificada, con precio y condiciones de venta precisos. Después afirma que dirigirse a personas indeterminadas impide que la publicación sea una oferta obligatoria.",
+    "pregunta": "¿Qué regla debe considerarse para analizar esa afirmación?",
+    "correcta": "El art. 7 de la Ley 24.240 contempla ofertas a consumidores indeterminados",
+    "incorrectas": ["El art. 973 convierte por sí solo toda publicación de consumo en invitación", "La falta de un destinatario individual elimina la obligación de la tienda", "La oferta solo puede obligar después de la entrega de la computadora", "El acuse electrónico posterior reemplaza las condiciones publicadas", "La publicación únicamente puede obligar si lleva firma manuscrita"],
+    "pista": "Atendé al régimen especial aplicable a los destinatarios de la publicación.",
+    "explicacion": "La regla de invitación a ofertar no permite ignorar el art. 7 de la Ley 24.240. En consumo puede existir una oferta obligatoria dirigida a destinatarios indeterminados.",
+    "libro": "ct_consumo"
+  },
+  {
+    "id": "ct-caso-05", "tipo": "caso", "titulo": "El empleado y las licencias",
+    "situacion": "Un empleado usa una cuenta empresarial y pretende comprar cien licencias en nombre de la sociedad. El proveedor solo comprueba que puede ingresar al correo y no revisa sus facultades.",
+    "pregunta": "¿Qué falta verificar para atribuir el acuerdo a la empresa?",
+    "correcta": "Las facultades del empleado para representar y obligar a la sociedad",
+    "incorrectas": ["La recepción definitiva del software como sustituto de la representación", "La cantidad de correos enviados como prueba suficiente de facultades", "El carácter oneroso de la licencia como habilitación del empleado", "El acceso a la cuenta como autorización general para contratar", "La firma digital como mecanismo que crea las facultades faltantes"],
+    "pista": "Poder operar una herramienta interna no define qué decisiones se pueden tomar por otro.",
+    "explicacion": "Debe distinguirse acceso técnico de capacidad y representación. Una cuenta empresarial, e incluso una firma digital, no conceden por sí solas facultades para obligar a la sociedad.",
+    "libro": "ct_validez"
+  },
+  {
+    "id": "ct-caso-06", "tipo": "caso", "titulo": "Un sistema sin especificaciones",
+    "situacion": "Un borrador solo dice desarrollar un sistema por un precio fijo. No identifica módulos, funciones, necesidades ni un mecanismo para determinarlos; las partes discuten qué programación se debe entregar.",
+    "pregunta": "¿Qué elemento conviene precisar para identificar las prestaciones debidas?",
+    "correcta": "El objeto, mediante funciones determinadas o determinables",
+    "incorrectas": ["La causa, identificándola únicamente con la lista de módulos", "La capacidad, reemplazándola por el cronograma de programación", "La forma, suponiendo que una firma vuelve preciso el alcance", "La onerosidad, considerando que el precio define las funciones", "La representación, equiparándola con la aceptación técnica"],
+    "pista": "La disputa consiste en establecer qué se prometió hacer y entregar.",
+    "explicacion": "El objeto debe ser lícito, posible, determinado o determinable y valorable económicamente. El precio no resuelve por sí solo la indefinición de las funcionalidades prometidas.",
+    "libro": "ct_validez"
+  },
+  {
+    "id": "ct-caso-07", "tipo": "concepto", "titulo": "Prestación y finalidad",
+    "situacion": "Al revisar un desarrollo remunerado, una estudiante enumera programar el módulo y pagar el precio. Luego debe distinguir esas conductas de la finalidad jurídica inmediata que explica el intercambio.",
+    "pregunta": "¿Qué diferencia corresponde establecer entre objeto y causa?",
+    "correcta": "El objeto comprende las prestaciones; la causa, la finalidad jurídica inmediata",
+    "incorrectas": ["El objeto es la finalidad jurídica y la causa es la lista de tareas", "La causa consiste en la capacidad de quien paga y el objeto en su firma", "La causa es el archivo del contrato y el objeto es su fuerza probatoria", "El objeto es solo el precio y la causa es solo la programación", "Objeto y causa nombran indistintamente las mismas prestaciones"],
+    "pista": "Separá la conducta prometida de la razón jurídica que sostiene el intercambio.",
+    "explicacion": "Objeto y causa se relacionan, pero no son sinónimos. La causa debe ser lícita y subsistir durante la ejecución; el objeto comprende las prestaciones asumidas y debe permitir identificarlas.",
+    "libro": "ct_validez"
+  },
+  {
+    "id": "ct-caso-08", "tipo": "caso", "titulo": "Guardar la prueba del soporte",
+    "situacion": "Una empresa acepta por mensajes un soporte sin forma especial exigida. Para un posible conflicto, guarda solo una captura recortada y elimina presupuesto, condiciones, pagos y tickets.",
+    "pregunta": "¿Qué práctica ofrece una base probatoria más adecuada?",
+    "correcta": "Conservar el intercambio completo, condiciones, pagos y registros de ejecución",
+    "incorrectas": ["Guardar solo la captura porque su autenticidad se presume por ser imagen", "Sustituir los documentos por testigos como única prueba del contrato habitual", "Descartar mensajes porque sin papel no pueden aportar evidencia", "Agregar una firma digital para convertir la captura en escritura pública", "Confundir falta de respaldo con nulidad automática de lo acordado"],
+    "pista": "La prueba debe permitir reconstruir origen, contexto y cumplimiento del acuerdo.",
+    "explicacion": "Los arts. 286, 287 y 1019 permiten considerar soportes y medios probatorios adecuados. Conviene conservar el contexto y la integridad de la evidencia; una captura aislada no garantiza autenticidad.",
+    "libro": "ct_forma_prueba"
+  },
+  {
+    "id": "ct-caso-09", "tipo": "clasificar", "titulo": "Programar a cambio de un pago",
+    "situacion": "Ana debe programar y Bruno debe pagar el desarrollo acordado.",
+    "pregunta": "¿Cómo se clasifica por sus obligaciones?",
+    "correcta": "Bilateral",
+    "incorrectas": ["Unilateral", "Sin obligaciones recíprocas", "Solo obliga a Ana", "Solo obliga a Bruno", "No obliga a ninguna parte"],
+    "pista": "Contá quiénes asumen prestaciones en el intercambio descrito.",
+    "explicacion": "Es bilateral porque existen obligaciones recíprocas: programar y pagar. El art. 966 no clasifica según cuántas personas firman, sino según cómo se distribuyen las obligaciones.",
+    "libro": "ct_validez"
+  },
+  {
+    "id": "ct-caso-10", "tipo": "caso", "titulo": "Negociaciones que se interrumpen",
+    "situacion": "Una consultora invierte horas en una propuesta. El cliente abandona la negociación antes del acuerdo y la consultora sostiene que esa inversión basta para exigirle contratar o indemnizar.",
+    "pregunta": "¿Cómo debe analizarse la ruptura de las tratativas?",
+    "correcta": "Con libertad de negociar y buena fe; el gasto no genera responsabilidad automática",
+    "incorrectas": ["La inversión obliga al cliente a contratar el proyecto presupuestado", "El primer presupuesto elimina la libertad de abandonar las tratativas", "La ausencia de firma excluye los deberes de lealtad durante la negociación", "El gasto equivale a aceptación de la oferta por parte del cliente", "La indemnización nace solo por haber preparado una propuesta técnica"],
+    "pista": "Distinguí el costo de preparar una propuesta de la conducta que generó confianza.",
+    "explicacion": "Los arts. 990 y 991 combinan libertad de negociar con buena fe y protección de la confianza legítima. No se deduce indemnización ni obligación de firmar de la mera inversión de recursos.",
+    "libro": "ct_tratativas"
+  },
+  {
+    "id": "ct-caso-11", "tipo": "caso", "titulo": "La base reservada del presupuesto",
+    "situacion": "Para evaluar una migración, un cliente entrega información reservada a un proveedor. Las partes no contratan y el proveedor quiere reutilizar esos datos en la propuesta de otro cliente.",
+    "pregunta": "¿Qué deber debe considerar respecto de la información recibida?",
+    "correcta": "La confidencialidad de las tratativas, aunque no haya contrato final",
+    "incorrectas": ["La reserva comienza únicamente después de la recepción definitiva", "La falta de contrato transforma los datos recibidos en material reutilizable", "El presupuesto transfiere por sí mismo la información al proveedor", "La confidencialidad requiere que se haya pagado el desarrollo", "La ruptura de la negociación libera el uso de la información reservada"],
+    "pista": "La información se entregó para evaluar un proyecto concreto, no para otros negocios.",
+    "explicacion": "El art. 992 impone confidencialidad sobre la información recibida durante las tratativas. La falta de acuerdo final no habilita su utilización indebida.",
+    "libro": "ct_tratativas"
+  },
+  {
+    "id": "ct-caso-12", "tipo": "caso", "titulo": "El clic y la cláusula abusiva",
+    "situacion": "Un servicio usa condiciones generales predispuestas y remite a un anexo que no facilita. Ante el reclamo por una cláusula abusiva, afirma que el clic de aceptación impide revisarla.",
+    "pregunta": "¿Qué efecto tiene el clic sobre el control de esas condiciones?",
+    "correcta": "No sanea el abuso ni elimina la exigencia de acceso al anexo",
+    "incorrectas": ["Convierte la cláusula abusiva en una condición negociada", "Sustituye el acceso al anexo por una presunción de conocimiento", "Impide interpretar las ambigüedades contra el predisponente", "Elimina la exigencia de claridad por haberse usado un medio electrónico", "Posterga el control hasta que el usuario vuelva a aceptar las condiciones"],
+    "pista": "La manera de aceptar no reemplaza los requisitos del contenido predispuesto.",
+    "explicacion": "Los arts. 985 a 989 exigen condiciones claras, completas y legibles y acceso a los documentos remitidos. Las cláusulas abusivas se tienen por no escritas aunque exista aceptación con un clic.",
+    "libro": "ct_tratativas"
+  },
+  {
+    "id": "ct-caso-13", "tipo": "clasificar", "titulo": "Una silla comprada por Internet",
+    "situacion": "Luz compra una silla por Internet para usarla en su casa.",
+    "pregunta": "¿Qué criterio describe su celebración?",
+    "correcta": "Electrónico, por el medio",
+    "incorrectas": ["Informático, por el objeto", "Presencial, por la entrega", "Informático, por el pago", "Presencial, por el objeto", "Informático, por el domicilio"],
+    "pista": "Separá el producto elegido del canal usado para acordar la compra.",
+    "explicacion": "Electrónico describe el medio de celebración. Informático describe el objeto, por lo que comprar una silla por Internet no convierte el objeto del contrato en informático.",
+    "libro": "ct_modalidades"
+  },
+  {
+    "id": "ct-caso-14", "tipo": "caso", "titulo": "Veinte puestos no son una cesión",
+    "situacion": "Una empresa adquiere permiso para instalar un programa en veinte equipos durante un año. Su gerente interpreta que también recibió los derechos intelectuales para explotarlo sin esos límites.",
+    "pregunta": "¿Qué diferencia permite corregir esa interpretación?",
+    "correcta": "La licencia autoriza usos pactados; una cesión transfiere los derechos acordados",
+    "incorrectas": ["La licencia transfiere derechos y la cesión solo habilita instalaciones", "El pago anual transforma la licencia en cesión sin límites de explotación", "La cantidad de equipos elimina las restricciones de duración", "La entrega de una copia equivale a recibir todos los derechos intelectuales", "La recepción definitiva reemplaza la necesidad de precisar derechos"],
+    "pista": "Identificá qué permisos se concedieron y cuáles se pretenden agregar.",
+    "explicacion": "Adquirir una copia o una licencia no supone adquirir todos los derechos intelectuales. Deben distinguirse los permisos de uso de los derechos cuya transferencia se pacta en una cesión.",
+    "libro": "ct_modalidades"
+  },
+  {
+    "id": "ct-caso-15", "tipo": "concepto", "titulo": "Código depositado para contingencias",
+    "situacion": "Un desarrollo prevé que el código fuente quede depositado y se libere al cliente si ocurre una contingencia definida en el acuerdo. El cliente no recibe acceso irrestricto desde el inicio.",
+    "pregunta": "¿Qué mecanismo corresponde a ese esquema?",
+    "correcta": "Escrow con condiciones pactadas de liberación",
+    "incorrectas": ["Cesión irrestricta de derechos desde el depósito", "Licencia sin restricciones por la sola existencia del código", "Recepción definitiva que sustituye las condiciones de acceso", "SLA que autoriza automáticamente la modificación del programa", "Test de aceptación que transfiere el código al comenzar"],
+    "pista": "El rasgo decisivo es el acceso diferido sujeto al supuesto convenido.",
+    "explicacion": "El escrow organiza el depósito y las condiciones de liberación del código fuente. No debe confundirse con una cesión irrestricta ni con una entrega inmediata sin condiciones.",
+    "libro": "ct_modalidades"
+  },
+  {
+    "id": "ct-caso-16", "tipo": "caso", "titulo": "Piezas que no trabajan juntas",
+    "situacion": "Un proveedor promete una solución integral de turnos con equipos, software y documentación. Cada componente funciona por separado, pero el sistema no puede intercambiar los datos de las reservas.",
+    "pregunta": "¿Cómo corresponde evaluar la prestación prometida?",
+    "correcta": "Como sistema integrado, incluyendo compatibilidad entre sus componentes",
+    "incorrectas": ["Solo por el encendido de los equipos, aunque no intercambien datos", "Solo por la licencia del programa, excluyendo la integración ofrecida", "Como componentes aislados, porque cada uno funciona individualmente", "Solo por la entrega de manuales, que sustituye el funcionamiento conjunto", "Por el precio total, que demuestra por sí mismo la compatibilidad"],
+    "pista": "El criterio de evaluación debe corresponder a la solución conjunta ofrecida.",
+    "explicacion": "Si se prometió un sistema, deben analizarse las relaciones entre hardware, software, servicios y documentación. La utilidad aislada de las piezas no demuestra cumplimiento de la integración acordada.",
+    "libro": "ct_modalidades"
+  },
+  {
+    "id": "ct-caso-17", "tipo": "caso", "titulo": "Medir antes de aceptar",
+    "situacion": "El cliente de un desarrollo a medida propone aceptar el sistema si importa los datos sin pérdidas y procesa la carga convenida dentro del tiempo fijado. Falta decidir cómo medirlo y quién lo hará.",
+    "pregunta": "¿Qué debe completarse en el test de aceptación?",
+    "correcta": "Métodos de medición, responsables y tratamiento de fallas y repetición",
+    "incorrectas": ["Un plazo legal uniforme de noventa días que reemplace las métricas", "Una aceptación definitiva previa que vuelva innecesarias las pruebas", "La transferencia automática de derechos al comenzar la instalación", "La eliminación de valores exigidos para dejar la evaluación a criterio libre", "El uso del precio como única medida del funcionamiento entregado"],
+    "pista": "Otra persona debería poder repetir la evaluación y obtener un resultado comparable.",
+    "explicacion": "El test necesita ítems, valores exigidos, métodos y responsables. También conviene acordar corrección y repetición de pruebas; los treinta, sesenta o noventa días del apunte son ejemplos para pactar.",
+    "libro": "ct_entrega"
+  },
+  {
+    "id": "ct-caso-18", "tipo": "caso", "titulo": "Servicio permanente sin métricas",
+    "situacion": "Un contrato de hosting promete servicio permanente pero no define disponibilidad, tiempos de respuesta ni recuperación. Durante una caída, las partes discrepan sobre qué nivel de servicio se había comprometido.",
+    "pregunta": "¿Qué anexo permitiría evaluar mejor el servicio?",
+    "correcta": "Un SLA con métricas, medición y consecuencias de incumplimiento",
+    "incorrectas": ["Un acta que equipare cada aviso de falla con recepción definitiva", "Una licencia que omita los tiempos por tratarse de hosting", "Un presupuesto que repita servicio permanente sin parámetros", "Un depósito de código que sustituya la medición de disponibilidad", "Una cláusula que deje el nivel de servicio sin criterios verificables"],
+    "pista": "Necesitan contrastar el funcionamiento observado con compromisos medibles.",
+    "explicacion": "Un SLA concreta disponibilidad, respuesta y recuperación, cómo medirlas y qué consecuencias tiene el incumplimiento. Debe incorporarse al contrato identificando versión y acceso.",
+    "libro": "ct_entrega"
+  },
+  {
+    "id": "ct-caso-19", "tipo": "caso", "titulo": "El acta no crea todo el contrato",
+    "situacion": "Después de acordar y ejecutar una licencia, las partes firman la recepción definitiva. Una persona afirma que recién entonces nació el contrato y que el acta transmitió la propiedad del software.",
+    "pregunta": "¿Qué precisión corresponde hacer sobre esa recepción?",
+    "correcta": "Documenta la aceptación pactada; no crea universalmente el acuerdo ni transmite dominio",
+    "incorrectas": ["Perfecciona por primera vez cada contrato informático y transmite dominio", "Convierte la licencia en cesión por el solo cierre de las pruebas", "Reemplaza las condiciones previas de uso por propiedad irrestricta", "Demuestra que los pagos anteriores carecían de acuerdo que los justificara", "Elimina la necesidad de revisar qué efecto asignaron las partes al acta"],
+    "pista": "Separá la formación del acuerdo del control de cumplimiento de una entrega.",
+    "explicacion": "El efecto de la recepción definitiva depende del esquema pactado. Puede haber contrato antes de esa etapa y una licencia puede conceder uso sin transferir propiedad.",
+    "libro": "ct_entrega"
+  },
+  {
+    "id": "ct-caso-20", "tipo": "norma", "titulo": "Entrega y pago simultáneos",
+    "situacion": "El contrato exige entrega y pago simultáneos. El proveedor no entrega y el cliente consulta por la suspensión de su prestación; no se trata de una amenaza futura basada en deterioro de solvencia.",
+    "pregunta": "¿Qué norma corresponde al problema de prestaciones simultáneas?",
+    "correcta": "Art. 1031: suspensión por incumplimiento simultáneo",
+    "incorrectas": ["Art. 1032: tutela preventiva por amenaza grave de cumplimiento", "Art. 1054: denuncia de un defecto oculto ya manifestado", "Art. 1055: caducidad de garantía por defectos ocultos", "Art. 1059: efectos de una seña con arrepentimiento", "Art. 1111: información del arrepentimiento en consumo"],
+    "pista": "El supuesto describe una prestación actual debida al mismo tiempo que la otra.",
+    "explicacion": "El art. 1031 atiende prestaciones simultáneas incumplidas. El art. 1032 tiene otro presupuesto: una amenaza grave por deterioro significativo de aptitud de cumplimiento o solvencia.",
+    "libro": "ct_incumplimiento"
+  },
+  {
+    "id": "ct-caso-21", "tipo": "clasificar", "titulo": "El derecho de un tercero",
+    "situacion": "El software funciona técnicamente, pero un tercero hace valer un derecho intelectual que impide al adquirente usarlo legítimamente. El conflicto no se origina en una falla de programación.",
+    "pregunta": "¿Qué aspecto del saneamiento está comprometido?",
+    "correcta": "Evicción, por la legitimidad del derecho transmitido",
+    "incorrectas": ["Vicio oculto, por una falla material no aparente", "Vicio redhibitorio, por un desperfecto funcional grave", "Denuncia de defecto, por el mero transcurso de sesenta días", "Recepción provisoria, como sustituto del derecho de uso", "Seña penitencial, por la existencia del reclamo del tercero"],
+    "pista": "El obstáculo recae sobre la posibilidad jurídica de usar lo adquirido.",
+    "explicacion": "La evicción protege la legitimidad del derecho transmitido e incluye ciertos reclamos de propiedad intelectual. Se diferencia del defecto no aparente de la cosa.",
+    "libro": "ct_incumplimiento"
+  },
+  {
+    "id": "ct-caso-22", "tipo": "norma", "titulo": "Avisar un defecto no aparente",
+    "situacion": "Un equipo recibido presenta de golpe una falla oculta de fabricación. No se plantea que el vendedor la conociera o debiera conocerla, y se consulta el plazo general para denunciar el defecto.",
+    "pregunta": "¿Qué plazo y punto de inicio establece el art. 1054?",
+    "correcta": "Sesenta días desde la manifestación del defecto",
+    "incorrectas": ["Sesenta días desde la celebración del contrato", "Seis meses desde la manifestación del defecto", "Tres años desde la primera comunicación del comprador", "Diez días corridos desde la recepción del equipo", "Seis meses desde la denuncia al vendedor"],
+    "pista": "Diferenciá el aviso del problema de la duración de la garantía.",
+    "explicacion": "La denuncia se efectúa dentro de sesenta días desde la manifestación; si es gradual, desde que pudo advertirse. Es distinto de la caducidad del art. 1055 y tiene la excepción indicada en el art. 1054.",
+    "libro": "ct_incumplimiento"
+  },
+  {
+    "id": "ct-caso-23", "tipo": "norma", "titulo": "Duración de la garantía general",
+    "situacion": "Un ejercicio compara la garantía por defectos ocultos del CCyC para un equipo mueble y un inmueble. Pide distinguir su caducidad de la denuncia del defecto y de las garantías especiales de consumo.",
+    "pregunta": "¿Qué plazos generales de caducidad establece el art. 1055?",
+    "correcta": "Muebles: seis meses desde recepción o puesta en funcionamiento; inmuebles: tres años desde recepción",
+    "incorrectas": ["Muebles: tres años desde recepción; inmuebles: seis meses desde recepción", "Ambos: sesenta días desde la manifestación del defecto", "Muebles: diez días desde entrega; inmuebles: treinta días desde compra", "Ambos: seis meses desde la denuncia del defecto", "Muebles: seis meses desde el contrato; inmuebles: tres años desde la denuncia"],
+    "pista": "Los plazos de este ejercicio se refieren a la garantía, no al aviso de la falla.",
+    "explicacion": "El art. 1055 fija esos plazos de caducidad y permite ampliarlos por convenio. No deben presentarse como prescripción de la acción ni como sustitución de las garantías especiales de consumo.",
+    "libro": "ct_incumplimiento"
+  },
+  {
+    "id": "ct-caso-24", "tipo": "caso", "titulo": "El vendedor se arrepiente",
+    "situacion": "Una compraventa incluye expresamente la facultad de arrepentirse mediante seña. El vendedor recibe esa seña y después decide ejercer la facultad pactada.",
+    "pregunta": "¿Qué consecuencia corresponde a quien recibió la seña?",
+    "correcta": "Debe devolverla doble al arrepentirse",
+    "incorrectas": ["Puede conservarla como compensación por no vender", "Debe devolver solo el importe recibido", "Debe esperar al comprador para decidir si el pacto existe", "Puede convertirla unilateralmente en seña confirmatoria", "Debe exigir una segunda seña antes de devolver la primera"],
+    "pista": "Distinguí quién entregó el importe de quién lo recibió en el pacto de salida.",
+    "explicacion": "Los arts. 1059 y 1060 distinguen la seña confirmatoria de la que permite arrepentimiento. Si este fue pactado y se retira quien recibió la seña, corresponde devolverla doble.",
+    "libro": "ct_incumplimiento"
+  },
+  {
+    "id": "ct-caso-25", "tipo": "norma", "titulo": "La entrega ocurre después",
+    "situacion": "Una consumidora celebra a distancia la compra de una computadora un lunes y la recibe el jueves siguiente. Fue informada del arrepentimiento y no se plantea ninguna excepción al derecho.",
+    "pregunta": "¿Qué cómputo corresponde según el art. 34 de la Ley 24.240?",
+    "correcta": "Diez días corridos desde la entrega del jueves, por ser el hecho posterior",
+    "incorrectas": ["Diez días hábiles desde la celebración del lunes", "Diez días corridos desde la celebración, aunque la entrega sea posterior", "Cinco días hábiles desde la entrega de la computadora", "Sesenta días corridos desde la aceptación de la oferta", "Seis meses desde la puesta en funcionamiento del equipo"],
+    "pista": "Compará las dos fechas y distinguí días corridos de hábiles.",
+    "explicacion": "El art. 34 fija diez días corridos desde entrega o celebración, lo último que ocurra. En el caso, la entrega es posterior y determina el inicio del cómputo.",
+    "libro": "ct_consumo"
+  },
+  {
+    "id": "ct-caso-26", "tipo": "caso", "titulo": "¿Devolver toda descarga?",
+    "situacion": "Un vendedor de contenidos digitales afirma que ninguna descarga admite arrepentimiento. Una compradora sostiene lo contrario: que cualquier programa o archivo debe devolverse sin examinar sus condiciones.",
+    "pregunta": "¿Qué criterio permite analizar esas posiciones?",
+    "correcta": "Examinar si el programa o archivo encuadra en las excepciones del art. 1116",
+    "incorrectas": ["Excluir el arrepentimiento por el solo hecho de existir una descarga", "Admitir devolución irrestricta por tratarse de un archivo digital", "Aplicar diez días hábiles sin considerar excepciones por el contenido", "Sustituir el análisis por la caducidad de seis meses de los muebles", "Considerar que la firma electrónica elimina el arrepentimiento"],
+    "pista": "El régimen distingue supuestos concretos; el formato digital no decide por sí solo.",
+    "explicacion": "El art. 1116 contempla excepciones para determinados programas o archivos digitales y productos personalizados. Corresponde analizar su encuadre, sin prometer devolución irrestricta ni excluir toda descarga.",
+    "libro": "ct_consumo"
+  },
+  {
+    "id": "ct-caso-27", "tipo": "caso", "titulo": "No informaron el arrepentimiento",
+    "situacion": "En una venta de consumo a distancia alcanzada por el derecho de revocación, el proveedor omite informarlo debidamente y luego sostiene que el derecho se extinguió por el paso del plazo.",
+    "pregunta": "¿Qué efecto prevé el art. 1111 para esa falta de información?",
+    "correcta": "El derecho no se extingue si no fue debidamente informado",
+    "incorrectas": ["El derecho se extingue igual porque informar es optativo", "El plazo se convierte en diez días hábiles desde el pago", "La omisión equivale a renuncia tácita del consumidor", "El derecho queda reemplazado por la garantía de defectos ocultos", "El consumidor solo puede revocar si el proveedor vuelve a aceptar"],
+    "pista": "Analizá el efecto del incumplimiento del deber de informar al destinatario protegido.",
+    "explicacion": "El art. 1111 dispone que el derecho no se extingue si no se informó debidamente. El régimen también reconoce su carácter irrenunciable y la posibilidad de notificar electrónicamente.",
+    "libro": "ct_consumo"
+  },
+  {
+    "id": "ct-caso-28", "tipo": "norma", "titulo": "La firma electrónica desconocida",
+    "situacion": "Una empresa reclama un pago invocando un documento con firma electrónica atribuida a Julia. Ella desconoce esa firma y la empresa sostiene que Julia debe demostrar que es inválida.",
+    "pregunta": "¿Quién debe acreditar la validez según el art. 5 de la Ley 25.506?",
+    "correcta": "La empresa que invoca la firma electrónica desconocida",
+    "incorrectas": ["Julia, por ser la persona a quien se atribuye la firma", "El titular de la cuenta, aunque no invoque el documento", "El proveedor del software, por el solo uso de su plataforma", "Quien desconoce la firma, por una presunción equivalente a la digital", "Nadie, porque el desconocimiento elimina toda necesidad de prueba"],
+    "pista": "Identificá quién pretende hacer valer el documento en el reclamo.",
+    "explicacion": "Si se desconoce una firma electrónica, quien la invoca debe acreditar su validez. El art. 5 no asigna esa carga automáticamente al supuesto firmante ni establece las presunciones propias de la firma digital.",
+    "libro": "ct_firmas"
+  },
+  {
+    "id": "ct-caso-29", "tipo": "norma", "titulo": "Un documento sin papel",
+    "situacion": "Una estudiante analiza un archivo que representa digitalmente actos o hechos. Debe identificar la regla sobre escritura sin confundir el documento con una firma ni con una escritura pública.",
+    "pregunta": "¿Qué establece el art. 6 de la Ley 25.506?",
+    "correcta": "El documento digital satisface el requerimiento de escritura",
+    "incorrectas": ["El documento digital se convierte por su formato en escritura pública", "El documento digital contiene por definición firma digital válida", "El documento digital solo satisface escritura si se imprime", "El documento digital concede representación a quien lo envía", "El documento digital vuelve lícito el objeto de cualquier acuerdo"],
+    "pista": "El artículo resuelve una exigencia de soporte, no todos los requisitos del negocio.",
+    "explicacion": "El art. 6 reconoce que el documento digital satisface escritura. Deben analizarse por separado firma, autoría, integridad, formalidades especiales y validez del contenido.",
+    "libro": "ct_firmas"
+  },
+  {
+    "id": "ct-caso-30", "tipo": "norma", "titulo": "La imagen de una rúbrica",
+    "situacion": "Un proveedor pega la imagen escaneada de una rúbrica en un archivo y afirma que eso basta para aplicar la equivalencia de firma digital con manuscrita prevista en la Ley 25.506.",
+    "pregunta": "¿Qué distinción corresponde según los arts. 2 y 3?",
+    "correcta": "La equivalencia exige firma digital con sus requisitos, no una imagen pegada",
+    "incorrectas": ["La semejanza visual de la rúbrica basta para aplicar el art. 3", "El art. 2 define la firma digital como fotografía de la manuscrita", "El formato del archivo reemplaza la verificación de autoría e integridad", "El art. 3 convierte una imagen de firma en escritura pública", "La equivalencia depende solo de que el archivo pueda imprimirse"],
+    "pista": "Compará copiar el aspecto de un trazo con verificar quién firmó y si hubo cambios.",
+    "explicacion": "El art. 2 define un procedimiento verificable que identifica al firmante y permite detectar alteraciones. El art. 3 reconoce la equivalencia de la firma digital con la manuscrita, no de una imagen pegada.",
+    "libro": "ct_firmas"
+  },
+  {
+    "id": "ct-caso-31", "tipo": "norma", "titulo": "Una firma que puede cuestionarse",
+    "situacion": "Un contrato tiene firma digital válida. Quien lo invoca afirma que las presunciones de los arts. 7 y 8 impiden jurídicamente presentar evidencia contra la autoría o la integridad.",
+    "pregunta": "¿Cómo operan esas presunciones?",
+    "correcta": "Se presumen autoría e integridad, pero ambas admiten prueba en contrario",
+    "incorrectas": ["La autoría es refutable, pero la integridad no admite prueba en contrario", "La integridad es refutable, pero la autoría no admite prueba en contrario", "Ambas impiden impugnar jurídicamente el documento", "Solo se presume que el objeto del contrato es lícito", "Ambas trasladan al firmante la carga prevista para la firma electrónica desconocida"],
+    "pista": "El no repudio técnico no elimina la posibilidad jurídica de discutir la evidencia.",
+    "explicacion": "Los arts. 7 y 8 establecen presunciones refutables de autoría e integridad. No equivalen a inmunidad frente a la impugnación ni acreditan por sí solas validez del contenido.",
+    "libro": "ct_firmas"
+  },
+  {
+    "id": "ct-caso-32", "tipo": "norma", "titulo": "El certificado venció después",
+    "situacion": "Una firma se creó durante la vigencia de un certificado válido, se verifica correctamente y cumple los demás requisitos del art. 9. El certificado vence tiempo después y se revisa el contrato.",
+    "pregunta": "¿Qué puede concluirse del vencimiento posterior por sí solo?",
+    "correcta": "No anula automáticamente la firma anterior; importan las condiciones al firmar",
+    "incorrectas": ["Anula retroactivamente la firma aunque se cumplieran los requisitos al crearla", "Transforma la firma anterior en una imagen sin valor probatorio", "Convierte el contrato privado en escritura pública", "Obliga a aplicar la carga del art. 5 como si nunca hubiera sido digital", "Demuestra que el certificado ya era inválido al celebrarse el contrato"],
+    "pista": "Distinguí el momento de creación de la firma del momento de la revisión posterior.",
+    "explicacion": "El art. 9 exige creación durante la vigencia del certificado válido, verificación correcta y certificador licenciado que lo emita o reconozca. El vencimiento posterior no borra automáticamente esas condiciones.",
+    "libro": "ct_infraestructura"
+  },
+  {
+    "id": "ct-caso-33", "tipo": "concepto", "titulo": "Comprobar una firma recibida",
+    "situacion": "Nora recibe un documento firmado digitalmente y quiere verificar la firma.",
+    "pregunta": "¿Qué clave se usa para verificar?",
+    "correcta": "La pública",
+    "incorrectas": ["La privada de Nora", "La privada del firmante", "La contraseña del correo", "El PIN del receptor", "La clave del Wi-Fi"],
+    "pista": "La operación del receptor es distinta de generar la firma del emisor.",
+    "explicacion": "La clave privada se utiliza para firmar y debe permanecer bajo control del firmante. La clave pública cumple la función de verificar la firma recibida.",
+    "libro": "ct_infraestructura"
+  },
+  {
+    "id": "ct-caso-34", "tipo": "norma", "titulo": "Actualizar la reglamentación",
+    "situacion": "Un apunte cita el Decreto 2628/2002 como reglamentación vigente.",
+    "pregunta": "¿Qué decreto lo derogó?",
+    "correcta": "El 182/2019",
+    "incorrectas": ["El 182/2002", "El 2628/2019", "El 182/2020", "El 2628/2020", "El 182/2001"],
+    "pista": "La actualización indicada es posterior al decreto histórico citado en el apunte.",
+    "explicacion": "El art. 5 del Decreto 182/2019 derogó el Decreto 2628/2002. Este último debe tratarse como antecedente y no como reglamentación vigente.",
+    "libro": "ct_infraestructura"
+  },
+  {
+    "id": "ct-caso-35", "tipo": "caso", "titulo": "Reparación ofrecida y rechazada",
+    "situacion": "Un bien presenta un defecto subsanable. El garante ofrece corregirlo, pero el adquirente rechaza la reparación y pretende resolver por ese defecto sin aceptar la subsanación ofrecida.",
+    "pregunta": "¿Qué consecuencia establece el art. 1057 para ese rechazo?",
+    "correcta": "Impide resolver por esa vía cuando el defecto es subsanable y se ofrece corregirlo",
+    "incorrectas": ["Permite resolver por esa vía sin atender a la reparación ofrecida", "Convierte el defecto material en evicción por el rechazo del adquirente", "Hace que la denuncia deba presentarse dentro de diez días hábiles", "Sustituye la reparación por una seña penitencial a favor del adquirente", "Demuestra por sí solo que el defecto no era oculto"],
+    "pista": "Atendé a la posibilidad efectiva de corregir el defecto descrito.",
+    "explicacion": "Según el art. 1057, si el defecto es subsanable y el garante ofrece corregirlo, el rechazo de la reparación impide resolver por esa vía. No corresponde tratar todo desperfecto como habilitación automática para terminar el contrato.",
+    "libro": "ct_incumplimiento"
+  },
+  {
+    "id": "ct-caso-36", "tipo": "caso", "titulo": "La ambigüedad del plan premium",
+    "situacion": "Un proveedor redacta condiciones generales que prometen soporte premium sin explicar horarios ni canales. El cliente reclama y el proveedor quiere interpretar la expresión ambigua exclusivamente a su favor.",
+    "pregunta": "¿Qué regla específica debe considerarse para esa ambigüedad predispuesta?",
+    "correcta": "Se interpreta contra el predisponente, atendiendo también al contexto y buena fe",
+    "incorrectas": ["Se interpreta a favor del redactor por conocer técnicamente el servicio", "Se elimina la obligación de soporte porque el término quedó sin definir", "Se presume que el cliente negoció cada cláusula al aceptar", "Se reemplaza el contexto por una libre decisión posterior del proveedor", "Se interpreta como cesión de derechos sobre el sistema de soporte"],
+    "pista": "Identificá quién tuvo el control de la redacción de las condiciones generales.",
+    "explicacion": "En adhesión, las ambigüedades se interpretan contra el predisponente. La interpretación también considera intención común, buena fe, contexto, negociaciones y conducta posterior.",
+    "libro": "ct_tratativas"
+  },
+  {
+    "id": "ct-caso-37", "tipo": "caso", "titulo": "¿Toda omisión produce nulidad?",
+    "situacion": "Al revisar una formalidad pendiente, una estudiante afirma que omitir cualquier instrumento causa nulidad. Todavía no comprobó si se trata de una solemnidad exigida bajo esa sanción.",
+    "pregunta": "¿Qué distinción debe hacer conforme a los arts. 969 y 1018?",
+    "correcta": "Entre solemnidad bajo sanción de nulidad y obligación de completar el instrumento",
+    "incorrectas": ["Entre documentos caros y baratos, porque eso determina la nulidad", "Entre archivos enviados y recibidos, sin atender a la forma legal exigida", "Entre contratos onerosos nulos y gratuitos libres de toda forma", "Entre firmas en papel válidas y firmas digitales incapaces de satisfacer firma", "Entre instrumentos impresos obligatorios y mensajes sin relevancia jurídica"],
+    "pista": "Antes de asignar una consecuencia, identificá para qué se exige la formalidad.",
+    "explicacion": "Los arts. 969 y 1018 distinguen consecuencias de la omisión formal. No toda falta de instrumento causa nulidad: puede existir obligación de completar la forma pendiente.",
+    "libro": "ct_forma_prueba"
+  },
+  {
+    "id": "ct-caso-38", "tipo": "caso", "titulo": "Seña sin pacto de salida",
+    "situacion": "Las partes acuerdan una compraventa y entregan una seña, sin pactar facultad de arrepentimiento. El comprador sostiene que puede retirarse del contrato simplemente perdiendo ese importe.",
+    "pregunta": "¿Qué regla corresponde a la seña en ese contexto?",
+    "correcta": "Es confirmatoria; la entrega no concede por sí sola facultad de arrepentirse",
+    "incorrectas": ["Es penitencial porque toda entrega de dinero permite retirarse", "Obliga al vendedor a devolver el doble si el comprador abandona", "Se convierte en multa de salida por decisión unilateral del comprador", "Elimina el acuerdo hasta que el comprador vuelva a confirmar", "Sustituye la necesidad de pactar las condiciones de arrepentimiento"],
+    "pista": "Buscá si las partes incorporaron expresamente una facultad de salida.",
+    "explicacion": "La seña es confirmatoria salvo pacto de arrepentimiento. La pérdida de lo entregado como modo de arrepentirse corresponde al supuesto en que esa facultad fue convenida.",
+    "libro": "ct_incumplimiento"
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "id": "def-dl-tecnica", "grupo": "dl_subordinaciones", "termino": "Subordinación técnica",
+    "definicion": "Aspecto de la dependencia referido a instrucciones sobre tareas y procedimientos de trabajo.",
+    "ejemplo": "El equipo debe ejecutar las pruebas y publicar versiones según el proceso que indica el jefe.",
+    "pista": "Por ejemplo, Eva debe usar la secuencia de pasos que le indica su jefe para publicar una versión.", "libro": "dl_dependencia"
+  },
+  {
+    "id": "def-dl-economica", "grupo": "dl_subordinaciones", "termino": "Subordinación económica",
+    "definicion": "Aspecto de la dependencia referido al trabajo por cuenta ajena, sin asumir el riesgo empresarial.",
+    "ejemplo": "Aunque la aplicación deje de venderse, el programador cobra su sueldo y no cubre las pérdidas.",
+    "pista": "Por ejemplo, las ventas caen, pero Leo cobra igual y no cubre las pérdidas del producto.", "libro": "dl_dependencia"
+  },
+  {
+    "id": "def-dl-juridica", "grupo": "dl_subordinaciones", "termino": "Subordinación jurídica",
+    "definicion": "Aspecto de la dependencia referido a la inserción en una organización que dirige y controla a quien trabaja.",
+    "ejemplo": "La empleada tiene jefe, horario y autorización de vacaciones.",
+    "pista": "Por ejemplo, Nora debe pedir permiso para faltar y cumplir el horario que le fijan.", "libro": "dl_dependencia"
+  },
+  {
+    "id": "def-dl-realidad", "grupo": "dl_principios", "termino": "Primacía de la realidad",
+    "definicion": "Principio que hace prevalecer los hechos acreditados frente a una apariencia fraudulenta del vínculo.",
+    "ejemplo": "Se examinan jefe, horarios y permisos aunque la trabajadora emita facturas.",
+    "pista": "Por ejemplo, el papel dice consultora, pero Ana pide permiso para faltar y tiene jefe.", "libro": "dl_dependencia"
+  },
+  {
+    "id": "def-dl-irrenunciabilidad", "grupo": "dl_principios", "termino": "Irrenunciabilidad laboral",
+    "definicion": "Principio que impide eliminar mínimos de ley, estatutos o CCT mediante una renuncia individual.",
+    "ejemplo": "La firma de una aceptación no suprime el SAC obligatorio.",
+    "pista": "Por ejemplo, a Ana le proponen conservar su puesto si acepta dejar de cobrar aguinaldo.", "libro": "dl_principios_cct"
+  },
+  {
+    "id": "def-dl-continuidad", "grupo": "dl_principios", "termino": "Continuidad laboral",
+    "definicion": "Principio que favorece la conservación del vínculo y su duración indeterminada.",
+    "ejemplo": "Para una necesidad permanente, se parte de un empleo sin fecha final predeterminada.",
+    "pista": "Por ejemplo, la empresa necesita soporte estable, sin una fecha prevista de cierre de ese puesto.", "libro": "dl_principios_cct"
+  },
+  {
+    "id": "def-dl-buena-fe", "grupo": "dl_principios", "termino": "Buena fe laboral",
+    "definicion": "Principio que exige conducta leal de ambas partes al cumplir sus obligaciones laborales.",
+    "ejemplo": "La confidencialidad de la base de clientes compromete deberes del trabajador.",
+    "pista": "Por ejemplo, un empleado recibe una propuesta para exportar la base de clientes a un competidor.", "libro": "dl_principios_cct"
+  },
+  {
+    "id": "def-dl-indeterminado", "grupo": "dl_modalidades", "termino": "Contrato por tiempo indeterminado",
+    "definicion": "Modalidad que constituye la regla para cubrir necesidades permanentes sin una fecha final prefijada.",
+    "ejemplo": "Una desarrolladora se incorpora al mantenimiento estable del producto.",
+    "pista": "Por ejemplo, Lucía se incorpora al equipo estable que mantiene el sistema de la empresa.", "libro": "dl_contrato_prueba"
+  },
+  {
+    "id": "def-dl-plazo-fijo", "grupo": "dl_modalidades", "termino": "Contrato a plazo fijo",
+    "definicion": "Modalidad con duración escrita y justificación temporal, cuyo encadenamiento sin razón puede convertirla en indeterminada.",
+    "ejemplo": "Se documenta un reemplazo mientras otra persona está de licencia.",
+    "pista": "Por ejemplo, se firma el reemplazo de Marta mientras ella está de licencia, con inicio y fin.", "libro": "dl_contrato_prueba"
+  },
+  {
+    "id": "def-dl-eventual", "grupo": "dl_modalidades", "termino": "Trabajo eventual",
+    "definicion": "Modalidad destinada a atender una necesidad extraordinaria y transitoria, que no se acredita por su sola etiqueta.",
+    "ejemplo": "Un refuerzo para un evento aislado que no forma parte de ciclos regulares.",
+    "pista": "Por ejemplo, hace falta refuerzo para un evento aislado que no volverá como ciclo regular.", "libro": "dl_contrato_prueba"
+  },
+  {
+    "id": "def-dl-temporada", "grupo": "dl_modalidades", "termino": "Trabajo de temporada",
+    "definicion": "Modalidad para una necesidad cíclica que se repite, con continuidad del vínculo y recesos entre ciclos.",
+    "ejemplo": "La misma actividad requiere personal cada año en un período recurrente.",
+    "pista": "Por ejemplo, el mismo servicio vuelve cada verano y el personal retorna para esa etapa.", "libro": "dl_contrato_prueba"
+  },
+  {
+    "id": "def-dl-remuneracion", "grupo": "dl_conceptos_pago", "termino": "Remuneración laboral",
+    "definicion": "Contraprestación por el trabajo que puede incluir básico, comisiones, premios, adicionales y horas extras según su naturaleza.",
+    "ejemplo": "El recibo de una programadora incluye básico y un adicional salarial.",
+    "pista": "Por ejemplo, una desarrolladora cobra cada mes por mantener la aplicación de la empresa.", "libro": "dl_remuneracion"
+  },
+  {
+    "id": "def-dl-sac", "grupo": "dl_conceptos_pago", "termino": "Sueldo anual complementario (SAC)",
+    "definicion": "Pago en dos cuotas que, para un semestre completo, equivale en cada cuota al 50 % de la mayor remuneración mensual devengada del semestre.",
+    "ejemplo": "Con un mejor mes de $2.000.000 y semestre completo, la cuota bruta es $1.000.000.",
+    "pista": "Por ejemplo, una trabajadora revisa el concepto que vence en junio y diciembre.", "libro": "dl_remuneracion"
+  },
+  {
+    "id": "def-dl-liquidacion", "grupo": "dl_conceptos_pago", "termino": "Liquidación final",
+    "definicion": "Conjunto de salarios pendientes, SAC proporcional y compensación de vacaciones no gozadas que correspondan al terminar el vínculo.",
+    "ejemplo": "Quien renuncia puede tener estos conceptos a cobrar sin indemnización por antigüedad.",
+    "pista": "Por ejemplo, Tomás renunció y todavía deben revisar qué quedó por cobrar de su empleo.", "libro": "dl_indemnizaciones"
+  },
+  {
+    "id": "def-dl-antiguedad", "grupo": "dl_conceptos_pago", "termino": "Indemnización por antigüedad",
+    "definicion": "Rubro del art. 245 que, fuera de prueba y bajo sus presupuestos, computa un mes de base por año de servicio o fracción mayor de tres meses, con mínimo de un mes.",
+    "ejemplo": "Tres años y cuatro meses con base ya determinada de $1.000.000 dan $4.000.000 solo por este rubro.",
+    "pista": "Por ejemplo, un cálculo aislado compara a dos despedidos que cobraban igual y comenzaron en fechas distintas.", "libro": "dl_indemnizaciones"
+  },
+  {
+    "id": "def-dl-sustitutiva", "grupo": "dl_conceptos_pago", "termino": "Indemnización sustitutiva de preaviso",
+    "definicion": "Rubro que reemplaza el aviso anticipado omitido cuando correspondía darlo, distinto de cubrir los días restantes del mes de despido.",
+    "ejemplo": "Fuera de prueba, se revisa el plazo de aviso patronal de uno o dos meses según antigüedad.",
+    "pista": "Por ejemplo, una persona debía conocer con antelación la decisión empresarial y se enteró al salir.", "libro": "dl_indemnizaciones"
+  },
+  {
+    "id": "def-dl-integracion", "grupo": "dl_conceptos_pago", "termino": "Integración del mes de despido",
+    "definicion": "Rubro del art. 233 que cubre los días faltantes hasta fin de mes ante despido sin preaviso antes del último día, excluido durante prueba.",
+    "ejemplo": "Un cese sin aviso fuera de prueba ocurre antes del cierre mensual y se revisa el tiempo restante hasta ese cierre.",
+    "pista": "Por ejemplo, el calendario muestra un cese inmediato el día 12 y todavía queda parte de ese mes.", "libro": "dl_indemnizaciones"
+  },
+  {
+    "id": "def-dl-accidente", "grupo": "dl_contingencias", "termino": "Accidente laboral",
+    "definicion": "Hecho lesivo ocurrido por el hecho o en ocasión del trabajo.",
+    "ejemplo": "Una lesión mientras se ejecuta una tarea asignada en el establecimiento.",
+    "pista": "Por ejemplo, una técnica se lesiona al instalar el equipo que le encargó su jefe.", "libro": "dl_riesgos"
+  },
+  {
+    "id": "def-dl-itinere", "grupo": "dl_contingencias", "termino": "Accidente in itinere",
+    "definicion": "Hecho lesivo ocurrido en el trayecto protegido entre domicilio y trabajo.",
+    "ejemplo": "Una trabajadora sufre un accidente en su recorrido protegido de casa al empleo.",
+    "pista": "Por ejemplo, Lucía sale de casa hacia la oficina y se lesiona en ese recorrido cubierto.", "libro": "dl_riesgos"
+  },
+  {
+    "id": "def-dl-profesional", "grupo": "dl_contingencias", "termino": "Enfermedad profesional",
+    "definicion": "Dolencia cuya vinculación laboral debe establecerse en los términos del sistema de riesgos del trabajo.",
+    "ejemplo": "El uso de computadora y un diagnóstico no bastan por sí solos para reconocer la contingencia.",
+    "pista": "Por ejemplo, una programadora tiene un diagnóstico y se investiga si corresponde a la cobertura de ART.", "libro": "dl_riesgos"
+  },
+  {
+    "id": "def-dl-conciliacion", "grupo": "dl_tutela_reclamo", "termino": "Conciliación individual laboral",
+    "definicion": "Instancia que procura un acuerdo entre las partes de un reclamo individual, sin obligar a aceptar la oferta recibida.",
+    "ejemplo": "En el ámbito del SECLO, se intenta resolver el conflicto antes de continuar la vía correspondiente.",
+    "pista": "Por ejemplo, en una audiencia se conversa sobre una propuesta de pago y la trabajadora puede rechazarla.", "libro": "dl_reclamos_prueba"
+  },
+  {
+    "id": "def-dl-homologacion", "grupo": "dl_tutela_reclamo", "termino": "Homologación del acuerdo laboral",
+    "definicion": "Aprobación que requiere el acuerdo conciliatorio tras el control correspondiente, distinta de la mera presentación de una oferta.",
+    "ejemplo": "Las partes alcanzan un acuerdo en SECLO y debe someterse a control y homologación.",
+    "pista": "Por ejemplo, después de pactar una suma en audiencia falta la intervención exigida para validar lo firmado.", "libro": "dl_reclamos_prueba"
+  },
+  {
+    "id": "def-dl-cautelar", "grupo": "dl_tutela_reclamo", "termino": "Medida cautelar laboral",
+    "definicion": "Protección provisional del reclamo que exige acreditar sus requisitos y no equivale a una decisión definitiva.",
+    "ejemplo": "Se solicita retener judicialmente bienes para resguardar el eventual cobro si se acreditan los presupuestos.",
+    "pista": "Por ejemplo, mientras sigue el juicio se pide reservar bienes para evitar que se frustre el cobro.", "libro": "dl_reclamos_prueba"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "err-ct-formacion", "titulo": "Un presupuesto entre ausentes",
+    "oraciones": [
+      "Entre ausentes, el solo envío de la aceptación perfecciona el contrato.",
+      "La oferta debe tener precisiones suficientes para fijar los efectos de su aceptación.",
+      "Una respuesta que modifica las condiciones es, como regla, una nueva propuesta.",
+      "El silencio normalmente no constituye aceptación si no existe un deber de responder.",
+      "La recepción comprende conocimiento efectivo o el que debió existir."
+    ],
+    "incorrecta": 0,
+    "correccion": "Entre ausentes, el contrato se perfecciona cuando el oferente recibe la aceptación durante la vigencia de la oferta.",
+    "pista": "El recorrido del mensaje tiene un momento de salida y otro de llegada.",
+    "explicacion": "Entre ausentes, el contrato se perfecciona cuando el oferente recibe la aceptación durante la vigencia de la oferta. El art. 980 no adopta como regla el simple envío; debe atenderse también al significado de recepción del art. 983.",
+    "libro": "ct_formacion"
+  },
+  {
+    "id": "err-ct-validez", "titulo": "Quién se obliga y qué promete",
+    "oraciones": [
+      "El objeto comprende prestaciones lícitas, posibles y determinadas o determinables.",
+      "Un contrato unilateral es el formado por una sola persona.",
+      "Un contrato bilateral genera obligaciones recíprocas para las partes.",
+      "La causa es la finalidad jurídica inmediata determinante del acuerdo y debe ser lícita.",
+      "Acceder a una cuenta empresarial no demuestra facultades para obligar a la sociedad."
+    ],
+    "incorrecta": 1,
+    "correccion": "Un contrato unilateral genera obligaciones para una de las partes, sin referirse a cuántas personas lo forman.",
+    "pista": "La clasificación del art. 966 atiende al reparto de obligaciones.",
+    "explicacion": "Un contrato unilateral genera obligaciones para una de las partes, sin referirse a cuántas personas lo forman. La clasificación se refiere a los efectos obligacionales del acuerdo y no a eliminar la intervención de la otra parte.",
+    "libro": "ct_validez"
+  },
+  {
+    "id": "err-ct-tratativas", "titulo": "Negociar sin llegar a contratar",
+    "oraciones": [
+      "Existe libertad de abandonar las negociaciones junto con el deber de buena fe.",
+      "La confidencialidad alcanza la información recibida durante las tratativas.",
+      "La inversión en un presupuesto basta para generar indemnización por la ruptura.",
+      "Las cartas de intención solo son oferta si reúnen los requisitos correspondientes.",
+      "La buena fe exige no frustrar injustificadamente la confianza legítima generada."
+    ],
+    "incorrecta": 2,
+    "correccion": "La inversión en un presupuesto no genera indemnización automática por la ruptura de las tratativas.",
+    "pista": "Separá el gasto de preparar una propuesta de la conducta que generó confianza.",
+    "explicacion": "La inversión en un presupuesto no genera indemnización automática por la ruptura de las tratativas. Los arts. 990 y 991 exigen analizar libertad de negociar, buena fe y confianza legítima, además de los presupuestos del caso.",
+    "libro": "ct_tratativas"
+  },
+  {
+    "id": "err-ct-forma", "titulo": "Documento, forma y evidencia",
+    "oraciones": [
+      "Predomina la libertad de formas, salvo las exigencias especiales que correspondan.",
+      "Los correos y registros pueden aportar evidencia aunque no lleven firma manuscrita.",
+      "Una captura aislada requiere analizar su origen, contexto e integridad.",
+      "La firma digital convierte un documento privado en escritura pública.",
+      "No toda omisión formal causa nulidad: puede existir obligación de completar el instrumento."
+    ],
+    "incorrecta": 3,
+    "correccion": "La firma digital no convierte por sí sola un documento privado en escritura pública.",
+    "pista": "La atribución de una declaración no reemplaza la formalidad propia del instrumento.",
+    "explicacion": "La firma digital no convierte por sí sola un documento privado en escritura pública. Deben distinguirse soporte, prueba y formalidades especiales del acto; los arts. 969 y 1018 también distinguen consecuencias de la omisión formal.",
+    "libro": "ct_forma_prueba"
+  },
+  {
+    "id": "err-ct-consumo", "titulo": "Arrepentimiento de una compra web",
+    "oraciones": [
+      "En consumo a distancia, el arrepentimiento es irrenunciable.",
+      "La revocación puede notificarse electrónicamente en los términos del régimen aplicable.",
+      "Si no se informó debidamente el derecho, este no se extingue conforme al art. 1111.",
+      "El art. 1116 contempla excepciones para determinados programas o archivos digitales.",
+      "El art. 34 de la Ley 24.240 establece diez días hábiles desde entrega o celebración, lo último."
+    ],
+    "incorrecta": 4,
+    "correccion": "El art. 34 de la Ley 24.240 establece diez días corridos desde entrega o celebración, lo último que ocurra.",
+    "pista": "El cómputo debe distinguir el calendario completo de los días laborables.",
+    "explicacion": "El art. 34 de la Ley 24.240 establece diez días corridos desde entrega o celebración, lo último que ocurra. Debe integrarse con los arts. 1110 a 1116 del CCyC y sus excepciones, sin generalizar la devolución de toda descarga.",
+    "libro": "ct_consumo"
+  },
+  {
+    "id": "err-ct-modalidades", "titulo": "Permisos y objeto informático",
+    "oraciones": [
+      "Adquirir una copia de software transmite la titularidad intelectual al comprador.",
+      "El contrato informático se identifica por su objeto y el electrónico por el medio de celebración.",
+      "Una licencia debe precisar permisos de uso, como usuarios, instalaciones y duración.",
+      "El escrow organiza depósito del código y condiciones convenidas de liberación.",
+      "Una solución integral exige analizar compatibilidad entre equipos, software y servicios."
+    ],
+    "incorrecta": 0,
+    "correccion": "Adquirir una copia de software no supone adquirir todos sus derechos intelectuales.",
+    "pista": "Compará recibir un ejemplar con disponer de derechos para explotarlo.",
+    "explicacion": "Adquirir una copia de software no supone adquirir todos sus derechos intelectuales. Deben distinguirse los permisos de una licencia de los derechos cuya transferencia se pacta en una cesión.",
+    "libro": "ct_modalidades"
+  },
+  {
+    "id": "err-ct-entrega", "titulo": "Aceptar un sistema medible",
+    "oraciones": [
+      "El test de aceptación debe fijar ítems, valores exigidos, métodos y responsables.",
+      "El período de prueba de treinta días es el plazo legal uniforme de los sistemas informáticos.",
+      "La recepción definitiva documenta la aceptación conforme al esquema pactado.",
+      "El SLA debe prever métricas de disponibilidad, respuesta y recuperación del servicio.",
+      "Los anexos deben incorporarse expresamente e identificarse por versión y fecha."
+    ],
+    "incorrecta": 1,
+    "correccion": "Los períodos de prueba de treinta, sesenta o noventa días son ejemplos para pactar, no plazos legales uniformes.",
+    "pista": "Diferenciá una duración propuesta para el proyecto de una impuesta por ley.",
+    "explicacion": "Los períodos de prueba de treinta, sesenta o noventa días son ejemplos para pactar, no plazos legales uniformes. El test se diseña con criterios de evaluación y consecuencias del rechazo; su duración debe analizarse en el acuerdo concreto.",
+    "libro": "ct_entrega"
+  },
+  {
+    "id": "err-ct-garantia", "titulo": "Defectos y plazos diferentes",
+    "oraciones": [
+      "La evicción protege la legitimidad del derecho transmitido frente a ciertos reclamos de terceros.",
+      "La denuncia del defecto oculto tiene un plazo general de sesenta días desde su manifestación.",
+      "Para muebles, el art. 1055 fija tres años desde recepción o puesta en funcionamiento.",
+      "Para inmuebles, la garantía por defectos ocultos caduca a los tres años desde recepción.",
+      "Los plazos de caducidad del art. 1055 pueden ampliarse por convenio."
+    ],
+    "incorrecta": 2,
+    "correccion": "Para muebles, el art. 1055 fija seis meses desde recepción o puesta en funcionamiento.",
+    "pista": "Contrastá la categoría del bien y no confundas denuncia con duración de garantía.",
+    "explicacion": "Para muebles, el art. 1055 fija seis meses desde recepción o puesta en funcionamiento. Los tres años corresponden a inmuebles desde recepción; estos plazos no equivalen a prescripción ni reemplazan garantías especiales de consumo.",
+    "libro": "ct_incumplimiento"
+  },
+  {
+    "id": "err-ct-electronica", "titulo": "Quién invoca una firma discutida",
+    "oraciones": [
+      "La firma electrónica no reúne todos los requisitos legales de la firma digital.",
+      "Un PIN puede integrar un mecanismo de firma electrónica según su vinculación al acto.",
+      "El documento digital satisface la escritura según el art. 6 de la Ley 25.506.",
+      "Desconocida una firma electrónica, debe probar su validez el supuesto firmante.",
+      "La firma digital satisface el requerimiento de firma manuscrita conforme al art. 3."
+    ],
+    "incorrecta": 3,
+    "correccion": "Desconocida una firma electrónica, debe probar su validez quien la invoca.",
+    "pista": "En el reclamo, identificá quién pretende hacer valer el documento frente al otro.",
+    "explicacion": "Desconocida una firma electrónica, debe probar su validez quien la invoca. El art. 5 admite que esa persona sea distinta del firmante; no debe trasladarse automáticamente la carga a quien desconoce la firma.",
+    "libro": "ct_firmas"
+  },
+  {
+    "id": "err-ct-reglamentacion", "titulo": "Requisitos y antecedente normativo",
+    "oraciones": [
+      "La clave privada firma y la clave pública permite verificar la firma.",
+      "El art. 9 exige creación durante la vigencia de un certificado válido y verificación correcta.",
+      "El certificado debe haber sido emitido o reconocido por un certificador licenciado.",
+      "El vencimiento posterior del certificado no anula automáticamente una firma anterior válida.",
+      "El Decreto 2628/2002 sigue siendo la reglamentación vigente citada para esta unidad."
+    ],
+    "incorrecta": 4,
+    "correccion": "El Decreto 2628/2002 fue derogado por el art. 5 del Decreto 182/2019.",
+    "pista": "El apunte conserva una referencia histórica que debe leerse con la actualización indicada.",
+    "explicacion": "El Decreto 2628/2002 fue derogado por el art. 5 del Decreto 182/2019. También se trata como histórica la nómina de certificadores de 2020, sin presentarla como lista actual comprobada.",
+    "libro": "ct_infraestructura"
+  },
+  {
+    "id": "err-ct-presunciones", "titulo": "La fuerza probatoria de la digital",
+    "oraciones": [
+      "Las presunciones de autoría e integridad de la firma digital impiden prueba en contrario.",
+      "La firma digital utiliza un procedimiento verificable para identificar al firmante y detectar cambios.",
+      "El art. 7 vincula la presunción de autoría con el titular del certificado que permite verificarla.",
+      "El art. 8 contempla la integridad del documento desde el momento de su firma.",
+      "La firma digital no otorga por sí sola facultades de representación que la persona no posee."
+    ],
+    "incorrecta": 0,
+    "correccion": "Las presunciones de autoría e integridad de la firma digital admiten prueba en contrario.",
+    "pista": "La fortaleza de una evidencia no elimina la posibilidad jurídica de impugnarla.",
+    "explicacion": "Las presunciones de autoría e integridad de la firma digital admiten prueba en contrario. Los arts. 7 y 8 no convierten el no repudio técnico en una prohibición jurídica de cuestionar la evidencia.",
+    "libro": "ct_firmas"
+  },
+  {
+    "id": "err-ct-sena", "titulo": "Seña y arrepentimiento pactado",
+    "oraciones": [
+      "La seña es confirmatoria si no se pactó la facultad de arrepentirse.",
+      "Con arrepentimiento pactado, quien recibió la seña devuelve solo ese importe si se retira.",
+      "Con arrepentimiento pactado, quien entregó la seña la pierde si decide retirarse.",
+      "La entrega de una seña no concede por sí sola facultad de arrepentirse.",
+      "La resolución por incumplimiento requiere sus presupuestos y no basta una falla menor aislada."
+    ],
+    "incorrecta": 1,
+    "correccion": "Con arrepentimiento pactado, quien recibió la seña debe devolverla doble si decide retirarse.",
+    "pista": "Las consecuencias difieren según quién entregó el importe y quién lo recibió.",
+    "explicacion": "Con arrepentimiento pactado, quien recibió la seña debe devolverla doble si decide retirarse. Los arts. 1059 y 1060 no equiparan ese supuesto con la pérdida de la seña por quien la entregó.",
+    "libro": "ct_incumplimiento"
+  }
+]

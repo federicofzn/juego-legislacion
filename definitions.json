@@ -3274,5 +3274,2213 @@
       "titulo": "RGPD: el reglamento europeo de datos",
       "entradaLibro": "pd_rgpd"
     }
+  },
+  {
+    "id": "def-pi-dnda",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_organismos",
+    "ejemplo": "Una novelista inscribe su texto para contar con fecha cierta y prueba.",
+    "titulo": "DNDA",
+    "situacion": "",
+    "pregunta": "¿Qué significa «DNDA»?",
+    "respuestaCorrecta": "Organismo argentino dedicado al derecho de autor y al registro de obras y actos de ese régimen.",
+    "respuestasIncorrectas": [
+      "Organismo argentino competente en propiedad industrial, como marcas, patentes, modelos de utilidad y diseños.",
+      "Organización internacional de cooperación, tratados y servicios de propiedad intelectual, con siglas en español e inglés."
+    ],
+    "pista": "Camila quiere dejar constancia de la fecha de su novela.",
+    "explicacion": "DNDA: Organismo argentino dedicado al derecho de autor y al registro de obras y actos de ese régimen. Ejemplo: Una novelista inscribe su texto para contar con fecha cierta y prueba.",
+    "referencia": {
+      "tipo": "Objetos y organismos",
+      "titulo": "Qué protege cada sistema",
+      "entradaLibro": "pi_obras_organismos"
+    }
+  },
+  {
+    "id": "def-pi-inpi",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_organismos",
+    "ejemplo": "Un fabricante tramita la protección del signo que distingue sus zapatillas.",
+    "titulo": "INPI",
+    "situacion": "",
+    "pregunta": "¿Qué significa «INPI»?",
+    "respuestaCorrecta": "Organismo argentino competente en propiedad industrial, como marcas, patentes, modelos de utilidad y diseños.",
+    "respuestasIncorrectas": [
+      "Organismo argentino dedicado al derecho de autor y al registro de obras y actos de ese régimen.",
+      "Organización internacional de cooperación, tratados y servicios de propiedad intelectual, con siglas en español e inglés."
+    ],
+    "pista": "Un taller necesita proteger el signo de sus zapatillas.",
+    "explicacion": "INPI: Organismo argentino competente en propiedad industrial, como marcas, patentes, modelos de utilidad y diseños. Ejemplo: Un fabricante tramita la protección del signo que distingue sus zapatillas.",
+    "referencia": {
+      "tipo": "Objetos y organismos",
+      "titulo": "Qué protege cada sistema",
+      "entradaLibro": "pi_obras_organismos"
+    }
+  },
+  {
+    "id": "def-pi-ompi",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_organismos",
+    "ejemplo": "Una guía cita WIPO y otra OMPI para referirse a la misma organización.",
+    "titulo": "OMPI / WIPO",
+    "situacion": "",
+    "pregunta": "¿Qué significa «OMPI / WIPO»?",
+    "respuestaCorrecta": "Organización internacional de cooperación, tratados y servicios de propiedad intelectual, con siglas en español e inglés.",
+    "respuestasIncorrectas": [
+      "Organismo argentino dedicado al derecho de autor y al registro de obras y actos de ese régimen.",
+      "Organismo argentino competente en propiedad industrial, como marcas, patentes, modelos de utilidad y diseños."
+    ],
+    "pista": "Un formulario dice WIPO y otro OMPI: no son dos oficinas distintas.",
+    "explicacion": "OMPI / WIPO: Organización internacional de cooperación, tratados y servicios de propiedad intelectual, con siglas en español e inglés. Ejemplo: Una guía cita WIPO y otra OMPI para referirse a la misma organización.",
+    "referencia": {
+      "tipo": "Objetos y organismos",
+      "titulo": "Qué protege cada sistema",
+      "entradaLibro": "pi_obras_organismos"
+    }
+  },
+  {
+    "id": "def-pi-paternidad",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_facultades",
+    "ejemplo": "Una editora debe respetar que la creadora de la novela sea identificada como tal.",
+    "titulo": "Paternidad autoral",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Paternidad autoral»?",
+    "respuestaCorrecta": "Derecho moral al reconocimiento de la autoría de una obra.",
+    "respuestasIncorrectas": [
+      "Derecho moral que protege frente a alteraciones de la obra que afectan los intereses protegidos del autor.",
+      "Facultad patrimonial de realizar ejemplares o copias de una obra.",
+      "Facultad patrimonial de autorizar traducciones, adaptaciones o modificaciones de una obra."
+    ],
+    "pista": "En la tapa de una novela falta el nombre de quien la escribió.",
+    "explicacion": "Paternidad autoral: Derecho moral al reconocimiento de la autoría de una obra. Ejemplo: Una editora debe respetar que la creadora de la novela sea identificada como tal.",
+    "referencia": {
+      "tipo": "Personas y derechos",
+      "titulo": "Crear, explotar y reconocer la autoría",
+      "entradaLibro": "pi_autoria"
+    }
+  },
+  {
+    "id": "def-pi-integridad",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_facultades",
+    "ejemplo": "Una escritora cuestiona cambios que afectan su obra y los intereses protegidos por esta facultad.",
+    "titulo": "Integridad de la obra",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Integridad de la obra»?",
+    "respuestaCorrecta": "Derecho moral que protege frente a alteraciones de la obra que afectan los intereses protegidos del autor.",
+    "respuestasIncorrectas": [
+      "Derecho moral al reconocimiento de la autoría de una obra.",
+      "Facultad patrimonial de realizar ejemplares o copias de una obra.",
+      "Facultad patrimonial de autorizar traducciones, adaptaciones o modificaciones de una obra."
+    ],
+    "pista": "En una edición se cambia el final y se perjudica a la escritora.",
+    "explicacion": "Integridad de la obra: Derecho moral que protege frente a alteraciones de la obra que afectan los intereses protegidos del autor. Ejemplo: Una escritora cuestiona cambios que afectan su obra y los intereses protegidos por esta facultad.",
+    "referencia": {
+      "tipo": "Personas y derechos",
+      "titulo": "Crear, explotar y reconocer la autoría",
+      "entradaLibro": "pi_autoria"
+    }
+  },
+  {
+    "id": "def-pi-reproduccion",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_facultades",
+    "ejemplo": "Una editorial obtiene autorización para imprimir una tirada de un libro.",
+    "titulo": "Reproducción",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Reproducción»?",
+    "respuestaCorrecta": "Facultad patrimonial de realizar ejemplares o copias de una obra.",
+    "respuestasIncorrectas": [
+      "Derecho moral al reconocimiento de la autoría de una obra.",
+      "Derecho moral que protege frente a alteraciones de la obra que afectan los intereses protegidos del autor.",
+      "Facultad patrimonial de autorizar traducciones, adaptaciones o modificaciones de una obra."
+    ],
+    "pista": "Una imprenta prepara mil libros iguales.",
+    "explicacion": "Reproducción: Facultad patrimonial de realizar ejemplares o copias de una obra. Ejemplo: Una editorial obtiene autorización para imprimir una tirada de un libro.",
+    "referencia": {
+      "tipo": "Personas y derechos",
+      "titulo": "Crear, explotar y reconocer la autoría",
+      "entradaLibro": "pi_autoria"
+    }
+  },
+  {
+    "id": "def-pi-transformacion",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_facultades",
+    "ejemplo": "La autora autoriza que su novela sea traducida para una edición en otro idioma.",
+    "titulo": "Transformación",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Transformación»?",
+    "respuestaCorrecta": "Facultad patrimonial de autorizar traducciones, adaptaciones o modificaciones de una obra.",
+    "respuestasIncorrectas": [
+      "Derecho moral al reconocimiento de la autoría de una obra.",
+      "Derecho moral que protege frente a alteraciones de la obra que afectan los intereses protegidos del autor.",
+      "Facultad patrimonial de realizar ejemplares o copias de una obra."
+    ],
+    "pista": "La novela pasa del castellano al francés.",
+    "explicacion": "Transformación: Facultad patrimonial de autorizar traducciones, adaptaciones o modificaciones de una obra. Ejemplo: La autora autoriza que su novela sea traducida para una edición en otro idioma.",
+    "referencia": {
+      "tipo": "Personas y derechos",
+      "titulo": "Crear, explotar y reconocer la autoría",
+      "entradaLibro": "pi_autoria"
+    }
+  },
+  {
+    "id": "def-pi-denominativa",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_tipos_marca",
+    "ejemplo": "SOLVIA solicitado como denominación, sin una composición gráfica específica.",
+    "titulo": "Marca denominativa",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Marca denominativa»?",
+    "respuestaCorrecta": "Signo formado por palabras, letras o números sin reivindicar un diseño particular.",
+    "respuestasIncorrectas": [
+      "Signo formado por elementos gráficos sin letras ni números.",
+      "Signo que combina denominación y elementos gráficos, o utiliza una grafía estilizada."
+    ],
+    "pista": "Al leer SOLVIA en voz alta ya se identifica lo que se pide proteger.",
+    "explicacion": "Marca denominativa: Signo formado por palabras, letras o números sin reivindicar un diseño particular. Ejemplo: SOLVIA solicitado como denominación, sin una composición gráfica específica.",
+    "referencia": {
+      "tipo": "Identidad comercial",
+      "titulo": "Elegir y buscar una marca",
+      "entradaLibro": "pi_marcas"
+    }
+  },
+  {
+    "id": "def-pi-figurativa",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_tipos_marca",
+    "ejemplo": "Una hoja dibujada sin texto que distingue los servicios de una cafetería.",
+    "titulo": "Marca figurativa",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Marca figurativa»?",
+    "respuestaCorrecta": "Signo formado por elementos gráficos sin letras ni números.",
+    "respuestasIncorrectas": [
+      "Signo formado por palabras, letras o números sin reivindicar un diseño particular.",
+      "Signo que combina denominación y elementos gráficos, o utiliza una grafía estilizada."
+    ],
+    "pista": "En el sello del negocio aparece una hoja y no hay nada para leer.",
+    "explicacion": "Marca figurativa: Signo formado por elementos gráficos sin letras ni números. Ejemplo: Una hoja dibujada sin texto que distingue los servicios de una cafetería.",
+    "referencia": {
+      "tipo": "Identidad comercial",
+      "titulo": "Elegir y buscar una marca",
+      "entradaLibro": "pi_marcas"
+    }
+  },
+  {
+    "id": "def-pi-mixta",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_tipos_marca",
+    "ejemplo": "SOLVIA integrado a una hoja dibujada y a una composición gráfica.",
+    "titulo": "Marca mixta",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Marca mixta»?",
+    "respuestaCorrecta": "Signo que combina denominación y elementos gráficos, o utiliza una grafía estilizada.",
+    "respuestasIncorrectas": [
+      "Signo formado por palabras, letras o números sin reivindicar un diseño particular.",
+      "Signo formado por elementos gráficos sin letras ni números."
+    ],
+    "pista": "La solicitud muestra SOLVIA junto a una hoja en un mismo conjunto.",
+    "explicacion": "Marca mixta: Signo que combina denominación y elementos gráficos, o utiliza una grafía estilizada. Ejemplo: SOLVIA integrado a una hoja dibujada y a una composición gráfica.",
+    "referencia": {
+      "tipo": "Identidad comercial",
+      "titulo": "Elegir y buscar una marca",
+      "entradaLibro": "pi_marcas"
+    }
+  },
+  {
+    "id": "def-pi-patente",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_proteccion_industrial",
+    "ejemplo": "Una máquina que cumple novedad, actividad inventiva y aplicación industrial.",
+    "titulo": "Patente de invención",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Patente de invención»?",
+    "respuestaCorrecta": "Protección de una solución técnica que satisface requisitos de patentabilidad, por 20 años desde la solicitud, improrrogables.",
+    "respuestasIncorrectas": [
+      "Protección de una disposición o forma nueva de un objeto que mejora su uso o función, por 10 años desde la solicitud, improrrogables.",
+      "Protección de la apariencia u ornamentación de un producto, por 5 años iniciales y dos renovaciones de 5."
+    ],
+    "pista": "Un taller presenta una máquina novedosa y no solo una carcasa decorada.",
+    "explicacion": "Patente de invención: Protección de una solución técnica que satisface requisitos de patentabilidad, por 20 años desde la solicitud, improrrogables. Ejemplo: Una máquina que cumple novedad, actividad inventiva y aplicación industrial.",
+    "referencia": {
+      "tipo": "Industria y cooperación",
+      "titulo": "Solución técnica, apariencia y tratados",
+      "entradaLibro": "pi_invenciones_tratados"
+    }
+  },
+  {
+    "id": "def-pi-utilidad",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_proteccion_industrial",
+    "ejemplo": "Una disposición nueva de una herramienta mejora su utilización y cumple los requisitos de ese régimen.",
+    "titulo": "Modelo de utilidad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Modelo de utilidad»?",
+    "respuestaCorrecta": "Protección de una disposición o forma nueva de un objeto que mejora su uso o función, por 10 años desde la solicitud, improrrogables.",
+    "respuestasIncorrectas": [
+      "Protección de una solución técnica que satisface requisitos de patentabilidad, por 20 años desde la solicitud, improrrogables.",
+      "Protección de la apariencia u ornamentación de un producto, por 5 años iniciales y dos renovaciones de 5."
+    ],
+    "pista": "Un mango reorganizado permite sostener la herramienta con menos esfuerzo.",
+    "explicacion": "Modelo de utilidad: Protección de una disposición o forma nueva de un objeto que mejora su uso o función, por 10 años desde la solicitud, improrrogables. Ejemplo: Una disposición nueva de una herramienta mejora su utilización y cumple los requisitos de ese régimen.",
+    "referencia": {
+      "tipo": "Industria y cooperación",
+      "titulo": "Solución técnica, apariencia y tratados",
+      "entradaLibro": "pi_invenciones_tratados"
+    }
+  },
+  {
+    "id": "def-pi-diseno",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_proteccion_industrial",
+    "ejemplo": "Un envase se distingue por su aspecto ornamental, sin invocar una solución técnica nueva.",
+    "titulo": "Diseño industrial",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Diseño industrial»?",
+    "respuestaCorrecta": "Protección de la apariencia u ornamentación de un producto, por 5 años iniciales y dos renovaciones de 5.",
+    "respuestasIncorrectas": [
+      "Protección de una solución técnica que satisface requisitos de patentabilidad, por 20 años desde la solicitud, improrrogables.",
+      "Protección de una disposición o forma nueva de un objeto que mejora su uso o función, por 10 años desde la solicitud, improrrogables."
+    ],
+    "pista": "La botella funciona igual; el cambio está en cómo luce en la vidriera.",
+    "explicacion": "Diseño industrial: Protección de la apariencia u ornamentación de un producto, por 5 años iniciales y dos renovaciones de 5. Ejemplo: Un envase se distingue por su aspecto ornamental, sin invocar una solución técnica nueva.",
+    "referencia": {
+      "tipo": "Industria y cooperación",
+      "titulo": "Solución técnica, apariencia y tratados",
+      "entradaLibro": "pi_invenciones_tratados"
+    }
+  },
+  {
+    "id": "def-pi-by",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_condiciones_cc",
+    "ejemplo": "Una ilustración se comparte reconociendo a quien la creó según la licencia.",
+    "titulo": "CC BY",
+    "situacion": "",
+    "pregunta": "¿Qué significa «CC BY»?",
+    "respuestaCorrecta": "Condición de Creative Commons que exige atribución de la autoría.",
+    "respuestasIncorrectas": [
+      "Condición de Creative Commons que limita los usos comerciales.",
+      "Condición de Creative Commons que exige compartir las adaptaciones bajo la misma licencia.",
+      "Condición de Creative Commons que impide compartir material adaptado bajo esa licencia."
+    ],
+    "pista": "Al pie del afiche se agrega el crédito de Lucía.",
+    "explicacion": "CC BY: Condición de Creative Commons que exige atribución de la autoría. Ejemplo: Una ilustración se comparte reconociendo a quien la creó según la licencia.",
+    "referencia": {
+      "tipo": "Permisos abiertos",
+      "titulo": "Leer una licencia Creative Commons",
+      "entradaLibro": "pi_cc"
+    }
+  },
+  {
+    "id": "def-pi-nc",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_condiciones_cc",
+    "ejemplo": "Un comercio debe atender esta restricción antes de usar una imagen en una campaña de ventas.",
+    "titulo": "CC NC",
+    "situacion": "",
+    "pregunta": "¿Qué significa «CC NC»?",
+    "respuestaCorrecta": "Condición de Creative Commons que limita los usos comerciales.",
+    "respuestasIncorrectas": [
+      "Condición de Creative Commons que exige atribución de la autoría.",
+      "Condición de Creative Commons que exige compartir las adaptaciones bajo la misma licencia.",
+      "Condición de Creative Commons que impide compartir material adaptado bajo esa licencia."
+    ],
+    "pista": "Una tienda quiere poner la foto en el anuncio de sus ofertas.",
+    "explicacion": "CC NC: Condición de Creative Commons que limita los usos comerciales. Ejemplo: Un comercio debe atender esta restricción antes de usar una imagen en una campaña de ventas.",
+    "referencia": {
+      "tipo": "Permisos abiertos",
+      "titulo": "Leer una licencia Creative Commons",
+      "entradaLibro": "pi_cc"
+    }
+  },
+  {
+    "id": "def-pi-sa",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_condiciones_cc",
+    "ejemplo": "Una versión adaptada de una ilustración BY-SA debe conservar esa licencia al compartirse.",
+    "titulo": "CC SA",
+    "situacion": "",
+    "pregunta": "¿Qué significa «CC SA»?",
+    "respuestaCorrecta": "Condición de Creative Commons que exige compartir las adaptaciones bajo la misma licencia.",
+    "respuestasIncorrectas": [
+      "Condición de Creative Commons que exige atribución de la autoría.",
+      "Condición de Creative Commons que limita los usos comerciales.",
+      "Condición de Creative Commons que impide compartir material adaptado bajo esa licencia."
+    ],
+    "pista": "El afiche se remezcla y la versión nueva conserva BY-SA.",
+    "explicacion": "CC SA: Condición de Creative Commons que exige compartir las adaptaciones bajo la misma licencia. Ejemplo: Una versión adaptada de una ilustración BY-SA debe conservar esa licencia al compartirse.",
+    "referencia": {
+      "tipo": "Permisos abiertos",
+      "titulo": "Leer una licencia Creative Commons",
+      "entradaLibro": "pi_cc"
+    }
+  },
+  {
+    "id": "def-pi-nd",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_condiciones_cc",
+    "ejemplo": "No se puede publicar una versión modificada invocando únicamente el permiso BY-ND.",
+    "titulo": "CC ND",
+    "situacion": "",
+    "pregunta": "¿Qué significa «CC ND»?",
+    "respuestaCorrecta": "Condición de Creative Commons que impide compartir material adaptado bajo esa licencia.",
+    "respuestasIncorrectas": [
+      "Condición de Creative Commons que exige atribución de la autoría.",
+      "Condición de Creative Commons que limita los usos comerciales.",
+      "Condición de Creative Commons que exige compartir las adaptaciones bajo la misma licencia."
+    ],
+    "pista": "El equipo recorta y altera el afiche BY-ND antes de subirlo.",
+    "explicacion": "CC ND: Condición de Creative Commons que impide compartir material adaptado bajo esa licencia. Ejemplo: No se puede publicar una versión modificada invocando únicamente el permiso BY-ND.",
+    "referencia": {
+      "tipo": "Permisos abiertos",
+      "titulo": "Leer una licencia Creative Commons",
+      "entradaLibro": "pi_cc"
+    }
+  },
+  {
+    "id": "def-pi-dns",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_identificadores",
+    "ejemplo": "Un nombre puede relacionarse con más de una dirección IP y varios nombres pueden usar una IP.",
+    "titulo": "DNS",
+    "situacion": "",
+    "pregunta": "¿Qué significa «DNS»?",
+    "respuestaCorrecta": "Sistema que relaciona nombres con registros técnicos para localizar servicios de Internet, sin una relación obligatoria uno a uno con las IP.",
+    "respuestasIncorrectas": [
+      "Dominio de nivel superior genérico, como .com o .org.",
+      "Dominio de nivel superior correspondiente a un país, como .ar.",
+      "Nivel subordinado dentro de un nombre ya registrado, como www en www.empresa.com.ar."
+    ],
+    "pista": "Al escribir la dirección del sitio, una consulta orienta la conexión.",
+    "explicacion": "DNS: Sistema que relaciona nombres con registros técnicos para localizar servicios de Internet, sin una relación obligatoria uno a uno con las IP. Ejemplo: Un nombre puede relacionarse con más de una dirección IP y varios nombres pueden usar una IP.",
+    "referencia": {
+      "tipo": "Direcciones de Internet",
+      "titulo": "DNS y registro de dominios",
+      "entradaLibro": "pi_dominios"
+    }
+  },
+  {
+    "id": "def-pi-gtld",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_identificadores",
+    "ejemplo": "La terminación .org pertenece a esta categoría.",
+    "titulo": "gTLD",
+    "situacion": "",
+    "pregunta": "¿Qué significa «gTLD»?",
+    "respuestaCorrecta": "Dominio de nivel superior genérico, como .com o .org.",
+    "respuestasIncorrectas": [
+      "Sistema que relaciona nombres con registros técnicos para localizar servicios de Internet, sin una relación obligatoria uno a uno con las IP.",
+      "Dominio de nivel superior correspondiente a un país, como .ar.",
+      "Nivel subordinado dentro de un nombre ya registrado, como www en www.empresa.com.ar."
+    ],
+    "pista": "Una asociación compara .org con .ar antes de elegir su dirección.",
+    "explicacion": "gTLD: Dominio de nivel superior genérico, como .com o .org. Ejemplo: La terminación .org pertenece a esta categoría.",
+    "referencia": {
+      "tipo": "Direcciones de Internet",
+      "titulo": "DNS y registro de dominios",
+      "entradaLibro": "pi_dominios"
+    }
+  },
+  {
+    "id": "def-pi-cctld",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_identificadores",
+    "ejemplo": "La terminación .ar se vincula con Argentina.",
+    "titulo": "ccTLD",
+    "situacion": "",
+    "pregunta": "¿Qué significa «ccTLD»?",
+    "respuestaCorrecta": "Dominio de nivel superior correspondiente a un país, como .ar.",
+    "respuestasIncorrectas": [
+      "Sistema que relaciona nombres con registros técnicos para localizar servicios de Internet, sin una relación obligatoria uno a uno con las IP.",
+      "Dominio de nivel superior genérico, como .com o .org.",
+      "Nivel subordinado dentro de un nombre ya registrado, como www en www.empresa.com.ar."
+    ],
+    "pista": "El equipo compara .ar con .com antes de elegir su dirección.",
+    "explicacion": "ccTLD: Dominio de nivel superior correspondiente a un país, como .ar. Ejemplo: La terminación .ar se vincula con Argentina.",
+    "referencia": {
+      "tipo": "Direcciones de Internet",
+      "titulo": "DNS y registro de dominios",
+      "entradaLibro": "pi_dominios"
+    }
+  },
+  {
+    "id": "def-pi-subdominio",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_identificadores",
+    "ejemplo": "La parte www se encuentra dentro de empresa.com.ar.",
+    "titulo": "Subdominio",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Subdominio»?",
+    "respuestaCorrecta": "Nivel subordinado dentro de un nombre ya registrado, como www en www.empresa.com.ar.",
+    "respuestasIncorrectas": [
+      "Sistema que relaciona nombres con registros técnicos para localizar servicios de Internet, sin una relación obligatoria uno a uno con las IP.",
+      "Dominio de nivel superior genérico, como .com o .org.",
+      "Dominio de nivel superior correspondiente a un país, como .ar."
+    ],
+    "pista": "Un comercio agrega tienda delante de su dirección existente.",
+    "explicacion": "Subdominio: Nivel subordinado dentro de un nombre ya registrado, como www en www.empresa.com.ar. Ejemplo: La parte www se encuentra dentro de empresa.com.ar.",
+    "referencia": {
+      "tipo": "Direcciones de Internet",
+      "titulo": "DNS y registro de dominios",
+      "entradaLibro": "pi_dominios"
+    }
+  },
+  {
+    "id": "def-pi-licencia",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_acuerdos",
+    "ejemplo": "Una empresa permite usar su programa en ciertos equipos conservando la titularidad.",
+    "titulo": "Licencia de explotación",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Licencia de explotación»?",
+    "respuestaCorrecta": "Acuerdo que autoriza usos delimitados sin transmitir por sí solo la titularidad de los derechos.",
+    "respuestasIncorrectas": [
+      "Acuerdo que transmite derechos económicos dentro del alcance convenido.",
+      "Acuerdo de confidencialidad que obliga a guardar reserva y no concede por sí mismo una patente."
+    ],
+    "pista": "El consultorio puede ejecutar la agenda en dos computadoras.",
+    "explicacion": "Licencia de explotación: Acuerdo que autoriza usos delimitados sin transmitir por sí solo la titularidad de los derechos. Ejemplo: Una empresa permite usar su programa en ciertos equipos conservando la titularidad.",
+    "referencia": {
+      "tipo": "Software y contratos",
+      "titulo": "Precisar los permisos sobre el código",
+      "entradaLibro": "pi_software"
+    }
+  },
+  {
+    "id": "def-pi-cesion",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_acuerdos",
+    "ejemplo": "La creadora transfiere a una editorial derechos de explotación, sin convertirse la editorial en autora.",
+    "titulo": "Cesión patrimonial",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Cesión patrimonial»?",
+    "respuestaCorrecta": "Acuerdo que transmite derechos económicos dentro del alcance convenido.",
+    "respuestasIncorrectas": [
+      "Acuerdo que autoriza usos delimitados sin transmitir por sí solo la titularidad de los derechos.",
+      "Acuerdo de confidencialidad que obliga a guardar reserva y no concede por sí mismo una patente."
+    ],
+    "pista": "La novela cambia de titular para su explotación comercial.",
+    "explicacion": "Cesión patrimonial: Acuerdo que transmite derechos económicos dentro del alcance convenido. Ejemplo: La creadora transfiere a una editorial derechos de explotación, sin convertirse la editorial en autora.",
+    "referencia": {
+      "tipo": "Software y contratos",
+      "titulo": "Precisar los permisos sobre el código",
+      "entradaLibro": "pi_software"
+    }
+  },
+  {
+    "id": "def-pi-nda",
+    "unidad": "propiedad_intelectual",
+    "tipo": "definicion",
+    "grupo": "pi_acuerdos",
+    "ejemplo": "Un taller exige reserva antes de mostrar su prototipo a un posible socio.",
+    "titulo": "NDA",
+    "situacion": "",
+    "pregunta": "¿Qué significa «NDA»?",
+    "respuestaCorrecta": "Acuerdo de confidencialidad que obliga a guardar reserva y no concede por sí mismo una patente.",
+    "respuestasIncorrectas": [
+      "Acuerdo que autoriza usos delimitados sin transmitir por sí solo la titularidad de los derechos.",
+      "Acuerdo que transmite derechos económicos dentro del alcance convenido."
+    ],
+    "pista": "Antes de ver el prototipo, el visitante firma que no contará lo que vea.",
+    "explicacion": "NDA: Acuerdo de confidencialidad que obliga a guardar reserva y no concede por sí mismo una patente. Ejemplo: Un taller exige reserva antes de mostrar su prototipo a un posible socio.",
+    "referencia": {
+      "tipo": "Software y contratos",
+      "titulo": "Precisar los permisos sobre el código",
+      "entradaLibro": "pi_software"
+    }
+  },
+  {
+    "id": "def-ct-oferta",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_formacion",
+    "ejemplo": "Un presupuesto identifica la migración, el precio y la vigencia, y expresa compromiso de contratar en esas condiciones.",
+    "titulo": "Oferta contractual",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Oferta contractual»?",
+    "respuestaCorrecta": "Propuesta con intención de obligarse y precisiones suficientes para fijar los efectos de su aceptación.",
+    "respuestasIncorrectas": [
+      "Comunicación que procura que el destinatario formule una propuesta, en lugar de presentar una oferta propia suficiente.",
+      "Conformidad con los términos de la oferta, exteriorizada mediante declaración o conducta concluyente sin introducir cambios."
+    ],
+    "pista": "El técnico le manda a Lara un presupuesto listo para que ella diga sí o no.",
+    "explicacion": "Oferta contractual: Propuesta con intención de obligarse y precisiones suficientes para fijar los efectos de su aceptación. Ejemplo: Un presupuesto identifica la migración, el precio y la vigencia, y expresa compromiso de contratar en esas condiciones.",
+    "referencia": {
+      "tipo": "Acuerdo y validez",
+      "titulo": "Oferta, aceptación y recepción",
+      "entradaLibro": "ct_formacion"
+    }
+  },
+  {
+    "id": "def-ct-invitacion",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_formacion",
+    "ejemplo": "Una empresa solicita a distintos proveedores que envíen presupuestos para diseñar su sistema.",
+    "titulo": "Invitación a ofertar",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Invitación a ofertar»?",
+    "respuestaCorrecta": "Comunicación que procura que el destinatario formule una propuesta, en lugar de presentar una oferta propia suficiente.",
+    "respuestasIncorrectas": [
+      "Propuesta con intención de obligarse y precisiones suficientes para fijar los efectos de su aceptación.",
+      "Conformidad con los términos de la oferta, exteriorizada mediante declaración o conducta concluyente sin introducir cambios."
+    ],
+    "pista": "Una clínica pide a tres consultoras que coticen la migración de sus registros.",
+    "explicacion": "Invitación a ofertar: Comunicación que procura que el destinatario formule una propuesta, en lugar de presentar una oferta propia suficiente. Ejemplo: Una empresa solicita a distintos proveedores que envíen presupuestos para diseñar su sistema.",
+    "referencia": {
+      "tipo": "Acuerdo y validez",
+      "titulo": "Oferta, aceptación y recepción",
+      "entradaLibro": "ct_formacion"
+    }
+  },
+  {
+    "id": "def-ct-aceptacion",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_formacion",
+    "ejemplo": "El cliente responde que acepta el presupuesto de soporte con el precio y alcance ofrecidos.",
+    "titulo": "Aceptación concordante",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Aceptación concordante»?",
+    "respuestaCorrecta": "Conformidad con los términos de la oferta, exteriorizada mediante declaración o conducta concluyente sin introducir cambios.",
+    "respuestasIncorrectas": [
+      "Propuesta con intención de obligarse y precisiones suficientes para fijar los efectos de su aceptación.",
+      "Comunicación que procura que el destinatario formule una propuesta, en lugar de presentar una oferta propia suficiente."
+    ],
+    "pista": "Lara contesta sí al presupuesto recibido y no agrega tareas al servicio cotizado.",
+    "explicacion": "Aceptación concordante: Conformidad con los términos de la oferta, exteriorizada mediante declaración o conducta concluyente sin introducir cambios. Ejemplo: El cliente responde que acepta el presupuesto de soporte con el precio y alcance ofrecidos.",
+    "referencia": {
+      "tipo": "Acuerdo y validez",
+      "titulo": "Oferta, aceptación y recepción",
+      "entradaLibro": "ct_formacion"
+    }
+  },
+  {
+    "id": "def-ct-capacidad",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_validez",
+    "ejemplo": "Antes de contratar se revisan las restricciones aplicables a la persona que asumirá las obligaciones.",
+    "titulo": "Capacidad contractual",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Capacidad contractual»?",
+    "respuestaCorrecta": "Aptitud para asumir el acuerdo conforme a las reglas que permiten tener derechos y ejercerlos.",
+    "respuestasIncorrectas": [
+      "Prestación lícita, posible, determinada o determinable y valorable económicamente que se promete realizar.",
+      "Finalidad jurídica inmediata determinante del acuerdo, que debe ser lícita y subsistir durante su ejecución."
+    ],
+    "pista": "Antes de venderle el equipo a Tomás, se revisan sus restricciones personales.",
+    "explicacion": "Capacidad contractual: Aptitud para asumir el acuerdo conforme a las reglas que permiten tener derechos y ejercerlos. Ejemplo: Antes de contratar se revisan las restricciones aplicables a la persona que asumirá las obligaciones.",
+    "referencia": {
+      "tipo": "Acuerdo y validez",
+      "titulo": "Capacidad, objeto, causa y clases",
+      "entradaLibro": "ct_validez"
+    }
+  },
+  {
+    "id": "def-ct-objeto",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_validez",
+    "ejemplo": "Programar los módulos detallados en un anexo y pagar el precio integran lo debido en el desarrollo.",
+    "titulo": "Objeto del contrato",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Objeto del contrato»?",
+    "respuestaCorrecta": "Prestación lícita, posible, determinada o determinable y valorable económicamente que se promete realizar.",
+    "respuestasIncorrectas": [
+      "Aptitud para asumir el acuerdo conforme a las reglas que permiten tener derechos y ejercerlos.",
+      "Finalidad jurídica inmediata determinante del acuerdo, que debe ser lícita y subsistir durante su ejecución."
+    ],
+    "pista": "La discusión con el programador es si el encargo incluía el módulo de turnos.",
+    "explicacion": "Objeto del contrato: Prestación lícita, posible, determinada o determinable y valorable económicamente que se promete realizar. Ejemplo: Programar los módulos detallados en un anexo y pagar el precio integran lo debido en el desarrollo.",
+    "referencia": {
+      "tipo": "Acuerdo y validez",
+      "titulo": "Capacidad, objeto, causa y clases",
+      "entradaLibro": "ct_validez"
+    }
+  },
+  {
+    "id": "def-ct-causa",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_validez",
+    "ejemplo": "En el desarrollo remunerado se analiza la finalidad del intercambio, distinta de enumerar tareas y pagos.",
+    "titulo": "Causa del contrato",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Causa del contrato»?",
+    "respuestaCorrecta": "Finalidad jurídica inmediata determinante del acuerdo, que debe ser lícita y subsistir durante su ejecución.",
+    "respuestasIncorrectas": [
+      "Aptitud para asumir el acuerdo conforme a las reglas que permiten tener derechos y ejercerlos.",
+      "Prestación lícita, posible, determinada o determinable y valorable económicamente que se promete realizar."
+    ],
+    "pista": "Dos colegas distinguen el para qué del negocio de las tareas y los pagos.",
+    "explicacion": "Causa del contrato: Finalidad jurídica inmediata determinante del acuerdo, que debe ser lícita y subsistir durante su ejecución. Ejemplo: En el desarrollo remunerado se analiza la finalidad del intercambio, distinta de enumerar tareas y pagos.",
+    "referencia": {
+      "tipo": "Acuerdo y validez",
+      "titulo": "Capacidad, objeto, causa y clases",
+      "entradaLibro": "ct_validez"
+    }
+  },
+  {
+    "id": "def-ct-unilateral",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_clases",
+    "ejemplo": "Intervienen dos partes, pero solo una asume la obligación prevista en el acuerdo.",
+    "titulo": "Contrato unilateral",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Contrato unilateral»?",
+    "respuestaCorrecta": "Acuerdo que genera obligaciones para una de las partes, sin reciprocidad de prestaciones.",
+    "respuestasIncorrectas": [
+      "Acuerdo que genera obligaciones recíprocas para las partes.",
+      "Acuerdo en el que una parte acepta condiciones generales predispuestas por la otra, en lugar de negociarlas."
+    ],
+    "pista": "En el esquema de Julia hay dos columnas de participantes y una queda sin tareas debidas.",
+    "explicacion": "Contrato unilateral: Acuerdo que genera obligaciones para una de las partes, sin reciprocidad de prestaciones. Ejemplo: Intervienen dos partes, pero solo una asume la obligación prevista en el acuerdo.",
+    "referencia": {
+      "tipo": "Acuerdo y validez",
+      "titulo": "Capacidad, objeto, causa y clases",
+      "entradaLibro": "ct_validez"
+    }
+  },
+  {
+    "id": "def-ct-bilateral",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_clases",
+    "ejemplo": "La desarrolladora se obliga a programar el módulo y el cliente se obliga a pagar el precio.",
+    "titulo": "Contrato bilateral",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Contrato bilateral»?",
+    "respuestaCorrecta": "Acuerdo que genera obligaciones recíprocas para las partes.",
+    "respuestasIncorrectas": [
+      "Acuerdo que genera obligaciones para una de las partes, sin reciprocidad de prestaciones.",
+      "Acuerdo en el que una parte acepta condiciones generales predispuestas por la otra, en lugar de negociarlas."
+    ],
+    "pista": "En el encargo de Julia, una columna indica programar y la otra indica pagar.",
+    "explicacion": "Contrato bilateral: Acuerdo que genera obligaciones recíprocas para las partes. Ejemplo: La desarrolladora se obliga a programar el módulo y el cliente se obliga a pagar el precio.",
+    "referencia": {
+      "tipo": "Acuerdo y validez",
+      "titulo": "Capacidad, objeto, causa y clases",
+      "entradaLibro": "ct_validez"
+    }
+  },
+  {
+    "id": "def-ct-adhesion",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_clases",
+    "ejemplo": "Un usuario acepta el texto general del servicio que el proveedor dejó preparado para sus clientes.",
+    "titulo": "Contrato por adhesión",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Contrato por adhesión»?",
+    "respuestaCorrecta": "Acuerdo en el que una parte acepta condiciones generales predispuestas por la otra, en lugar de negociarlas.",
+    "respuestasIncorrectas": [
+      "Acuerdo que genera obligaciones para una de las partes, sin reciprocidad de prestaciones.",
+      "Acuerdo que genera obligaciones recíprocas para las partes."
+    ],
+    "pista": "Julia encuentra el mismo formulario para cada cliente del plan de soporte.",
+    "explicacion": "Contrato por adhesión: Acuerdo en el que una parte acepta condiciones generales predispuestas por la otra, en lugar de negociarlas. Ejemplo: Un usuario acepta el texto general del servicio que el proveedor dejó preparado para sus clientes.",
+    "referencia": {
+      "tipo": "Negociación y condiciones",
+      "titulo": "Buena fe, reserva y adhesión",
+      "entradaLibro": "ct_tratativas"
+    }
+  },
+  {
+    "id": "def-ct-licencia",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_software",
+    "ejemplo": "Se permite instalar un programa en veinte equipos durante un año.",
+    "titulo": "Licencia de uso de software",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Licencia de uso de software»?",
+    "respuestaCorrecta": "Autorización para utilizar un programa dentro de permisos pactados, sin implicar por sí sola transferencia de derechos intelectuales.",
+    "respuestasIncorrectas": [
+      "Transferencia de los derechos acordados, distinta de la mera autorización de uso de una copia.",
+      "Encargo de producir funcionalidades específicas, con integración, entregables y aceptación definidos."
+    ],
+    "pista": "La clínica obtiene veinte puestos por un año y no compra la explotación del producto.",
+    "explicacion": "Licencia de uso de software: Autorización para utilizar un programa dentro de permisos pactados, sin implicar por sí sola transferencia de derechos intelectuales. Ejemplo: Se permite instalar un programa en veinte equipos durante un año.",
+    "referencia": {
+      "tipo": "Proyectos informáticos",
+      "titulo": "Objeto informático y modalidades",
+      "entradaLibro": "ct_modalidades"
+    }
+  },
+  {
+    "id": "def-ct-cesion",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_software",
+    "ejemplo": "El acuerdo identifica qué derechos se transfieren, en vez de limitarse a permitir instalaciones.",
+    "titulo": "Cesión de derechos",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Cesión de derechos»?",
+    "respuestaCorrecta": "Transferencia de los derechos acordados, distinta de la mera autorización de uso de una copia.",
+    "respuestasIncorrectas": [
+      "Autorización para utilizar un programa dentro de permisos pactados, sin implicar por sí sola transferencia de derechos intelectuales.",
+      "Encargo de producir funcionalidades específicas, con integración, entregables y aceptación definidos."
+    ],
+    "pista": "La clínica exige precisar qué deja de pertenecer al proveedor en el negocio.",
+    "explicacion": "Cesión de derechos: Transferencia de los derechos acordados, distinta de la mera autorización de uso de una copia. Ejemplo: El acuerdo identifica qué derechos se transfieren, en vez de limitarse a permitir instalaciones.",
+    "referencia": {
+      "tipo": "Proyectos informáticos",
+      "titulo": "Objeto informático y modalidades",
+      "entradaLibro": "ct_modalidades"
+    }
+  },
+  {
+    "id": "def-ct-desarrollo",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_software",
+    "ejemplo": "Una clínica contrata la programación de un módulo que responda a su propio circuito de turnos.",
+    "titulo": "Desarrollo a medida",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Desarrollo a medida»?",
+    "respuestaCorrecta": "Encargo de producir funcionalidades específicas, con integración, entregables y aceptación definidos.",
+    "respuestasIncorrectas": [
+      "Autorización para utilizar un programa dentro de permisos pactados, sin implicar por sí sola transferencia de derechos intelectuales.",
+      "Transferencia de los derechos acordados, distinta de la mera autorización de uso de una copia."
+    ],
+    "pista": "La clínica necesita una solución que todavía no está en el catálogo.",
+    "explicacion": "Desarrollo a medida: Encargo de producir funcionalidades específicas, con integración, entregables y aceptación definidos. Ejemplo: Una clínica contrata la programación de un módulo que responda a su propio circuito de turnos.",
+    "referencia": {
+      "tipo": "Proyectos informáticos",
+      "titulo": "Objeto informático y modalidades",
+      "entradaLibro": "ct_modalidades"
+    }
+  },
+  {
+    "id": "def-ct-provisoria",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_control_entrega",
+    "ejemplo": "Se reciben los equipos y el sistema, quedando pendientes los controles de funcionamiento pactados.",
+    "titulo": "Recepción provisoria",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Recepción provisoria»?",
+    "respuestaCorrecta": "Etapa inicial de recepción del sistema anterior a completar las verificaciones previstas para su aceptación definitiva.",
+    "respuestasIncorrectas": [
+      "Prueba pactada que compara el sistema entregado con ítems y valores exigidos mediante métodos y responsables definidos.",
+      "Acuerdo de niveles de servicio con disponibilidad, tiempos de respuesta y recuperación, medición y consecuencias del incumplimiento."
+    ],
+    "pista": "El hospital ya recibió los equipos, pero aún faltan las pruebas acordadas.",
+    "explicacion": "Recepción provisoria: Etapa inicial de recepción del sistema anterior a completar las verificaciones previstas para su aceptación definitiva. Ejemplo: Se reciben los equipos y el sistema, quedando pendientes los controles de funcionamiento pactados.",
+    "referencia": {
+      "tipo": "Proyectos informáticos",
+      "titulo": "Entregables, test y niveles de servicio",
+      "entradaLibro": "ct_entrega"
+    }
+  },
+  {
+    "id": "def-ct-test",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_control_entrega",
+    "ejemplo": "Se verifica que una importación no pierda datos y que la carga acordada se procese a tiempo.",
+    "titulo": "Test de aceptación",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Test de aceptación»?",
+    "respuestaCorrecta": "Prueba pactada que compara el sistema entregado con ítems y valores exigidos mediante métodos y responsables definidos.",
+    "respuestasIncorrectas": [
+      "Etapa inicial de recepción del sistema anterior a completar las verificaciones previstas para su aceptación definitiva.",
+      "Acuerdo de niveles de servicio con disponibilidad, tiempos de respuesta y recuperación, medición y consecuencias del incumplimiento."
+    ],
+    "pista": "El hospital ejecuta una importación y coteja el resultado con la grilla del anexo.",
+    "explicacion": "Test de aceptación: Prueba pactada que compara el sistema entregado con ítems y valores exigidos mediante métodos y responsables definidos. Ejemplo: Se verifica que una importación no pierda datos y que la carga acordada se procese a tiempo.",
+    "referencia": {
+      "tipo": "Proyectos informáticos",
+      "titulo": "Entregables, test y niveles de servicio",
+      "entradaLibro": "ct_entrega"
+    }
+  },
+  {
+    "id": "def-ct-sla",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_control_entrega",
+    "ejemplo": "Un anexo precisa la disponibilidad mensual exigida y qué sucede cuando no se alcanza.",
+    "titulo": "SLA",
+    "situacion": "",
+    "pregunta": "¿Qué significa «SLA»?",
+    "respuestaCorrecta": "Acuerdo de niveles de servicio con disponibilidad, tiempos de respuesta y recuperación, medición y consecuencias del incumplimiento.",
+    "respuestasIncorrectas": [
+      "Etapa inicial de recepción del sistema anterior a completar las verificaciones previstas para su aceptación definitiva.",
+      "Prueba pactada que compara el sistema entregado con ítems y valores exigidos mediante métodos y responsables definidos."
+    ],
+    "pista": "El hospital necesita saber qué pasará si la plataforma deja de estar operativa varias horas.",
+    "explicacion": "SLA: Acuerdo de niveles de servicio con disponibilidad, tiempos de respuesta y recuperación, medición y consecuencias del incumplimiento. Ejemplo: Un anexo precisa la disponibilidad mensual exigida y qué sucede cuando no se alcanza.",
+    "referencia": {
+      "tipo": "Proyectos informáticos",
+      "titulo": "Entregables, test y niveles de servicio",
+      "entradaLibro": "ct_entrega"
+    }
+  },
+  {
+    "id": "def-ct-eviccion",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_saneamiento",
+    "ejemplo": "Un tercero hace valer un derecho que impide usar legítimamente el software adquirido.",
+    "titulo": "Evicción",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Evicción»?",
+    "respuestaCorrecta": "Protección de la legitimidad del derecho transmitido frente a ciertos reclamos de terceros, incluidos los de propiedad intelectual.",
+    "respuestasIncorrectas": [
+      "Categoría general de defecto no aparente de lo recibido, sin exigir que alcance la gravedad redhibitoria.",
+      "Defecto oculto que vuelve la cosa impropia para su destino o reduce gravemente su utilidad."
+    ],
+    "pista": "El programa funciona, pero aparece otra empresa que exige impedir su uso por ser la dueña.",
+    "explicacion": "Evicción: Protección de la legitimidad del derecho transmitido frente a ciertos reclamos de terceros, incluidos los de propiedad intelectual. Ejemplo: Un tercero hace valer un derecho que impide usar legítimamente el software adquirido.",
+    "referencia": {
+      "tipo": "Cumplimiento y remedios",
+      "titulo": "Suspensión, saneamiento y seña",
+      "entradaLibro": "ct_incumplimiento"
+    }
+  },
+  {
+    "id": "def-ct-oculto",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_saneamiento",
+    "ejemplo": "Un equipo tiene una falla de fabricación no visible al recibirlo, cuya entidad debe evaluarse.",
+    "titulo": "Vicio oculto",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Vicio oculto»?",
+    "respuestaCorrecta": "Categoría general de defecto no aparente de lo recibido, sin exigir que alcance la gravedad redhibitoria.",
+    "respuestasIncorrectas": [
+      "Protección de la legitimidad del derecho transmitido frente a ciertos reclamos de terceros, incluidos los de propiedad intelectual.",
+      "Defecto oculto que vuelve la cosa impropia para su destino o reduce gravemente su utilidad."
+    ],
+    "pista": "Al abrir un componente del equipo surge una falla que la inspección exterior no mostraba.",
+    "explicacion": "Vicio oculto: Categoría general de defecto no aparente de lo recibido, sin exigir que alcance la gravedad redhibitoria. Ejemplo: Un equipo tiene una falla de fabricación no visible al recibirlo, cuya entidad debe evaluarse.",
+    "referencia": {
+      "tipo": "Cumplimiento y remedios",
+      "titulo": "Suspensión, saneamiento y seña",
+      "entradaLibro": "ct_incumplimiento"
+    }
+  },
+  {
+    "id": "def-ct-redhibitorio",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_saneamiento",
+    "ejemplo": "Una falla oculta de fabricación impide destinar el equipo a la función para la que se adquirió.",
+    "titulo": "Vicio redhibitorio",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Vicio redhibitorio»?",
+    "respuestaCorrecta": "Defecto oculto que vuelve la cosa impropia para su destino o reduce gravemente su utilidad.",
+    "respuestasIncorrectas": [
+      "Protección de la legitimidad del derecho transmitido frente a ciertos reclamos de terceros, incluidos los de propiedad intelectual.",
+      "Categoría general de defecto no aparente de lo recibido, sin exigir que alcance la gravedad redhibitoria."
+    ],
+    "pista": "La falla no se veía al comprar: ahora el servidor ni siquiera logra arrancar.",
+    "explicacion": "Vicio redhibitorio: Defecto oculto que vuelve la cosa impropia para su destino o reduce gravemente su utilidad. Ejemplo: Una falla oculta de fabricación impide destinar el equipo a la función para la que se adquirió.",
+    "referencia": {
+      "tipo": "Cumplimiento y remedios",
+      "titulo": "Suspensión, saneamiento y seña",
+      "entradaLibro": "ct_incumplimiento"
+    }
+  },
+  {
+    "id": "def-ct-documento",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_documentos_firmas",
+    "ejemplo": "Un archivo registra el acuerdo y puede leerse en un dispositivo, sin que ello implique que tenga firma digital.",
+    "titulo": "Documento digital",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Documento digital»?",
+    "respuestaCorrecta": "Representación digital de actos o hechos que satisface el requerimiento de escritura conforme al art. 6 de la Ley 25.506.",
+    "respuestasIncorrectas": [
+      "Datos electrónicos asociados al documento utilizados para identificar al firmante que no reúnen todos los requisitos de firma digital.",
+      "Procedimiento matemático verificable que identifica al firmante y permite detectar alteraciones, sujeto a los requisitos legales."
+    ],
+    "pista": "Un acta queda en un archivo que se lee en pantalla, sin imprimirlo.",
+    "explicacion": "Documento digital: Representación digital de actos o hechos que satisface el requerimiento de escritura conforme al art. 6 de la Ley 25.506. Ejemplo: Un archivo registra el acuerdo y puede leerse en un dispositivo, sin que ello implique que tenga firma digital.",
+    "referencia": {
+      "tipo": "Documentos y firmas",
+      "titulo": "Documento, firma electrónica y digital",
+      "entradaLibro": "ct_firmas"
+    }
+  },
+  {
+    "id": "def-ct-electronica",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_documentos_firmas",
+    "ejemplo": "Un PIN se vincula con la aceptación para identificar a la persona, sin reunir los requisitos de firma digital.",
+    "titulo": "Firma electrónica",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Firma electrónica»?",
+    "respuestaCorrecta": "Datos electrónicos asociados al documento utilizados para identificar al firmante que no reúnen todos los requisitos de firma digital.",
+    "respuestasIncorrectas": [
+      "Representación digital de actos o hechos que satisface el requerimiento de escritura conforme al art. 6 de la Ley 25.506.",
+      "Procedimiento matemático verificable que identifica al firmante y permite detectar alteraciones, sujeto a los requisitos legales."
+    ],
+    "pista": "La plataforma registra el PIN que Marta usa al confirmar el pedido.",
+    "explicacion": "Firma electrónica: Datos electrónicos asociados al documento utilizados para identificar al firmante que no reúnen todos los requisitos de firma digital. Ejemplo: Un PIN se vincula con la aceptación para identificar a la persona, sin reunir los requisitos de firma digital.",
+    "referencia": {
+      "tipo": "Documentos y firmas",
+      "titulo": "Documento, firma electrónica y digital",
+      "entradaLibro": "ct_firmas"
+    }
+  },
+  {
+    "id": "def-ct-digital",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_documentos_firmas",
+    "ejemplo": "Una firma creada con certificado válido cumple el art. 9 y permite verificar autoría e integridad.",
+    "titulo": "Firma digital",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Firma digital»?",
+    "respuestaCorrecta": "Procedimiento matemático verificable que identifica al firmante y permite detectar alteraciones, sujeto a los requisitos legales.",
+    "respuestasIncorrectas": [
+      "Representación digital de actos o hechos que satisface el requerimiento de escritura conforme al art. 6 de la Ley 25.506.",
+      "Datos electrónicos asociados al documento utilizados para identificar al firmante que no reúnen todos los requisitos de firma digital."
+    ],
+    "pista": "Nicolás discute si la orden recibida coincide con la que aprobó.",
+    "explicacion": "Firma digital: Procedimiento matemático verificable que identifica al firmante y permite detectar alteraciones, sujeto a los requisitos legales. Ejemplo: Una firma creada con certificado válido cumple el art. 9 y permite verificar autoría e integridad.",
+    "referencia": {
+      "tipo": "Documentos y firmas",
+      "titulo": "Documento, firma electrónica y digital",
+      "entradaLibro": "ct_firmas"
+    }
+  },
+  {
+    "id": "def-ct-privada",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_infraestructura",
+    "ejemplo": "La persona usa este componente para firmar el contrato y debe evitar que otros lo utilicen.",
+    "titulo": "Clave privada",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Clave privada»?",
+    "respuestaCorrecta": "Componente utilizado para generar la firma, que debe mantenerse bajo control del firmante.",
+    "respuestasIncorrectas": [
+      "Componente utilizado para verificar la firma, distinto del empleado para generarla.",
+      "Elemento de confianza que vincula la verificación con su titular y requiere controlar emisor, vigencia y revocación."
+    ],
+    "pista": "Sol prepara el envío del acuerdo y realiza la operación reservada a ella.",
+    "explicacion": "Clave privada: Componente utilizado para generar la firma, que debe mantenerse bajo control del firmante. Ejemplo: La persona usa este componente para firmar el contrato y debe evitar que otros lo utilicen.",
+    "referencia": {
+      "tipo": "Documentos y firmas",
+      "titulo": "Claves, certificados y reglamentación",
+      "entradaLibro": "ct_infraestructura"
+    }
+  },
+  {
+    "id": "def-ct-publica",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_infraestructura",
+    "ejemplo": "Quien recibe el contrato usa este componente para comprobar la firma recibida.",
+    "titulo": "Clave pública",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Clave pública»?",
+    "respuestaCorrecta": "Componente utilizado para verificar la firma, distinto del empleado para generarla.",
+    "respuestasIncorrectas": [
+      "Componente utilizado para generar la firma, que debe mantenerse bajo control del firmante.",
+      "Elemento de confianza que vincula la verificación con su titular y requiere controlar emisor, vigencia y revocación."
+    ],
+    "pista": "El destinatario de Sol quiere comprobar la rúbrica del archivo recibido.",
+    "explicacion": "Clave pública: Componente utilizado para verificar la firma, distinto del empleado para generarla. Ejemplo: Quien recibe el contrato usa este componente para comprobar la firma recibida.",
+    "referencia": {
+      "tipo": "Documentos y firmas",
+      "titulo": "Claves, certificados y reglamentación",
+      "entradaLibro": "ct_infraestructura"
+    }
+  },
+  {
+    "id": "def-ct-certificado",
+    "unidad": "contratos",
+    "tipo": "definicion",
+    "grupo": "ct_infraestructura",
+    "ejemplo": "Se comprueba si el certificado era válido al crearse la firma y si procede de un certificador licenciado que lo emite o reconoce.",
+    "titulo": "Certificado digital",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Certificado digital»?",
+    "respuestaCorrecta": "Elemento de confianza que vincula la verificación con su titular y requiere controlar emisor, vigencia y revocación.",
+    "respuestasIncorrectas": [
+      "Componente utilizado para generar la firma, que debe mantenerse bajo control del firmante.",
+      "Componente utilizado para verificar la firma, distinto del empleado para generarla."
+    ],
+    "pista": "El destinatario de Sol consulta quién expidió la credencial y hasta qué fecha servía.",
+    "explicacion": "Certificado digital: Elemento de confianza que vincula la verificación con su titular y requiere controlar emisor, vigencia y revocación. Ejemplo: Se comprueba si el certificado era válido al crearse la firma y si procede de un certificador licenciado que lo emite o reconoce.",
+    "referencia": {
+      "tipo": "Documentos y firmas",
+      "titulo": "Claves, certificados y reglamentación",
+      "entradaLibro": "ct_infraestructura"
+    }
+  },
+  {
+    "id": "def-dl-tecnica",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_subordinaciones",
+    "ejemplo": "El equipo debe ejecutar las pruebas y publicar versiones según el proceso que indica el jefe.",
+    "titulo": "Subordinación técnica",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Subordinación técnica»?",
+    "respuestaCorrecta": "Aspecto de la dependencia referido a instrucciones sobre tareas y procedimientos de trabajo.",
+    "respuestasIncorrectas": [
+      "Aspecto de la dependencia referido al trabajo por cuenta ajena, sin asumir el riesgo empresarial.",
+      "Aspecto de la dependencia referido a la inserción en una organización que dirige y controla a quien trabaja."
+    ],
+    "pista": "Por ejemplo, Eva debe usar la secuencia de pasos que le indica su jefe para publicar una versión.",
+    "explicacion": "Subordinación técnica: Aspecto de la dependencia referido a instrucciones sobre tareas y procedimientos de trabajo. Ejemplo: El equipo debe ejecutar las pruebas y publicar versiones según el proceso que indica el jefe.",
+    "referencia": {
+      "tipo": "El vínculo de trabajo",
+      "titulo": "Dependencia y hechos reales",
+      "entradaLibro": "dl_dependencia"
+    }
+  },
+  {
+    "id": "def-dl-economica",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_subordinaciones",
+    "ejemplo": "Aunque la aplicación deje de venderse, el programador cobra su sueldo y no cubre las pérdidas.",
+    "titulo": "Subordinación económica",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Subordinación económica»?",
+    "respuestaCorrecta": "Aspecto de la dependencia referido al trabajo por cuenta ajena, sin asumir el riesgo empresarial.",
+    "respuestasIncorrectas": [
+      "Aspecto de la dependencia referido a instrucciones sobre tareas y procedimientos de trabajo.",
+      "Aspecto de la dependencia referido a la inserción en una organización que dirige y controla a quien trabaja."
+    ],
+    "pista": "Por ejemplo, las ventas caen, pero Leo cobra igual y no cubre las pérdidas del producto.",
+    "explicacion": "Subordinación económica: Aspecto de la dependencia referido al trabajo por cuenta ajena, sin asumir el riesgo empresarial. Ejemplo: Aunque la aplicación deje de venderse, el programador cobra su sueldo y no cubre las pérdidas.",
+    "referencia": {
+      "tipo": "El vínculo de trabajo",
+      "titulo": "Dependencia y hechos reales",
+      "entradaLibro": "dl_dependencia"
+    }
+  },
+  {
+    "id": "def-dl-juridica",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_subordinaciones",
+    "ejemplo": "La empleada tiene jefe, horario y autorización de vacaciones.",
+    "titulo": "Subordinación jurídica",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Subordinación jurídica»?",
+    "respuestaCorrecta": "Aspecto de la dependencia referido a la inserción en una organización que dirige y controla a quien trabaja.",
+    "respuestasIncorrectas": [
+      "Aspecto de la dependencia referido a instrucciones sobre tareas y procedimientos de trabajo.",
+      "Aspecto de la dependencia referido al trabajo por cuenta ajena, sin asumir el riesgo empresarial."
+    ],
+    "pista": "Por ejemplo, Nora debe pedir permiso para faltar y cumplir el horario que le fijan.",
+    "explicacion": "Subordinación jurídica: Aspecto de la dependencia referido a la inserción en una organización que dirige y controla a quien trabaja. Ejemplo: La empleada tiene jefe, horario y autorización de vacaciones.",
+    "referencia": {
+      "tipo": "El vínculo de trabajo",
+      "titulo": "Dependencia y hechos reales",
+      "entradaLibro": "dl_dependencia"
+    }
+  },
+  {
+    "id": "def-dl-realidad",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_principios",
+    "ejemplo": "Se examinan jefe, horarios y permisos aunque la trabajadora emita facturas.",
+    "titulo": "Primacía de la realidad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Primacía de la realidad»?",
+    "respuestaCorrecta": "Principio que hace prevalecer los hechos acreditados frente a una apariencia fraudulenta del vínculo.",
+    "respuestasIncorrectas": [
+      "Principio que impide eliminar mínimos de ley, estatutos o CCT mediante una renuncia individual.",
+      "Principio que favorece la conservación del vínculo y su duración indeterminada.",
+      "Principio que exige conducta leal de ambas partes al cumplir sus obligaciones laborales."
+    ],
+    "pista": "Por ejemplo, el papel dice consultora, pero Ana pide permiso para faltar y tiene jefe.",
+    "explicacion": "Primacía de la realidad: Principio que hace prevalecer los hechos acreditados frente a una apariencia fraudulenta del vínculo. Ejemplo: Se examinan jefe, horarios y permisos aunque la trabajadora emita facturas.",
+    "referencia": {
+      "tipo": "El vínculo de trabajo",
+      "titulo": "Dependencia y hechos reales",
+      "entradaLibro": "dl_dependencia"
+    }
+  },
+  {
+    "id": "def-dl-irrenunciabilidad",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_principios",
+    "ejemplo": "La firma de una aceptación no suprime el SAC obligatorio.",
+    "titulo": "Irrenunciabilidad laboral",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Irrenunciabilidad laboral»?",
+    "respuestaCorrecta": "Principio que impide eliminar mínimos de ley, estatutos o CCT mediante una renuncia individual.",
+    "respuestasIncorrectas": [
+      "Principio que hace prevalecer los hechos acreditados frente a una apariencia fraudulenta del vínculo.",
+      "Principio que favorece la conservación del vínculo y su duración indeterminada.",
+      "Principio que exige conducta leal de ambas partes al cumplir sus obligaciones laborales."
+    ],
+    "pista": "Por ejemplo, a Ana le proponen conservar su puesto si acepta dejar de cobrar aguinaldo.",
+    "explicacion": "Irrenunciabilidad laboral: Principio que impide eliminar mínimos de ley, estatutos o CCT mediante una renuncia individual. Ejemplo: La firma de una aceptación no suprime el SAC obligatorio.",
+    "referencia": {
+      "tipo": "Fuentes y protección",
+      "titulo": "Mínimos, convenios y obligaciones",
+      "entradaLibro": "dl_principios_cct"
+    }
+  },
+  {
+    "id": "def-dl-continuidad",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_principios",
+    "ejemplo": "Para una necesidad permanente, se parte de un empleo sin fecha final predeterminada.",
+    "titulo": "Continuidad laboral",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Continuidad laboral»?",
+    "respuestaCorrecta": "Principio que favorece la conservación del vínculo y su duración indeterminada.",
+    "respuestasIncorrectas": [
+      "Principio que hace prevalecer los hechos acreditados frente a una apariencia fraudulenta del vínculo.",
+      "Principio que impide eliminar mínimos de ley, estatutos o CCT mediante una renuncia individual.",
+      "Principio que exige conducta leal de ambas partes al cumplir sus obligaciones laborales."
+    ],
+    "pista": "Por ejemplo, la empresa necesita soporte estable, sin una fecha prevista de cierre de ese puesto.",
+    "explicacion": "Continuidad laboral: Principio que favorece la conservación del vínculo y su duración indeterminada. Ejemplo: Para una necesidad permanente, se parte de un empleo sin fecha final predeterminada.",
+    "referencia": {
+      "tipo": "Fuentes y protección",
+      "titulo": "Mínimos, convenios y obligaciones",
+      "entradaLibro": "dl_principios_cct"
+    }
+  },
+  {
+    "id": "def-dl-buena-fe",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_principios",
+    "ejemplo": "La confidencialidad de la base de clientes compromete deberes del trabajador.",
+    "titulo": "Buena fe laboral",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Buena fe laboral»?",
+    "respuestaCorrecta": "Principio que exige conducta leal de ambas partes al cumplir sus obligaciones laborales.",
+    "respuestasIncorrectas": [
+      "Principio que hace prevalecer los hechos acreditados frente a una apariencia fraudulenta del vínculo.",
+      "Principio que impide eliminar mínimos de ley, estatutos o CCT mediante una renuncia individual.",
+      "Principio que favorece la conservación del vínculo y su duración indeterminada."
+    ],
+    "pista": "Por ejemplo, un empleado recibe una propuesta para exportar la base de clientes a un competidor.",
+    "explicacion": "Buena fe laboral: Principio que exige conducta leal de ambas partes al cumplir sus obligaciones laborales. Ejemplo: La confidencialidad de la base de clientes compromete deberes del trabajador.",
+    "referencia": {
+      "tipo": "Fuentes y protección",
+      "titulo": "Mínimos, convenios y obligaciones",
+      "entradaLibro": "dl_principios_cct"
+    }
+  },
+  {
+    "id": "def-dl-indeterminado",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_modalidades",
+    "ejemplo": "Una desarrolladora se incorpora al mantenimiento estable del producto.",
+    "titulo": "Contrato por tiempo indeterminado",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Contrato por tiempo indeterminado»?",
+    "respuestaCorrecta": "Modalidad que constituye la regla para cubrir necesidades permanentes sin una fecha final prefijada.",
+    "respuestasIncorrectas": [
+      "Modalidad con duración escrita y justificación temporal, cuyo encadenamiento sin razón puede convertirla en indeterminada.",
+      "Modalidad destinada a atender una necesidad extraordinaria y transitoria, que no se acredita por su sola etiqueta.",
+      "Modalidad para una necesidad cíclica que se repite, con continuidad del vínculo y recesos entre ciclos."
+    ],
+    "pista": "Por ejemplo, Lucía se incorpora al equipo estable que mantiene el sistema de la empresa.",
+    "explicacion": "Contrato por tiempo indeterminado: Modalidad que constituye la regla para cubrir necesidades permanentes sin una fecha final prefijada. Ejemplo: Una desarrolladora se incorpora al mantenimiento estable del producto.",
+    "referencia": {
+      "tipo": "El vínculo de trabajo",
+      "titulo": "Contrato, modalidades y prueba inicial",
+      "entradaLibro": "dl_contrato_prueba"
+    }
+  },
+  {
+    "id": "def-dl-plazo-fijo",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_modalidades",
+    "ejemplo": "Se documenta un reemplazo mientras otra persona está de licencia.",
+    "titulo": "Contrato a plazo fijo",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Contrato a plazo fijo»?",
+    "respuestaCorrecta": "Modalidad con duración escrita y justificación temporal, cuyo encadenamiento sin razón puede convertirla en indeterminada.",
+    "respuestasIncorrectas": [
+      "Modalidad que constituye la regla para cubrir necesidades permanentes sin una fecha final prefijada.",
+      "Modalidad destinada a atender una necesidad extraordinaria y transitoria, que no se acredita por su sola etiqueta.",
+      "Modalidad para una necesidad cíclica que se repite, con continuidad del vínculo y recesos entre ciclos."
+    ],
+    "pista": "Por ejemplo, se firma el reemplazo de Marta mientras ella está de licencia, con inicio y fin.",
+    "explicacion": "Contrato a plazo fijo: Modalidad con duración escrita y justificación temporal, cuyo encadenamiento sin razón puede convertirla en indeterminada. Ejemplo: Se documenta un reemplazo mientras otra persona está de licencia.",
+    "referencia": {
+      "tipo": "El vínculo de trabajo",
+      "titulo": "Contrato, modalidades y prueba inicial",
+      "entradaLibro": "dl_contrato_prueba"
+    }
+  },
+  {
+    "id": "def-dl-eventual",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_modalidades",
+    "ejemplo": "Un refuerzo para un evento aislado que no forma parte de ciclos regulares.",
+    "titulo": "Trabajo eventual",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Trabajo eventual»?",
+    "respuestaCorrecta": "Modalidad destinada a atender una necesidad extraordinaria y transitoria, que no se acredita por su sola etiqueta.",
+    "respuestasIncorrectas": [
+      "Modalidad que constituye la regla para cubrir necesidades permanentes sin una fecha final prefijada.",
+      "Modalidad con duración escrita y justificación temporal, cuyo encadenamiento sin razón puede convertirla en indeterminada.",
+      "Modalidad para una necesidad cíclica que se repite, con continuidad del vínculo y recesos entre ciclos."
+    ],
+    "pista": "Por ejemplo, hace falta refuerzo para un evento aislado que no volverá como ciclo regular.",
+    "explicacion": "Trabajo eventual: Modalidad destinada a atender una necesidad extraordinaria y transitoria, que no se acredita por su sola etiqueta. Ejemplo: Un refuerzo para un evento aislado que no forma parte de ciclos regulares.",
+    "referencia": {
+      "tipo": "El vínculo de trabajo",
+      "titulo": "Contrato, modalidades y prueba inicial",
+      "entradaLibro": "dl_contrato_prueba"
+    }
+  },
+  {
+    "id": "def-dl-temporada",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_modalidades",
+    "ejemplo": "La misma actividad requiere personal cada año en un período recurrente.",
+    "titulo": "Trabajo de temporada",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Trabajo de temporada»?",
+    "respuestaCorrecta": "Modalidad para una necesidad cíclica que se repite, con continuidad del vínculo y recesos entre ciclos.",
+    "respuestasIncorrectas": [
+      "Modalidad que constituye la regla para cubrir necesidades permanentes sin una fecha final prefijada.",
+      "Modalidad con duración escrita y justificación temporal, cuyo encadenamiento sin razón puede convertirla en indeterminada.",
+      "Modalidad destinada a atender una necesidad extraordinaria y transitoria, que no se acredita por su sola etiqueta."
+    ],
+    "pista": "Por ejemplo, el mismo servicio vuelve cada verano y el personal retorna para esa etapa.",
+    "explicacion": "Trabajo de temporada: Modalidad para una necesidad cíclica que se repite, con continuidad del vínculo y recesos entre ciclos. Ejemplo: La misma actividad requiere personal cada año en un período recurrente.",
+    "referencia": {
+      "tipo": "El vínculo de trabajo",
+      "titulo": "Contrato, modalidades y prueba inicial",
+      "entradaLibro": "dl_contrato_prueba"
+    }
+  },
+  {
+    "id": "def-dl-remuneracion",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_conceptos_pago",
+    "ejemplo": "El recibo de una programadora incluye básico y un adicional salarial.",
+    "titulo": "Remuneración laboral",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Remuneración laboral»?",
+    "respuestaCorrecta": "Contraprestación por el trabajo que puede incluir básico, comisiones, premios, adicionales y horas extras según su naturaleza.",
+    "respuestasIncorrectas": [
+      "Pago en dos cuotas que, para un semestre completo, equivale en cada cuota al 50 % de la mayor remuneración mensual devengada del semestre.",
+      "Conjunto de salarios pendientes, SAC proporcional y compensación de vacaciones no gozadas que correspondan al terminar el vínculo.",
+      "Rubro del art. 245 que, fuera de prueba y bajo sus presupuestos, computa un mes de base por año de servicio o fracción mayor de tres meses, con mínimo de un mes.",
+      "Rubro que reemplaza el aviso anticipado omitido cuando correspondía darlo, distinto de cubrir los días restantes del mes de despido.",
+      "Rubro del art. 233 que cubre los días faltantes hasta fin de mes ante despido sin preaviso antes del último día, excluido durante prueba."
+    ],
+    "pista": "Por ejemplo, una desarrolladora cobra cada mes por mantener la aplicación de la empresa.",
+    "explicacion": "Remuneración laboral: Contraprestación por el trabajo que puede incluir básico, comisiones, premios, adicionales y horas extras según su naturaleza. Ejemplo: El recibo de una programadora incluye básico y un adicional salarial.",
+    "referencia": {
+      "tipo": "Ingresos",
+      "titulo": "Sueldo, recibo y aguinaldo",
+      "entradaLibro": "dl_remuneracion"
+    }
+  },
+  {
+    "id": "def-dl-sac",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_conceptos_pago",
+    "ejemplo": "Con un mejor mes de $2.000.000 y semestre completo, la cuota bruta es $1.000.000.",
+    "titulo": "Sueldo anual complementario (SAC)",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Sueldo anual complementario (SAC)»?",
+    "respuestaCorrecta": "Pago en dos cuotas que, para un semestre completo, equivale en cada cuota al 50 % de la mayor remuneración mensual devengada del semestre.",
+    "respuestasIncorrectas": [
+      "Contraprestación por el trabajo que puede incluir básico, comisiones, premios, adicionales y horas extras según su naturaleza.",
+      "Conjunto de salarios pendientes, SAC proporcional y compensación de vacaciones no gozadas que correspondan al terminar el vínculo.",
+      "Rubro del art. 245 que, fuera de prueba y bajo sus presupuestos, computa un mes de base por año de servicio o fracción mayor de tres meses, con mínimo de un mes.",
+      "Rubro que reemplaza el aviso anticipado omitido cuando correspondía darlo, distinto de cubrir los días restantes del mes de despido.",
+      "Rubro del art. 233 que cubre los días faltantes hasta fin de mes ante despido sin preaviso antes del último día, excluido durante prueba."
+    ],
+    "pista": "Por ejemplo, una trabajadora revisa el concepto que vence en junio y diciembre.",
+    "explicacion": "Sueldo anual complementario (SAC): Pago en dos cuotas que, para un semestre completo, equivale en cada cuota al 50 % de la mayor remuneración mensual devengada del semestre. Ejemplo: Con un mejor mes de $2.000.000 y semestre completo, la cuota bruta es $1.000.000.",
+    "referencia": {
+      "tipo": "Ingresos",
+      "titulo": "Sueldo, recibo y aguinaldo",
+      "entradaLibro": "dl_remuneracion"
+    }
+  },
+  {
+    "id": "def-dl-liquidacion",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_conceptos_pago",
+    "ejemplo": "Quien renuncia puede tener estos conceptos a cobrar sin indemnización por antigüedad.",
+    "titulo": "Liquidación final",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Liquidación final»?",
+    "respuestaCorrecta": "Conjunto de salarios pendientes, SAC proporcional y compensación de vacaciones no gozadas que correspondan al terminar el vínculo.",
+    "respuestasIncorrectas": [
+      "Contraprestación por el trabajo que puede incluir básico, comisiones, premios, adicionales y horas extras según su naturaleza.",
+      "Pago en dos cuotas que, para un semestre completo, equivale en cada cuota al 50 % de la mayor remuneración mensual devengada del semestre.",
+      "Rubro del art. 245 que, fuera de prueba y bajo sus presupuestos, computa un mes de base por año de servicio o fracción mayor de tres meses, con mínimo de un mes.",
+      "Rubro que reemplaza el aviso anticipado omitido cuando correspondía darlo, distinto de cubrir los días restantes del mes de despido.",
+      "Rubro del art. 233 que cubre los días faltantes hasta fin de mes ante despido sin preaviso antes del último día, excluido durante prueba."
+    ],
+    "pista": "Por ejemplo, Tomás renunció y todavía deben revisar qué quedó por cobrar de su empleo.",
+    "explicacion": "Liquidación final: Conjunto de salarios pendientes, SAC proporcional y compensación de vacaciones no gozadas que correspondan al terminar el vínculo. Ejemplo: Quien renuncia puede tener estos conceptos a cobrar sin indemnización por antigüedad.",
+    "referencia": {
+      "tipo": "Fin del vínculo",
+      "titulo": "Liquidación, preaviso y antigüedad",
+      "entradaLibro": "dl_indemnizaciones"
+    }
+  },
+  {
+    "id": "def-dl-antiguedad",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_conceptos_pago",
+    "ejemplo": "Tres años y cuatro meses con base ya determinada de $1.000.000 dan $4.000.000 solo por este rubro.",
+    "titulo": "Indemnización por antigüedad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Indemnización por antigüedad»?",
+    "respuestaCorrecta": "Rubro del art. 245 que, fuera de prueba y bajo sus presupuestos, computa un mes de base por año de servicio o fracción mayor de tres meses, con mínimo de un mes.",
+    "respuestasIncorrectas": [
+      "Contraprestación por el trabajo que puede incluir básico, comisiones, premios, adicionales y horas extras según su naturaleza.",
+      "Pago en dos cuotas que, para un semestre completo, equivale en cada cuota al 50 % de la mayor remuneración mensual devengada del semestre.",
+      "Conjunto de salarios pendientes, SAC proporcional y compensación de vacaciones no gozadas que correspondan al terminar el vínculo.",
+      "Rubro que reemplaza el aviso anticipado omitido cuando correspondía darlo, distinto de cubrir los días restantes del mes de despido.",
+      "Rubro del art. 233 que cubre los días faltantes hasta fin de mes ante despido sin preaviso antes del último día, excluido durante prueba."
+    ],
+    "pista": "Por ejemplo, un cálculo aislado compara a dos despedidos que cobraban igual y comenzaron en fechas distintas.",
+    "explicacion": "Indemnización por antigüedad: Rubro del art. 245 que, fuera de prueba y bajo sus presupuestos, computa un mes de base por año de servicio o fracción mayor de tres meses, con mínimo de un mes. Ejemplo: Tres años y cuatro meses con base ya determinada de $1.000.000 dan $4.000.000 solo por este rubro.",
+    "referencia": {
+      "tipo": "Fin del vínculo",
+      "titulo": "Liquidación, preaviso y antigüedad",
+      "entradaLibro": "dl_indemnizaciones"
+    }
+  },
+  {
+    "id": "def-dl-sustitutiva",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_conceptos_pago",
+    "ejemplo": "Fuera de prueba, se revisa el plazo de aviso patronal de uno o dos meses según antigüedad.",
+    "titulo": "Indemnización sustitutiva de preaviso",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Indemnización sustitutiva de preaviso»?",
+    "respuestaCorrecta": "Rubro que reemplaza el aviso anticipado omitido cuando correspondía darlo, distinto de cubrir los días restantes del mes de despido.",
+    "respuestasIncorrectas": [
+      "Contraprestación por el trabajo que puede incluir básico, comisiones, premios, adicionales y horas extras según su naturaleza.",
+      "Pago en dos cuotas que, para un semestre completo, equivale en cada cuota al 50 % de la mayor remuneración mensual devengada del semestre.",
+      "Conjunto de salarios pendientes, SAC proporcional y compensación de vacaciones no gozadas que correspondan al terminar el vínculo.",
+      "Rubro del art. 245 que, fuera de prueba y bajo sus presupuestos, computa un mes de base por año de servicio o fracción mayor de tres meses, con mínimo de un mes.",
+      "Rubro del art. 233 que cubre los días faltantes hasta fin de mes ante despido sin preaviso antes del último día, excluido durante prueba."
+    ],
+    "pista": "Por ejemplo, una persona debía conocer con antelación la decisión empresarial y se enteró al salir.",
+    "explicacion": "Indemnización sustitutiva de preaviso: Rubro que reemplaza el aviso anticipado omitido cuando correspondía darlo, distinto de cubrir los días restantes del mes de despido. Ejemplo: Fuera de prueba, se revisa el plazo de aviso patronal de uno o dos meses según antigüedad.",
+    "referencia": {
+      "tipo": "Fin del vínculo",
+      "titulo": "Liquidación, preaviso y antigüedad",
+      "entradaLibro": "dl_indemnizaciones"
+    }
+  },
+  {
+    "id": "def-dl-integracion",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_conceptos_pago",
+    "ejemplo": "Un cese sin aviso fuera de prueba ocurre antes del cierre mensual y se revisa el tiempo restante hasta ese cierre.",
+    "titulo": "Integración del mes de despido",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Integración del mes de despido»?",
+    "respuestaCorrecta": "Rubro del art. 233 que cubre los días faltantes hasta fin de mes ante despido sin preaviso antes del último día, excluido durante prueba.",
+    "respuestasIncorrectas": [
+      "Contraprestación por el trabajo que puede incluir básico, comisiones, premios, adicionales y horas extras según su naturaleza.",
+      "Pago en dos cuotas que, para un semestre completo, equivale en cada cuota al 50 % de la mayor remuneración mensual devengada del semestre.",
+      "Conjunto de salarios pendientes, SAC proporcional y compensación de vacaciones no gozadas que correspondan al terminar el vínculo.",
+      "Rubro del art. 245 que, fuera de prueba y bajo sus presupuestos, computa un mes de base por año de servicio o fracción mayor de tres meses, con mínimo de un mes.",
+      "Rubro que reemplaza el aviso anticipado omitido cuando correspondía darlo, distinto de cubrir los días restantes del mes de despido."
+    ],
+    "pista": "Por ejemplo, el calendario muestra un cese inmediato el día 12 y todavía queda parte de ese mes.",
+    "explicacion": "Integración del mes de despido: Rubro del art. 233 que cubre los días faltantes hasta fin de mes ante despido sin preaviso antes del último día, excluido durante prueba. Ejemplo: Un cese sin aviso fuera de prueba ocurre antes del cierre mensual y se revisa el tiempo restante hasta ese cierre.",
+    "referencia": {
+      "tipo": "Fin del vínculo",
+      "titulo": "Liquidación, preaviso y antigüedad",
+      "entradaLibro": "dl_indemnizaciones"
+    }
+  },
+  {
+    "id": "def-dl-accidente",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_contingencias",
+    "ejemplo": "Una lesión mientras se ejecuta una tarea asignada en el establecimiento.",
+    "titulo": "Accidente laboral",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Accidente laboral»?",
+    "respuestaCorrecta": "Hecho lesivo ocurrido por el hecho o en ocasión del trabajo.",
+    "respuestasIncorrectas": [
+      "Hecho lesivo ocurrido en el trayecto protegido entre domicilio y trabajo.",
+      "Dolencia cuya vinculación laboral debe establecerse en los términos del sistema de riesgos del trabajo."
+    ],
+    "pista": "Por ejemplo, una técnica se lesiona al instalar el equipo que le encargó su jefe.",
+    "explicacion": "Accidente laboral: Hecho lesivo ocurrido por el hecho o en ocasión del trabajo. Ejemplo: Una lesión mientras se ejecuta una tarea asignada en el establecimiento.",
+    "referencia": {
+      "tipo": "Salud y seguridad",
+      "titulo": "ART, prevención y trayecto",
+      "entradaLibro": "dl_riesgos"
+    }
+  },
+  {
+    "id": "def-dl-itinere",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_contingencias",
+    "ejemplo": "Una trabajadora sufre un accidente en su recorrido protegido de casa al empleo.",
+    "titulo": "Accidente in itinere",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Accidente in itinere»?",
+    "respuestaCorrecta": "Hecho lesivo ocurrido en el trayecto protegido entre domicilio y trabajo.",
+    "respuestasIncorrectas": [
+      "Hecho lesivo ocurrido por el hecho o en ocasión del trabajo.",
+      "Dolencia cuya vinculación laboral debe establecerse en los términos del sistema de riesgos del trabajo."
+    ],
+    "pista": "Por ejemplo, Lucía sale de casa hacia la oficina y se lesiona en ese recorrido cubierto.",
+    "explicacion": "Accidente in itinere: Hecho lesivo ocurrido en el trayecto protegido entre domicilio y trabajo. Ejemplo: Una trabajadora sufre un accidente en su recorrido protegido de casa al empleo.",
+    "referencia": {
+      "tipo": "Salud y seguridad",
+      "titulo": "ART, prevención y trayecto",
+      "entradaLibro": "dl_riesgos"
+    }
+  },
+  {
+    "id": "def-dl-profesional",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_contingencias",
+    "ejemplo": "El uso de computadora y un diagnóstico no bastan por sí solos para reconocer la contingencia.",
+    "titulo": "Enfermedad profesional",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Enfermedad profesional»?",
+    "respuestaCorrecta": "Dolencia cuya vinculación laboral debe establecerse en los términos del sistema de riesgos del trabajo.",
+    "respuestasIncorrectas": [
+      "Hecho lesivo ocurrido por el hecho o en ocasión del trabajo.",
+      "Hecho lesivo ocurrido en el trayecto protegido entre domicilio y trabajo."
+    ],
+    "pista": "Por ejemplo, una programadora tiene un diagnóstico y se investiga si corresponde a la cobertura de ART.",
+    "explicacion": "Enfermedad profesional: Dolencia cuya vinculación laboral debe establecerse en los términos del sistema de riesgos del trabajo. Ejemplo: El uso de computadora y un diagnóstico no bastan por sí solos para reconocer la contingencia.",
+    "referencia": {
+      "tipo": "Salud y seguridad",
+      "titulo": "ART, prevención y trayecto",
+      "entradaLibro": "dl_riesgos"
+    }
+  },
+  {
+    "id": "def-dl-conciliacion",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_tutela_reclamo",
+    "ejemplo": "En el ámbito del SECLO, se intenta resolver el conflicto antes de continuar la vía correspondiente.",
+    "titulo": "Conciliación individual laboral",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Conciliación individual laboral»?",
+    "respuestaCorrecta": "Instancia que procura un acuerdo entre las partes de un reclamo individual, sin obligar a aceptar la oferta recibida.",
+    "respuestasIncorrectas": [
+      "Aprobación que requiere el acuerdo conciliatorio tras el control correspondiente, distinta de la mera presentación de una oferta.",
+      "Protección provisional del reclamo que exige acreditar sus requisitos y no equivale a una decisión definitiva."
+    ],
+    "pista": "Por ejemplo, en una audiencia se conversa sobre una propuesta de pago y la trabajadora puede rechazarla.",
+    "explicacion": "Conciliación individual laboral: Instancia que procura un acuerdo entre las partes de un reclamo individual, sin obligar a aceptar la oferta recibida. Ejemplo: En el ámbito del SECLO, se intenta resolver el conflicto antes de continuar la vía correspondiente.",
+    "referencia": {
+      "tipo": "Reclamar y demostrar",
+      "titulo": "SECLO, jurisdicción y prueba",
+      "entradaLibro": "dl_reclamos_prueba"
+    }
+  },
+  {
+    "id": "def-dl-homologacion",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_tutela_reclamo",
+    "ejemplo": "Las partes alcanzan un acuerdo en SECLO y debe someterse a control y homologación.",
+    "titulo": "Homologación del acuerdo laboral",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Homologación del acuerdo laboral»?",
+    "respuestaCorrecta": "Aprobación que requiere el acuerdo conciliatorio tras el control correspondiente, distinta de la mera presentación de una oferta.",
+    "respuestasIncorrectas": [
+      "Instancia que procura un acuerdo entre las partes de un reclamo individual, sin obligar a aceptar la oferta recibida.",
+      "Protección provisional del reclamo que exige acreditar sus requisitos y no equivale a una decisión definitiva."
+    ],
+    "pista": "Por ejemplo, después de pactar una suma en audiencia falta la intervención exigida para validar lo firmado.",
+    "explicacion": "Homologación del acuerdo laboral: Aprobación que requiere el acuerdo conciliatorio tras el control correspondiente, distinta de la mera presentación de una oferta. Ejemplo: Las partes alcanzan un acuerdo en SECLO y debe someterse a control y homologación.",
+    "referencia": {
+      "tipo": "Reclamar y demostrar",
+      "titulo": "SECLO, jurisdicción y prueba",
+      "entradaLibro": "dl_reclamos_prueba"
+    }
+  },
+  {
+    "id": "def-dl-cautelar",
+    "unidad": "derecho_laboral",
+    "tipo": "definicion",
+    "grupo": "dl_tutela_reclamo",
+    "ejemplo": "Se solicita retener judicialmente bienes para resguardar el eventual cobro si se acreditan los presupuestos.",
+    "titulo": "Medida cautelar laboral",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Medida cautelar laboral»?",
+    "respuestaCorrecta": "Protección provisional del reclamo que exige acreditar sus requisitos y no equivale a una decisión definitiva.",
+    "respuestasIncorrectas": [
+      "Instancia que procura un acuerdo entre las partes de un reclamo individual, sin obligar a aceptar la oferta recibida.",
+      "Aprobación que requiere el acuerdo conciliatorio tras el control correspondiente, distinta de la mera presentación de una oferta."
+    ],
+    "pista": "Por ejemplo, mientras sigue el juicio se pide reservar bienes para evitar que se frustre el cobro.",
+    "explicacion": "Medida cautelar laboral: Protección provisional del reclamo que exige acreditar sus requisitos y no equivale a una decisión definitiva. Ejemplo: Se solicita retener judicialmente bienes para resguardar el eventual cobro si se acreditan los presupuestos.",
+    "referencia": {
+      "tipo": "Reclamar y demostrar",
+      "titulo": "SECLO, jurisdicción y prueba",
+      "entradaLibro": "dl_reclamos_prueba"
+    }
+  },
+  {
+    "id": "def-ep-titulo",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_habilitacion",
+    "ejemplo": "Una egresada acredita su formación con el diploma de Ingeniería en Informática.",
+    "titulo": "Título universitario",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Título universitario»?",
+    "respuestaCorrecta": "Acreditación de formación y de una denominación profesional otorgada por una universidad.",
+    "respuestasIncorrectas": [
+      "Funciones correspondientes a un título, que una matrícula no amplía por sí sola.",
+      "Inscripción ante la institución competente para ejercer las actividades reguladas en su ámbito.",
+      "Pertenencia a una institución profesional con funciones públicas delegadas de registro, control y disciplina.",
+      "Ámbito que determina el régimen territorial y la autoridad aplicables a una actuación."
+    ],
+    "pista": "En una entrevista, Lara muestra el diploma que recibió al graduarse.",
+    "explicacion": "Título universitario: Acreditación de formación y de una denominación profesional otorgada por una universidad. Ejemplo: Una egresada acredita su formación con el diploma de Ingeniería en Informática.",
+    "referencia": {
+      "tipo": "Habilitación",
+      "titulo": "Título, alcances, matrícula y territorio",
+      "entradaLibro": "ep_habilitacion"
+    }
+  },
+  {
+    "id": "def-ep-alcances",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_habilitacion",
+    "ejemplo": "Antes de aceptar un informe, una ingeniera revisa qué actuaciones comprende su carrera.",
+    "titulo": "Alcances del título",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Alcances del título»?",
+    "respuestaCorrecta": "Funciones correspondientes a un título, que una matrícula no amplía por sí sola.",
+    "respuestasIncorrectas": [
+      "Acreditación de formación y de una denominación profesional otorgada por una universidad.",
+      "Inscripción ante la institución competente para ejercer las actividades reguladas en su ámbito.",
+      "Pertenencia a una institución profesional con funciones públicas delegadas de registro, control y disciplina.",
+      "Ámbito que determina el régimen territorial y la autoridad aplicables a una actuación."
+    ],
+    "pista": "Antes de aceptar una pericia, Diego consulta qué tareas reconoce su carrera.",
+    "explicacion": "Alcances del título: Funciones correspondientes a un título, que una matrícula no amplía por sí sola. Ejemplo: Antes de aceptar un informe, una ingeniera revisa qué actuaciones comprende su carrera.",
+    "referencia": {
+      "tipo": "Habilitación",
+      "titulo": "Título, alcances, matrícula y territorio",
+      "entradaLibro": "ep_habilitacion"
+    }
+  },
+  {
+    "id": "def-ep-matricula",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_habilitacion",
+    "ejemplo": "Una profesional tramita el registro requerido para el acto que realizará.",
+    "titulo": "Matrícula profesional",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Matrícula profesional»?",
+    "respuestaCorrecta": "Inscripción ante la institución competente para ejercer las actividades reguladas en su ámbito.",
+    "respuestasIncorrectas": [
+      "Acreditación de formación y de una denominación profesional otorgada por una universidad.",
+      "Funciones correspondientes a un título, que una matrícula no amplía por sí sola.",
+      "Pertenencia a una institución profesional con funciones públicas delegadas de registro, control y disciplina.",
+      "Ámbito que determina el régimen territorial y la autoridad aplicables a una actuación."
+    ],
+    "pista": "Sofía presenta diploma y plan de estudios para recibir un número del consejo.",
+    "explicacion": "Matrícula profesional: Inscripción ante la institución competente para ejercer las actividades reguladas en su ámbito. Ejemplo: Una profesional tramita el registro requerido para el acto que realizará.",
+    "referencia": {
+      "tipo": "Habilitación",
+      "titulo": "Título, alcances, matrícula y territorio",
+      "entradaLibro": "ep_habilitacion"
+    }
+  },
+  {
+    "id": "def-ep-colegiatura",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_habilitacion",
+    "ejemplo": "Un integrante del colegio está sujeto a su función disciplinaria y de control profesional.",
+    "titulo": "Colegiatura",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Colegiatura»?",
+    "respuestaCorrecta": "Pertenencia a una institución profesional con funciones públicas delegadas de registro, control y disciplina.",
+    "respuestasIncorrectas": [
+      "Acreditación de formación y de una denominación profesional otorgada por una universidad.",
+      "Funciones correspondientes a un título, que una matrícula no amplía por sí sola.",
+      "Inscripción ante la institución competente para ejercer las actividades reguladas en su ámbito.",
+      "Ámbito que determina el régimen territorial y la autoridad aplicables a una actuación."
+    ],
+    "pista": "Mario integra un colegio que administra su legajo y evalúa faltas de sus miembros.",
+    "explicacion": "Colegiatura: Pertenencia a una institución profesional con funciones públicas delegadas de registro, control y disciplina. Ejemplo: Un integrante del colegio está sujeto a su función disciplinaria y de control profesional.",
+    "referencia": {
+      "tipo": "Habilitación",
+      "titulo": "Título, alcances, matrícula y territorio",
+      "entradaLibro": "ep_habilitacion"
+    }
+  },
+  {
+    "id": "def-ep-jurisdiccion",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_habilitacion",
+    "ejemplo": "Presentar un trabajo ante una autoridad nacional requiere revisar ese encuadre, además del título.",
+    "titulo": "Jurisdicción del acto",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Jurisdicción del acto»?",
+    "respuestaCorrecta": "Ámbito que determina el régimen territorial y la autoridad aplicables a una actuación.",
+    "respuestasIncorrectas": [
+      "Acreditación de formación y de una denominación profesional otorgada por una universidad.",
+      "Funciones correspondientes a un título, que una matrícula no amplía por sí sola.",
+      "Inscripción ante la institución competente para ejercer las actividades reguladas en su ámbito.",
+      "Pertenencia a una institución profesional con funciones públicas delegadas de registro, control y disciplina."
+    ],
+    "pista": "El mismo informe se presenta primero en PBA y luego ante un tribunal nacional.",
+    "explicacion": "Jurisdicción del acto: Ámbito que determina el régimen territorial y la autoridad aplicables a una actuación. Ejemplo: Presentar un trabajo ante una autoridad nacional requiere revisar ese encuadre, además del título.",
+    "referencia": {
+      "tipo": "Habilitación",
+      "titulo": "Título, alcances, matrícula y territorio",
+      "entradaLibro": "ep_habilitacion"
+    }
+  },
+  {
+    "id": "def-ep-asociacion",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_representacion",
+    "ejemplo": "El CPCI de CABA aparece en el material con esta naturaleza.",
+    "titulo": "Asociación civil profesional",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Asociación civil profesional»?",
+    "respuestaCorrecta": "Entidad voluntaria que ofrece comunidad, capacitación y representación institucional sin sustituir una matrícula legal.",
+    "respuestasIncorrectas": [
+      "Organización de representación de intereses laborales, cuya afiliación no habilita la firma profesional.",
+      "Organización de representación de intereses de empresas, cuya pertenencia no otorga habilitación profesional."
+    ],
+    "pista": "Paula se suma al CPCI de CABA para asistir a charlas con colegas.",
+    "explicacion": "Asociación civil profesional: Entidad voluntaria que ofrece comunidad, capacitación y representación institucional sin sustituir una matrícula legal. Ejemplo: El CPCI de CABA aparece en el material con esta naturaleza.",
+    "referencia": {
+      "tipo": "Habilitación",
+      "titulo": "Consejos, asociaciones y representación",
+      "entradaLibro": "ep_instituciones"
+    }
+  },
+  {
+    "id": "def-ep-sindicato",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_representacion",
+    "ejemplo": "El material menciona AGC, Unión Informática y CePETel como ejemplos.",
+    "titulo": "Sindicato",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Sindicato»?",
+    "respuestaCorrecta": "Organización de representación de intereses laborales, cuya afiliación no habilita la firma profesional.",
+    "respuestasIncorrectas": [
+      "Entidad voluntaria que ofrece comunidad, capacitación y representación institucional sin sustituir una matrícula legal.",
+      "Organización de representación de intereses de empresas, cuya pertenencia no otorga habilitación profesional."
+    ],
+    "pista": "Empleados consultan a Unión Informática por un conflicto salarial.",
+    "explicacion": "Sindicato: Organización de representación de intereses laborales, cuya afiliación no habilita la firma profesional. Ejemplo: El material menciona AGC, Unión Informática y CePETel como ejemplos.",
+    "referencia": {
+      "tipo": "Habilitación",
+      "titulo": "Consejos, asociaciones y representación",
+      "entradaLibro": "ep_instituciones"
+    }
+  },
+  {
+    "id": "def-ep-camara",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_representacion",
+    "ejemplo": "CESSI es el ejemplo del material para esta clase de entidad.",
+    "titulo": "Cámara empresaria",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Cámara empresaria»?",
+    "respuestaCorrecta": "Organización de representación de intereses de empresas, cuya pertenencia no otorga habilitación profesional.",
+    "respuestasIncorrectas": [
+      "Entidad voluntaria que ofrece comunidad, capacitación y representación institucional sin sustituir una matrícula legal.",
+      "Organización de representación de intereses laborales, cuya afiliación no habilita la firma profesional."
+    ],
+    "pista": "Varias compañías del sector participan en una reunión de CESSI.",
+    "explicacion": "Cámara empresaria: Organización de representación de intereses de empresas, cuya pertenencia no otorga habilitación profesional. Ejemplo: CESSI es el ejemplo del material para esta clase de entidad.",
+    "referencia": {
+      "tipo": "Habilitación",
+      "titulo": "Consejos, asociaciones y representación",
+      "entradaLibro": "ep_instituciones"
+    }
+  },
+  {
+    "id": "def-ep-firma",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_deberes_eticos",
+    "ejemplo": "La ingeniera revisa el contenido técnico antes de asumir la firma de un informe ajeno.",
+    "titulo": "Firma responsable",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Firma responsable»?",
+    "respuestaCorrecta": "Deber de suscribir documentación únicamente si fue estudiada, ejecutada o controlada personalmente.",
+    "respuestasIncorrectas": [
+      "Deber de guardar reserva sobre lo conocido en el trabajo, salvo obligación legal de revelarlo.",
+      "Situación en la que beneficios o roles pueden comprometer la independencia de la actuación profesional."
+    ],
+    "pista": "Un cliente pide poner una rúbrica sobre un proyecto que acaba de enviar por correo.",
+    "explicacion": "Firma responsable: Deber de suscribir documentación únicamente si fue estudiada, ejecutada o controlada personalmente. Ejemplo: La ingeniera revisa el contenido técnico antes de asumir la firma de un informe ajeno.",
+    "referencia": {
+      "tipo": "Ética",
+      "titulo": "Firma, independencia, reserva y colegas",
+      "entradaLibro": "ep_etica"
+    }
+  },
+  {
+    "id": "def-ep-reserva",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_deberes_eticos",
+    "ejemplo": "Una consultora no publica detalles reservados de un cliente para atraer nuevas contrataciones.",
+    "titulo": "Secreto profesional",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Secreto profesional»?",
+    "respuestaCorrecta": "Deber de guardar reserva sobre lo conocido en el trabajo, salvo obligación legal de revelarlo.",
+    "respuestasIncorrectas": [
+      "Deber de suscribir documentación únicamente si fue estudiada, ejecutada o controlada personalmente.",
+      "Situación en la que beneficios o roles pueden comprometer la independencia de la actuación profesional."
+    ],
+    "pista": "Para conseguir clientes, Julia piensa mostrar capturas internas de su último proyecto.",
+    "explicacion": "Secreto profesional: Deber de guardar reserva sobre lo conocido en el trabajo, salvo obligación legal de revelarlo. Ejemplo: Una consultora no publica detalles reservados de un cliente para atraer nuevas contrataciones.",
+    "referencia": {
+      "tipo": "Ética",
+      "titulo": "Firma, independencia, reserva y colegas",
+      "entradaLibro": "ep_etica"
+    }
+  },
+  {
+    "id": "def-ep-conflicto",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_deberes_eticos",
+    "ejemplo": "Un proveedor ofrece dinero personal al asesor que elegirá los equipos del cliente.",
+    "titulo": "Conflicto de intereses",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Conflicto de intereses»?",
+    "respuestaCorrecta": "Situación en la que beneficios o roles pueden comprometer la independencia de la actuación profesional.",
+    "respuestasIncorrectas": [
+      "Deber de suscribir documentación únicamente si fue estudiada, ejecutada o controlada personalmente.",
+      "Deber de guardar reserva sobre lo conocido en el trabajo, salvo obligación legal de revelarlo."
+    ],
+    "pista": "Quien asesora al cliente recibe del vendedor una oferta de comisión.",
+    "explicacion": "Conflicto de intereses: Situación en la que beneficios o roles pueden comprometer la independencia de la actuación profesional. Ejemplo: Un proveedor ofrece dinero personal al asesor que elegirá los equipos del cliente.",
+    "referencia": {
+      "tipo": "Ética",
+      "titulo": "Firma, independencia, reserva y colegas",
+      "entradaLibro": "ep_etica"
+    }
+  },
+  {
+    "id": "def-ep-confidencialidad",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_objetivos_cid",
+    "ejemplo": "Una nómina salarial solo puede ser leída por quienes tienen permiso.",
+    "titulo": "Confidencialidad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Confidencialidad»?",
+    "respuestaCorrecta": "Objetivo que limita el acceso a información a las personas autorizadas.",
+    "respuestasIncorrectas": [
+      "Objetivo que protege información completa, exacta y sin alteraciones no autorizadas.",
+      "Objetivo que permite acceder a información y sistemas cuando se necesitan."
+    ],
+    "pista": "Un curioso mira sueldos ajenos; el archivo queda intacto y utilizable.",
+    "explicacion": "Confidencialidad: Objetivo que limita el acceso a información a las personas autorizadas. Ejemplo: Una nómina salarial solo puede ser leída por quienes tienen permiso.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Información, tríada CID y riesgo",
+      "entradaLibro": "ep_riesgo_cid"
+    }
+  },
+  {
+    "id": "def-ep-integridad",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_objetivos_cid",
+    "ejemplo": "Se evita que alguien cambie el importe de una factura sin permiso.",
+    "titulo": "Integridad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Integridad»?",
+    "respuestaCorrecta": "Objetivo que protege información completa, exacta y sin alteraciones no autorizadas.",
+    "respuestasIncorrectas": [
+      "Objetivo que limita el acceso a información a las personas autorizadas.",
+      "Objetivo que permite acceder a información y sistemas cuando se necesitan."
+    ],
+    "pista": "El saldo era 500 y ahora figura 900, aunque la cuenta abre normalmente.",
+    "explicacion": "Integridad: Objetivo que protege información completa, exacta y sin alteraciones no autorizadas. Ejemplo: Se evita que alguien cambie el importe de una factura sin permiso.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Información, tríada CID y riesgo",
+      "entradaLibro": "ep_riesgo_cid"
+    }
+  },
+  {
+    "id": "def-ep-disponibilidad",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_objetivos_cid",
+    "ejemplo": "El portal responde al pedir un turno durante el horario de atención.",
+    "titulo": "Disponibilidad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Disponibilidad»?",
+    "respuestaCorrecta": "Objetivo que permite acceder a información y sistemas cuando se necesitan.",
+    "respuestasIncorrectas": [
+      "Objetivo que limita el acceso a información a las personas autorizadas.",
+      "Objetivo que protege información completa, exacta y sin alteraciones no autorizadas."
+    ],
+    "pista": "La guardia intenta abrir la historia clínica y el servidor no responde.",
+    "explicacion": "Disponibilidad: Objetivo que permite acceder a información y sistemas cuando se necesitan. Ejemplo: El portal responde al pedir un turno durante el horario de atención.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Información, tríada CID y riesgo",
+      "entradaLibro": "ep_riesgo_cid"
+    }
+  },
+  {
+    "id": "def-ep-amenaza",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_analisis_riesgo",
+    "ejemplo": "Un atacante podría intentar interrumpir el servicio del comercio.",
+    "titulo": "Amenaza",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Amenaza»?",
+    "respuestaCorrecta": "Evento potencialmente perjudicial para los activos, de origen interno o externo.",
+    "respuestasIncorrectas": [
+      "Debilidad explotable de un activo, cuyo hallazgo no prueba que haya ocurrido un incidente.",
+      "Combinación de posibilidad de ocurrencia e impacto sobre los activos."
+    ],
+    "pista": "La clínica contempla que un intruso intente cifrar sus archivos durante el fin de semana.",
+    "explicacion": "Amenaza: Evento potencialmente perjudicial para los activos, de origen interno o externo. Ejemplo: Un atacante podría intentar interrumpir el servicio del comercio.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Información, tríada CID y riesgo",
+      "entradaLibro": "ep_riesgo_cid"
+    }
+  },
+  {
+    "id": "def-ep-vulnerabilidad",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_analisis_riesgo",
+    "ejemplo": "Un servidor mantiene una configuración insegura que permitiría un acceso indebido.",
+    "titulo": "Vulnerabilidad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Vulnerabilidad»?",
+    "respuestaCorrecta": "Debilidad explotable de un activo, cuyo hallazgo no prueba que haya ocurrido un incidente.",
+    "respuestasIncorrectas": [
+      "Evento potencialmente perjudicial para los activos, de origen interno o externo.",
+      "Combinación de posibilidad de ocurrencia e impacto sobre los activos."
+    ],
+    "pista": "Una auditoría encuentra el panel de administración con la clave de fábrica.",
+    "explicacion": "Vulnerabilidad: Debilidad explotable de un activo, cuyo hallazgo no prueba que haya ocurrido un incidente. Ejemplo: Un servidor mantiene una configuración insegura que permitiría un acceso indebido.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Información, tríada CID y riesgo",
+      "entradaLibro": "ep_riesgo_cid"
+    }
+  },
+  {
+    "id": "def-ep-riesgo",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_analisis_riesgo",
+    "ejemplo": "Se prioriza un sistema clínico considerando cuán probable sería su caída y qué consecuencias tendría.",
+    "titulo": "Riesgo de seguridad",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Riesgo de seguridad»?",
+    "respuestaCorrecta": "Combinación de posibilidad de ocurrencia e impacto sobre los activos.",
+    "respuestasIncorrectas": [
+      "Evento potencialmente perjudicial para los activos, de origen interno o externo.",
+      "Debilidad explotable de un activo, cuyo hallazgo no prueba que haya ocurrido un incidente."
+    ],
+    "pista": "La dirección compara cuán factible es una caída y cuánto costaría detener las ventas.",
+    "explicacion": "Riesgo de seguridad: Combinación de posibilidad de ocurrencia e impacto sobre los activos. Ejemplo: Se prioriza un sistema clínico considerando cuán probable sería su caída y qué consecuencias tendría.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Información, tríada CID y riesgo",
+      "entradaLibro": "ep_riesgo_cid"
+    }
+  },
+  {
+    "id": "def-ep-bcp",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_continuidad_recuperacion",
+    "ejemplo": "El comercio mantiene atención manual y define responsables alternativos mientras el sistema está caído.",
+    "titulo": "BCP",
+    "situacion": "",
+    "pregunta": "¿Qué significa «BCP»?",
+    "respuestaCorrecta": "Plan que sostiene el funcionamiento organizacional ante crisis, incluyendo personas, procedimientos y recursos.",
+    "respuestasIncorrectas": [
+      "Plan centrado en la recuperación tecnológica de sistemas, datos y servicios tras una interrupción.",
+      "Tiempo objetivo para recuperar un servicio, que limita la duración tolerada de su interrupción.",
+      "Punto temporal al que deben recuperarse los datos, que expresa la pérdida de información tolerada."
+    ],
+    "pista": "La farmacia atiende con talonarios en otra sede mientras el servidor sigue apagado.",
+    "explicacion": "BCP: Plan que sostiene el funcionamiento organizacional ante crisis, incluyendo personas, procedimientos y recursos. Ejemplo: El comercio mantiene atención manual y define responsables alternativos mientras el sistema está caído.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Continuidad, recuperación, RTO y RPO",
+      "entradaLibro": "ep_continuidad"
+    }
+  },
+  {
+    "id": "def-ep-drp",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_continuidad_recuperacion",
+    "ejemplo": "El equipo sigue pasos para restaurar servidores y bases desde copias verificadas.",
+    "titulo": "DRP",
+    "situacion": "",
+    "pregunta": "¿Qué significa «DRP»?",
+    "respuestaCorrecta": "Plan centrado en la recuperación tecnológica de sistemas, datos y servicios tras una interrupción.",
+    "respuestasIncorrectas": [
+      "Plan que sostiene el funcionamiento organizacional ante crisis, incluyendo personas, procedimientos y recursos.",
+      "Tiempo objetivo para recuperar un servicio, que limita la duración tolerada de su interrupción.",
+      "Punto temporal al que deben recuperarse los datos, que expresa la pérdida de información tolerada."
+    ],
+    "pista": "El técnico sigue una secuencia de encendido y carga una copia en el servidor alternativo.",
+    "explicacion": "DRP: Plan centrado en la recuperación tecnológica de sistemas, datos y servicios tras una interrupción. Ejemplo: El equipo sigue pasos para restaurar servidores y bases desde copias verificadas.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Continuidad, recuperación, RTO y RPO",
+      "entradaLibro": "ep_continuidad"
+    }
+  },
+  {
+    "id": "def-ep-rto",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_continuidad_recuperacion",
+    "ejemplo": "El portal debe estar operativo de nuevo en no más de dos horas.",
+    "titulo": "RTO",
+    "situacion": "",
+    "pregunta": "¿Qué significa «RTO»?",
+    "respuestaCorrecta": "Tiempo objetivo para recuperar un servicio, que limita la duración tolerada de su interrupción.",
+    "respuestasIncorrectas": [
+      "Plan que sostiene el funcionamiento organizacional ante crisis, incluyendo personas, procedimientos y recursos.",
+      "Plan centrado en la recuperación tecnológica de sistemas, datos y servicios tras una interrupción.",
+      "Punto temporal al que deben recuperarse los datos, que expresa la pérdida de información tolerada."
+    ],
+    "pista": "La tienda debe volver a vender a las 14:00 tras la caída de las 12:00.",
+    "explicacion": "RTO: Tiempo objetivo para recuperar un servicio, que limita la duración tolerada de su interrupción. Ejemplo: El portal debe estar operativo de nuevo en no más de dos horas.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Continuidad, recuperación, RTO y RPO",
+      "entradaLibro": "ep_continuidad"
+    }
+  },
+  {
+    "id": "def-ep-rpo",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_continuidad_recuperacion",
+    "ejemplo": "Se acepta perder como máximo los últimos quince minutos de registros.",
+    "titulo": "RPO",
+    "situacion": "",
+    "pregunta": "¿Qué significa «RPO»?",
+    "respuestaCorrecta": "Punto temporal al que deben recuperarse los datos, que expresa la pérdida de información tolerada.",
+    "respuestasIncorrectas": [
+      "Plan que sostiene el funcionamiento organizacional ante crisis, incluyendo personas, procedimientos y recursos.",
+      "Plan centrado en la recuperación tecnológica de sistemas, datos y servicios tras una interrupción.",
+      "Tiempo objetivo para recuperar un servicio, que limita la duración tolerada de su interrupción."
+    ],
+    "pista": "Al restaurar la caja, podrían faltar únicamente las ventas del último cuarto de hora.",
+    "explicacion": "RPO: Punto temporal al que deben recuperarse los datos, que expresa la pérdida de información tolerada. Ejemplo: Se acepta perder como máximo los últimos quince minutos de registros.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Continuidad, recuperación, RTO y RPO",
+      "entradaLibro": "ep_continuidad"
+    }
+  },
+  {
+    "id": "def-ep-red",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_roles_evaluacion",
+    "ejemplo": "Con permiso acordado, intenta un recorrido ofensivo y documenta brechas logradas.",
+    "titulo": "Red Team",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Red Team»?",
+    "respuestaCorrecta": "Equipo que simula adversarios en una evaluación autorizada para probar defensas y alcanzar objetivos de ataque.",
+    "respuestasIncorrectas": [
+      "Equipo que monitorea, detecta, contiene y remedia, evaluado en el material por MTTD y MTTR.",
+      "Colaboración Red–Blue para compartir hallazgos y mejorar detección y respuesta."
+    ],
+    "pista": "En el ejercicio pactado, un grupo intenta llegar a la base por una ruta que los vigilantes no esperaban.",
+    "explicacion": "Red Team: Equipo que simula adversarios en una evaluación autorizada para probar defensas y alcanzar objetivos de ataque. Ejemplo: Con permiso acordado, intenta un recorrido ofensivo y documenta brechas logradas.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Equipos de seguridad y entorno industrial",
+      "entradaLibro": "ep_equipos_ot"
+    }
+  },
+  {
+    "id": "def-ep-blue",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_roles_evaluacion",
+    "ejemplo": "Analiza alertas, identifica la intrusión y aísla la estación afectada.",
+    "titulo": "Blue Team",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Blue Team»?",
+    "respuestaCorrecta": "Equipo que monitorea, detecta, contiene y remedia, evaluado en el material por MTTD y MTTR.",
+    "respuestasIncorrectas": [
+      "Equipo que simula adversarios en una evaluación autorizada para probar defensas y alcanzar objetivos de ataque.",
+      "Colaboración Red–Blue para compartir hallazgos y mejorar detección y respuesta."
+    ],
+    "pista": "Al sonar una alarma, el grupo de guardia separa de la red la estación comprometida.",
+    "explicacion": "Blue Team: Equipo que monitorea, detecta, contiene y remedia, evaluado en el material por MTTD y MTTR. Ejemplo: Analiza alertas, identifica la intrusión y aísla la estación afectada.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Equipos de seguridad y entorno industrial",
+      "entradaLibro": "ep_equipos_ot"
+    }
+  },
+  {
+    "id": "def-ep-purple",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_roles_evaluacion",
+    "ejemplo": "Quienes simularon el ataque y quienes defendieron revisan juntos por qué una maniobra no generó alerta.",
+    "titulo": "Purple Team",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Purple Team»?",
+    "respuestaCorrecta": "Colaboración Red–Blue para compartir hallazgos y mejorar detección y respuesta.",
+    "respuestasIncorrectas": [
+      "Equipo que simula adversarios en una evaluación autorizada para probar defensas y alcanzar objetivos de ataque.",
+      "Equipo que monitorea, detecta, contiene y remedia, evaluado en el material por MTTD y MTTR."
+    ],
+    "pista": "Tras el simulacro, atacantes y vigilantes se sientan juntos a ajustar las alarmas.",
+    "explicacion": "Purple Team: Colaboración Red–Blue para compartir hallazgos y mejorar detección y respuesta. Ejemplo: Quienes simularon el ataque y quienes defendieron revisan juntos por qué una maniobra no generó alerta.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Equipos de seguridad y entorno industrial",
+      "entradaLibro": "ep_equipos_ot"
+    }
+  },
+  {
+    "id": "def-ep-preventivo",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_funcion_controles",
+    "ejemplo": "Se limitan permisos y se aplican parches antes de un uso indebido.",
+    "titulo": "Control preventivo",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Control preventivo»?",
+    "respuestaCorrecta": "Medida que reduce la posibilidad de un evento perjudicial antes de que ocurra.",
+    "respuestasIncorrectas": [
+      "Medida que descubre actividad anómala mediante monitoreo, auditorías o análisis de registros.",
+      "Medida que contiene, remedia o restaura una vez advertido un incidente."
+    ],
+    "pista": "Cada cajero recibe únicamente los permisos que necesita para su puesto.",
+    "explicacion": "Control preventivo: Medida que reduce la posibilidad de un evento perjudicial antes de que ocurra. Ejemplo: Se limitan permisos y se aplican parches antes de un uso indebido.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Prevenir, detectar y responder",
+      "entradaLibro": "ep_controles"
+    }
+  },
+  {
+    "id": "def-ep-detectivo",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_funcion_controles",
+    "ejemplo": "Un SIEM alerta sobre una secuencia de accesos inusual.",
+    "titulo": "Control detectivo",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Control detectivo»?",
+    "respuestaCorrecta": "Medida que descubre actividad anómala mediante monitoreo, auditorías o análisis de registros.",
+    "respuestasIncorrectas": [
+      "Medida que reduce la posibilidad de un evento perjudicial antes de que ocurra.",
+      "Medida que contiene, remedia o restaura una vez advertido un incidente."
+    ],
+    "pista": "El tablero avisa que una cuenta intentó entrar doscientas veces esta madrugada.",
+    "explicacion": "Control detectivo: Medida que descubre actividad anómala mediante monitoreo, auditorías o análisis de registros. Ejemplo: Un SIEM alerta sobre una secuencia de accesos inusual.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Prevenir, detectar y responder",
+      "entradaLibro": "ep_controles"
+    }
+  },
+  {
+    "id": "def-ep-respuesta",
+    "unidad": "ejercicio_profesional",
+    "tipo": "definicion",
+    "grupo": "ep_funcion_controles",
+    "ejemplo": "Se aísla de la red una estación comprometida para limitar la propagación.",
+    "titulo": "Control de respuesta",
+    "situacion": "",
+    "pregunta": "¿Qué significa «Control de respuesta»?",
+    "respuestaCorrecta": "Medida que contiene, remedia o restaura una vez advertido un incidente.",
+    "respuestasIncorrectas": [
+      "Medida que reduce la posibilidad de un evento perjudicial antes de que ocurra.",
+      "Medida que descubre actividad anómala mediante monitoreo, auditorías o análisis de registros."
+    ],
+    "pista": "Tras confirmar la intrusión, la guardia desconecta la estación afectada de la red.",
+    "explicacion": "Control de respuesta: Medida que contiene, remedia o restaura una vez advertido un incidente. Ejemplo: Se aísla de la red una estación comprometida para limitar la propagación.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Prevenir, detectar y responder",
+      "entradaLibro": "ep_controles"
+    }
   }
 ]

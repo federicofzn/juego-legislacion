@@ -990,5 +990,1307 @@
       "titulo": "Tus derechos sobre tus datos y los plazos para responder",
       "entradaLibro": "pd_derechos_plazos"
     }
+  },
+  {
+    "id": "err-pi-organismos",
+    "unidad": "propiedad_intelectual",
+    "tipo": "error",
+    "titulo": "Elegir el organismo",
+    "situacion": "Un colega te pasa este resumen sobre «Elegir el organismo» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "El INPI se ocupa del registro de obras dentro del derecho de autor.",
+      "La DNDA interviene en el régimen del derecho de autor.",
+      "El INPI se ocupa de marcas y patentes dentro de la propiedad industrial.",
+      "OMPI y WIPO son siglas del mismo organismo en dos idiomas.",
+      "La protección autoral recae en la expresión original y no en la idea abstracta."
+    ],
+    "incorrecta": 0,
+    "correccion": "La DNDA se ocupa del registro de obras dentro del derecho de autor.",
+    "respuestaCorrecta": "El INPI se ocupa del registro de obras dentro del derecho de autor.",
+    "respuestasIncorrectas": [
+      "La DNDA interviene en el régimen del derecho de autor.",
+      "El INPI se ocupa de marcas y patentes dentro de la propiedad industrial.",
+      "OMPI y WIPO son siglas del mismo organismo en dos idiomas.",
+      "La protección autoral recae en la expresión original y no en la idea abstracta."
+    ],
+    "pista": "Compará el objeto del trámite con la competencia de cada oficina.",
+    "explicacion": "Lo correcto es: «La DNDA se ocupa del registro de obras dentro del derecho de autor.» La DNDA se ocupa del registro de obras dentro del derecho de autor. La propiedad industrial corresponde al INPI; la organización internacional no reemplaza esos trámites nacionales.",
+    "referencia": {
+      "tipo": "Objetos y organismos",
+      "titulo": "Qué protege cada sistema",
+      "entradaLibro": "pi_obras_organismos"
+    }
+  },
+  {
+    "id": "err-pi-autoria",
+    "unidad": "propiedad_intelectual",
+    "tipo": "error",
+    "titulo": "Quién crea y quién explota",
+    "situacion": "Un colega te pasa este resumen sobre «Quién crea y quién explota» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La paternidad protege el reconocimiento de la autoría de la obra.",
+      "Pagar un encargo a un proveedor independiente transmite por sí solo sus derechos patrimoniales.",
+      "La regla del artículo 4, inciso d, contempla software dependiente creado en las funciones contratadas.",
+      "Un titular patrimonial puede estar habilitado para explotar una obra sin haberla creado.",
+      "La cesión económica no convierte al editor en autor de la novela."
+    ],
+    "incorrecta": 1,
+    "correccion": "Pagar un encargo a un proveedor independiente no transmite por sí solo sus derechos patrimoniales.",
+    "respuestaCorrecta": "Pagar un encargo a un proveedor independiente transmite por sí solo sus derechos patrimoniales.",
+    "respuestasIncorrectas": [
+      "La paternidad protege el reconocimiento de la autoría de la obra.",
+      "La regla del artículo 4, inciso d, contempla software dependiente creado en las funciones contratadas.",
+      "Un titular patrimonial puede estar habilitado para explotar una obra sin haberla creado.",
+      "La cesión económica no convierte al editor en autor de la novela."
+    ],
+    "pista": "Identificá el vínculo de trabajo antes de aplicar la regla especial.",
+    "explicacion": "Lo correcto es: «Pagar un encargo a un proveedor independiente no transmite por sí solo sus derechos patrimoniales.» Pagar un encargo a un proveedor independiente no transmite por sí solo sus derechos patrimoniales. En el encargo externo deben precisarse licencia o cesión, código fuente, entregables y usos; la regla del software dependiente no se traslada por el solo pago.",
+    "referencia": {
+      "tipo": "Personas y derechos",
+      "titulo": "Crear, explotar y reconocer la autoría",
+      "entradaLibro": "pi_autoria"
+    }
+  },
+  {
+    "id": "err-pi-software",
+    "unidad": "propiedad_intelectual",
+    "tipo": "error",
+    "titulo": "Permisos sobre el programa",
+    "situacion": "Un colega te pasa este resumen sobre «Permisos sobre el programa» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "Una licencia de uso no incluye necesariamente el acceso al código fuente.",
+      "Una cesión transmite derechos dentro del alcance acordado.",
+      "La copia de salvaguardia permite entregar el programa a otro estudio sin licencia.",
+      "El NDA impone confidencialidad sin conceder por sí mismo una patente.",
+      "La organización original de una base puede protegerse sin apropiarse de cada dato."
+    ],
+    "incorrecta": 2,
+    "correccion": "La copia de salvaguardia permite reemplazar el ejemplar licenciado perdido o inutilizado.",
+    "respuestaCorrecta": "La copia de salvaguardia permite entregar el programa a otro estudio sin licencia.",
+    "respuestasIncorrectas": [
+      "Una licencia de uso no incluye necesariamente el acceso al código fuente.",
+      "Una cesión transmite derechos dentro del alcance acordado.",
+      "El NDA impone confidencialidad sin conceder por sí mismo una patente.",
+      "La organización original de una base puede protegerse sin apropiarse de cada dato."
+    ],
+    "pista": "Pensá en la contingencia para la que se conserva el respaldo.",
+    "explicacion": "Lo correcto es: «La copia de salvaguardia permite reemplazar el ejemplar licenciado perdido o inutilizado.» La copia de salvaguardia permite reemplazar el ejemplar licenciado perdido o inutilizado. El artículo 9 regula una copia identificada con función de reemplazo, no un permiso de distribución a terceros.",
+    "referencia": {
+      "tipo": "Software y contratos",
+      "titulo": "Precisar los permisos sobre el código",
+      "entradaLibro": "pi_software"
+    }
+  },
+  {
+    "id": "err-pi-dominio-publico",
+    "unidad": "propiedad_intelectual",
+    "tipo": "error",
+    "titulo": "Publicar una obra antigua",
+    "situacion": "Un colega te pasa este resumen sobre «Publicar una obra antigua» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La regla general patrimonial es vida del autor más setenta años, con el cómputo legal.",
+      "Una traducción original reciente puede seguir protegida aunque el original esté en dominio público.",
+      "El registro DNDA aporta fecha cierta y herramientas de prueba.",
+      "El dominio público pagante se limita a obras de autores nacionales.",
+      "Una grabación nueva puede tener derechos conexos aunque haya vencido la composición."
+    ],
+    "incorrecta": 3,
+    "correccion": "El dominio público pagante puede comprender obras de autores nacionales y extranjeros.",
+    "respuestaCorrecta": "El dominio público pagante se limita a obras de autores nacionales.",
+    "respuestasIncorrectas": [
+      "La regla general patrimonial es vida del autor más setenta años, con el cómputo legal.",
+      "Una traducción original reciente puede seguir protegida aunque el original esté en dominio público.",
+      "El registro DNDA aporta fecha cierta y herramientas de prueba.",
+      "Una grabación nueva puede tener derechos conexos aunque haya vencido la composición."
+    ],
+    "pista": "Que el original sea extranjero no resuelve el análisis del uso proyectado.",
+    "explicacion": "Lo correcto es: «El dominio público pagante puede comprender obras de autores nacionales y extranjeros.» El dominio público pagante puede comprender obras de autores nacionales y extranjeros. El FNA indica ese alcance; deben revisarse el tipo de utilización y las exenciones aplicables, sin presumir un pago ni una exención para todo uso.",
+    "referencia": {
+      "tipo": "Registro y duración",
+      "titulo": "Prueba, exclusividad y dominio público",
+      "entradaLibro": "pi_registro_plazos"
+    }
+  },
+  {
+    "id": "err-pi-cc",
+    "unidad": "propiedad_intelectual",
+    "tipo": "error",
+    "titulo": "Las condiciones de CC",
+    "situacion": "Un colega te pasa este resumen sobre «Las condiciones de CC» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "BY exige reconocer la autoría conforme a la licencia.",
+      "NC limita los usos comerciales.",
+      "SA exige compartir las adaptaciones con la misma licencia.",
+      "Una licencia CC mantiene derechos y condiciones y no equivale a dominio público.",
+      "ND permite compartir adaptaciones con la misma licencia."
+    ],
+    "incorrecta": 4,
+    "correccion": "ND impide compartir material adaptado bajo esa licencia.",
+    "respuestaCorrecta": "ND permite compartir adaptaciones con la misma licencia.",
+    "respuestasIncorrectas": [
+      "BY exige reconocer la autoría conforme a la licencia.",
+      "NC limita los usos comerciales.",
+      "SA exige compartir las adaptaciones con la misma licencia.",
+      "Una licencia CC mantiene derechos y condiciones y no equivale a dominio público."
+    ],
+    "pista": "Compará la condición que mantiene permisos con la que limita versiones cambiadas.",
+    "explicacion": "Lo correcto es: «ND impide compartir material adaptado bajo esa licencia.» ND impide compartir material adaptado bajo esa licencia. SA regula cómo compartir las adaptaciones permitidas; ND no debe confundirse con esa condición.",
+    "referencia": {
+      "tipo": "Permisos abiertos",
+      "titulo": "Leer una licencia Creative Commons",
+      "entradaLibro": "pi_cc"
+    }
+  },
+  {
+    "id": "err-pi-tipos-marca",
+    "unidad": "propiedad_intelectual",
+    "tipo": "error",
+    "titulo": "Cómo se compone el signo",
+    "situacion": "Un colega te pasa este resumen sobre «Cómo se compone el signo» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La marca figurativa está formada por palabras sin reivindicar un diseño particular.",
+      "La marca denominativa puede consistir en palabras, letras o números.",
+      "La marca mixta combina denominación y gráficos o utiliza una grafía estilizada.",
+      "El naming elige un nombre para identidad y diferenciación comercial.",
+      "La búsqueda de antecedentes debe considerar semejanzas fonéticas, visuales o conceptuales."
+    ],
+    "incorrecta": 0,
+    "correccion": "La marca figurativa está formada por elementos gráficos sin letras ni números.",
+    "respuestaCorrecta": "La marca figurativa está formada por palabras sin reivindicar un diseño particular.",
+    "respuestasIncorrectas": [
+      "La marca denominativa puede consistir en palabras, letras o números.",
+      "La marca mixta combina denominación y gráficos o utiliza una grafía estilizada.",
+      "El naming elige un nombre para identidad y diferenciación comercial.",
+      "La búsqueda de antecedentes debe considerar semejanzas fonéticas, visuales o conceptuales."
+    ],
+    "pista": "Observá si hay algo para leer además de la imagen del signo.",
+    "explicacion": "Lo correcto es: «La marca figurativa está formada por elementos gráficos sin letras ni números.» La marca figurativa está formada por elementos gráficos sin letras ni números. La descripción de palabras sin diseño corresponde a una denominativa, mientras que la figurativa se distingue por sus componentes gráficos sin texto.",
+    "referencia": {
+      "tipo": "Identidad comercial",
+      "titulo": "Elegir y buscar una marca",
+      "entradaLibro": "pi_marcas"
+    }
+  },
+  {
+    "id": "err-pi-tramite-marca",
+    "unidad": "propiedad_intelectual",
+    "tipo": "error",
+    "titulo": "Publicación y vigencia",
+    "situacion": "Un colega te pasa este resumen sobre «Publicación y vigencia» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "Niza reúne treinta y cuatro clases de productos y once de servicios.",
+      "El artículo 13 fija treinta días hábiles desde la publicación para oponerse.",
+      "TMclass ayuda a identificar descripciones y clases de productos y servicios.",
+      "La marca registrada dura diez años desde la concesión, renovables con requisitos.",
+      "La vista es una observación del trámite que debe responderse."
+    ],
+    "incorrecta": 1,
+    "correccion": "El artículo 13 fija treinta días corridos desde la publicación para oponerse.",
+    "respuestaCorrecta": "El artículo 13 fija treinta días hábiles desde la publicación para oponerse.",
+    "respuestasIncorrectas": [
+      "Niza reúne treinta y cuatro clases de productos y once de servicios.",
+      "TMclass ayuda a identificar descripciones y clases de productos y servicios.",
+      "La marca registrada dura diez años desde la concesión, renovables con requisitos.",
+      "La vista es una observación del trámite que debe responderse."
+    ],
+    "pista": "Comprobá el tipo de días, además del acto que inicia el cómputo.",
+    "explicacion": "Lo correcto es: «El artículo 13 fija treinta días corridos desde la publicación para oponerse.» El artículo 13 fija treinta días corridos desde la publicación para oponerse. La Ley 22.362 no toma como inicio el descubrimiento personal de la solicitud; publicación y concesión cumplen funciones distintas.",
+    "referencia": {
+      "tipo": "Registro de marcas",
+      "titulo": "Clases, vigencia y oposición",
+      "entradaLibro": "pi_tramite_marca"
+    }
+  },
+  {
+    "id": "err-pi-industria",
+    "unidad": "propiedad_intelectual",
+    "tipo": "error",
+    "titulo": "Tres objetos y sus plazos",
+    "situacion": "Un colega te pasa este resumen sobre «Tres objetos y sus plazos» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La patente exige requisitos como novedad, actividad inventiva y aplicación industrial.",
+      "El modelo de utilidad tiene diez años desde la solicitud, improrrogables.",
+      "La patente tiene diez años desde la solicitud, improrrogables.",
+      "El diseño industrial protege apariencia u ornamentación, no la solución técnica en sí.",
+      "El diseño tiene cinco años iniciales y dos renovaciones de cinco, hasta quince."
+    ],
+    "incorrecta": 2,
+    "correccion": "La patente tiene veinte años desde la solicitud, improrrogables.",
+    "respuestaCorrecta": "La patente tiene diez años desde la solicitud, improrrogables.",
+    "respuestasIncorrectas": [
+      "La patente exige requisitos como novedad, actividad inventiva y aplicación industrial.",
+      "El modelo de utilidad tiene diez años desde la solicitud, improrrogables.",
+      "El diseño industrial protege apariencia u ornamentación, no la solución técnica en sí.",
+      "El diseño tiene cinco años iniciales y dos renovaciones de cinco, hasta quince."
+    ],
+    "pista": "Los dos regímenes técnicos no tienen la misma duración.",
+    "explicacion": "Lo correcto es: «La patente tiene veinte años desde la solicitud, improrrogables.» La patente tiene veinte años desde la solicitud, improrrogables. Los diez años corresponden al modelo de utilidad; los períodos de cinco con renovaciones pertenecen al diseño industrial.",
+    "referencia": {
+      "tipo": "Industria y cooperación",
+      "titulo": "Solución técnica, apariencia y tratados",
+      "entradaLibro": "pi_invenciones_tratados"
+    }
+  },
+  {
+    "id": "err-pi-dominios",
+    "unidad": "propiedad_intelectual",
+    "tipo": "error",
+    "titulo": "Administración de dominios",
+    "situacion": "Un colega te pasa este resumen sobre «Administración de dominios» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "El DNS relaciona nombres con registros técnicos para localizar servicios.",
+      "ICANN coordina identificadores únicos del sistema mundial de Internet.",
+      "NIC administra las zonas bajo su competencia; .edu.ar corresponde a ARIU.",
+      "El artículo 20 del reglamento NIC establece registro por diez años.",
+      "Registrar una marca no reserva automáticamente el dominio del mismo nombre."
+    ],
+    "incorrecta": 3,
+    "correccion": "El artículo 20 del reglamento NIC establece registro por un año.",
+    "respuestaCorrecta": "El artículo 20 del reglamento NIC establece registro por diez años.",
+    "respuestasIncorrectas": [
+      "El DNS relaciona nombres con registros técnicos para localizar servicios.",
+      "ICANN coordina identificadores únicos del sistema mundial de Internet.",
+      "NIC administra las zonas bajo su competencia; .edu.ar corresponde a ARIU.",
+      "Registrar una marca no reserva automáticamente el dominio del mismo nombre."
+    ],
+    "pista": "No traslades al identificador web la vigencia propia de otro registro.",
+    "explicacion": "Lo correcto es: «El artículo 20 del reglamento NIC establece registro por un año.» El artículo 20 del reglamento NIC establece registro por un año. La Resolución SLyT 2/2022 prevé además períodos tras el vencimiento y reglas de renovación en el artículo 21.",
+    "referencia": {
+      "tipo": "Direcciones de Internet",
+      "titulo": "DNS y registro de dominios",
+      "entradaLibro": "pi_dominios"
+    }
+  },
+  {
+    "id": "err-pi-disputas",
+    "unidad": "propiedad_intelectual",
+    "tipo": "error",
+    "titulo": "Alcance de un reclamo",
+    "situacion": "Un colega te pasa este resumen sobre «Alcance de un reclamo» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "En una disputa NIC deben acreditarse el mejor derecho o interés legítimo y la prueba del caso.",
+      "La UDRP exige requisitos conjuntos, incluidos falta de interés legítimo y registro y uso de mala fe.",
+      "El handle identifica una cuenta dentro de una plataforma.",
+      "Una medida cautelar es provisional y no equivale a una sentencia definitiva.",
+      "La UDRP permite obtener una indemnización en dinero dentro de ese procedimiento."
+    ],
+    "incorrecta": 4,
+    "correccion": "La UDRP permite cancelación o transferencia del dominio, no una indemnización en dinero.",
+    "respuestaCorrecta": "La UDRP permite obtener una indemnización en dinero dentro de ese procedimiento.",
+    "respuestasIncorrectas": [
+      "En una disputa NIC deben acreditarse el mejor derecho o interés legítimo y la prueba del caso.",
+      "La UDRP exige requisitos conjuntos, incluidos falta de interés legítimo y registro y uso de mala fe.",
+      "El handle identifica una cuenta dentro de una plataforma.",
+      "Una medida cautelar es provisional y no equivale a una sentencia definitiva."
+    ],
+    "pista": "Separá resolver quién controla el identificador de reparar un perjuicio económico.",
+    "explicacion": "Lo correcto es: «La UDRP permite cancelación o transferencia del dominio, no una indemnización en dinero.» La UDRP permite cancelación o transferencia del dominio, no una indemnización en dinero. La política tiene remedios delimitados y no debe confundirse con el procedimiento local de NIC ni con los mecanismos de una red social.",
+    "referencia": {
+      "tipo": "Conflictos y prueba",
+      "titulo": "Reclamar un dominio o una cuenta",
+      "entradaLibro": "pi_disputas_redes"
+    }
+  },
+  {
+    "id": "err-ct-formacion",
+    "unidad": "contratos",
+    "tipo": "error",
+    "titulo": "Un presupuesto entre ausentes",
+    "situacion": "Un colega te pasa este resumen sobre «Un presupuesto entre ausentes» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "Entre ausentes, el solo envío de la aceptación perfecciona el contrato.",
+      "La oferta debe tener precisiones suficientes para fijar los efectos de su aceptación.",
+      "Una respuesta que modifica las condiciones es, como regla, una nueva propuesta.",
+      "El silencio normalmente no constituye aceptación si no existe un deber de responder.",
+      "La recepción comprende conocimiento efectivo o el que debió existir."
+    ],
+    "incorrecta": 0,
+    "correccion": "Entre ausentes, el contrato se perfecciona cuando el oferente recibe la aceptación durante la vigencia de la oferta.",
+    "respuestaCorrecta": "Entre ausentes, el solo envío de la aceptación perfecciona el contrato.",
+    "respuestasIncorrectas": [
+      "La oferta debe tener precisiones suficientes para fijar los efectos de su aceptación.",
+      "Una respuesta que modifica las condiciones es, como regla, una nueva propuesta.",
+      "El silencio normalmente no constituye aceptación si no existe un deber de responder.",
+      "La recepción comprende conocimiento efectivo o el que debió existir."
+    ],
+    "pista": "El recorrido del mensaje tiene un momento de salida y otro de llegada.",
+    "explicacion": "Lo correcto es: «Entre ausentes, el contrato se perfecciona cuando el oferente recibe la aceptación durante la vigencia de la oferta.» Entre ausentes, el contrato se perfecciona cuando el oferente recibe la aceptación durante la vigencia de la oferta. El art. 980 no adopta como regla el simple envío; debe atenderse también al significado de recepción del art. 983.",
+    "referencia": {
+      "tipo": "Acuerdo y validez",
+      "titulo": "Oferta, aceptación y recepción",
+      "entradaLibro": "ct_formacion"
+    }
+  },
+  {
+    "id": "err-ct-validez",
+    "unidad": "contratos",
+    "tipo": "error",
+    "titulo": "Quién se obliga y qué promete",
+    "situacion": "Un colega te pasa este resumen sobre «Quién se obliga y qué promete» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "El objeto comprende prestaciones lícitas, posibles y determinadas o determinables.",
+      "Un contrato unilateral es el formado por una sola persona.",
+      "Un contrato bilateral genera obligaciones recíprocas para las partes.",
+      "La causa es la finalidad jurídica inmediata determinante del acuerdo y debe ser lícita.",
+      "Acceder a una cuenta empresarial no demuestra facultades para obligar a la sociedad."
+    ],
+    "incorrecta": 1,
+    "correccion": "Un contrato unilateral genera obligaciones para una de las partes, sin referirse a cuántas personas lo forman.",
+    "respuestaCorrecta": "Un contrato unilateral es el formado por una sola persona.",
+    "respuestasIncorrectas": [
+      "El objeto comprende prestaciones lícitas, posibles y determinadas o determinables.",
+      "Un contrato bilateral genera obligaciones recíprocas para las partes.",
+      "La causa es la finalidad jurídica inmediata determinante del acuerdo y debe ser lícita.",
+      "Acceder a una cuenta empresarial no demuestra facultades para obligar a la sociedad."
+    ],
+    "pista": "La clasificación del art. 966 atiende al reparto de obligaciones.",
+    "explicacion": "Lo correcto es: «Un contrato unilateral genera obligaciones para una de las partes, sin referirse a cuántas personas lo forman.» Un contrato unilateral genera obligaciones para una de las partes, sin referirse a cuántas personas lo forman. La clasificación se refiere a los efectos obligacionales del acuerdo y no a eliminar la intervención de la otra parte.",
+    "referencia": {
+      "tipo": "Acuerdo y validez",
+      "titulo": "Capacidad, objeto, causa y clases",
+      "entradaLibro": "ct_validez"
+    }
+  },
+  {
+    "id": "err-ct-tratativas",
+    "unidad": "contratos",
+    "tipo": "error",
+    "titulo": "Negociar sin llegar a contratar",
+    "situacion": "Un colega te pasa este resumen sobre «Negociar sin llegar a contratar» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "Existe libertad de abandonar las negociaciones junto con el deber de buena fe.",
+      "La confidencialidad alcanza la información recibida durante las tratativas.",
+      "La inversión en un presupuesto basta para generar indemnización por la ruptura.",
+      "Las cartas de intención solo son oferta si reúnen los requisitos correspondientes.",
+      "La buena fe exige no frustrar injustificadamente la confianza legítima generada."
+    ],
+    "incorrecta": 2,
+    "correccion": "La inversión en un presupuesto no genera indemnización automática por la ruptura de las tratativas.",
+    "respuestaCorrecta": "La inversión en un presupuesto basta para generar indemnización por la ruptura.",
+    "respuestasIncorrectas": [
+      "Existe libertad de abandonar las negociaciones junto con el deber de buena fe.",
+      "La confidencialidad alcanza la información recibida durante las tratativas.",
+      "Las cartas de intención solo son oferta si reúnen los requisitos correspondientes.",
+      "La buena fe exige no frustrar injustificadamente la confianza legítima generada."
+    ],
+    "pista": "Separá el gasto de preparar una propuesta de la conducta que generó confianza.",
+    "explicacion": "Lo correcto es: «La inversión en un presupuesto no genera indemnización automática por la ruptura de las tratativas.» La inversión en un presupuesto no genera indemnización automática por la ruptura de las tratativas. Los arts. 990 y 991 exigen analizar libertad de negociar, buena fe y confianza legítima, además de los presupuestos del caso.",
+    "referencia": {
+      "tipo": "Negociación y condiciones",
+      "titulo": "Buena fe, reserva y adhesión",
+      "entradaLibro": "ct_tratativas"
+    }
+  },
+  {
+    "id": "err-ct-forma",
+    "unidad": "contratos",
+    "tipo": "error",
+    "titulo": "Documento, forma y evidencia",
+    "situacion": "Un colega te pasa este resumen sobre «Documento, forma y evidencia» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "Predomina la libertad de formas, salvo las exigencias especiales que correspondan.",
+      "Los correos y registros pueden aportar evidencia aunque no lleven firma manuscrita.",
+      "Una captura aislada requiere analizar su origen, contexto e integridad.",
+      "La firma digital convierte un documento privado en escritura pública.",
+      "No toda omisión formal causa nulidad: puede existir obligación de completar el instrumento."
+    ],
+    "incorrecta": 3,
+    "correccion": "La firma digital no convierte por sí sola un documento privado en escritura pública.",
+    "respuestaCorrecta": "La firma digital convierte un documento privado en escritura pública.",
+    "respuestasIncorrectas": [
+      "Predomina la libertad de formas, salvo las exigencias especiales que correspondan.",
+      "Los correos y registros pueden aportar evidencia aunque no lleven firma manuscrita.",
+      "Una captura aislada requiere analizar su origen, contexto e integridad.",
+      "No toda omisión formal causa nulidad: puede existir obligación de completar el instrumento."
+    ],
+    "pista": "La atribución de una declaración no reemplaza la formalidad propia del instrumento.",
+    "explicacion": "Lo correcto es: «La firma digital no convierte por sí sola un documento privado en escritura pública.» La firma digital no convierte por sí sola un documento privado en escritura pública. Deben distinguirse soporte, prueba y formalidades especiales del acto; los arts. 969 y 1018 también distinguen consecuencias de la omisión formal.",
+    "referencia": {
+      "tipo": "Documentos",
+      "titulo": "Forma del acto y prueba del acuerdo",
+      "entradaLibro": "ct_forma_prueba"
+    }
+  },
+  {
+    "id": "err-ct-consumo",
+    "unidad": "contratos",
+    "tipo": "error",
+    "titulo": "Arrepentimiento de una compra web",
+    "situacion": "Un colega te pasa este resumen sobre «Arrepentimiento de una compra web» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "En consumo a distancia, el arrepentimiento es irrenunciable.",
+      "La revocación puede notificarse electrónicamente en los términos del régimen aplicable.",
+      "Si no se informó debidamente el derecho, este no se extingue conforme al art. 1111.",
+      "El art. 1116 contempla excepciones para determinados programas o archivos digitales.",
+      "El art. 34 de la Ley 24.240 establece diez días hábiles desde entrega o celebración, lo último."
+    ],
+    "incorrecta": 4,
+    "correccion": "El art. 34 de la Ley 24.240 establece diez días corridos desde entrega o celebración, lo último que ocurra.",
+    "respuestaCorrecta": "El art. 34 de la Ley 24.240 establece diez días hábiles desde entrega o celebración, lo último.",
+    "respuestasIncorrectas": [
+      "En consumo a distancia, el arrepentimiento es irrenunciable.",
+      "La revocación puede notificarse electrónicamente en los términos del régimen aplicable.",
+      "Si no se informó debidamente el derecho, este no se extingue conforme al art. 1111.",
+      "El art. 1116 contempla excepciones para determinados programas o archivos digitales."
+    ],
+    "pista": "El cómputo debe distinguir el calendario completo de los días laborables.",
+    "explicacion": "Lo correcto es: «El art. 34 de la Ley 24.240 establece diez días corridos desde entrega o celebración, lo último que ocurra.» El art. 34 de la Ley 24.240 establece diez días corridos desde entrega o celebración, lo último que ocurra. Debe integrarse con los arts. 1110 a 1116 del CCyC y sus excepciones, sin generalizar la devolución de toda descarga.",
+    "referencia": {
+      "tipo": "Consumo a distancia",
+      "titulo": "Compra electrónica y arrepentimiento",
+      "entradaLibro": "ct_consumo"
+    }
+  },
+  {
+    "id": "err-ct-modalidades",
+    "unidad": "contratos",
+    "tipo": "error",
+    "titulo": "Permisos y objeto informático",
+    "situacion": "Un colega te pasa este resumen sobre «Permisos y objeto informático» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "Adquirir una copia de software transmite la titularidad intelectual al comprador.",
+      "El contrato informático se identifica por su objeto y el electrónico por el medio de celebración.",
+      "Una licencia debe precisar permisos de uso, como usuarios, instalaciones y duración.",
+      "El escrow organiza depósito del código y condiciones convenidas de liberación.",
+      "Una solución integral exige analizar compatibilidad entre equipos, software y servicios."
+    ],
+    "incorrecta": 0,
+    "correccion": "Adquirir una copia de software no supone adquirir todos sus derechos intelectuales.",
+    "respuestaCorrecta": "Adquirir una copia de software transmite la titularidad intelectual al comprador.",
+    "respuestasIncorrectas": [
+      "El contrato informático se identifica por su objeto y el electrónico por el medio de celebración.",
+      "Una licencia debe precisar permisos de uso, como usuarios, instalaciones y duración.",
+      "El escrow organiza depósito del código y condiciones convenidas de liberación.",
+      "Una solución integral exige analizar compatibilidad entre equipos, software y servicios."
+    ],
+    "pista": "Compará recibir un ejemplar con disponer de derechos para explotarlo.",
+    "explicacion": "Lo correcto es: «Adquirir una copia de software no supone adquirir todos sus derechos intelectuales.» Adquirir una copia de software no supone adquirir todos sus derechos intelectuales. Deben distinguirse los permisos de una licencia de los derechos cuya transferencia se pacta en una cesión.",
+    "referencia": {
+      "tipo": "Proyectos informáticos",
+      "titulo": "Objeto informático y modalidades",
+      "entradaLibro": "ct_modalidades"
+    }
+  },
+  {
+    "id": "err-ct-entrega",
+    "unidad": "contratos",
+    "tipo": "error",
+    "titulo": "Aceptar un sistema medible",
+    "situacion": "Un colega te pasa este resumen sobre «Aceptar un sistema medible» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "El test de aceptación debe fijar ítems, valores exigidos, métodos y responsables.",
+      "El período de prueba de treinta días es el plazo legal uniforme de los sistemas informáticos.",
+      "La recepción definitiva documenta la aceptación conforme al esquema pactado.",
+      "El SLA debe prever métricas de disponibilidad, respuesta y recuperación del servicio.",
+      "Los anexos deben incorporarse expresamente e identificarse por versión y fecha."
+    ],
+    "incorrecta": 1,
+    "correccion": "Los períodos de prueba de treinta, sesenta o noventa días son ejemplos para pactar, no plazos legales uniformes.",
+    "respuestaCorrecta": "El período de prueba de treinta días es el plazo legal uniforme de los sistemas informáticos.",
+    "respuestasIncorrectas": [
+      "El test de aceptación debe fijar ítems, valores exigidos, métodos y responsables.",
+      "La recepción definitiva documenta la aceptación conforme al esquema pactado.",
+      "El SLA debe prever métricas de disponibilidad, respuesta y recuperación del servicio.",
+      "Los anexos deben incorporarse expresamente e identificarse por versión y fecha."
+    ],
+    "pista": "Diferenciá una duración propuesta para el proyecto de una impuesta por ley.",
+    "explicacion": "Lo correcto es: «Los períodos de prueba de treinta, sesenta o noventa días son ejemplos para pactar, no plazos legales uniformes.» Los períodos de prueba de treinta, sesenta o noventa días son ejemplos para pactar, no plazos legales uniformes. El test se diseña con criterios de evaluación y consecuencias del rechazo; su duración debe analizarse en el acuerdo concreto.",
+    "referencia": {
+      "tipo": "Proyectos informáticos",
+      "titulo": "Entregables, test y niveles de servicio",
+      "entradaLibro": "ct_entrega"
+    }
+  },
+  {
+    "id": "err-ct-garantia",
+    "unidad": "contratos",
+    "tipo": "error",
+    "titulo": "Defectos y plazos diferentes",
+    "situacion": "Un colega te pasa este resumen sobre «Defectos y plazos diferentes» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La evicción protege la legitimidad del derecho transmitido frente a ciertos reclamos de terceros.",
+      "La denuncia del defecto oculto tiene un plazo general de sesenta días desde su manifestación.",
+      "Para muebles, el art. 1055 fija tres años desde recepción o puesta en funcionamiento.",
+      "Para inmuebles, la garantía por defectos ocultos caduca a los tres años desde recepción.",
+      "Los plazos de caducidad del art. 1055 pueden ampliarse por convenio."
+    ],
+    "incorrecta": 2,
+    "correccion": "Para muebles, el art. 1055 fija seis meses desde recepción o puesta en funcionamiento.",
+    "respuestaCorrecta": "Para muebles, el art. 1055 fija tres años desde recepción o puesta en funcionamiento.",
+    "respuestasIncorrectas": [
+      "La evicción protege la legitimidad del derecho transmitido frente a ciertos reclamos de terceros.",
+      "La denuncia del defecto oculto tiene un plazo general de sesenta días desde su manifestación.",
+      "Para inmuebles, la garantía por defectos ocultos caduca a los tres años desde recepción.",
+      "Los plazos de caducidad del art. 1055 pueden ampliarse por convenio."
+    ],
+    "pista": "Contrastá la categoría del bien y no confundas denuncia con duración de garantía.",
+    "explicacion": "Lo correcto es: «Para muebles, el art. 1055 fija seis meses desde recepción o puesta en funcionamiento.» Para muebles, el art. 1055 fija seis meses desde recepción o puesta en funcionamiento. Los tres años corresponden a inmuebles desde recepción; estos plazos no equivalen a prescripción ni reemplazan garantías especiales de consumo.",
+    "referencia": {
+      "tipo": "Cumplimiento y remedios",
+      "titulo": "Suspensión, saneamiento y seña",
+      "entradaLibro": "ct_incumplimiento"
+    }
+  },
+  {
+    "id": "err-ct-electronica",
+    "unidad": "contratos",
+    "tipo": "error",
+    "titulo": "Quién invoca una firma discutida",
+    "situacion": "Un colega te pasa este resumen sobre «Quién invoca una firma discutida» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La firma electrónica no reúne todos los requisitos legales de la firma digital.",
+      "Un PIN puede integrar un mecanismo de firma electrónica según su vinculación al acto.",
+      "El documento digital satisface la escritura según el art. 6 de la Ley 25.506.",
+      "Desconocida una firma electrónica, debe probar su validez el supuesto firmante.",
+      "La firma digital satisface el requerimiento de firma manuscrita conforme al art. 3."
+    ],
+    "incorrecta": 3,
+    "correccion": "Desconocida una firma electrónica, debe probar su validez quien la invoca.",
+    "respuestaCorrecta": "Desconocida una firma electrónica, debe probar su validez el supuesto firmante.",
+    "respuestasIncorrectas": [
+      "La firma electrónica no reúne todos los requisitos legales de la firma digital.",
+      "Un PIN puede integrar un mecanismo de firma electrónica según su vinculación al acto.",
+      "El documento digital satisface la escritura según el art. 6 de la Ley 25.506.",
+      "La firma digital satisface el requerimiento de firma manuscrita conforme al art. 3."
+    ],
+    "pista": "En el reclamo, identificá quién pretende hacer valer el documento frente al otro.",
+    "explicacion": "Lo correcto es: «Desconocida una firma electrónica, debe probar su validez quien la invoca.» Desconocida una firma electrónica, debe probar su validez quien la invoca. El art. 5 admite que esa persona sea distinta del firmante; no debe trasladarse automáticamente la carga a quien desconoce la firma.",
+    "referencia": {
+      "tipo": "Documentos y firmas",
+      "titulo": "Documento, firma electrónica y digital",
+      "entradaLibro": "ct_firmas"
+    }
+  },
+  {
+    "id": "err-ct-reglamentacion",
+    "unidad": "contratos",
+    "tipo": "error",
+    "titulo": "Requisitos y antecedente normativo",
+    "situacion": "Un colega te pasa este resumen sobre «Requisitos y antecedente normativo» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La clave privada firma y la clave pública permite verificar la firma.",
+      "El art. 9 exige creación durante la vigencia de un certificado válido y verificación correcta.",
+      "El certificado debe haber sido emitido o reconocido por un certificador licenciado.",
+      "El vencimiento posterior del certificado no anula automáticamente una firma anterior válida.",
+      "El Decreto 2628/2002 sigue siendo la reglamentación vigente citada para esta unidad."
+    ],
+    "incorrecta": 4,
+    "correccion": "El Decreto 2628/2002 fue derogado por el art. 5 del Decreto 182/2019.",
+    "respuestaCorrecta": "El Decreto 2628/2002 sigue siendo la reglamentación vigente citada para esta unidad.",
+    "respuestasIncorrectas": [
+      "La clave privada firma y la clave pública permite verificar la firma.",
+      "El art. 9 exige creación durante la vigencia de un certificado válido y verificación correcta.",
+      "El certificado debe haber sido emitido o reconocido por un certificador licenciado.",
+      "El vencimiento posterior del certificado no anula automáticamente una firma anterior válida."
+    ],
+    "pista": "El apunte conserva una referencia histórica que debe leerse con la actualización indicada.",
+    "explicacion": "Lo correcto es: «El Decreto 2628/2002 fue derogado por el art. 5 del Decreto 182/2019.» El Decreto 2628/2002 fue derogado por el art. 5 del Decreto 182/2019. También se trata como histórica la nómina de certificadores de 2020, sin presentarla como lista actual comprobada.",
+    "referencia": {
+      "tipo": "Documentos y firmas",
+      "titulo": "Claves, certificados y reglamentación",
+      "entradaLibro": "ct_infraestructura"
+    }
+  },
+  {
+    "id": "err-ct-presunciones",
+    "unidad": "contratos",
+    "tipo": "error",
+    "titulo": "La fuerza probatoria de la digital",
+    "situacion": "Un colega te pasa este resumen sobre «La fuerza probatoria de la digital» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "Las presunciones de autoría e integridad de la firma digital impiden prueba en contrario.",
+      "La firma digital utiliza un procedimiento verificable para identificar al firmante y detectar cambios.",
+      "El art. 7 vincula la presunción de autoría con el titular del certificado que permite verificarla.",
+      "El art. 8 contempla la integridad del documento desde el momento de su firma.",
+      "La firma digital no otorga por sí sola facultades de representación que la persona no posee."
+    ],
+    "incorrecta": 0,
+    "correccion": "Las presunciones de autoría e integridad de la firma digital admiten prueba en contrario.",
+    "respuestaCorrecta": "Las presunciones de autoría e integridad de la firma digital impiden prueba en contrario.",
+    "respuestasIncorrectas": [
+      "La firma digital utiliza un procedimiento verificable para identificar al firmante y detectar cambios.",
+      "El art. 7 vincula la presunción de autoría con el titular del certificado que permite verificarla.",
+      "El art. 8 contempla la integridad del documento desde el momento de su firma.",
+      "La firma digital no otorga por sí sola facultades de representación que la persona no posee."
+    ],
+    "pista": "La fortaleza de una evidencia no elimina la posibilidad jurídica de impugnarla.",
+    "explicacion": "Lo correcto es: «Las presunciones de autoría e integridad de la firma digital admiten prueba en contrario.» Las presunciones de autoría e integridad de la firma digital admiten prueba en contrario. Los arts. 7 y 8 no convierten el no repudio técnico en una prohibición jurídica de cuestionar la evidencia.",
+    "referencia": {
+      "tipo": "Documentos y firmas",
+      "titulo": "Documento, firma electrónica y digital",
+      "entradaLibro": "ct_firmas"
+    }
+  },
+  {
+    "id": "err-ct-sena",
+    "unidad": "contratos",
+    "tipo": "error",
+    "titulo": "Seña y arrepentimiento pactado",
+    "situacion": "Un colega te pasa este resumen sobre «Seña y arrepentimiento pactado» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La seña es confirmatoria si no se pactó la facultad de arrepentirse.",
+      "Con arrepentimiento pactado, quien recibió la seña devuelve solo ese importe si se retira.",
+      "Con arrepentimiento pactado, quien entregó la seña la pierde si decide retirarse.",
+      "La entrega de una seña no concede por sí sola facultad de arrepentirse.",
+      "La resolución por incumplimiento requiere sus presupuestos y no basta una falla menor aislada."
+    ],
+    "incorrecta": 1,
+    "correccion": "Con arrepentimiento pactado, quien recibió la seña debe devolverla doble si decide retirarse.",
+    "respuestaCorrecta": "Con arrepentimiento pactado, quien recibió la seña devuelve solo ese importe si se retira.",
+    "respuestasIncorrectas": [
+      "La seña es confirmatoria si no se pactó la facultad de arrepentirse.",
+      "Con arrepentimiento pactado, quien entregó la seña la pierde si decide retirarse.",
+      "La entrega de una seña no concede por sí sola facultad de arrepentirse.",
+      "La resolución por incumplimiento requiere sus presupuestos y no basta una falla menor aislada."
+    ],
+    "pista": "Las consecuencias difieren según quién entregó el importe y quién lo recibió.",
+    "explicacion": "Lo correcto es: «Con arrepentimiento pactado, quien recibió la seña debe devolverla doble si decide retirarse.» Con arrepentimiento pactado, quien recibió la seña debe devolverla doble si decide retirarse. Los arts. 1059 y 1060 no equiparan ese supuesto con la pérdida de la seña por quien la entregó.",
+    "referencia": {
+      "tipo": "Cumplimiento y remedios",
+      "titulo": "Suspensión, saneamiento y seña",
+      "entradaLibro": "ct_incumplimiento"
+    }
+  },
+  {
+    "id": "err-dl-dependencia",
+    "unidad": "derecho_laboral",
+    "tipo": "error",
+    "titulo": "Tres aspectos del vínculo",
+    "situacion": "Un colega te pasa este resumen sobre «Tres aspectos del vínculo» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La autonomía técnica de un especialista impide calificarlo como trabajador dependiente.",
+      "Las instrucciones sobre tareas y procedimientos son indicios de subordinación técnica.",
+      "Cobrar sueldo sin asumir pérdidas del negocio ilustra subordinación económica.",
+      "Tener jefe, horario y autorización de vacaciones ilustra subordinación jurídica.",
+      "La calificación exige valorar los indicios en conjunto y reconstruir el funcionamiento real del vínculo."
+    ],
+    "incorrecta": 0,
+    "correccion": "Un especialista puede conservar autonomía técnica y seguir siendo trabajador dependiente.",
+    "respuestaCorrecta": "La autonomía técnica de un especialista impide calificarlo como trabajador dependiente.",
+    "respuestasIncorrectas": [
+      "Las instrucciones sobre tareas y procedimientos son indicios de subordinación técnica.",
+      "Cobrar sueldo sin asumir pérdidas del negocio ilustra subordinación económica.",
+      "Tener jefe, horario y autorización de vacaciones ilustra subordinación jurídica.",
+      "La calificación exige valorar los indicios en conjunto y reconstruir el funcionamiento real del vínculo."
+    ],
+    "pista": "Pensá en una experta que elige su método, pero debe pedir permiso para faltar.",
+    "explicacion": "Lo correcto es: «Un especialista puede conservar autonomía técnica y seguir siendo trabajador dependiente.» Un especialista puede conservar autonomía técnica y seguir siendo trabajador dependiente. La dependencia se analiza mediante indicios conjuntos; conocer mejor la técnica no descarta dirección jurídica o trabajo por cuenta ajena.",
+    "referencia": {
+      "tipo": "El vínculo de trabajo",
+      "titulo": "Dependencia y hechos reales",
+      "entradaLibro": "dl_dependencia"
+    }
+  },
+  {
+    "id": "err-dl-minimos",
+    "unidad": "derecho_laboral",
+    "tipo": "error",
+    "titulo": "Una firma y los mínimos",
+    "situacion": "Un colega te pasa este resumen sobre «Una firma y los mínimos» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "El CCT puede regular categorías, salarios, adicionales, jornadas y licencias dentro de su ámbito.",
+      "Firmar que se deja de cobrar el SAC obligatorio permite eliminar ese mínimo legal.",
+      "El art. 14 bis reconoce jornada limitada, descanso y vacaciones pagas, entre otros derechos.",
+      "Para verificar un salario se revisan tareas reales, categoría, escala del período y adicionales del CCT aplicable.",
+      "La buena fe exige conducta leal tanto del empleador como de quien trabaja."
+    ],
+    "incorrecta": 1,
+    "correccion": "Firmar que se deja de cobrar el SAC obligatorio no elimina ese mínimo legal.",
+    "respuestaCorrecta": "Firmar que se deja de cobrar el SAC obligatorio permite eliminar ese mínimo legal.",
+    "respuestasIncorrectas": [
+      "El CCT puede regular categorías, salarios, adicionales, jornadas y licencias dentro de su ámbito.",
+      "El art. 14 bis reconoce jornada limitada, descanso y vacaciones pagas, entre otros derechos.",
+      "Para verificar un salario se revisan tareas reales, categoría, escala del período y adicionales del CCT aplicable.",
+      "La buena fe exige conducta leal tanto del empleador como de quien trabaja."
+    ],
+    "pista": "La voluntad individual tiene límites cuando se negocia el piso obligatorio de protección.",
+    "explicacion": "Lo correcto es: «Firmar que se deja de cobrar el SAC obligatorio no elimina ese mínimo legal.» Firmar que se deja de cobrar el SAC obligatorio no elimina ese mínimo legal. La irrenunciabilidad protege derechos de la ley, estatutos y convenios; no corresponde convertir la aceptación individual en permiso para suprimirlos.",
+    "referencia": {
+      "tipo": "Fuentes y protección",
+      "titulo": "Mínimos, convenios y obligaciones",
+      "entradaLibro": "dl_principios_cct"
+    }
+  },
+  {
+    "id": "err-dl-prueba",
+    "unidad": "derecho_laboral",
+    "tipo": "error",
+    "titulo": "Inicio del trabajo y prueba",
+    "situacion": "Un colega te pasa este resumen sobre «Inicio del trabajo y prueba» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "El contrato es el acuerdo de prestar servicios dependientes remunerados y la relación es su ejecución efectiva.",
+      "El período general de prueba del art. 92 bis es de seis meses, con ampliaciones posibles por CCT dentro de sus límites.",
+      "En una empresa de 30 trabajadores, el empleador puede fijar ocho meses de prueba sin ampliación del CCT.",
+      "Durante prueba hay salario, cobertura, aportes y cómputo de servicios desde el inicio del vínculo.",
+      "Omitir la registración hace perder al empleador el período de prueba y no permite repetirlo con la misma persona."
+    ],
+    "incorrecta": 2,
+    "correccion": "En una empresa de 30 trabajadores, llegar a ocho meses de prueba requiere ampliación del CCT dentro del art. 92 bis.",
+    "respuestaCorrecta": "En una empresa de 30 trabajadores, el empleador puede fijar ocho meses de prueba sin ampliación del CCT.",
+    "respuestasIncorrectas": [
+      "El contrato es el acuerdo de prestar servicios dependientes remunerados y la relación es su ejecución efectiva.",
+      "El período general de prueba del art. 92 bis es de seis meses, con ampliaciones posibles por CCT dentro de sus límites.",
+      "Durante prueba hay salario, cobertura, aportes y cómputo de servicios desde el inicio del vínculo.",
+      "Omitir la registración hace perder al empleador el período de prueba y no permite repetirlo con la misma persona."
+    ],
+    "pista": "El tamaño de la empresa y quién puede establecer una extensión son datos diferentes.",
+    "explicacion": "Lo correcto es: «En una empresa de 30 trabajadores, llegar a ocho meses de prueba requiere ampliación del CCT dentro del art. 92 bis.» En una empresa de 30 trabajadores, llegar a ocho meses de prueba requiere ampliación del CCT dentro del art. 92 bis. La extensión hasta ocho meses está prevista para empresas de 6 a 100 personas mediante convenio colectivo, no por decisión unilateral.",
+    "referencia": {
+      "tipo": "El vínculo de trabajo",
+      "titulo": "Contrato, modalidades y prueba inicial",
+      "entradaLibro": "dl_contrato_prueba"
+    }
+  },
+  {
+    "id": "err-dl-sac",
+    "unidad": "derecho_laboral",
+    "tipo": "error",
+    "titulo": "Recibo y aguinaldo",
+    "situacion": "Un colega te pasa este resumen sobre «Recibo y aguinaldo» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La remuneración puede comprender básico, comisiones, premios, adicionales y horas extras según su naturaleza.",
+      "El bruto se distingue del neto que resulta después de aplicar los descuentos.",
+      "Una notebook entregada para trabajar no equivale automáticamente a sueldo en especie.",
+      "Las cuotas ordinarias del SAC vencen el 30 de junio y el 31 de diciembre.",
+      "Para el semestre completo, cada cuota de SAC es el 50 % de la mayor remuneración mensual devengada del semestre."
+    ],
+    "incorrecta": 3,
+    "correccion": "Las cuotas ordinarias del SAC vencen el 30 de junio y el 18 de diciembre.",
+    "respuestaCorrecta": "Las cuotas ordinarias del SAC vencen el 30 de junio y el 31 de diciembre.",
+    "respuestasIncorrectas": [
+      "La remuneración puede comprender básico, comisiones, premios, adicionales y horas extras según su naturaleza.",
+      "El bruto se distingue del neto que resulta después de aplicar los descuentos.",
+      "Una notebook entregada para trabajar no equivale automáticamente a sueldo en especie.",
+      "Para el semestre completo, cada cuota de SAC es el 50 % de la mayor remuneración mensual devengada del semestre."
+    ],
+    "pista": "El vencimiento del segundo pago se adelanta al cierre del semestre.",
+    "explicacion": "Lo correcto es: «Las cuotas ordinarias del SAC vencen el 30 de junio y el 18 de diciembre.» Las cuotas ordinarias del SAC vencen el 30 de junio y el 18 de diciembre. En diciembre se estima lo que corresponda y se realiza un eventual ajuste; no se traslada por eso el vencimiento al último día del año.",
+    "referencia": {
+      "tipo": "Ingresos",
+      "titulo": "Sueldo, recibo y aguinaldo",
+      "entradaLibro": "dl_remuneracion"
+    }
+  },
+  {
+    "id": "err-dl-descansos",
+    "unidad": "derecho_laboral",
+    "tipo": "error",
+    "titulo": "Jornada y descanso diario",
+    "situacion": "Un colega te pasa este resumen sobre «Jornada y descanso diario» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "El máximo general del resumen es de 8 horas diarias o 48 semanales, con regímenes y excepciones a examinar.",
+      "El tiempo de disponibilidad para el empleador integra el análisis de la jornada, además de la actividad productiva.",
+      "El CCT puede establecer una jornada menor que la general.",
+      "Para tareas declaradas insalubres, el límite general es de 6 horas diarias o 36 semanales.",
+      "El descanso general entre el fin de una jornada y el inicio de la siguiente es de 10 horas."
+    ],
+    "incorrecta": 4,
+    "correccion": "El descanso general entre el fin de una jornada y el inicio de la siguiente es de 12 horas.",
+    "respuestaCorrecta": "El descanso general entre el fin de una jornada y el inicio de la siguiente es de 10 horas.",
+    "respuestasIncorrectas": [
+      "El máximo general del resumen es de 8 horas diarias o 48 semanales, con regímenes y excepciones a examinar.",
+      "El tiempo de disponibilidad para el empleador integra el análisis de la jornada, además de la actividad productiva.",
+      "El CCT puede establecer una jornada menor que la general.",
+      "Para tareas declaradas insalubres, el límite general es de 6 horas diarias o 36 semanales."
+    ],
+    "pista": "Salir a las 22 y volver a las 8 deja un intervalo que todavía resulta insuficiente.",
+    "explicacion": "Lo correcto es: «El descanso general entre el fin de una jornada y el inicio de la siguiente es de 12 horas.» El descanso general entre el fin de una jornada y el inicio de la siguiente es de 12 horas. Ese intervalo no debe confundirse con la duración máxima de la jornada ni con el descanso semanal.",
+    "referencia": {
+      "tipo": "Tiempo de trabajo",
+      "titulo": "Jornada, descansos y guardias",
+      "entradaLibro": "dl_jornada_guardias"
+    }
+  },
+  {
+    "id": "err-dl-vacaciones",
+    "unidad": "derecho_laboral",
+    "tipo": "error",
+    "titulo": "Tramos de vacaciones completas",
+    "situacion": "Un colega te pasa este resumen sobre «Tramos de vacaciones completas» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "En la escala mínima del período completo, cinco años exactos al 31 de diciembre dan 21 días corridos.",
+      "En esa escala, seis años de antigüedad al 31 de diciembre dan 21 días corridos.",
+      "En esa escala, veinte años exactos al 31 de diciembre dan 28 días corridos.",
+      "En esa escala, veintiún años al 31 de diciembre dan 35 días corridos.",
+      "Para el período completo se exige trabajar al menos la mitad de los días hábiles computables del año, sin perjuicio de mejoras."
+    ],
+    "incorrecta": 0,
+    "correccion": "En la escala mínima del período completo, cinco años exactos al 31 de diciembre dan 14 días corridos.",
+    "respuestaCorrecta": "En la escala mínima del período completo, cinco años exactos al 31 de diciembre dan 21 días corridos.",
+    "respuestasIncorrectas": [
+      "En esa escala, seis años de antigüedad al 31 de diciembre dan 21 días corridos.",
+      "En esa escala, veinte años exactos al 31 de diciembre dan 28 días corridos.",
+      "En esa escala, veintiún años al 31 de diciembre dan 35 días corridos.",
+      "Para el período completo se exige trabajar al menos la mitad de los días hábiles computables del año, sin perjuicio de mejoras."
+    ],
+    "pista": "Revisá si alcanzar exactamente el primer límite basta para pasar al tramo siguiente.",
+    "explicacion": "Lo correcto es: «En la escala mínima del período completo, cinco años exactos al 31 de diciembre dan 14 días corridos.» En la escala mínima del período completo, cinco años exactos al 31 de diciembre dan 14 días corridos. El tramo de 21 días exige más de cinco y hasta diez años; para más de diez y hasta veinte son 28 y para más de veinte son 35.",
+    "referencia": {
+      "tipo": "Tiempo de descanso",
+      "titulo": "Vacaciones y licencias pagas",
+      "entradaLibro": "dl_licencias"
+    }
+  },
+  {
+    "id": "err-dl-extincion",
+    "unidad": "derecho_laboral",
+    "tipo": "error",
+    "titulo": "Quién termina el vínculo",
+    "situacion": "Un colega te pasa este resumen sobre «Quién termina el vínculo» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "En la renuncia, la decisión de terminar el vínculo pertenece al trabajador.",
+      "El despido indirecto justificado se trata como renuncia sin indemnizaciones por despido.",
+      "El despido sin causa es decidido por el empleador sin imputar una injuria suficiente.",
+      "En un despido con causa, el incumplimiento invocado requiere gravedad, contexto, proporcionalidad y prueba.",
+      "La causa debe comunicarse por escrito con claridad y no puede reemplazarse después por una diferente."
+    ],
+    "incorrecta": 1,
+    "correccion": "El despido indirecto justificado puede generar las indemnizaciones de los arts. 232, 233 y 245 según sus presupuestos.",
+    "respuestaCorrecta": "El despido indirecto justificado se trata como renuncia sin indemnizaciones por despido.",
+    "respuestasIncorrectas": [
+      "En la renuncia, la decisión de terminar el vínculo pertenece al trabajador.",
+      "El despido sin causa es decidido por el empleador sin imputar una injuria suficiente.",
+      "En un despido con causa, el incumplimiento invocado requiere gravedad, contexto, proporcionalidad y prueba.",
+      "La causa debe comunicarse por escrito con claridad y no puede reemplazarse después por una diferente."
+    ],
+    "pista": "No alcanza con observar quién envía la comunicación: también importa a quién se atribuye la falta grave.",
+    "explicacion": "Lo correcto es: «El despido indirecto justificado puede generar las indemnizaciones de los arts. 232, 233 y 245 según sus presupuestos.» El despido indirecto justificado puede generar las indemnizaciones de los arts. 232, 233 y 245 según sus presupuestos. Lo comunica el trabajador por incumplimiento grave patronal; no equivale a una renuncia voluntaria sin esa imputación.",
+    "referencia": {
+      "tipo": "Fin del vínculo",
+      "titulo": "Renuncia y formas de despido",
+      "entradaLibro": "dl_extincion"
+    }
+  },
+  {
+    "id": "err-dl-rubros",
+    "unidad": "derecho_laboral",
+    "tipo": "error",
+    "titulo": "Pagos distintos al terminar",
+    "situacion": "Un colega te pasa este resumen sobre «Pagos distintos al terminar» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La liquidación final puede incluir salarios pendientes, SAC proporcional y compensación por vacaciones no gozadas.",
+      "Fuera de prueba, el preaviso patronal general es de un mes hasta cinco años de antigüedad y dos meses si los supera.",
+      "En la regla del art. 245, una fracción de tres meses exactos agrega un mes de base al cómputo por años completos.",
+      "La indemnización sustitutiva de preaviso corresponde cuando se omite un aviso que debía darse.",
+      "La integración del art. 233 cubre los días faltantes del mes bajo sus presupuestos y se excluye durante prueba."
+    ],
+    "incorrecta": 2,
+    "correccion": "En la regla del art. 245, la fracción debe ser mayor de tres meses para agregar un mes de base al cómputo por años completos.",
+    "respuestaCorrecta": "En la regla del art. 245, una fracción de tres meses exactos agrega un mes de base al cómputo por años completos.",
+    "respuestasIncorrectas": [
+      "La liquidación final puede incluir salarios pendientes, SAC proporcional y compensación por vacaciones no gozadas.",
+      "Fuera de prueba, el preaviso patronal general es de un mes hasta cinco años de antigüedad y dos meses si los supera.",
+      "La indemnización sustitutiva de preaviso corresponde cuando se omite un aviso que debía darse.",
+      "La integración del art. 233 cubre los días faltantes del mes bajo sus presupuestos y se excluye durante prueba."
+    ],
+    "pista": "Distinguí llegar al umbral temporal de superarlo; la regla no expresa esas dos cosas del mismo modo.",
+    "explicacion": "Lo correcto es: «En la regla del art. 245, la fracción debe ser mayor de tres meses para agregar un mes de base al cómputo por años completos.» En la regla del art. 245, la fracción debe ser mayor de tres meses para agregar un mes de base al cómputo por años completos. Esto no determina por sí solo una liquidación total: preaviso, integración y conceptos finales se revisan por separado.",
+    "referencia": {
+      "tipo": "Fin del vínculo",
+      "titulo": "Liquidación, preaviso y antigüedad",
+      "entradaLibro": "dl_indemnizaciones"
+    }
+  },
+  {
+    "id": "err-dl-art",
+    "unidad": "derecho_laboral",
+    "tipo": "error",
+    "titulo": "Riesgos y prestaciones",
+    "situacion": "Un colega te pasa este resumen sobre «Riesgos y prestaciones» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "Tener ART no libera al empleador de capacitar ni de mantener condiciones adecuadas de seguridad.",
+      "El accidente in itinere corresponde al trayecto protegido entre el domicilio y el trabajo.",
+      "La ART brinda asistencia, medicamentos, rehabilitación, prótesis y prestaciones económicas en los supuestos cubiertos.",
+      "Una dolencia queda reconocida como profesional por el solo hecho de que la persona use computadora.",
+      "Las Comisiones Médicas intervienen en controversias como alta e incapacidad según el procedimiento aplicable."
+    ],
+    "incorrecta": 3,
+    "correccion": "Una enfermedad profesional exige vinculación laboral en los términos del sistema; usar computadora no basta para reconocerla.",
+    "respuestaCorrecta": "Una dolencia queda reconocida como profesional por el solo hecho de que la persona use computadora.",
+    "respuestasIncorrectas": [
+      "Tener ART no libera al empleador de capacitar ni de mantener condiciones adecuadas de seguridad.",
+      "El accidente in itinere corresponde al trayecto protegido entre el domicilio y el trabajo.",
+      "La ART brinda asistencia, medicamentos, rehabilitación, prótesis y prestaciones económicas en los supuestos cubiertos.",
+      "Las Comisiones Médicas intervienen en controversias como alta e incapacidad según el procedimiento aplicable."
+    ],
+    "pista": "Coincidir una ocupación y un problema de salud no demuestra por sí solo la relación exigida para la cobertura.",
+    "explicacion": "Lo correcto es: «Una enfermedad profesional exige vinculación laboral en los términos del sistema; usar computadora no basta para reconocerla.» Una enfermedad profesional exige vinculación laboral en los términos del sistema; usar computadora no basta para reconocerla. El sistema distingue contingencias y exige examinar las condiciones de reconocimiento, sin automatismos por profesión.",
+    "referencia": {
+      "tipo": "Salud y seguridad",
+      "titulo": "ART, prevención y trayecto",
+      "entradaLibro": "dl_riesgos"
+    }
+  },
+  {
+    "id": "err-dl-seclo",
+    "unidad": "derecho_laboral",
+    "tipo": "error",
+    "titulo": "Jurisdicción y conciliación",
+    "situacion": "Un colega te pasa este resumen sobre «Jurisdicción y conciliación» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "SECLO atiende conflictos individuales y pluriindividuales de competencia de la Justicia Nacional del Trabajo.",
+      "En su ámbito, la Ley 24.635 prevé instancia previa obligatoria con excepciones como amparos y cautelares.",
+      "La conciliación no obliga al trabajador a aceptar la oferta de la empresa.",
+      "El acuerdo conciliatorio requiere control y homologación, distintos de la mera presentación de una propuesta.",
+      "SECLO es la instancia previa de los conflictos laborales de competencia de la justicia provincial."
+    ],
+    "incorrecta": 4,
+    "correccion": "SECLO no es una instancia uniforme de las provincias: su ámbito corresponde a la competencia de la Justicia Nacional del Trabajo.",
+    "respuestaCorrecta": "SECLO es la instancia previa de los conflictos laborales de competencia de la justicia provincial.",
+    "respuestasIncorrectas": [
+      "SECLO atiende conflictos individuales y pluriindividuales de competencia de la Justicia Nacional del Trabajo.",
+      "En su ámbito, la Ley 24.635 prevé instancia previa obligatoria con excepciones como amparos y cautelares.",
+      "La conciliación no obliga al trabajador a aceptar la oferta de la empresa.",
+      "El acuerdo conciliatorio requiere control y homologación, distintos de la mera presentación de una propuesta."
+    ],
+    "pista": "Que un conflicto sea laboral no define por sí solo cuál es su jurisdicción y procedimiento.",
+    "explicacion": "Lo correcto es: «SECLO no es una instancia uniforme de las provincias: su ámbito corresponde a la competencia de la Justicia Nacional del Trabajo.» SECLO no es una instancia uniforme de las provincias: su ámbito corresponde a la competencia de la Justicia Nacional del Trabajo. Antes de indicar una instancia previa hay que identificar la jurisdicción; tampoco debe confundirse esta conciliación individual con la de conflictos colectivos.",
+    "referencia": {
+      "tipo": "Reclamar y demostrar",
+      "titulo": "SECLO, jurisdicción y prueba",
+      "entradaLibro": "dl_reclamos_prueba"
+    }
+  },
+  {
+    "id": "err-ep-habilitacion",
+    "unidad": "ejercicio_profesional",
+    "tipo": "error",
+    "titulo": "Del título al acto concreto",
+    "situacion": "Un colega te pasa este resumen sobre «Del título al acto concreto» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La matrícula amplía por sí sola los alcances del título que acredita el profesional.",
+      "El diploma acredita formación y una denominación profesional.",
+      "El análisis de habilitación debe atender al acto concreto y a su jurisdicción.",
+      "El artículo 2 del Decreto-Ley 6070/58 comprende actividades gratuitas y remuneradas.",
+      "El carácter interno de un trabajo no crea por sí solo una exención general de matrícula."
+    ],
+    "incorrecta": 0,
+    "correccion": "La matrícula no amplía por sí sola los alcances del título que acredita el profesional.",
+    "respuestaCorrecta": "La matrícula amplía por sí sola los alcances del título que acredita el profesional.",
+    "respuestasIncorrectas": [
+      "El diploma acredita formación y una denominación profesional.",
+      "El análisis de habilitación debe atender al acto concreto y a su jurisdicción.",
+      "El artículo 2 del Decreto-Ley 6070/58 comprende actividades gratuitas y remuneradas.",
+      "El carácter interno de un trabajo no crea por sí solo una exención general de matrícula."
+    ],
+    "pista": "Pensá si inscribirse convierte a alguien en egresado de otra especialidad.",
+    "explicacion": "Lo correcto es: «La matrícula no amplía por sí sola los alcances del título que acredita el profesional.» La matrícula no amplía por sí sola los alcances del título que acredita el profesional. Título, funciones y registro responden preguntas distintas; los artículos 11 y 12 relacionan esos elementos sin crear habilitación universal.",
+    "referencia": {
+      "tipo": "Habilitación",
+      "titulo": "Título, alcances, matrícula y territorio",
+      "entradaLibro": "ep_habilitacion"
+    }
+  },
+  {
+    "id": "err-ep-instituciones",
+    "unidad": "ejercicio_profesional",
+    "tipo": "error",
+    "titulo": "Instituciones y funciones",
+    "situacion": "Un colega te pasa este resumen sobre «Instituciones y funciones» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "CPCIBA es la referencia de ciencias informáticas de PBA bajo la Ley 13.016.",
+      "La asociación civil CPCI de CABA otorga una matrícula legal equivalente a COPITEC.",
+      "CESSI es una cámara empresaria y no sustituye la habilitación de quien firma.",
+      "Los sindicatos del material representan intereses laborales, sin otorgar habilitación profesional.",
+      "El reparto entre CPCIBA y Colegio de Ingenieros requiere analizar título, tarea e incumbencias."
+    ],
+    "incorrecta": 1,
+    "correccion": "La pertenencia a la asociación civil CPCI de CABA no sustituye una matrícula legal.",
+    "respuestaCorrecta": "La asociación civil CPCI de CABA otorga una matrícula legal equivalente a COPITEC.",
+    "respuestasIncorrectas": [
+      "CPCIBA es la referencia de ciencias informáticas de PBA bajo la Ley 13.016.",
+      "CESSI es una cámara empresaria y no sustituye la habilitación de quien firma.",
+      "Los sindicatos del material representan intereses laborales, sin otorgar habilitación profesional.",
+      "El reparto entre CPCIBA y Colegio de Ingenieros requiere analizar título, tarea e incumbencias."
+    ],
+    "pista": "Diferenciá una adhesión voluntaria de una inscripción bajo funciones públicas delegadas.",
+    "explicacion": "Lo correcto es: «La pertenencia a la asociación civil CPCI de CABA no sustituye una matrícula legal.» La pertenencia a la asociación civil CPCI de CABA no sustituye una matrícula legal. Las siglas parecidas no equiparan su naturaleza a COPITEC o CPCIBA, y representación laboral o empresaria tampoco habilita firmas.",
+    "referencia": {
+      "tipo": "Habilitación",
+      "titulo": "Consejos, asociaciones y representación",
+      "entradaLibro": "ep_instituciones"
+    }
+  },
+  {
+    "id": "err-ep-etica",
+    "unidad": "ejercicio_profesional",
+    "tipo": "error",
+    "titulo": "Independencia en el asesoramiento",
+    "situacion": "Un colega te pasa este resumen sobre «Independencia en el asesoramiento» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "El código exige guardar secreto, salvo obligación legal de revelarlo.",
+      "La firma requiere haber estudiado, ejecutado o controlado personalmente la documentación.",
+      "Se permite aceptar beneficios de un proveedor interesado si paga después del asesoramiento.",
+      "No corresponde prometer un servicio ajeno a la capacidad personal.",
+      "La orden del cliente no habilita a ejecutar actos contrarios a la buena técnica."
+    ],
+    "incorrecta": 2,
+    "correccion": "Corresponde rechazar beneficios de un proveedor interesado, aunque pague después del asesoramiento.",
+    "respuestaCorrecta": "Se permite aceptar beneficios de un proveedor interesado si paga después del asesoramiento.",
+    "respuestasIncorrectas": [
+      "El código exige guardar secreto, salvo obligación legal de revelarlo.",
+      "La firma requiere haber estudiado, ejecutado o controlado personalmente la documentación.",
+      "No corresponde prometer un servicio ajeno a la capacidad personal.",
+      "La orden del cliente no habilita a ejecutar actos contrarios a la buena técnica."
+    ],
+    "pista": "Mover la fecha de una comisión no elimina el incentivo para favorecer a quien la ofrece.",
+    "explicacion": "Lo correcto es: «Corresponde rechazar beneficios de un proveedor interesado, aunque pague después del asesoramiento.» Corresponde rechazar beneficios de un proveedor interesado, aunque pague después del asesoramiento. La independencia profesional debe preservarse junto con la reserva, la capacidad técnica y la intervención personal necesaria para firmar.",
+    "referencia": {
+      "tipo": "Ética",
+      "titulo": "Firma, independencia, reserva y colegas",
+      "entradaLibro": "ep_etica"
+    }
+  },
+  {
+    "id": "err-ep-disciplina",
+    "unidad": "ejercicio_profesional",
+    "tipo": "error",
+    "titulo": "Defensa y sanciones del texto",
+    "situacion": "Un colega te pasa este resumen sobre «Defensa y sanciones del texto» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "El código contempla prueba y asistencia letrada en la causa ética.",
+      "El rechazo manifiesto es apelable ante Junta Central en cinco días hábiles según el material.",
+      "La suspensión prevista en el artículo 28 va de un mes a dos años.",
+      "El descargo para domiciliados en Capital Federal tiene seis días según el texto leído.",
+      "La expresión de multa en moneda nacional es histórica y no acredita una cuantificación actual."
+    ],
+    "incorrecta": 3,
+    "correccion": "El descargo para domiciliados en Capital Federal tiene diez días hábiles según el texto leído.",
+    "respuestaCorrecta": "El descargo para domiciliados en Capital Federal tiene seis días según el texto leído.",
+    "respuestasIncorrectas": [
+      "El código contempla prueba y asistencia letrada en la causa ética.",
+      "El rechazo manifiesto es apelable ante Junta Central en cinco días hábiles según el material.",
+      "La suspensión prevista en el artículo 28 va de un mes a dos años.",
+      "La expresión de multa en moneda nacional es histórica y no acredita una cuantificación actual."
+    ],
+    "pista": "No confundas la primera defensa con el traslado del informe posterior para alegar.",
+    "explicacion": "Lo correcto es: «El descargo para domiciliados en Capital Federal tiene diez días hábiles según el texto leído.» El descargo para domiciliados en Capital Federal tiene diez días hábiles según el texto leído. Los seis días corresponden al alegato sobre el informe posterior; para tramitar una causa actual se revisan además las disposiciones complementarias.",
+    "referencia": {
+      "tipo": "Ética",
+      "titulo": "Causa ética, sanciones y límites",
+      "entradaLibro": "ep_disciplina"
+    }
+  },
+  {
+    "id": "err-ep-convenio",
+    "unidad": "ejercicio_profesional",
+    "tipo": "error",
+    "titulo": "Cooperación y requisitos personales",
+    "situacion": "Un colega te pasa este resumen sobre «Cooperación y requisitos personales» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "El convenio marco leído organiza cooperación institucional en tecnologías de información y comunicaciones.",
+      "Cada actividad requiere acuerdos específicos mediante Anexos Operativos Complementarios.",
+      "El personal conserva su dependencia de origen durante la ejecución de las actividades.",
+      "La cláusula séptima prevé tres años desde la firma y denuncia con treinta días corridos de anticipación.",
+      "El anexo operativo otorga matrícula automática a los graduados que participen en el proyecto."
+    ],
+    "incorrecta": 4,
+    "correccion": "El anexo operativo concreta actividades de cooperación y no otorga matrícula automática a graduados.",
+    "respuestaCorrecta": "El anexo operativo otorga matrícula automática a los graduados que participen en el proyecto.",
+    "respuestasIncorrectas": [
+      "El convenio marco leído organiza cooperación institucional en tecnologías de información y comunicaciones.",
+      "Cada actividad requiere acuerdos específicos mediante Anexos Operativos Complementarios.",
+      "El personal conserva su dependencia de origen durante la ejecución de las actividades.",
+      "La cláusula séptima prevé tres años desde la firma y denuncia con treinta días corridos de anticipación."
+    ],
+    "pista": "Organizar equipos y recursos de un proyecto no resuelve la habilitación individual para firmar.",
+    "explicacion": "Lo correcto es: «El anexo operativo concreta actividades de cooperación y no otorga matrícula automática a graduados.» El anexo operativo concreta actividades de cooperación y no otorga matrícula automática a graduados. Las cláusulas tampoco amplían incumbencias ni garantizan empleo, y estudiar su duración no prueba vigencia actual.",
+    "referencia": {
+      "tipo": "Cooperación",
+      "titulo": "Qué organiza el convenio UNDAV–COPITEC",
+      "entradaLibro": "ep_convenio"
+    }
+  },
+  {
+    "id": "err-ep-cid",
+    "unidad": "ejercicio_profesional",
+    "tipo": "error",
+    "titulo": "Tres objetivos de protección",
+    "situacion": "Un colega te pasa este resumen sobre «Tres objetivos de protección» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "La integridad limita quién puede leer la información reservada.",
+      "La confidencialidad limita el acceso a personas autorizadas.",
+      "La integridad protege información completa, exacta y sin cambios no autorizados.",
+      "La disponibilidad permite acceder a información y sistemas cuando se necesitan.",
+      "Una caída del servicio no demuestra por sí sola que alguien haya leído o alterado registros."
+    ],
+    "incorrecta": 0,
+    "correccion": "La confidencialidad limita quién puede leer la información reservada.",
+    "respuestaCorrecta": "La integridad limita quién puede leer la información reservada.",
+    "respuestasIncorrectas": [
+      "La confidencialidad limita el acceso a personas autorizadas.",
+      "La integridad protege información completa, exacta y sin cambios no autorizados.",
+      "La disponibilidad permite acceder a información y sistemas cuando se necesitan.",
+      "Una caída del servicio no demuestra por sí sola que alguien haya leído o alterado registros."
+    ],
+    "pista": "Separá conocer un dato ajeno, cambiar su valor y no poder usar el servicio.",
+    "explicacion": "Lo correcto es: «La confidencialidad limita quién puede leer la información reservada.» La confidencialidad limita quién puede leer la información reservada. Integridad se refiere a exactitud y ausencia de cambios no autorizados; disponibilidad se refiere a poder acceder cuando se necesita.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Información, tríada CID y riesgo",
+      "entradaLibro": "ep_riesgo_cid"
+    }
+  },
+  {
+    "id": "err-ep-riesgo",
+    "unidad": "ejercicio_profesional",
+    "tipo": "error",
+    "titulo": "Hallazgo y evaluación de riesgo",
+    "situacion": "Un colega te pasa este resumen sobre «Hallazgo y evaluación de riesgo» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "Una vulnerabilidad es una debilidad explotable.",
+      "Hallar una vulnerabilidad demuestra que ya ocurrió un incidente de seguridad.",
+      "Una amenaza es un evento potencialmente perjudicial.",
+      "El riesgo combina posibilidad de ocurrencia e impacto sobre los activos.",
+      "Los errores humanos pueden ser amenazas internas, además de los actos deliberados."
+    ],
+    "incorrecta": 1,
+    "correccion": "Hallar una vulnerabilidad no demuestra por sí solo que ya ocurrió un incidente de seguridad.",
+    "respuestaCorrecta": "Hallar una vulnerabilidad demuestra que ya ocurrió un incidente de seguridad.",
+    "respuestasIncorrectas": [
+      "Una vulnerabilidad es una debilidad explotable.",
+      "Una amenaza es un evento potencialmente perjudicial.",
+      "El riesgo combina posibilidad de ocurrencia e impacto sobre los activos.",
+      "Los errores humanos pueden ser amenazas internas, además de los actos deliberados."
+    ],
+    "pista": "Una puerta mal cerrada puede encontrarse antes de que alguien entre por ella.",
+    "explicacion": "Lo correcto es: «Hallar una vulnerabilidad no demuestra por sí solo que ya ocurrió un incidente de seguridad.» Hallar una vulnerabilidad no demuestra por sí solo que ya ocurrió un incidente de seguridad. La evaluación distingue una debilidad presente de un evento potencial y de la combinación de posibilidad e impacto.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Información, tríada CID y riesgo",
+      "entradaLibro": "ep_riesgo_cid"
+    }
+  },
+  {
+    "id": "err-ep-controles",
+    "unidad": "ejercicio_profesional",
+    "tipo": "error",
+    "titulo": "Barreras y analogías de seguridad",
+    "situacion": "Un colega te pasa este resumen sobre «Barreras y analogías de seguridad» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "El mínimo privilegio limita accesos a lo necesario para la tarea.",
+      "El análisis de logs puede ayudar a detectar actividad anómala.",
+      "Las capas 8 y 9 del apunte son ampliaciones oficiales del modelo OSI.",
+      "La defensa en profundidad combina barreras técnicas, humanas y organizativas.",
+      "Aislar un equipo comprometido puede contener la propagación de un incidente."
+    ],
+    "incorrecta": 2,
+    "correccion": "Las capas 8 y 9 del apunte son analogías sobre usuarios, políticas y organización, no capas oficiales de OSI.",
+    "respuestaCorrecta": "Las capas 8 y 9 del apunte son ampliaciones oficiales del modelo OSI.",
+    "respuestasIncorrectas": [
+      "El mínimo privilegio limita accesos a lo necesario para la tarea.",
+      "El análisis de logs puede ayudar a detectar actividad anómala.",
+      "La defensa en profundidad combina barreras técnicas, humanas y organizativas.",
+      "Aislar un equipo comprometido puede contener la propagación de un incidente."
+    ],
+    "pista": "El material usa una metáfora para incluir a las personas y sus procedimientos.",
+    "explicacion": "Lo correcto es: «Las capas 8 y 9 del apunte son analogías sobre usuarios, políticas y organización, no capas oficiales de OSI.» Las capas 8 y 9 del apunte son analogías sobre usuarios, políticas y organización, no capas oficiales de OSI. Las barreras complementarias se distribuyen entre prevención, detección y respuesta según su función.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Prevenir, detectar y responder",
+      "entradaLibro": "ep_controles"
+    }
+  },
+  {
+    "id": "err-ep-continuidad",
+    "unidad": "ejercicio_profesional",
+    "tipo": "error",
+    "titulo": "Volver a operar y recuperar datos",
+    "situacion": "Un colega te pasa este resumen sobre «Volver a operar y recuperar datos» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "El BCP sostiene el funcionamiento organizacional durante una crisis.",
+      "El DRP se centra en recuperar sistemas, datos y servicios tecnológicos.",
+      "El RTO fija un tiempo objetivo para recuperar el servicio.",
+      "El RPO fija cuánto puede durar la interrupción del servicio.",
+      "Tener una copia no demuestra por sí solo que se puedan cumplir los objetivos de recuperación."
+    ],
+    "incorrecta": 3,
+    "correccion": "El RPO fija el punto temporal al que deben recuperarse los datos y expresa la pérdida temporal tolerada.",
+    "respuestaCorrecta": "El RPO fija cuánto puede durar la interrupción del servicio.",
+    "respuestasIncorrectas": [
+      "El BCP sostiene el funcionamiento organizacional durante una crisis.",
+      "El DRP se centra en recuperar sistemas, datos y servicios tecnológicos.",
+      "El RTO fija un tiempo objetivo para recuperar el servicio.",
+      "Tener una copia no demuestra por sí solo que se puedan cumplir los objetivos de recuperación."
+    ],
+    "pista": "Diferenciá perder quince minutos de ventas de mantener dos horas cerrada la caja.",
+    "explicacion": "Lo correcto es: «El RPO fija el punto temporal al que deben recuperarse los datos y expresa la pérdida temporal tolerada.» El RPO fija el punto temporal al que deben recuperarse los datos y expresa la pérdida temporal tolerada. El RTO limita la interrupción; las pruebas deben comprobar tanto rapidez de restauración como información recuperable.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Continuidad, recuperación, RTO y RPO",
+      "entradaLibro": "ep_continuidad"
+    }
+  },
+  {
+    "id": "err-ep-marcos",
+    "unidad": "ejercicio_profesional",
+    "tipo": "error",
+    "titulo": "Fuentes de ciberseguridad",
+    "situacion": "Un colega te pasa este resumen sobre «Fuentes de ciberseguridad» para que lo revises. Una de las oraciones tiene un error.",
+    "pregunta": "¿Cuál es la oración incorrecta?",
+    "oraciones": [
+      "NIST CSF 2.0 incorpora Gobernar y reúne seis funciones.",
+      "El artículo 9 de la Ley 25.326 establece el deber legal de seguridad de los datos.",
+      "La Resolución AAIP 47/2018 aprueba medidas recomendadas.",
+      "La Ley 27.401 tiene un catálogo específico y no cubre de modo general la negligencia informática.",
+      "La RG CNV 856/2020 establece medidas generales de ciberseguridad y reporte de incidentes."
+    ],
+    "incorrecta": 4,
+    "correccion": "La RG CNV 856/2020 trata restricciones y condiciones de operaciones con valores negociables.",
+    "respuestaCorrecta": "La RG CNV 856/2020 establece medidas generales de ciberseguridad y reporte de incidentes.",
+    "respuestasIncorrectas": [
+      "NIST CSF 2.0 incorpora Gobernar y reúne seis funciones.",
+      "El artículo 9 de la Ley 25.326 establece el deber legal de seguridad de los datos.",
+      "La Resolución AAIP 47/2018 aprueba medidas recomendadas.",
+      "La Ley 27.401 tiene un catálogo específico y no cubre de modo general la negligencia informática."
+    ],
+    "pista": "Una referencia copiada puede ser real y, aun así, ocuparse de otra materia.",
+    "explicacion": "Lo correcto es: «La RG CNV 856/2020 trata restricciones y condiciones de operaciones con valores negociables.» La RG CNV 856/2020 trata restricciones y condiciones de operaciones con valores negociables. No respalda la atribución del PDF sobre ciberseguridad; las fuentes tampoco verificaron plazos sectoriales concretos de BCRA o ENACOM.",
+    "referencia": {
+      "tipo": "Ciberseguridad",
+      "titulo": "Marcos, obligaciones y responsabilidad",
+      "entradaLibro": "ep_normas_ciber"
+    }
   }
 ]

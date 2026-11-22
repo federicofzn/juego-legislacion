@@ -1,0 +1,162 @@
+[
+  {
+    "id": "err-pi-organismos",
+    "titulo": "Elegir el organismo",
+    "oraciones": [
+      "El INPI se ocupa del registro de obras dentro del derecho de autor.",
+      "La DNDA interviene en el régimen del derecho de autor.",
+      "El INPI se ocupa de marcas y patentes dentro de la propiedad industrial.",
+      "OMPI y WIPO son siglas del mismo organismo en dos idiomas.",
+      "La protección autoral recae en la expresión original y no en la idea abstracta."
+    ],
+    "incorrecta": 0,
+    "correccion": "La DNDA se ocupa del registro de obras dentro del derecho de autor.",
+    "pista": "Compará el objeto del trámite con la competencia de cada oficina.",
+    "explicacion": "La DNDA se ocupa del registro de obras dentro del derecho de autor. La propiedad industrial corresponde al INPI; la organización internacional no reemplaza esos trámites nacionales.",
+    "libro": "pi_obras_organismos"
+  },
+  {
+    "id": "err-pi-autoria",
+    "titulo": "Quién crea y quién explota",
+    "oraciones": [
+      "La paternidad protege el reconocimiento de la autoría de la obra.",
+      "Pagar un encargo a un proveedor independiente transmite por sí solo sus derechos patrimoniales.",
+      "La regla del artículo 4, inciso d, contempla software dependiente creado en las funciones contratadas.",
+      "Un titular patrimonial puede estar habilitado para explotar una obra sin haberla creado.",
+      "La cesión económica no convierte al editor en autor de la novela."
+    ],
+    "incorrecta": 1,
+    "correccion": "Pagar un encargo a un proveedor independiente no transmite por sí solo sus derechos patrimoniales.",
+    "pista": "Identificá el vínculo de trabajo antes de aplicar la regla especial.",
+    "explicacion": "Pagar un encargo a un proveedor independiente no transmite por sí solo sus derechos patrimoniales. En el encargo externo deben precisarse licencia o cesión, código fuente, entregables y usos; la regla del software dependiente no se traslada por el solo pago.",
+    "libro": "pi_autoria"
+  },
+  {
+    "id": "err-pi-software",
+    "titulo": "Permisos sobre el programa",
+    "oraciones": [
+      "Una licencia de uso no incluye necesariamente el acceso al código fuente.",
+      "Una cesión transmite derechos dentro del alcance acordado.",
+      "La copia de salvaguardia permite entregar el programa a otro estudio sin licencia.",
+      "El NDA impone confidencialidad sin conceder por sí mismo una patente.",
+      "La organización original de una base puede protegerse sin apropiarse de cada dato."
+    ],
+    "incorrecta": 2,
+    "correccion": "La copia de salvaguardia permite reemplazar el ejemplar licenciado perdido o inutilizado.",
+    "pista": "Pensá en la contingencia para la que se conserva el respaldo.",
+    "explicacion": "La copia de salvaguardia permite reemplazar el ejemplar licenciado perdido o inutilizado. El artículo 9 regula una copia identificada con función de reemplazo, no un permiso de distribución a terceros.",
+    "libro": "pi_software"
+  },
+  {
+    "id": "err-pi-dominio-publico",
+    "titulo": "Publicar una obra antigua",
+    "oraciones": [
+      "La regla general patrimonial es vida del autor más setenta años, con el cómputo legal.",
+      "Una traducción original reciente puede seguir protegida aunque el original esté en dominio público.",
+      "El registro DNDA aporta fecha cierta y herramientas de prueba.",
+      "El dominio público pagante se limita a obras de autores nacionales.",
+      "Una grabación nueva puede tener derechos conexos aunque haya vencido la composición."
+    ],
+    "incorrecta": 3,
+    "correccion": "El dominio público pagante puede comprender obras de autores nacionales y extranjeros.",
+    "pista": "Que el original sea extranjero no resuelve el análisis del uso proyectado.",
+    "explicacion": "El dominio público pagante puede comprender obras de autores nacionales y extranjeros. El FNA indica ese alcance; deben revisarse el tipo de utilización y las exenciones aplicables, sin presumir un pago ni una exención para todo uso.",
+    "libro": "pi_registro_plazos"
+  },
+  {
+    "id": "err-pi-cc",
+    "titulo": "Las condiciones de CC",
+    "oraciones": [
+      "BY exige reconocer la autoría conforme a la licencia.",
+      "NC limita los usos comerciales.",
+      "SA exige compartir las adaptaciones con la misma licencia.",
+      "Una licencia CC mantiene derechos y condiciones y no equivale a dominio público.",
+      "ND permite compartir adaptaciones con la misma licencia."
+    ],
+    "incorrecta": 4,
+    "correccion": "ND impide compartir material adaptado bajo esa licencia.",
+    "pista": "Compará la condición que mantiene permisos con la que limita versiones cambiadas.",
+    "explicacion": "ND impide compartir material adaptado bajo esa licencia. SA regula cómo compartir las adaptaciones permitidas; ND no debe confundirse con esa condición.",
+    "libro": "pi_cc"
+  },
+  {
+    "id": "err-pi-tipos-marca",
+    "titulo": "Cómo se compone el signo",
+    "oraciones": [
+      "La marca figurativa está formada por palabras sin reivindicar un diseño particular.",
+      "La marca denominativa puede consistir en palabras, letras o números.",
+      "La marca mixta combina denominación y gráficos o utiliza una grafía estilizada.",
+      "El naming elige un nombre para identidad y diferenciación comercial.",
+      "La búsqueda de antecedentes debe considerar semejanzas fonéticas, visuales o conceptuales."
+    ],
+    "incorrecta": 0,
+    "correccion": "La marca figurativa está formada por elementos gráficos sin letras ni números.",
+    "pista": "Observá si hay algo para leer además de la imagen del signo.",
+    "explicacion": "La marca figurativa está formada por elementos gráficos sin letras ni números. La descripción de palabras sin diseño corresponde a una denominativa, mientras que la figurativa se distingue por sus componentes gráficos sin texto.",
+    "libro": "pi_marcas"
+  },
+  {
+    "id": "err-pi-tramite-marca",
+    "titulo": "Publicación y vigencia",
+    "oraciones": [
+      "Niza reúne treinta y cuatro clases de productos y once de servicios.",
+      "El artículo 13 fija treinta días hábiles desde la publicación para oponerse.",
+      "TMclass ayuda a identificar descripciones y clases de productos y servicios.",
+      "La marca registrada dura diez años desde la concesión, renovables con requisitos.",
+      "La vista es una observación del trámite que debe responderse."
+    ],
+    "incorrecta": 1,
+    "correccion": "El artículo 13 fija treinta días corridos desde la publicación para oponerse.",
+    "pista": "Comprobá el tipo de días, además del acto que inicia el cómputo.",
+    "explicacion": "El artículo 13 fija treinta días corridos desde la publicación para oponerse. La Ley 22.362 no toma como inicio el descubrimiento personal de la solicitud; publicación y concesión cumplen funciones distintas.",
+    "libro": "pi_tramite_marca"
+  },
+  {
+    "id": "err-pi-industria",
+    "titulo": "Tres objetos y sus plazos",
+    "oraciones": [
+      "La patente exige requisitos como novedad, actividad inventiva y aplicación industrial.",
+      "El modelo de utilidad tiene diez años desde la solicitud, improrrogables.",
+      "La patente tiene diez años desde la solicitud, improrrogables.",
+      "El diseño industrial protege apariencia u ornamentación, no la solución técnica en sí.",
+      "El diseño tiene cinco años iniciales y dos renovaciones de cinco, hasta quince."
+    ],
+    "incorrecta": 2,
+    "correccion": "La patente tiene veinte años desde la solicitud, improrrogables.",
+    "pista": "Los dos regímenes técnicos no tienen la misma duración.",
+    "explicacion": "La patente tiene veinte años desde la solicitud, improrrogables. Los diez años corresponden al modelo de utilidad; los períodos de cinco con renovaciones pertenecen al diseño industrial.",
+    "libro": "pi_invenciones_tratados"
+  },
+  {
+    "id": "err-pi-dominios",
+    "titulo": "Administración de dominios",
+    "oraciones": [
+      "El DNS relaciona nombres con registros técnicos para localizar servicios.",
+      "ICANN coordina identificadores únicos del sistema mundial de Internet.",
+      "NIC administra las zonas bajo su competencia; .edu.ar corresponde a ARIU.",
+      "El artículo 20 del reglamento NIC establece registro por diez años.",
+      "Registrar una marca no reserva automáticamente el dominio del mismo nombre."
+    ],
+    "incorrecta": 3,
+    "correccion": "El artículo 20 del reglamento NIC establece registro por un año.",
+    "pista": "No traslades al identificador web la vigencia propia de otro registro.",
+    "explicacion": "El artículo 20 del reglamento NIC establece registro por un año. La Resolución SLyT 2/2022 prevé además períodos tras el vencimiento y reglas de renovación en el artículo 21.",
+    "libro": "pi_dominios"
+  },
+  {
+    "id": "err-pi-disputas",
+    "titulo": "Alcance de un reclamo",
+    "oraciones": [
+      "En una disputa NIC deben acreditarse el mejor derecho o interés legítimo y la prueba del caso.",
+      "La UDRP exige requisitos conjuntos, incluidos falta de interés legítimo y registro y uso de mala fe.",
+      "El handle identifica una cuenta dentro de una plataforma.",
+      "Una medida cautelar es provisional y no equivale a una sentencia definitiva.",
+      "La UDRP permite obtener una indemnización en dinero dentro de ese procedimiento."
+    ],
+    "incorrecta": 4,
+    "correccion": "La UDRP permite cancelación o transferencia del dominio, no una indemnización en dinero.",
+    "pista": "Separá resolver quién controla el identificador de reparar un perjuicio económico.",
+    "explicacion": "La UDRP permite cancelación o transferencia del dominio, no una indemnización en dinero. La política tiene remedios delimitados y no debe confundirse con el procedimiento local de NIC ni con los mecanismos de una red social.",
+    "libro": "pi_disputas_redes"
+  }
+]

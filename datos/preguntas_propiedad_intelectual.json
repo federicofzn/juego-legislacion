@@ -1,0 +1,740 @@
+[
+  {
+    "id": "pi-caso-01",
+    "tipo": "caso",
+    "titulo": "La idea de los turnos",
+    "situacion": "Lucía propone organizar turnos por una app. Tomás escribe desde cero otro programa con esa misma finalidad, sin copiar código ni textos de Lucía.",
+    "pregunta": "¿Qué protege el derecho de autor en este problema?",
+    "correcta": "La expresión original, no la idea abstracta de organizar turnos",
+    "incorrectas": [
+      "La finalidad de organizar turnos, aunque no exista un desarrollo",
+      "El método abstracto, por el solo anuncio del proyecto",
+      "La idea, si Lucía la comentó antes que Tomás",
+      "El concepto de app, si Lucía fijó un precio de venta",
+      "La actividad comercial de dar turnos, aunque no se copie una obra"
+    ],
+    "pista": "Separá el objetivo del servicio de lo que efectivamente se creó.",
+    "explicacion": "Coincidir en una finalidad no demuestra copia de una obra. La protección autoral recae en expresiones originales, como código y textos, sin monopolizar la idea abstracta.",
+    "libro": "pi_obras_organismos"
+  },
+  {
+    "id": "pi-caso-02",
+    "tipo": "clasificar",
+    "titulo": "Tres oficinas diferentes",
+    "situacion": "Un equipo quiere registrar su código, solicitar su marca y entender las siglas OMPI y WIPO que aparecen en el material de la materia.",
+    "pregunta": "¿Qué distribución de funciones es correcta?",
+    "correcta": "DNDA para obras; INPI para marcas; OMPI y WIPO son el mismo organismo",
+    "incorrectas": [
+      "INPI para obras; DNDA para marcas; OMPI y WIPO son el mismo organismo",
+      "DNDA para obras y marcas; OMPI y WIPO son registros nacionales distintos",
+      "OMPI para obras argentinas; WIPO para marcas argentinas; INPI solo coopera",
+      "DNDA para código; WIPO concede una marca universal que reemplaza al INPI",
+      "INPI para código y marcas; OMPI y WIPO administran solo dominios argentinos"
+    ],
+    "pista": "La cooperación internacional y los trámites nacionales tienen funciones distintas.",
+    "explicacion": "La DNDA se ocupa del derecho de autor; el INPI, de propiedad industrial. OMPI y WIPO nombran en dos idiomas a una misma organización internacional, sin crear una propiedad universal.",
+    "libro": "pi_obras_organismos"
+  },
+  {
+    "id": "pi-caso-03",
+    "tipo": "norma",
+    "titulo": "Una foto para el anuncio",
+    "situacion": "Una agencia compró derechos sobre una foto de Paula y quiere usar su rostro y voz en publicidad. Confunde el derecho al nombre con el artículo 53 del CCyC.",
+    "pregunta": "¿Qué referencias distinguen esos derechos?",
+    "correcta": "Imagen y voz: 53; consentimiento: 55; acciones sobre el nombre: 71",
+    "incorrectas": [
+      "Imagen y voz: 71; consentimiento: 55; acciones sobre el nombre: 53",
+      "Imagen y voz: 55; consentimiento: 71; acciones sobre el nombre: 53",
+      "Imagen y voz: 53; consentimiento: 71; acciones sobre el nombre: 55",
+      "Imagen y voz: 62; consentimiento: 53; acciones sobre el nombre: 55",
+      "Imagen y voz: 71; consentimiento: 53; acciones sobre el nombre: 62"
+    ],
+    "pista": "La autoría de la foto y la situación de la persona retratada requieren análisis separados.",
+    "explicacion": "El resumen corrige la numeración: artículos 53 y 55 para imagen/voz y consentimiento personalísimo, y artículo 71 para acciones sobre el nombre. Comprar la explotación de la foto no confunde esos derechos.",
+    "libro": "pi_obras_organismos"
+  },
+  {
+    "id": "pi-caso-04",
+    "tipo": "caso",
+    "titulo": "La editorial firma como autora",
+    "situacion": "Una escritora cede a una editorial la explotación de su novela. La editorial quiere quitar su nombre y publicar el libro presentándose como creadora.",
+    "pregunta": "¿Qué distinción impide justificar ese cambio por la cesión?",
+    "correcta": "La cesión patrimonial no convierte a la editorial en autora",
+    "incorrectas": [
+      "La cesión patrimonial convierte a la editorial en autora al pagar",
+      "La paternidad se transfiere junto con la distribución de ejemplares",
+      "La autoría corresponde a quien imprime la primera edición comercial",
+      "El reconocimiento de autoría solo existe mientras no haya una cesión",
+      "La titularidad económica reemplaza a la autoría cuando el libro se vende"
+    ],
+    "pista": "El contrato permite explotar la obra, pero hay otro vínculo que conservar.",
+    "explicacion": "Los derechos morales protegen el vínculo personal con la obra, incluida la paternidad. Los artículos 51 y 52 distinguen la cesión económica de la conservación de la autoría y fidelidad de la obra.",
+    "libro": "pi_autoria"
+  },
+  {
+    "id": "pi-caso-05",
+    "tipo": "caso",
+    "titulo": "Programar como dependiente",
+    "situacion": "Una empresa contrata a Elena como dependiente para elaborar software. Elena desarrolla el programa dentro de sus funciones y no hay pacto contrario.",
+    "pregunta": "¿Qué regla de titularidad patrimonial contempla el artículo 4, inciso d?",
+    "correcta": "La titularidad del empleador sobre ese software, salvo pacto contrario",
+    "incorrectas": [
+      "La titularidad exclusiva de Elena porque toda relación laboral es irrelevante",
+      "La titularidad del cliente final por el solo uso del programa",
+      "La titularidad del comprador del primer ejemplar del programa",
+      "La titularidad compartida con cada persona que probó el sistema",
+      "La titularidad del empleador solo si además compra un dominio"
+    ],
+    "pista": "Importan tanto el vínculo de trabajo como la tarea para la que fue contratada.",
+    "explicacion": "El artículo 4, inciso d, contempla a empleadores de dependientes contratados para elaborar software creado en sus funciones, salvo pacto contrario. La regla no transforma al empleador en creador material.",
+    "libro": "pi_autoria"
+  },
+  {
+    "id": "pi-caso-06",
+    "tipo": "caso",
+    "titulo": "Encargo a una profesional externa",
+    "situacion": "Una tienda paga a una programadora independiente por una aplicación. El acuerdo no precisa cesión, licencia, acceso al código fuente ni posibilidad de redistribuirla.",
+    "pregunta": "¿Qué debe aclarar la tienda antes de dar por adquiridos esos derechos?",
+    "correcta": "El alcance de la licencia o cesión, las fuentes, entregables y usos autorizados",
+    "incorrectas": [
+      "Que el pago aplicó automáticamente la regla del software dependiente",
+      "Que recibir un ejecutable transmitió por sí solo todo derecho patrimonial",
+      "Que encargar el trabajo convirtió a la tienda en creadora del programa",
+      "Que pagar un precio fijó una cesión idéntica a la relación de dependencia",
+      "Que el comprobante de pago autorizó por sí solo redistribuir las fuentes"
+    ],
+    "pista": "El caso describe un vínculo externo, no un puesto de trabajo dependiente.",
+    "explicacion": "La regla del artículo 4, inciso d, se refiere al software dependiente. Para un proveedor independiente hay que precisar licencia o cesión, código fuente, entregables y usos: el pago aislado no resuelve ese alcance.",
+    "libro": "pi_autoria"
+  },
+  {
+    "id": "pi-caso-07",
+    "tipo": "caso",
+    "titulo": "La copia que se reparte",
+    "situacion": "Un estudio conserva una copia identificada de un programa licenciado para reemplazar el ejemplar si se pierde. Luego propone enviarla a otro estudio para que también lo use.",
+    "pregunta": "¿Qué permite la copia de salvaguardia del artículo 9?",
+    "correcta": "Reemplazar el ejemplar licenciado perdido o inutilizado",
+    "incorrectas": [
+      "Dar un ejemplar a otro estudio aunque no tenga licencia",
+      "Instalar una copia por cada cliente que contrate al estudio",
+      "Comercializar el respaldo si se conserva el ejemplar original",
+      "Distribuir el respaldo siempre que se reconozca al programador",
+      "Convertir la copia de seguridad en una licencia transferible a terceros"
+    ],
+    "pista": "Preguntate para qué contingencia se conserva ese respaldo.",
+    "explicacion": "La copia de salvaguardia regulada por el artículo 9 tiene función de reemplazo y debe estar identificada. No es una autorización para distribuir el programa a terceros sin el permiso correspondiente.",
+    "libro": "pi_software"
+  },
+  {
+    "id": "pi-caso-08",
+    "tipo": "caso",
+    "titulo": "Pagar y pedir las fuentes",
+    "situacion": "Un consultorio compra una licencia para usar un programa de agenda y luego exige el código fuente para modificarlo y vender versiones a otras clínicas.",
+    "pregunta": "¿Qué permite concluir el pago de la licencia, por sí solo?",
+    "correcta": "Que deben comprobarse por separado los permisos de fuente, modificación y distribución",
+    "incorrectas": [
+      "Que incluyó el código fuente por ser un programa comercial",
+      "Que autorizó modificar y vender versiones aunque el contrato solo diga uso",
+      "Que convirtió al consultorio en cesionario integral del programa",
+      "Que autorizó distribución ilimitada porque se pagó el precio completo",
+      "Que incluyó una licencia abierta equivalente a dominio público"
+    ],
+    "pista": "Usar un ejemplar y explotar versiones nuevas son facultades distintas.",
+    "explicacion": "Uso, reproducción, modificación, distribución y acceso al código fuente deben diferenciarse. El artículo 55 bis contempla licencias de uso o reproducción; pagar una licencia no adquiere necesariamente las demás facultades.",
+    "libro": "pi_software"
+  },
+  {
+    "id": "pi-caso-09",
+    "tipo": "caso",
+    "titulo": "Los datos y su organización",
+    "situacion": "Una editorial de guías diseña una selección y organización original de datos públicos. Afirma que por eso pasó a tener derecho de autor exclusivo sobre cada dato aislado.",
+    "pregunta": "¿Cuál es el alcance autoral que debe distinguirse?",
+    "correcta": "Puede protegerse la selección u organización original, sin apropiarse de cada dato",
+    "incorrectas": [
+      "La selección original convierte cada dato público en obra exclusiva",
+      "La base protege cada dato aislado aunque la organización no sea original",
+      "La protección existe solo si cada dato fue inventado por la editorial",
+      "El acceso al conjunto concede al visitante la titularidad de toda la base",
+      "El derecho sobre la selección elimina la necesidad de revisar contratos"
+    ],
+    "pista": "Separá los elementos del conjunto de la manera en que fueron reunidos.",
+    "explicacion": "El resumen reconoce protección para selección u organización original de una base. Eso no crea exclusividad autoral sobre cada dato ni una regla automática para toda extracción; también pueden intervenir contratos y controles.",
+    "libro": "pi_software"
+  },
+  {
+    "id": "pi-caso-10",
+    "tipo": "concepto",
+    "titulo": "Guardar el secreto del prototipo",
+    "situacion": "Antes de mostrar un prototipo, un taller firma con un posible socio un NDA. El taller cree que ese documento ya equivale a una patente concedida.",
+    "pregunta": "¿Qué efecto corresponde atribuir al NDA?",
+    "correcta": "Impone confidencialidad; no concede por sí mismo una patente",
+    "incorrectas": [
+      "Concede la patente si el prototipo tiene una solución técnica",
+      "Transmite al socio los derechos de explotación del prototipo",
+      "Sustituye el examen de patentabilidad por el acuerdo privado",
+      "Registra la invención por veinte años desde la firma del acuerdo",
+      "Autoriza al socio a explotar el invento sin precisar una licencia"
+    ],
+    "pista": "Identificá qué obligación asumieron las personas al firmar.",
+    "explicacion": "El NDA es un acuerdo de confidencialidad. No crea por sí mismo una patente ni transmite derechos de explotación; licencia, cesión y reserva de información cumplen funciones diferentes.",
+    "libro": "pi_software"
+  },
+  {
+    "id": "pi-caso-11",
+    "tipo": "caso",
+    "titulo": "Una obra todavía no inscripta",
+    "situacion": "Un músico terminó una obra original y aún no hizo el trámite ante la DNDA. Un compañero dice que solo la inscripción puede convertirlo en autor.",
+    "pregunta": "¿Cómo se explica el registro sin confundirlo con la creación?",
+    "correcta": "Aporta prueba y fecha cierta; deben distinguirse creación y efectos registrales específicos",
+    "incorrectas": [
+      "Crea la autoría del músico únicamente desde que se paga el trámite",
+      "Reemplaza la necesidad de demostrar que existe una expresión original",
+      "Garantiza que no habrá controversias posteriores sobre la obra",
+      "Elimina los deberes registrales argentinos por aplicación de Berna",
+      "Convierte el nombre de la obra en marca sin un trámite adicional"
+    ],
+    "pista": "Distinguí el hecho creativo de la utilidad probatoria y los efectos de inscribir.",
+    "explicacion": "La DNDA aporta fecha cierta, prueba y publicidad. Berna reconoce protección sin formalidades, mientras que los artículos 57 y 63 argentinos contienen deberes y efectos específicos que deben analizarse según el supuesto.",
+    "libro": "pi_registro_plazos"
+  },
+  {
+    "id": "pi-caso-12",
+    "tipo": "norma",
+    "titulo": "El plazo general de una novela",
+    "situacion": "Una familia calcula el plazo patrimonial general de una novela de autor identificado fallecido. No se plantea una categoría con duración especial.",
+    "pregunta": "¿Qué regla general argentina debe usar?",
+    "correcta": "Vida del autor más 70 años, desde el 1 de enero siguiente al fallecimiento",
+    "incorrectas": [
+      "Setenta años desde la primera edición, aunque viva el autor",
+      "Vida del autor más 50 años, desde el 1 de enero siguiente al fallecimiento",
+      "Setenta años desde la inscripción de la novela en la DNDA",
+      "Cincuenta años desde la firma del contrato con la editorial",
+      "Diez años desde la concesión del registro de la obra"
+    ],
+    "pista": "El hito relevante es la muerte del creador, con un inicio de cómputo específico.",
+    "explicacion": "La regla general es vida del autor más 70 años, computados desde el 1 de enero siguiente al fallecimiento. No debe extenderse sin análisis a categorías especiales ni a todos los derechos conexos.",
+    "libro": "pi_registro_plazos"
+  },
+  {
+    "id": "pi-caso-13",
+    "tipo": "caso",
+    "titulo": "Un clásico extranjero en escena",
+    "situacion": "Una compañía prepara una utilización de una obra extranjera cuya exclusividad autoral ya venció. Sostiene que la nacionalidad extranjera basta para excluir el régimen del FNA.",
+    "pregunta": "¿Qué debe revisar respecto del dominio público pagante?",
+    "correcta": "El tipo de utilización y las exenciones; la nacionalidad extranjera no basta",
+    "incorrectas": [
+      "Solo la nacionalidad, porque el régimen alcanza únicamente autores argentinos",
+      "Solo la residencia del director, porque eso determina la exclusividad autoral",
+      "La inscripción local del autor, porque sin ella no puede intervenir el FNA",
+      "Una nueva cesión del autor, porque el dominio público conserva su monopolio",
+      "La fecha de estreno, porque todo clásico extranjero queda exento al reponerse"
+    ],
+    "pista": "Que haya vencido la exclusividad y que exista una exención son cuestiones diferentes.",
+    "explicacion": "Según el FNA, el dominio público pagante puede comprender obras nacionales y extranjeras. Hay que revisar el tipo de utilización y las exenciones aplicables, sin presumir exención por la sola nacionalidad.",
+    "libro": "pi_registro_plazos"
+  },
+  {
+    "id": "pi-caso-14",
+    "tipo": "caso",
+    "titulo": "La traducción nueva del clásico",
+    "situacion": "Una editora quiere copiar una traducción reciente y original de una novela cuyo texto original está en dominio público. Cree que el vencimiento del original comprende también esa traducción.",
+    "pregunta": "¿Qué debe distinguir antes de reproducirla?",
+    "correcta": "El dominio público del original y la protección del aporte original de la traducción",
+    "incorrectas": [
+      "Que el dominio público del original venció también los derechos de la traducción reciente",
+      "Que traducir un clásico vuelve a conceder exclusividad sobre todo el original",
+      "Que una traducción carece de protección por no ser la primera versión de la obra",
+      "Que la fecha del original fija necesariamente la duración de toda traducción posterior",
+      "Que citar al traductor permite copiar la versión completa sin revisar permisos"
+    ],
+    "pista": "Hay dos aportes realizados en momentos distintos.",
+    "explicacion": "Una obra derivada puede proteger su aporte original sin apropiarse nuevamente del original de dominio público. Por eso el vencimiento de una novela no habilita por sí solo copiar una traducción moderna protegida.",
+    "libro": "pi_registro_plazos"
+  },
+  {
+    "id": "pi-caso-15",
+    "tipo": "caso",
+    "titulo": "La grabación de ayer",
+    "situacion": "Una radio encuentra una grabación realizada recientemente de una composición que ya está en dominio público. Quiere usar el audio sin analizar los derechos sobre esa interpretación y producción.",
+    "pregunta": "¿Qué protección adicional debe considerar?",
+    "correcta": "Los derechos conexos sobre la grabación y los aportes protegidos",
+    "incorrectas": [
+      "Una nueva exclusividad sobre la composición por haberla grabado",
+      "La pérdida de derechos sobre el audio porque venció la composición",
+      "El mismo plazo de la composición aplicado sin cambios a la grabación nueva",
+      "La titularidad automática de la radio por haber obtenido el archivo",
+      "La ausencia de derechos conexos cuando se interpreta una obra antigua"
+    ],
+    "pista": "La partitura y el audio que efectivamente se emitirá son objetos distintos.",
+    "explicacion": "Los derechos conexos se distinguen del derecho sobre la composición. Una grabación nueva puede seguir protegida aunque la obra interpretada ya sea de dominio público; no hay un plazo único idéntico para todas sus categorías.",
+    "libro": "pi_registro_plazos"
+  },
+  {
+    "id": "pi-caso-16",
+    "tipo": "caso",
+    "titulo": "Compartir una versión BY-SA",
+    "situacion": "Ana adapta una ilustración publicada con CC BY-SA y quiere compartir su versión bajo las condiciones de esa licencia.",
+    "pregunta": "¿Qué condiciones debe conservar para esa adaptación?",
+    "correcta": "Reconocer la autoría y compartir la adaptación bajo la misma licencia",
+    "incorrectas": [
+      "Reconocer la autoría y cambiar a una licencia que prohíba adaptaciones",
+      "Compartir la adaptación sin créditos por tratarse de una obra abierta",
+      "Pedir que el original pase a dominio público antes de adaptarlo",
+      "Usar solo una cláusula NC, aunque elimine las condiciones originales",
+      "Reservarse la adaptación con una licencia incompatible y quitar los créditos"
+    ],
+    "pista": "Leé conjuntamente las dos condiciones abreviadas de esa combinación.",
+    "explicacion": "BY exige atribución y SA exige compartir las adaptaciones bajo la misma licencia. CC mantiene derechos y condiciones; no equivale a poner la obra en dominio público.",
+    "libro": "pi_cc"
+  },
+  {
+    "id": "pi-caso-17",
+    "tipo": "caso",
+    "titulo": "Un permiso con NC",
+    "situacion": "Un comercio quiere usar una imagen CC BY-NC en una campaña comercial y sostiene que el logo CC ya autoriza ese uso sin más análisis.",
+    "pregunta": "¿Qué condición debe atender para ese proyecto?",
+    "correcta": "NC limita usos comerciales; el logo CC no concede un permiso comercial general",
+    "incorrectas": [
+      "NC obliga solo a poner créditos y permite el uso comercial sin otra condición",
+      "NC impide nombrar al autor aunque la combinación también incluya BY",
+      "NC permite el uso comercial si el archivo se descarga sin pagar",
+      "NC exige compartir igual, sin ninguna restricción comercial",
+      "NC convierte la imagen en dominio público cuando se publica en Internet"
+    ],
+    "pista": "La combinación contiene una condición vinculada al propósito de la campaña.",
+    "explicacion": "La cláusula NC limita usos comerciales. Tener una licencia Creative Commons no supone una autorización general para cualquier uso: debe leerse la combinación concreta y comprobar el alcance del permiso.",
+    "libro": "pi_cc"
+  },
+  {
+    "id": "pi-caso-18",
+    "tipo": "caso",
+    "titulo": "Editar un afiche BY-ND",
+    "situacion": "Un grupo modifica un afiche ajeno con licencia CC BY-ND y quiere publicar la versión modificada invocando únicamente esa licencia.",
+    "pregunta": "¿Qué límite debe reconocer?",
+    "correcta": "ND impide compartir material adaptado bajo esa licencia",
+    "incorrectas": [
+      "ND exige compartir la adaptación con la misma licencia y por eso la permite",
+      "ND autoriza compartir adaptaciones si se agregan créditos más visibles",
+      "ND solo limita usos comerciales y permite publicar cambios gratuitos",
+      "ND transfiere la titularidad de cada adaptación a quien la realiza",
+      "ND impide cualquier copia del original aunque se respeten sus condiciones"
+    ],
+    "pista": "No confundas una condición sobre adaptaciones con otra que regula cómo compartirlas.",
+    "explicacion": "ND impide compartir material adaptado bajo esa licencia. SA, en cambio, exige mantener la misma licencia al compartir adaptaciones permitidas; atribuir autoría no elimina el límite ND.",
+    "libro": "pi_cc"
+  },
+  {
+    "id": "pi-caso-19",
+    "tipo": "clasificar",
+    "titulo": "Solo el nombre comercial",
+    "situacion": "Un taller solicita SOLVIA como palabras sin reivindicar una tipografía ni un dibujo particular.",
+    "pregunta": "¿Qué tipo de marca solicita?",
+    "correcta": "Denominativa",
+    "incorrectas": [
+      "Figurativa por contener letras",
+      "Mixta por contener palabras",
+      "Mixta aunque no reivindique grafía",
+      "Figurativa por poder pronunciarse",
+      "Denominativa solo con un dibujo"
+    ],
+    "pista": "Observá qué componentes se incluyen en el signo pedido.",
+    "explicacion": "La marca denominativa comprende palabras, letras o números sin reivindicar un diseño particular. Se distingue de la figurativa, formada por gráficos sin letras ni números, y de la mixta.",
+    "libro": "pi_marcas"
+  },
+  {
+    "id": "pi-caso-20",
+    "tipo": "clasificar",
+    "titulo": "El símbolo sin letras",
+    "situacion": "Una cafetería presenta únicamente el dibujo de una hoja, sin palabras, letras ni números, para distinguir sus servicios.",
+    "pregunta": "¿Cómo se clasifica ese signo marcario?",
+    "correcta": "Figurativo",
+    "incorrectas": [
+      "Denominativo por tener significado",
+      "Mixto aunque no contenga texto",
+      "Denominativo por evocar una hoja",
+      "Mixto por tener colores",
+      "Figurativo solo si agrega letras"
+    ],
+    "pista": "Miralo como si fuera un sello: fijate qué elementos contiene.",
+    "explicacion": "Un signo integrado por elementos gráficos sin letras ni números es figurativo. No se transforma en una marca denominativa por tener un significado reconocible, ni en una patente por ser un dibujo nuevo.",
+    "libro": "pi_marcas"
+  },
+  {
+    "id": "pi-caso-21",
+    "tipo": "clasificar",
+    "titulo": "Nombre y dibujo juntos",
+    "situacion": "Una tienda pide registrar SOLVIA integrado a una hoja dibujada y a una composición gráfica como conjunto.",
+    "pregunta": "¿Qué tipo de marca describe?",
+    "correcta": "Mixta",
+    "incorrectas": [
+      "Denominativa aunque incluya dibujo",
+      "Figurativa aunque incluya texto",
+      "Mixta solo si no incluye palabras",
+      "Denominativa por poder leerse",
+      "Figurativa por tener colores"
+    ],
+    "pista": "Considerá el conjunto que se pide proteger, no solo una de sus partes.",
+    "explicacion": "La marca mixta reúne denominación y componentes gráficos, o una grafía estilizada. Aquí se solicita el nombre con su dibujo y composición, no solo las palabras ni un gráfico sin letras.",
+    "libro": "pi_marcas"
+  },
+  {
+    "id": "pi-caso-22",
+    "tipo": "caso",
+    "titulo": "Naming sin búsqueda suficiente",
+    "situacion": "Una agencia eligió un nombre mediante naming. Solo buscó la escritura exacta en el INPI y, al no encontrarla, aseguró que el registro estaba garantizado.",
+    "pregunta": "¿Qué revisión sigue siendo necesaria?",
+    "correcta": "Buscar semejanzas fonéticas, visuales o conceptuales y revisar actividad y estado",
+    "incorrectas": [
+      "Confirmar solo que el dominio esté disponible para tener garantizada la marca",
+      "Repetir solo la coincidencia exacta, porque excluye cualquier confusión",
+      "Considerar que el naming ya es una autorización legal del nombre",
+      "Revisar solo cuántos seguidores usa el nombre, sin antecedentes marcarios",
+      "Dar por concedida la marca al no aparecer la misma escritura"
+    ],
+    "pista": "Dos nombres distintos al escribirlos pueden generar confusión en su uso.",
+    "explicacion": "El naming elige una identidad comercial, no habilita jurídicamente el signo. La búsqueda de antecedentes debe contemplar semejanzas y revisar titulares, productos, servicios y estado; ningún resultado vacío garantiza concesión.",
+    "libro": "pi_marcas"
+  },
+  {
+    "id": "pi-caso-23",
+    "tipo": "caso",
+    "titulo": "Qué consulta hacer en TMclass",
+    "situacion": "Un emprendimiento ya tiene una propuesta de marca y necesita identificar cómo describir y clasificar sus productos y servicios. Abre TMclass creyendo que también certifica nombres disponibles.",
+    "pregunta": "¿Para qué sirve TMclass en ese trabajo?",
+    "correcta": "Para identificar descripciones y clases, no para asegurar disponibilidad de la marca",
+    "incorrectas": [
+      "Para conceder la marca argentina sin intervención del INPI",
+      "Para certificar que no hay signos semejantes en todos los países",
+      "Para reservar simultáneamente la denominación y el dominio",
+      "Para reemplazar la búsqueda de antecedentes del INPI por una garantía",
+      "Para obtener cobertura en toda actividad con una sola descripción genérica"
+    ],
+    "pista": "Elegir qué se ofrecerá y comprobar quién usa un signo son consultas distintas.",
+    "explicacion": "TMclass ayuda con descripciones y clases de productos o servicios. La consulta de antecedentes del INPI evalúa signos existentes; una actividad puede requerir más de una clase y ninguna de esas herramientas garantiza por sí sola la concesión.",
+    "libro": "pi_tramite_marca"
+  },
+  {
+    "id": "pi-caso-24",
+    "tipo": "norma",
+    "titulo": "El reparto de Niza",
+    "situacion": "Un equipo clasifica productos y servicios para pedir una marca ante el INPI.",
+    "pregunta": "¿Cómo se reparten las 45 clases de Niza?",
+    "correcta": "34 de productos y 11 de servicios",
+    "incorrectas": [
+      "35 de productos y 10 de servicios",
+      "33 de productos y 12 de servicios",
+      "30 de productos y 15 de servicios",
+      "11 de productos y 34 de servicios",
+      "40 de productos y 5 de servicios"
+    ],
+    "pista": "Verificá el reparto corregido, no solo la suma del cuadro.",
+    "explicacion": "Niza tiene 45 clases: 34 de productos y 11 de servicios. El resumen corrige el reparto contradictorio del apunte; el sistema no nace del Convenio de París.",
+    "libro": "pi_tramite_marca"
+  },
+  {
+    "id": "pi-caso-25",
+    "tipo": "norma",
+    "titulo": "La marca recién concedida",
+    "situacion": "Un comercio acaba de obtener la concesión de su marca argentina y agenda su vigencia.",
+    "pregunta": "¿Cuál es su plazo, renovable con requisitos?",
+    "correcta": "10 años desde la concesión",
+    "incorrectas": [
+      "10 años desde la solicitud",
+      "20 años desde la concesión",
+      "5 años desde la solicitud",
+      "1 año desde la concesión",
+      "15 años desde la publicación"
+    ],
+    "pista": "El inicio del plazo depende de un hito del trámite.",
+    "explicacion": "La marca argentina dura 10 años desde la concesión y puede renovarse con los requisitos legales. Su protección es territorial y para el ámbito de productos o servicios, con la salvedad de signos notorios.",
+    "libro": "pi_tramite_marca"
+  },
+  {
+    "id": "pi-caso-26",
+    "tipo": "norma",
+    "titulo": "Oponerse a una solicitud",
+    "situacion": "Una comerciante descubre hoy una solicitud marcaria semejante, publicada días antes.",
+    "pregunta": "¿Desde cuándo corren los 30 días del art. 13?",
+    "correcta": "Desde la publicación; son corridos",
+    "incorrectas": [
+      "Desde el hallazgo; son corridos",
+      "Desde la publicación; son hábiles",
+      "Desde la solicitud; son corridos",
+      "Desde la concesión; son hábiles",
+      "Desde el hallazgo; son hábiles"
+    ],
+    "pista": "No confundas un hecho personal con el acto que difunde el trámite.",
+    "explicacion": "El artículo 13 de la Ley 22.362 fija 30 días corridos desde la publicación para oponerse. El momento en que una persona descubre la solicitud no reinicia ese plazo.",
+    "libro": "pi_tramite_marca"
+  },
+  {
+    "id": "pi-caso-27",
+    "tipo": "clasificar",
+    "titulo": "Dos comunicaciones del trámite",
+    "situacion": "En su solicitud de marca, una pyme recibe una observación del trámite que debe responder. En otro expediente, un tercero formula un planteo contra su solicitud.",
+    "pregunta": "¿Cómo se distinguen esas dos actuaciones?",
+    "correcta": "La observación es una vista; el planteo del tercero es una oposición",
+    "incorrectas": [
+      "La observación es una oposición; el planteo del tercero es una vista",
+      "Ambas son vistas porque se formulan durante la solicitud",
+      "Ambas son oposiciones porque cuestionan el trámite",
+      "La observación es una denegación firme y el planteo del tercero una vista",
+      "La observación es una vista y el planteo del tercero una denegación firme"
+    ],
+    "pista": "Identificá quién formula cada actuación y para qué.",
+    "explicacion": "La vista es una observación del trámite que debe responderse, mientras que la oposición es un planteo de un tercero contra la solicitud. No son nombres intercambiables de una misma actuación.",
+    "libro": "pi_tramite_marca"
+  },
+  {
+    "id": "pi-caso-28",
+    "tipo": "norma",
+    "titulo": "La patente de una máquina",
+    "situacion": "Un taller obtiene una patente para una máquina que satisface los requisitos legales.",
+    "pregunta": "¿Cuál es el plazo máximo de la patente?",
+    "correcta": "20 años desde la solicitud",
+    "incorrectas": [
+      "20 años desde la concesión",
+      "10 años desde la solicitud",
+      "15 años desde la concesión",
+      "5 años desde la solicitud",
+      "10 años desde la concesión"
+    ],
+    "pista": "Diferenciá el hito inicial y el régimen aplicable al invento.",
+    "explicacion": "La patente de invención tiene un plazo de 20 años desde la solicitud, improrrogable. La duración no elimina requisitos de concesión, mantenimiento o pago.",
+    "libro": "pi_invenciones_tratados"
+  },
+  {
+    "id": "pi-caso-29",
+    "tipo": "clasificar",
+    "titulo": "Una herramienta más útil",
+    "situacion": "Un taller crea una disposición nueva de un objeto que mejora su utilización o función y cumple los requisitos del régimen de modelos de utilidad.",
+    "pregunta": "¿Qué protección y plazo corresponden a ese instituto?",
+    "correcta": "Modelo de utilidad: 10 años desde la solicitud, improrrogables",
+    "incorrectas": [
+      "Modelo de utilidad: 20 años desde la solicitud, improrrogables",
+      "Modelo de utilidad: 10 años desde la concesión, renovables",
+      "Diseño industrial: 20 años desde la solicitud, improrrogables",
+      "Patente de invención: 5 años y dos renovaciones de 5",
+      "Diseño industrial: 10 años desde la concesión, renovables"
+    ],
+    "pista": "El caso destaca una mejora funcional y ya identifica el régimen que cumple.",
+    "explicacion": "El modelo de utilidad protege, conforme a su régimen, una disposición o forma nueva que mejora utilización o función. Su plazo es 10 años desde la solicitud, improrrogables; no es el plazo de la patente ni el del diseño ornamental.",
+    "libro": "pi_invenciones_tratados"
+  },
+  {
+    "id": "pi-caso-30",
+    "tipo": "caso",
+    "titulo": "La apariencia del envase",
+    "situacion": "Una fábrica quiere proteger la ornamentación de un envase sin sostener que inventó una nueva solución técnica. Cumple los requisitos de diseño industrial.",
+    "pregunta": "¿Qué esquema de duración debe distinguir?",
+    "correcta": "5 años iniciales y dos renovaciones de 5, hasta 15 años",
+    "incorrectas": [
+      "10 años iniciales y una renovación de 10, hasta 20 años",
+      "20 años desde la solicitud, sin renovación",
+      "10 años desde la solicitud, sin renovación",
+      "5 años iniciales y una sola renovación de 5, hasta 10 años",
+      "15 años iniciales y dos renovaciones de 5, hasta 25 años"
+    ],
+    "pista": "La apariencia tiene un régimen con períodos sucesivos.",
+    "explicacion": "El modelo o diseño industrial protege apariencia u ornamentación, no la solución técnica en sí. Tiene 5 años iniciales y dos renovaciones de 5, hasta 15, sujetos a sus requisitos.",
+    "libro": "pi_invenciones_tratados"
+  },
+  {
+    "id": "pi-caso-31",
+    "tipo": "norma",
+    "titulo": "Prioridad para otros países",
+    "situacion": "Una empresa presentó primero una patente y una marca en un país. Evalúa solicitudes posteriores bajo las condiciones de prioridad del Convenio de París.",
+    "pregunta": "¿Qué plazos de prioridad distinguen esos objetos?",
+    "correcta": "12 meses para la patente y 6 para la marca",
+    "incorrectas": [
+      "6 meses para la patente y 12 para la marca",
+      "12 meses para ambos objetos",
+      "6 meses para ambos objetos",
+      "20 meses para la patente y 10 para la marca",
+      "10 meses para la patente y 5 para la marca"
+    ],
+    "pista": "La solución técnica y el signo comercial tienen ventanas distintas.",
+    "explicacion": "París prevé, bajo sus condiciones, 12 meses para patentes y modelos de utilidad y 6 para marcas y diseños. Conservar una fecha de prioridad no equivale a obtener protección automática en todos los países.",
+    "libro": "pi_invenciones_tratados"
+  },
+  {
+    "id": "pi-caso-32",
+    "tipo": "caso",
+    "titulo": "La noticia sobre el PCT",
+    "situacion": "Una persona lee una noticia sobre avances de aprobación interna del PCT en Argentina y cree que eso ya habilita automáticamente el sistema en el país y concede patentes mundiales.",
+    "pregunta": "¿Qué distinción recoge la revisión del 22/11/2026?",
+    "correcta": "La aprobación interna no equivale a vinculación internacional; el PCT no concede una patente mundial",
+    "incorrectas": [
+      "La aprobación interna activa automáticamente el PCT y concede una patente mundial",
+      "La noticia de aprobación reemplaza la lista internacional de Estados contratantes",
+      "El PCT concede una patente mundial aunque el país no sea parte",
+      "Una solicitud PCT sustituye toda decisión nacional de concesión",
+      "Figurar el PCT en el aula demuestra por sí solo la adhesión argentina"
+    ],
+    "pista": "Separá el trámite político interno, el estado internacional y el alcance del sistema.",
+    "explicacion": "En las listas oficiales consultadas para el resumen Argentina no figura como parte. Un avance interno no equivale a vinculación internacional efectiva; el PCT es una vía de solicitud internacional, no una patente mundial.",
+    "libro": "pi_invenciones_tratados"
+  },
+  {
+    "id": "pi-caso-33",
+    "tipo": "caso",
+    "titulo": "Varios sitios y una dirección IP",
+    "situacion": "Una técnica configura varios dominios que usan la misma IP y otro dominio con más de un registro técnico. Su socio cree que el DNS exige una relación de uno a uno.",
+    "pregunta": "¿Qué explicación corresponde al DNS?",
+    "correcta": "Relaciona nombres con registros técnicos, sin exigir una correspondencia única dominio-IP",
+    "incorrectas": [
+      "Impone una IP exclusiva para cada dominio y un dominio exclusivo para cada IP",
+      "Permite compartir IP solo entre subdominios de un mismo dominio",
+      "Exige que cada IP se use con un solo dominio",
+      "Exige que cada dominio corresponda a una única IP",
+      "Impide que un dominio tenga más de un registro técnico"
+    ],
+    "pista": "Localizar un servicio no implica una pareja exclusiva de dos identificadores.",
+    "explicacion": "El DNS relaciona nombres con registros técnicos que permiten localizar servicios. No hay correspondencia obligatoria de un dominio con una sola IP o de una IP con un solo dominio.",
+    "libro": "pi_dominios"
+  },
+  {
+    "id": "pi-caso-34",
+    "tipo": "concepto",
+    "titulo": "Quién coordina y quién administra",
+    "situacion": "Un equipo compara la función mundial de ICANN con la administración de zonas argentinas y ve que .edu.ar tiene una excepción en el reglamento.",
+    "pregunta": "¿Cuál es la distribución correcta?",
+    "correcta": "ICANN coordina identificadores únicos; NIC administra sus zonas y ARIU administra .edu.ar",
+    "incorrectas": [
+      "ICANN coordina identificadores; NIC administra .edu.ar sin excepciones",
+      "NIC coordina identificadores mundiales; ICANN administra .ar y ARIU .edu.ar",
+      "ICANN coordina identificadores; ARIU administra .ar y NIC administra .edu.ar",
+      "ARIU coordina identificadores mundiales; NIC administra .ar e ICANN .edu.ar",
+      "NIC coordina identificadores mundiales; ARIU administra .ar e ICANN .edu.ar"
+    ],
+    "pista": "La coordinación mundial no debe confundirse con la gestión de una zona.",
+    "explicacion": "ICANN coordina identificadores únicos del sistema mundial. NIC Argentina administra .ar y zonas bajo su competencia, con la excepción de .edu.ar, administrado por ARIU.",
+    "libro": "pi_dominios"
+  },
+  {
+    "id": "pi-caso-35",
+    "tipo": "norma",
+    "titulo": "La renovación del dominio",
+    "situacion": "Una pyme registró un dominio bajo el reglamento NIC y agenda su renovación.",
+    "pregunta": "¿Qué duración inicial prevé el art. 20?",
+    "correcta": "Un año",
+    "incorrectas": [
+      "Dos años",
+      "Cinco años",
+      "Diez años",
+      "Veinte años",
+      "Setenta años"
+    ],
+    "pista": "El reglamento distingue vigencia y períodos tras el vencimiento.",
+    "explicacion": "El artículo 20 de la Resolución SLyT 2/2022 prevé registro por un año y períodos posteriores al vencimiento; el artículo 21 regula la renovación. No es una titularidad perpetua.",
+    "libro": "pi_dominios"
+  },
+  {
+    "id": "pi-caso-36",
+    "tipo": "caso",
+    "titulo": "Marca lista, dominio ocupado",
+    "situacion": "Una emprendedora obtuvo una marca argentina y luego descubre que otra persona había registrado el dominio que quería. Cree que la concesión ya se lo había reservado.",
+    "pregunta": "¿Qué relación existe entre ambos registros?",
+    "correcta": "Son independientes; la marca no reservó automáticamente el dominio",
+    "incorrectas": [
+      "La marca reservó el dominio desde la solicitud, aunque no se pidiera en NIC",
+      "El registro de marca cancela por sí mismo el dominio de un tercero",
+      "El dominio ocupado vuelve nula la marca sin analizar el caso",
+      "El primer registro de dominio transmite también la marca argentina",
+      "Una marca vigente elimina la necesidad de renovar el dominio"
+    ],
+    "pista": "Compará qué objeto y qué sistema intervienen en cada trámite.",
+    "explicacion": "Marca y dominio identifican objetos distintos y se registran de manera independiente. La marca puede ser relevante para reclamar, pero no reserva ni transfiere automáticamente el dominio.",
+    "libro": "pi_dominios"
+  },
+  {
+    "id": "pi-caso-37",
+    "tipo": "caso",
+    "titulo": "Probar el reclamo ante NIC",
+    "situacion": "Una empresa con marca quiere disputar un dominio .com.ar. El registrante alega uso propio anterior y la empresa pretende que el título marcario baste para obtenerlo.",
+    "pregunta": "¿Qué exige analizar el conflicto local?",
+    "correcta": "Mejor derecho o interés legítimo, con prueba de usos, fechas, derechos y conducta",
+    "incorrectas": [
+      "Solo el título marcario, que produce transferencia automática",
+      "Solo quién presentó primero, sin admitir excepciones del reglamento",
+      "Solo la mayor facturación de las dos partes",
+      "Solo los tres requisitos UDRP aplicados sin revisar el reglamento NIC",
+      "Solo la similitud escrita, sin considerar el uso del registrante"
+    ],
+    "pista": "El resultado depende de las circunstancias acreditadas por ambas partes.",
+    "explicacion": "En NIC debe acreditarse mejor derecho o interés legítimo con la prueba del caso. Se consideran uso, fechas, derechos y conducta; la prioridad registral tiene excepciones y la marca no asegura una transferencia automática.",
+    "libro": "pi_disputas_redes"
+  },
+  {
+    "id": "pi-caso-38",
+    "tipo": "caso",
+    "titulo": "Los requisitos de UDRP",
+    "situacion": "Una titular marcaria reclama un dominio sujeto a UDRP. Aporta semejanza confundible, pero todavía debe analizar el interés del registrante y las circunstancias de mala fe.",
+    "pregunta": "¿Qué debe acreditar conjuntamente bajo esa política?",
+    "correcta": "Semejanza confundible, falta de derechos o intereses legítimos y registro y uso de mala fe",
+    "incorrectas": [
+      "Semejanza confundible y uso comercial, aunque exista interés legítimo y buena fe",
+      "Marca registrada y mayor antigüedad de la empresa, sin probar mala fe",
+      "Semejanza y mala fe al registrar o al usar, aunque exista interés legítimo",
+      "Semejanza confundible o mala fe, a elección de quien reclama",
+      "Semejanza y falta de interés legítimo, sin requerir registro y uso de mala fe"
+    ],
+    "pista": "No alcanza con demostrar solo una de las dimensiones del conflicto.",
+    "explicacion": "La UDRP requiere conjuntamente semejanza confundible con una marca, falta de derechos o intereses legítimos y registro y uso de mala fe. Sus reglas no deben confundirse con las del procedimiento local de NIC.",
+    "libro": "pi_disputas_redes"
+  },
+  {
+    "id": "pi-caso-39",
+    "tipo": "caso",
+    "titulo": "Pedir dinero bajo UDRP",
+    "situacion": "La reclamante de un dominio sujeto a UDRP quiere obtener una reparación económica dentro de ese procedimiento y consulta qué remedios prevé la política.",
+    "pregunta": "¿Qué puede obtener mediante UDRP si prospera el reclamo?",
+    "correcta": "Cancelación o transferencia del dominio, no indemnización dineraria",
+    "incorrectas": [
+      "Transferencia y una indemnización calculada según visitas",
+      "Una multa y regalías futuras a cargo del registrante",
+      "Solo una indemnización, manteniendo el dominio en el registrante",
+      "Solo cancelación del dominio, sin posibilidad de transferencia",
+      "Solo transferencia del dominio, sin posibilidad de cancelación"
+    ],
+    "pista": "Diferenciá una decisión sobre el identificador de una reparación por daños.",
+    "explicacion": "La UDRP permite cancelación o transferencia del dominio; no otorga indemnización en dinero. Que la OMPI administre controversias bajo esa política no amplía esos remedios.",
+    "libro": "pi_disputas_redes"
+  },
+  {
+    "id": "pi-caso-40",
+    "tipo": "caso",
+    "titulo": "La cuenta que parece oficial",
+    "situacion": "Una cuenta con el nombre de un comercio se presenta falsamente como oficial y desvía consultas. El comercio tiene marca y quiere reclamar también el handle.",
+    "pregunta": "¿Qué actuación corresponde preparar sin presumir la entrega de la cuenta?",
+    "correcta": "Guardar prueba y usar los mecanismos de la plataforma considerando los derechos afectados",
+    "incorrectas": [
+      "Pedir a NIC que transfiera la cuenta como si fuera un dominio .ar",
+      "Dar por adquirido el handle porque ya existe una marca registrada",
+      "Suponer que las condiciones de la red eliminan las leyes sobre marcas e imagen",
+      "Aplicar UDRP a la cuenta social sin comprobar que sea un dominio sujeto a ella",
+      "Comprar otra marca para que la plataforma deba entregar la cuenta sin prueba"
+    ],
+    "pista": "Identificá dónde se asignó el usuario y quién controla ese mecanismo.",
+    "explicacion": "Un handle identifica una cuenta y se rige por los términos y mecanismos de la plataforma, junto con las leyes aplicables. Conviene guardar prueba del uso y la suplantación; una marca puede ser relevante sin asegurar transferencia.",
+    "libro": "pi_disputas_redes"
+  },
+  {
+    "id": "pi-caso-41",
+    "tipo": "caso",
+    "titulo": "El titular de una noticia",
+    "situacion": "Un alumno usa una noticia del aula sobre Meta e IA y el argumento de una empresa para afirmar que ya existe una autorización general para entrenar con libros ajenos.",
+    "pregunta": "¿Qué valor permite atribuirle el material revisado?",
+    "correcta": "Describe una controversia; no prueba una autorización general ni el estado procesal actual",
+    "incorrectas": [
+      "Establece una excepción legal general porque reproduce la defensa empresarial",
+      "Prueba una sentencia definitiva favorable a la empresa por tratarse de una noticia",
+      "Sustituye la lectura de la norma por la opinión citada",
+      "Demuestra que las obras digitalizadas perdieron su exclusividad",
+      "Equivale a una cesión de derechos de los autores mencionados"
+    ],
+    "pista": "Diferenciá el relato periodístico, el argumento de una parte y una decisión verificada.",
+    "explicacion": "El resumen usa esa noticia como contexto de una controversia. No presenta la defensa empresarial como ley, no verifica el estado actual del litigio y distingue noticias y cautelares de sentencias definitivas.",
+    "libro": "pi_disputas_redes"
+  }
+]
