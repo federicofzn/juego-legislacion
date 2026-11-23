@@ -189,6 +189,13 @@ for (const entry of glossary) {
   assert(glossedTexts.some((text) => regex.test(text)), `[glosario ${entry.id}] no aparece en ningun texto del juego`);
 }
 const glossaryRegex = (id) => new RegExp(glossary.find((entry) => entry.id === id).source, "iu");
+for (const [id, aliases] of Object.entries({ aaip: ["AAIP"], dnpdp: ["DNPDP"], rgpd: ["RGPD", "GDPR"] })) {
+  assert(glossary.some((entry) => entry.id === id), `el glosario debe explicar la sigla ${id}`);
+  for (const alias of aliases) {
+    assert(glossaryRegex(id).test(`(${alias})`), `el glosario debe reconocer ${alias}`);
+    assert(!glossaryRegex(id).test(`prefijo${alias}extra`), `${alias} debe reconocerse como una palabra completa`);
+  }
+}
 assert(glossaryRegex("forma").test("Forma federal") && !glossaryRegex("forma").test("forma parte de"), "el glosario debe marcar «forma federal» pero no «forma parte de»");
 assert(!glossaryRegex("bis").test("bisagra") && glossaryRegex("bis").test("art. 153 bis"), "el glosario debe marcar «bis» solo despues de un numero de articulo");
 // Un tooltip no puede delatar la respuesta del desafio donde aparece: su definicion no puede compartir
@@ -200,6 +207,8 @@ for (const item of [...questions, ...definitions, ...errors]) {
   const correct = keyStems(item.respuestaCorrecta);
   const options = [item.respuestaCorrecta, ...item.respuestasIncorrectas];
   for (const entry of glossary) {
+    // Las siglas son ayudas de lectura solicitadas: su nombre completo puede coincidir con las opciones.
+    if (entry.tipo === "sigla") continue;
     const regex = new RegExp(entry.source, "iu");
     // En las opciones, el juego solo marca palabras que aparecen en al menos dos de ellas.
     const shownInOptions = options.filter((text) => regex.test(text)).length >= 2;

@@ -194,7 +194,8 @@ function buildGlossary(definitions, reference) {
   return readJson("glosario.json").map((item) => {
     if (ids.has(item.id)) throw new Error(`Glosario: id duplicado ${item.id}`);
     ids.add(item.id);
-    if (tested.has(plainTerm(item.termino))) {
+    // Las siglas se pueden consultar aunque también aparezcan en un desafío de definición.
+    if (tested.has(plainTerm(item.termino)) && item.tipo !== "sigla") {
       throw new Error(`Glosario: «${item.termino}» es un concepto que el juego evalua; su tooltip daria la respuesta`);
     }
     const source = item.patron.replaceAll("\\b", UNICODE_BOUNDARY);
@@ -210,7 +211,7 @@ function buildGlossary(definitions, reference) {
       .filter(([key, entry]) => (item.definidoEn || []).includes(key) || isTheWord(entry.titulo.split(":")[0]) ||
         entry.notas.some((note) => note.includes(": ") && isTheWord(note.split(": ")[0])))
       .map(([key]) => key);
-    return { id: item.id, termino: item.termino, definicion: item.definicion, source, definidoEn };
+    return { id: item.id, termino: item.termino, definicion: item.definicion, source, definidoEn, ...(item.tipo === "sigla" ? { tipo: "sigla" } : {}) };
   });
 }
 

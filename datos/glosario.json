@@ -1,5 +1,26 @@
 [
   {
+    "id": "aaip",
+    "tipo": "sigla",
+    "termino": "AAIP",
+    "definicion": "Agencia de Acceso a la Información Pública. Autoridad argentina de protección de datos personales.",
+    "patron": "\\bAAIP\\b"
+  },
+  {
+    "id": "dnpdp",
+    "tipo": "sigla",
+    "termino": "DNPDP",
+    "definicion": "Dirección Nacional de Protección de Datos Personales. Dirección de la AAIP dedicada a la protección de datos personales.",
+    "patron": "\\bDNPDP\\b"
+  },
+  {
+    "id": "rgpd",
+    "tipo": "sigla",
+    "termino": "RGPD / GDPR",
+    "definicion": "Reglamento General de Protección de Datos de la Unión Europea (2016/679). GDPR es su sigla en inglés.",
+    "patron": "\\b(?:RGPD|GDPR)\\b"
+  },
+  {
     "id": "norma",
     "termino": "Norma",
     "definicion": "Una regla que dice cómo hay que comportarse.",
