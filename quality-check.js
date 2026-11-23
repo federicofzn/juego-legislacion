@@ -16,14 +16,65 @@ const NEW_UNITS = {
 const EXPECTED_UNITS = ["derecho_y_estado", "derecho_penal", "delitos_informaticos", "proteccion_datos", ...Object.keys(NEW_UNITS)];
 assert.deepStrictEqual(reference.unidades.map((unit) => unit.key), EXPECTED_UNITS, "el juego debe incluir las ocho unidades de la materia");
 
-for (const [unitKey, source] of Object.entries(NEW_UNITS)) {
-  const summary = Object.values(reference.entradas).find((entry) => entry.unidad === unitKey && entry.archivoFuente === source);
-  assert(summary, `la unidad ${unitKey} debe incluir su resumen completo en el libro`);
-  assert(summary.notas.join(" ").length >= 7000, `el resumen ${unitKey} no debe reducirse a unas pocas notas`);
-  const markdown = fs.readFileSync(path.join(__dirname, "datos", "resumenes", path.basename(source)), "utf8");
-  assert(summary.notas.length >= 20 && summary.notas.join(" ").length >= markdown.length * 0.65, `${unitKey}: el resumen del libro está truncado`);
-  for (const [, title] of markdown.matchAll(/^#{2,6} (.+)$/gm)) {
-    assert(summary.notas.join(" ").includes(title.trim()), `${unitKey}: falta el apartado ${title.trim()} en el libro`);
+for (const unitKey of Object.keys(NEW_UNITS)) {
+  const entries = Object.values(reference.entradas).filter((entry) => entry.unidad === unitKey);
+  assert(!entries.some((entry) => entry.archivoFuente || entry.categoria === "Resumen completo"), `${unitKey}: el libro no debe duplicar los apartados con un resumen completo`);
+  assert(entries.length >= 10, `${unitKey}: deben conservarse los apartados temáticos`);
+  for (const entry of entries) {
+    const notes = entry.notas.map((note) => note.trim().toLowerCase().replace(/\s+/g, " "));
+    assert.equal(new Set(notes).size, notes.length, `${unitKey}: hay notas idénticas repetidas en ${entry.titulo}`);
+  }
+}
+
+// Cobertura por apartado, incluidos detalles que antes solo aparecían en los resúmenes completos.
+const INTEGRATED_BOOK_COVERAGE = {
+  pi_obras_organismos: ["DNDA", "INPI", "WIPO", "25.036"],
+  pi_autoria: ["artículo 3", "retracto", "paternidad", "integridad", "independiente"],
+  pi_software: ["55 bis", "NDA", "salvaguardia", "royalties", "DRM", "competencia desleal"],
+  pi_registro_plazos: ["70", "57", "63", "derivada", "conexos", "FNA", "CAL", "CAPIF", "SADAIC"],
+  pi_cc: ["BY", "NC", "SA", "ND", "software"],
+  pi_marcas: ["denominativa", "figurativa", "mixta", "naming", "fonéticas"],
+  pi_tramite_marca: ["45", "34", "11", "TMclass", "10 años", "30 días"],
+  pi_invenciones_tratados: ["20 años", "10 años", "París", "Berna", "Roma", "ADPIC", "WCT", "PCT", "FIFA"],
+  pi_dominios: ["DNS", "ICANN", "ARIU", "2/2022", "renovación"],
+  pi_disputas_redes: ["UDRP", "cancelación", "transferencia", "Pugliese/PSA", "Mc Donough", "Hermès", "squatting"],
+  ct_formacion: ["972", "973", "978", "979", "980", "983"],
+  ct_validez: ["1003", "1012", "970", "1021", "1027", "sucesores"],
+  ct_tratativas: ["990", "991", "992", "993", "985", "1061", "demostraciones"],
+  ct_forma_prueba: ["286", "287", "1019", "1020", "testigos", "autenticidad"],
+  ct_consumo: ["1106", "1109", "1111", "1116", "diez días", "34"],
+  ct_modalidades: ["licencia", "cesión", "escrow", "hosting", "housing", "llave en mano"],
+  ct_entrega: ["provisoria", "definitiva", "SLA", "moneda", "ajustes", "tratamiento de datos"],
+  ct_incumplimiento: ["1031", "1032", "evicción", "redhibitorio", "1054", "1055", "1057", "1059", "1076"],
+  ct_firmas: ["25.506", "electrónica", "autoría", "integridad", "prueba en contrario", "impugna"],
+  ct_infraestructura: ["privada", "pública", "revocación", "licenciado", "182/2019", "2628/2002"],
+  dl_dependencia: ["técnica", "económica", "jurídica", "primacía", "27.802", "23"],
+  dl_principios_cct: ["14 bis", "irrenunciabilidad", "23.551", "paritarias", "confidencialidad"],
+  dl_contrato_prueba: ["plazo fijo", "eventual", "temporada", "92 bis", "27.742", "seis meses"],
+  dl_remuneracion: ["bruto", "neto", "30 de junio", "18 de diciembre", "50 %"],
+  dl_jornada_guardias: ["11.544", "48", "12 horas", "201", "guardia", "27.802"],
+  dl_licencias: ["14 días", "21", "28", "35", "155", "158", "208", "211", "90 días"],
+  dl_extincion: ["240", "242", "243", "245 bis", "178", "indirecto"],
+  dl_indemnizaciones: ["232", "233", "245", "67 %", "27.802", "preaviso"],
+  dl_riesgos: ["24.557", "in itinere", "enfermedad profesional", "Comisiones Médicas"],
+  dl_reclamos_prueba: ["24.635", "homologación", "VPN", "cautelar", "embarazo"],
+  ep_habilitacion: ["6070/1958", "14.467", "11 y 12", "gratuitas", "jurisdicción"],
+  ep_instituciones: ["COPITEC", "CPCIBA", "13.016", "10.416", "CPCI", "CESSI"],
+  ep_etica: ["1099/1984", "240/1999", "2.2.1.4", "reserva", "concursos", "colegas"],
+  ep_disciplina: ["ratificación", "tres meses", "cinco días hábiles", "diez días hábiles", "seis días", "treinta días", "tres años", "moneda nacional"],
+  ep_convenio: ["Anexos Operativos Complementarios", "propiedad común", "no exclusividad", "treinta días corridos", "Quilmes"],
+  ep_riesgo_cid: ["confidencialidad", "integridad", "disponibilidad", "amenaza", "vulnerabilidad", "riesgo"],
+  ep_controles: ["preventivo", "detectivo", "respuesta", "forense", "800-63B-4", "MFA"],
+  ep_continuidad: ["BCP", "DRP", "RTO", "RPO", "restauración"],
+  ep_equipos_ot: ["Red Team", "Blue Team", "Purple Team", "MTTD", "MTTR", "SGSI", "62443", "SCADA"],
+  ep_normas_ciber: ["CSF 2.0", "Gobernar", "27.401", "856/2020", "47/2018", "1768", "1757"]
+};
+for (const [entryKey, fragments] of Object.entries(INTEGRATED_BOOK_COVERAGE)) {
+  const entry = reference.entradas[entryKey];
+  assert(entry, `falta el apartado temático ${entryKey}`);
+  const text = [entry.titulo, ...[].concat(entry.intro || []), ...entry.notas, ...[].concat(entry.pasos || []), ...entry.ejemplos, entry.ojo].join(" ").toLowerCase();
+  for (const fragment of fragments) {
+    assert(text.includes(fragment.toLowerCase()), `${entryKey}: falta integrar en este apartado el contenido de ${fragment}`);
   }
 }
 
@@ -98,7 +149,7 @@ for (const [key, entry] of Object.entries(reference.entradas)) {
   assert(intro.length >= 80, `la entrada ${key} necesita una introduccion explicativa`);
   assert(entry.notas.length >= 3, `la entrada ${key} necesita al menos 3 puntos clave`);
   assert(entry.ejemplos && entry.ejemplos.length >= 1, `la entrada ${key} necesita al menos un ejemplo`);
-  if (entry.categoria !== "Empezá por acá" && !entry.archivoFuente) {
+  if (entry.categoria !== "Empezá por acá") {
     assert(questions.some((item) => item.referencia.entradaLibro === key), `la entrada ${key} no la usa ningun caso`);
   }
 }

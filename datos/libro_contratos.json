@@ -4,14 +4,14 @@
     "ct_glosario": {
       "categoria": "Empezá por acá",
       "titulo": "Cómo leer un contrato",
-      "intro": ["Un contrato organiza un intercambio y las obligaciones que asume cada parte. Para estudiarlo conviene distinguir el acuerdo, sus condiciones de validez, la prueba disponible y el cumplimiento de lo prometido."],
+      "intro": ["Un contrato organiza obligaciones y riesgos patrimoniales. Conviene separar cuatro preguntas: ¿hubo acuerdo?, ¿es válido?, ¿cómo se prueba?, ¿se cumplió?"],
       "notas": [
         "Contrato: acuerdo que crea, regula, modifica, transfiere o extingue relaciones jurídicas patrimoniales, según el art. 957 del CCyC; no se confunde con el documento que lo registra.",
         "Prestación: conducta debida, como programar un módulo, entregar equipos o pagar el precio acordado.",
         "Consentimiento: coincidencia de voluntades exteriorizada; una propuesta y su aceptación pueden formar el acuerdo.",
         "Buena fe: lealtad al negociar, interpretar y ejecutar; exige atender la confianza legítima y colaborar con el cumplimiento.",
-        "Anexo: documento incorporado al acuerdo para detallar especificaciones, cronograma o niveles de servicio; conviene identificar su versión y prioridad.",
-        "Cuatro preguntas: primero identificar si hubo acuerdo; después analizar validez, prueba y cumplimiento, sin confundir esos planos."
+        "Anexo: documento incorporado al acuerdo para detallar especificaciones, cronograma o niveles de servicio; debe identificarse su versión y prioridad.",
+        "Marco normativo: Código Civil y Comercial (CCyC), Ley 24.240 de Defensa del Consumidor y Ley 25.506 de Firma Digital; verificación normativa del material al 22/11/2026."
       ],
       "ejemplos": ["Una empresa acepta por correo un presupuesto de migración: puede haber acuerdo antes de que el sistema se instale. Las pruebas de carga posteriores sirven para evaluar cumplimiento."],
       "ojo": "Una firma digital ayuda a probar quién firmó y si el documento cambió; no soluciona por sí sola un objeto ilícito ni la falta de facultades del firmante."
@@ -19,111 +19,120 @@
     "ct_formacion": {
       "categoria": "Acuerdo y validez",
       "titulo": "Oferta, aceptación y recepción",
-      "intro": ["Para saber si nació un contrato hay que reconstruir qué se propuso, qué se contestó y cuándo llegó la respuesta. No todo anuncio es una oferta ni toda contestación equivale a aceptar las condiciones recibidas."],
+      "intro": ["El contrato es un acuerdo patrimonial. Su formación por consentimiento exige reconstruir la propuesta, la respuesta y su recepción; los arts. 971 a 983 del CCyC distinguen oferta, aceptación y silencio."],
       "notas": [
         "Oferta: propuesta con intención de obligarse y precisiones suficientes para fijar los efectos de su aceptación; obliga durante su vigencia conforme a los arts. 972 y 974.",
-        "Invitación a ofertar: comunicación que procura que otro formule una propuesta, según el art. 973; debe distinguirse de una oferta suficientemente precisa y de las reglas especiales de consumo.",
+        "Invitación a ofertar: procura que otro formule una propuesta (art. 973); difiere de la oferta suficientemente precisa y exige atender las reglas especiales de consumo.",
         "Aceptación concordante: conformidad con la oferta mediante declaración o conducta concluyente. Introducir cambios constituye, como regla, una nueva propuesta, según los arts. 978 y 979.",
         "Silencio: normalmente no expresa aceptación. Puede adquirir ese significado si existe un deber de responder derivado del acuerdo, usos, prácticas o antecedentes.",
         "Momento del acuerdo: entre presentes, al manifestarse la aceptación; entre ausentes, cuando el oferente la recibe durante la vigencia de la oferta, según el art. 980.",
-        "Recepción: comprende el conocimiento efectivo y el que debió existir, según el art. 983; no basta atender solamente a la hora de envío del correo.",
+        "Recepción: conocimiento efectivo o que debió existir (art. 983); no basta la hora de envío del correo.",
         "Consumo y confirmación: el art. 7 de la Ley 24.240 contempla ofertas a consumidores indeterminados. El acuse de llegada del art. 1108 no es por sí mismo una segunda aceptación indispensable."
       ],
-      "ejemplos": ["Un presupuesto fija migración, precio y vigencia hasta el viernes. El cliente responde que acepta si se agrega soporte anual: esa respuesta modifica el alcance y funciona, como regla, como nueva propuesta.", "Si una aceptación sin cambios llega al oferente el jueves, dentro de la vigencia de la oferta, el acuerdo entre ausentes se perfecciona con su recepción."],
-      "ojo": "No deduzcas que hay aceptación porque el destinatario abrió un mensaje y guardó silencio; hay que analizar si tenía un deber de responder."
+      "ejemplos": ["Un presupuesto de migración vence el viernes: aceptar si se agrega soporte anual es una nueva propuesta; aceptar sin cambios mediante un correo recibido el jueves perfecciona el acuerdo entre ausentes."],
+      "ojo": "Abrir un mensaje y callar no demuestra aceptación: hay que analizar el deber de responder."
     },
     "ct_validez": {
       "categoria": "Acuerdo y validez",
-      "titulo": "Capacidad, objeto, causa y clases",
-      "intro": ["El consentimiento no agota el análisis. También hay que comprobar quién puede contratar, qué prestaciones se prometen y qué finalidad jurídica explica el intercambio. Las clasificaciones permiten describir dimensiones diferentes del mismo acuerdo."],
+      "titulo": "Validez, clases y efectos frente a terceros",
+      "intro": ["El contrato crea, regula, modifica, transfiere o extingue relaciones jurídicas patrimoniales (art. 957 CCyC). Además del consentimiento —voluntades concordantes—, capacidad, objeto y causa completan el análisis como complemento normativo del apunte."],
       "notas": [
-        "Capacidad contractual: aptitud para asumir el acuerdo conforme a las reglas de capacidad; deben revisarse restricciones y, si alguien representa a otra persona, sus facultades. Son relevantes los arts. 22 a 26 y 1000 a 1002.",
-        "Representación: actuar válidamente por otro vincula al representado. El acceso a una cuenta empresarial y la firma digital no otorgan por sí mismos poder para contratar.",
-        "Objeto contractual: prestaciones lícitas, posibles, determinadas o determinables y valorables económicamente, según los arts. 1003 a 1005. Las especificaciones permiten determinar qué sistema se debe entregar.",
-        "Causa contractual: finalidad jurídica inmediata determinante del acuerdo; debe ser lícita y subsistir durante la ejecución, según los arts. 281 y 1012 a 1014. No es sinónimo de la prestación material.",
-        "Contrato unilateral: genera obligaciones para una de las partes; no significa que una sola persona lo forme. El contrato bilateral genera obligaciones recíprocas, según el art. 966.",
+        "Capacidad: aptitud para ser titular de derechos y ejercerlos; revisar restricciones y facultades del representante (arts. 22 a 26 y 1000 a 1002).",
+        "Representación: actuar válidamente por otro vincula al representado, que es la parte contractual, distinta del representante. Una cuenta empresarial o firma digital no concede poder para contratar.",
+        "Objeto: prestaciones lícitas, posibles, determinadas o determinables y valorables económicamente (arts. 1003 a 1005). Las especificaciones determinan qué sistema se debe entregar.",
+        "Causa: finalidad jurídica inmediata determinante del acuerdo; debe ser lícita y subsistir durante la ejecución (arts. 281 y 1012 a 1014). Difiere de la prestación material.",
+        "Unilateral / bilateral: obliga a una parte o genera obligaciones recíprocas (art. 966, complemento normativo). Unilateral no significa formado por una sola persona.",
         "Onerosidad y riesgo: en un contrato oneroso la ventaja exige contraprestación; en uno gratuito se obtiene sin ella. Entre los onerosos, los conmutativos tienen ventajas ciertas y los aleatorios dependen de un acontecimiento incierto, según los arts. 967 y 968.",
-        "Regulación y negociación: un contrato nominado tiene regulación legal especial; uno innominado carece de ella y se integra con lo pactado, reglas generales, usos y contratos afines compatibles. En la adhesión una parte acepta condiciones generales predispuestas, a diferencia de negociar sus cláusulas."
+        "Formal / no formal: hay forma legal impuesta o libertad de formas (arts. 969 y 1015). No toda omisión causa nulidad: puede existir obligación de completar el instrumento (art. 1018).",
+        "Nominado / innominado: tiene regulación legal especial o carece de ella. El innominado se integra con lo pactado, reglas generales, usos y contratos afines compatibles, respetando normas indisponibles, que las partes no pueden desplazar (art. 970).",
+        "Negociado / por adhesión: se acuerdan las cláusulas o se aceptan condiciones generales predispuestas (art. 984). Informático alude al objeto; electrónico, al medio de celebración; consumo, al vínculo entre proveedor y destinatario final. Son criterios distintos y pueden coincidir.",
+        "Efecto relativo: el contrato produce efectos entre las partes, con reglas para sucesores y excepciones legales (arts. 1021 a 1024). Tercero es quien no es parte.",
+        "Estipulación a favor de tercero: atribuye a alguien ajeno a las partes un beneficio exigible en las condiciones del art. 1027, como excepción al efecto relativo."
       ],
-      "ejemplos": ["Programar un módulo definido y pagar el precio son prestaciones que integran el objeto. La finalidad jurídica del intercambio explica por qué se asumen; son planos relacionados, pero diferentes.", "Un empleado puede usar el correo de la empresa sin tener facultades para obligarla a comprar cien licencias."],
+      "ejemplos": ["Programar un módulo y pagar integran el objeto; la finalidad jurídica del intercambio explica esas obligaciones. Si una empresa contrata soporte a favor de un tercero, este puede exigir el beneficio en las condiciones del art. 1027."],
       "ojo": "El precio no es requisito de todo contrato: existen acuerdos gratuitos. Tampoco deben confundirse bilateralidad, onerosidad y medio electrónico."
     },
     "ct_tratativas": {
       "categoria": "Negociación y condiciones",
       "titulo": "Buena fe, reserva y adhesión",
-      "intro": ["Las obligaciones de lealtad no empiezan recién con la firma. Al intercambiar información y presupuestos se generan deberes de cuidado, y las condiciones predispuestas siguen sometidas a controles aunque se acepten mediante un clic."],
+      "intro": ["Las tratativas son negociaciones previas al contrato. El CCyC exige buena fe —lealtad y respeto por la confianza legítima— aunque el acuerdo no llegue a celebrarse; también controla las condiciones aceptadas con un clic."],
       "notas": [
         "Libertad de negociar: el art. 990 admite abandonar tratativas; el art. 991 exige buena fe y no frustrar injustificadamente la confianza legítima. Gastar en una propuesta no vuelve automática una indemnización ni obliga por sí solo a contratar.",
-        "Confidencialidad: el art. 992 protege la información recibida durante las tratativas. Que el acuerdo final no se celebre no habilita a utilizar indebidamente los datos reservados recibidos.",
-        "Información y colaboración: el cliente debe explicar necesidades y facilitar recursos; el proveedor debe analizar viabilidad y advertir riesgos, costos y cambios organizativos. Conviene documentar presupuestos y decisiones.",
-        "Cartas de intención: se interpretan restrictivamente y solo constituyen oferta si reúnen sus requisitos, según el art. 993; su nombre no resuelve su alcance.",
+        "Confidencialidad: protege la información reservada recibida en las tratativas; que no haya contrato no autoriza su uso indebido (art. 992).",
+        "Información y colaboración: el cliente explica necesidades y facilita recursos; el proveedor analiza viabilidad, riesgos, costos, limitaciones y cambios organizativos. Documentar cuadro de necesidades, presupuestos, demostraciones y decisiones.",
+        "Cartas de intención: documentos que expresan bases para negociar; se interpretan restrictivamente y solo son oferta si reúnen sus requisitos (art. 993). Su nombre no resuelve su alcance.",
         "Contrato por adhesión: una parte acepta condiciones generales predispuestas por la otra. Los arts. 985 a 989 exigen claridad, integridad, legibilidad y acceso a los documentos remitidos.",
         "Ambigüedad y abuso: las dudas en condiciones predispuestas se interpretan contra quien las redactó; las cláusulas abusivas se tienen por no escritas. Un clic de aceptación no las sanea.",
         "Interpretación: los arts. 1061 a 1066 atienden intención común, buena fe, significado usual o técnico, contexto, negociaciones y conducta posterior, procurando conservar el negocio ante dudas."
       ],
-      "ejemplos": ["Para presupuestar una migración, el cliente facilita una base reservada. Si la negociación termina, esa entrega no autoriza al proveedor a reutilizarla para otro cliente.", "Un plan dice soporte premium sin precisar horarios. La expresión se interpreta con el contexto y, en condiciones predispuestas ambiguas, contra el predisponente."],
-      "ojo": "No equipares toda ruptura de negociaciones con responsabilidad: se deben analizar la conducta, la confianza generada y los presupuestos del caso."
+      "ejemplos": ["Una base reservada entregada para presupuestar no puede reutilizarse indebidamente si fracasa la negociación. Soporte premium sin horario, canal ni tiempos es ambiguo: se interpreta con el contexto y, si fue predispuesto, contra quien lo redactó."],
+      "ojo": "La responsabilidad por ruptura exige analizar conducta, confianza generada y presupuestos del caso."
     },
     "ct_forma_prueba": {
       "categoria": "Documentos",
       "titulo": "Forma del acto y prueba del acuerdo",
-      "intro": ["El modo de expresar un acuerdo y la manera de demostrarlo son problemas distintos. Un intercambio de mensajes puede ser relevante aun sin papel, pero no elimina las exigencias especiales que la ley establezca para el acto concreto."],
+      "intro": ["Forma es el modo de exteriorizar el acuerdo; prueba, cómo demostrarlo. Según el CCyC, correos, mensajes y registros pueden aportar evidencia aun sin firma manuscrita, sin eliminar las formas legales especiales."],
       "notas": [
-        "Libertad de formas: predomina conforme al art. 1015, salvo exigencia legal especial. Los contratos formales tienen una forma impuesta y los no formales se rigen por esa libertad.",
-        "Omisión de una forma: los arts. 969 y 1018 distinguen solemnidad bajo sanción de nulidad de la obligación de completar el instrumento pendiente; no corresponde afirmar nulidad ante toda omisión formal.",
+        "Formal / no formal: existe forma legal impuesta o libertad de formas (art. 1015).",
+        "Omisión formal: los arts. 969 y 1018 distinguen solemnidad bajo sanción de nulidad y obligación de completar el instrumento; no toda omisión anula el acto.",
         "Escritura y soporte: los arts. 286 y 287 admiten expresión escrita en soportes legibles mediante medios técnicos; distinguen instrumentos particulares firmados, llamados privados, de los no firmados.",
         "Prueba: el art. 1019 admite medios aptos según sana crítica y reglas procesales. Los contratos que habitualmente se instrumentan no pueden probarse exclusivamente con testigos.",
         "Excepciones probatorias: cuando la forma se exige para probar, el art. 1020 admite otros medios ante imposibilidad de acreditar la formalidad, principio de prueba instrumental o comienzo de ejecución.",
-        "Conservación de evidencia: guardar oferta, aceptación, versión de condiciones y anexos, pagos, entregas y registros permite reconstruir el negocio. Una captura aislada no garantiza su autenticidad; importan origen, contexto e integridad.",
-        "Documento privado y escritura pública: la firma digital no convierte por sí sola un instrumento privado en escritura pública ni sustituye las formalidades específicas del acto."
+        "Evidencia: conservar oferta, aceptación, condiciones, anexos —documentos incorporados al acuerdo— con sus versiones, pagos, entregas y registros técnicos. La autenticidad de una captura exige analizar origen, contexto e integridad.",
+        "Firma digital: permite verificar autoría e integridad; no convierte un instrumento privado en escritura pública ni sustituye las formalidades específicas del acto."
       ],
-      "ejemplos": ["Para probar una contratación de soporte se conservan el presupuesto aceptado, la versión del anexo técnico, los comprobantes de pago y los tickets atendidos. No se depende de una captura aislada."],
-      "ojo": "Un problema de prueba no demuestra por sí solo inexistencia del acuerdo; tampoco la existencia de mensajes asegura que se cumplió una solemnidad especial."
+      "ejemplos": ["Presupuesto aceptado, anexo técnico identificado, pagos y tickets permiten reconstruir una contratación de soporte con más contexto que una captura aislada."],
+      "ojo": "La dificultad probatoria no demuestra inexistencia del acuerdo; los mensajes tampoco aseguran cumplir una solemnidad."
     },
     "ct_consumo": {
       "categoria": "Consumo a distancia",
       "titulo": "Compra electrónica y arrepentimiento",
-      "intro": ["Cuando el acuerdo es de consumo y se celebra a distancia, se agregan deberes de información y reglas protectoras. Deben estudiarse junto con sus excepciones: comprar por Internet no da una devolución ilimitada de todo contenido digital."],
+      "intro": ["En consumo, el proveedor contrata con quien adquiere o utiliza como destinatario final. Si se celebra a distancia, se agregan deberes de información y arrepentimiento, con excepciones que impiden prometer devolución ilimitada de contenido digital."],
       "notas": [
         "Oferta a consumidores: el art. 7 de la Ley 24.240 contempla la oferta obligatoria dirigida a consumidores indeterminados; una publicación comercial no se reduce necesariamente a invitación a ofertar.",
         "Medio electrónico: los arts. 1106 a 1108 permiten satisfacer la escritura mediante soporte electrónico, exigen informar su uso y riesgos y confirmar sin demora la llegada de la aceptación. El acuse no constituye por sí solo una segunda aceptación necesaria.",
         "Lugar y jurisdicción: según el art. 1109, importa dónde el consumidor recibe o debía recibir la prestación; la cláusula de prórroga de jurisdicción se tiene por no escrita.",
-        "Diez días corridos: el art. 34 de la Ley 24.240 permite revocar desde la entrega o celebración, lo último que ocurra. Debe integrarse con los arts. 1110 a 1116 del CCyC.",
+        "Arrepentimiento: derecho a revocar la aceptación dentro de diez días corridos desde la entrega o celebración, lo último que ocurra (Ley 24.240, art. 34, integrado con CCyC, arts. 1110 a 1116).",
         "Información y ejercicio: el arrepentimiento es irrenunciable, puede notificarse electrónicamente y da lugar a restituciones sin gastos conforme a los arts. 1110 a 1115. Si no se informa debidamente, el derecho no se extingue, según el art. 1111.",
-        "Excepciones: el art. 1116 contempla productos personalizados y determinados programas o archivos digitales. Debe comprobarse el encuadre concreto; ni toda descarga está excluida ni toda descarga admite devolución irrestricta."
+        "Excepciones: el art. 1116 contempla productos personalizados y determinados programas o archivos digitales. Verificar el encuadre: ni toda descarga está excluida ni admite devolución irrestricta."
       ],
-      "ejemplos": ["Una consumidora compra una computadora el lunes y la recibe el jueves. Para el plazo del art. 34 se toma la entrega, por ser posterior a la celebración, y se cuentan diez días corridos.", "Ante una descarga, primero se analiza si corresponde una excepción del art. 1116; la sola etiqueta digital no resuelve el caso."],
-      "ojo": "No traslades estos artículos de consumo a cualquier vínculo: por ejemplo, no regulan por sí mismos el ingreso de un trabajador a una empresa."
+      "ejemplos": ["Si la compra es el lunes y la entrega el jueves, los diez días corridos se cuentan desde la entrega. En una descarga, la etiqueta digital no basta: debe examinarse la excepción del art. 1116."],
+      "ojo": "Estas reglas exigen un vínculo de consumo; no regulan por sí solas, por ejemplo, el ingreso de un trabajador."
     },
     "ct_modalidades": {
       "categoria": "Proyectos informáticos",
       "titulo": "Objeto informático y modalidades",
-      "intro": ["Un contrato es informático por los bienes o servicios que tiene por objeto y electrónico por el medio empleado para celebrarlo. En proyectos complejos se estudia el sistema completo: equipos, programas, servicios y documentación deben funcionar conjuntamente."],
+      "intro": ["Informático define el objeto —bienes o servicios informáticos—; electrónico, el medio de celebración. El apunte destaca complejidad, asimetría de conocimientos e imposición de condiciones, y estudia los proyectos a medida como sistemas integrados."],
       "notas": [
-        "Criterios distintos: comprar una silla por Internet es electrónico sin ser informático; contratar presencialmente una auditoría de sistemas es informático sin ser electrónico. Ambos criterios pueden coincidir con adhesión y consumo.",
-        "Licencia de uso: autorización para utilizar software dentro de los permisos pactados, como usuarios, instalaciones o duración. Adquirir una copia no supone adquirir todos los derechos intelectuales.",
-        "Cesión de derechos: transferencia de los derechos acordados; debe distinguirse del permiso de uso de una licencia y precisar qué derechos se transfieren. La compra de una copia no demuestra por sí sola esa transferencia.",
-        "Desarrollo a medida: encargo de producir funcionalidades específicas, con entregables, integración y aceptación definidos. El alcance debe permitir verificar qué se debe programar y qué queda excluido.",
-        "Escrow: depósito del código fuente con condiciones pactadas de liberación. Su función es prever acceso ante los supuestos convenidos; no equivale a entrega irrestricta del código desde el inicio.",
-        "Sistema integrado: si se prometió una solución conjunta, la compatibilidad y la modularidad se analizan sobre hardware, software, servicios y documentación interdependientes, no solamente sobre componentes aislados.",
-        "Otras modalidades: compraventa, locación y leasing de hardware; mantenimiento, procesamiento, outsourcing, hosting, housing, conectividad, consultoría, capacitación y auditoría requieren delimitar prestaciones y responsabilidades.",
-        "Colaboración técnica: el proveedor debe aconsejar y advertir riesgos; el usuario debe comunicar necesidades y aportar recursos. La calificación jurídica depende del contenido y del régimen aplicable, sin convertir la tesis docente de autonomía en categoría legal uniforme."
+        "Criterios independientes: el objeto y el medio pueden coincidir con adhesión —condiciones generales predispuestas— y consumo —vínculo entre proveedor y destinatario final—.",
+        "Licencia de uso: autoriza utilizar software según usuarios, instalaciones, duración y demás permisos pactados. Adquirir una copia no transfiere todos los derechos intelectuales.",
+        "Cesión de derechos: transfiere los derechos acordados; debe precisarlos y distinguirse del permiso de uso de una licencia.",
+        "Desarrollo a medida y llave en mano: encargo de funcionalidades específicas o de una solución integral; definir alcance, exclusiones, integración, entregables y aceptación.",
+        "Código fuente y escrow: una licencia regula acceso y usos permitidos del código; el escrow es su depósito con condiciones de liberación pactadas, sin acceso irrestricto desde el inicio.",
+        "Sistema integrado: hardware, software, servicios y documentación interdependientes. Si se prometió una solución conjunta, compatibilidad y modularidad se evalúan sobre el sistema completo.",
+        "Hardware: compraventa para adquirir equipos, locación para usarlos temporalmente y leasing como financiación con opción de compra; precisar equipos, mantenimiento y destino final.",
+        "Mantenimiento y ayuda en línea: distinguir corrección de errores, actualizaciones, mejoras y tiempos de atención.",
+        "Procesamiento de datos y outsourcing: concretar procesamiento o tareas delegadas, responsabilidades, seguridad y continuidad.",
+        "Hosting, housing y conectividad: delimitar alojamiento del servicio, alojamiento de equipos y acceso a Internet, respectivamente, con disponibilidad pactada.",
+        "Consultoría, capacitación, auditoría y seguridad: fijar objetivos, informes, alcance y criterios de evaluación. El catálogo docente incluye diseño web, publicidad, know-how, antivirus, redes, certificación de transacciones, infraestructura de firma digital y teletrabajo.",
+        "Colaboración: el proveedor aconseja una solución adecuada y advierte riesgos, costos y cambios organizativos; el usuario comunica necesidades y aporta recursos. El régimen depende del contenido y las leyes aplicables; la autonomía del contrato informático es una tesis doctrinaria del apunte."
       ],
-      "ejemplos": ["Una clínica contrata en una oficina un sistema de turnos: el objeto es informático. Una licencia para veinte puestos no acredita cesión de derechos, y un escrow podría permitir liberar el código si ocurre el supuesto pactado."],
+      "ejemplos": ["Una silla comprada por Internet es contratación electrónica; una auditoría presencial de sistemas, informática. No puede validarse una migración si el cliente no aporta datos de prueba representativos."],
       "ojo": "No se presume que todo producto informático es una cosa peligrosa; el análisis del riesgo depende de su naturaleza, medios y circunstancias."
     },
     "ct_entrega": {
       "categoria": "Proyectos informáticos",
       "titulo": "Entregables, test y niveles de servicio",
-      "intro": ["Para controlar una entrega hay que transformar las promesas en condiciones observables. La instalación, el funcionamiento inicial y la aceptación definitiva son etapas diferentes, cuyo efecto depende de lo pactado y de la modalidad contractual."],
+      "intro": ["Controlar la entrega exige promesas verificables. El esquema docente distingue recepción provisoria, instalación, puesta en marcha, test de aceptación y recepción definitiva; sus efectos dependen del contrato."],
       "notas": [
-        "Recepción provisoria: etapa inicial de recepción del sistema, previa a completar las verificaciones previstas para su aceptación definitiva. El esquema docente distingue además instalación, puesta en marcha y test de aceptación.",
+        "Recepción provisoria: recepción inicial del sistema, pendiente de completar las verificaciones para la aceptación definitiva.",
         "Test de aceptación: prueba acordada para comparar el sistema entregado con ítems y valores exigidos; debe precisar métodos de medición y responsables. Puede participar una comisión mixta.",
-        "Resultados y corrección: conviene pactar corrección de fallas, repetición de pruebas y consecuencias del rechazo. Los períodos de treinta, sesenta o noventa días son ejemplos convencionales, no plazos legales uniformes.",
-        "Recepción definitiva: documenta la aceptación según el esquema pactado. No crea universalmente el contrato ni transmite por sí misma el dominio; una licencia puede conceder uso sin transferir propiedad.",
+        "Resultados: pactar corrección de fallas, repetición de pruebas y consecuencias del rechazo. Treinta, sesenta o noventa días son ejemplos convencionales, no plazos legales uniformes.",
+        "Recepción definitiva: documenta aceptación según lo pactado; no crea universalmente el contrato ni transmite por sí misma dominio. Una licencia autoriza uso sin necesariamente transferir propiedad.",
         "SLA: acuerdo de niveles de servicio que establece disponibilidad, tiempos de respuesta y recuperación, métodos de medición y consecuencias del incumplimiento. Decir servicio permanente no reemplaza esas métricas.",
-        "Anexos y cambios: incorporar expresamente especificaciones, cronograma y SLA, identificar versión y fecha, asegurar acceso y definir prevalencia entre documentos permite reconstruir lo prometido.",
-        "Cierre del proyecto: prever precio y pagos por hitos, propiedad intelectual, garantías, responsabilidades, modificaciones, notificaciones y terminación; al finalizar, liquidación, devolución de datos y obligaciones que subsisten."
+        "Anexos: documentos incorporados expresamente al acuerdo, como especificaciones, cronograma y SLA. Identificar versión y fecha, asegurar acceso y definir qué documento prevalece.",
+        "Cláusulas del proyecto: identificar partes y facultades, objeto, alcance, exclusiones, entregables, precio, moneda, ajustes, pagos por hitos y obligaciones; precisar propiedad intelectual, confidencialidad, tratamiento de datos, garantías y responsabilidad.",
+        "Cambios y cierre: regular modificaciones, notificaciones y terminación; prever liquidación, devolución de datos y obligaciones que subsisten al finalizar."
       ],
       "ejemplos": ["El test exige importar datos sin pérdidas y procesar la carga acordada dentro del tiempo estipulado. El SLA fija cómo se mide la disponibilidad mensual y qué ocurre si no se alcanza."],
       "ojo": "Encender el servidor no acredita por sí solo que se aceptó definitivamente la solución ni que se cedieron sus derechos intelectuales."
@@ -131,52 +140,50 @@
     "ct_incumplimiento": {
       "categoria": "Cumplimiento y remedios",
       "titulo": "Suspensión, saneamiento y seña",
-      "intro": ["Cuando una prestación falla hay que identificar qué problema ocurrió y qué remedio corresponde. No es lo mismo la falta de entrega, un derecho de un tercero sobre lo transmitido, un defecto oculto o el ejercicio de un arrepentimiento expresamente pactado."],
+      "intro": ["Ejecutar es cumplir las prestaciones acordadas. El CCyC distingue suspensión, saneamiento —garantía por el derecho transmitido y defectos ocultos— y terminación, cada uno con requisitos propios."],
       "notas": [
         "Suspensión: el art. 1031 contempla el incumplimiento de prestaciones simultáneas. La tutela preventiva del art. 1032 atiende una amenaza grave por deterioro significativo de aptitud para cumplir o de solvencia; una sospecha aislada no basta.",
-        "Evicción: saneamiento que protege la legitimidad del derecho transmitido, incluidos ciertos reclamos de propiedad intelectual. Se distingue de una falla material o funcional de la cosa.",
-        "Vicio oculto: defecto no aparente de lo recibido. El vicio redhibitorio es aquel que vuelve la cosa impropia para su destino o reduce gravemente su utilidad; no todo defecto oculto alcanza esa gravedad.",
-        "Remedios y reparación: los arts. 1033 a 1058 prevén subsanación, reemplazo de bienes fungibles, resolución y daños según requisitos. Si el defecto es subsanable y el garante ofrece corregirlo, rechazar esa reparación impide resolver por esa vía, según el art. 1057.",
+        "Evicción: saneamiento que protege la legitimidad del derecho transmitido, incluidos ciertos reclamos de propiedad intelectual; difiere de una falla material o funcional.",
+        "Vicio oculto: defecto no aparente. Es redhibitorio si vuelve la cosa impropia para su destino o reduce gravemente su utilidad; no todo defecto oculto alcanza esa gravedad.",
+        "Remedios: subsanación, reemplazo de bienes fungibles, resolución y daños según requisitos (arts. 1033 a 1058). Si el garante ofrece corregir un defecto subsanable, rechazar la reparación impide resolver por esa vía (art. 1057).",
         "Denuncia del defecto: el art. 1054 fija sesenta días desde la manifestación; si es gradual, desde que pudo advertirse. Existe excepción si el enajenante conocía o debía conocer el defecto.",
         "Caducidad de la garantía: el art. 1055 fija tres años desde recepción para inmuebles y seis meses desde recepción o puesta en funcionamiento para muebles; pueden ampliarse por convenio. No son plazos de prescripción ni sustituyen garantías especiales de consumo.",
-        "Seña confirmatoria: confirma el acuerdo y es la regla si no se pactó arrepentimiento; entregar una seña no concede por sí solo una facultad para retirarse.",
-        "Seña penitencial: existe pacto de arrepentimiento. Si se arrepiente quien entregó la seña, la pierde; si lo hace quien la recibió, debe devolverla doble, conforme a los arts. 1059 y 1060.",
+        "Seña confirmatoria: confirma el acuerdo; rige salvo pacto de arrepentimiento y no concede por sí sola facultad de retirarse.",
+        "Seña penitencial: permite arrepentirse por pacto; quien la entregó la pierde y quien la recibió debe devolverla doble si se arrepiente (arts. 1059 y 1060).",
         "Extinción: además de cumplimiento y vencimiento del plazo pactado, existen rescisión por acuerdo y extinción unilateral autorizada por ley o contrato, según los arts. 1076 a 1079. La resolución por incumplimiento exige sus presupuestos, no una falla menor aislada, según los arts. 1083 a 1088."
       ],
-      "ejemplos": ["Un tercero reclama un derecho intelectual que impide usar legítimamente el programa: el problema es de evicción. Un equipo con una falla de fabricación no aparente plantea vicios ocultos.", "Con arrepentimiento pactado, si el vendedor decide retirarse después de recibir una seña, debe devolverla doble; sin ese pacto, la seña es confirmatoria."],
+      "ejemplos": ["Un derecho de tercero que impide usar legítimamente el programa plantea evicción; una falla de fabricación no aparente del equipo, vicios ocultos."],
       "ojo": "No confundas los sesenta días para denunciar un defecto, la caducidad de la garantía y la prescripción de una acción."
     },
     "ct_firmas": {
       "categoria": "Documentos y firmas",
       "titulo": "Documento, firma electrónica y digital",
-      "intro": ["La Ley 25.506 distingue el soporte del documento y los mecanismos para atribuir una declaración. Esa diferencia afecta la prueba: la firma electrónica desconocida y la firma digital válida no tienen el mismo régimen probatorio."],
+      "intro": ["La firma atribuye una declaración. La Ley 25.506 distingue documento, firma electrónica y firma digital, con diferente equivalencia y fuerza probatoria."],
       "notas": [
-        "Documento digital, art. 6: representación digital de actos o hechos que satisface el requerimiento de escritura. No debe confundirse con el mecanismo de firma que puede acompañarlo.",
+        "Documento digital, art. 6: representación digital de actos o hechos que satisface escritura; difiere de la firma que puede acompañarlo.",
         "Firma digital, art. 2: resultado de un procedimiento matemático verificable que permite identificar al firmante y detectar alteraciones del documento; no equivale a pegar una imagen de una rúbrica.",
         "Equivalencia, art. 3: la firma digital satisface el requerimiento de firma manuscrita, junto con el art. 288 del CCyC. Esa equivalencia no transforma un documento privado en escritura pública ni subsana defectos de validez del negocio.",
         "Firma electrónica, art. 5: datos electrónicos vinculados al documento y utilizados para identificar al firmante que no reúnen todos los requisitos de firma digital. PIN o biometría pueden integrar este mecanismo según su vinculación al acto.",
-        "Desconocimiento, art. 5: si se desconoce la firma electrónica, quien la invoca debe acreditar su validez; puede ser una persona distinta del supuesto firmante. No tiene automáticamente la equivalencia general del art. 3.",
-        "Autoría, art. 7: se presume, salvo prueba en contrario, que la firma digital pertenece al titular del certificado que permite verificarla.",
-        "Integridad, art. 8: la verificación de la firma digital da lugar a la presunción de que el documento no fue modificado desde su firma, salvo prueba en contrario.",
-        "Impugnación: las presunciones de autoría e integridad son refutables. El no repudio técnico no vuelve jurídicamente imposible cuestionar la firma ni acredita capacidad o representación."
+        "Desconocimiento, art. 5: quien invoca la firma electrónica desconocida acredita su validez; puede ser distinto del supuesto firmante. No tiene automáticamente la equivalencia general del art. 3.",
+        "Autoría e integridad, arts. 7 y 8: se presume que la firma digital pertenece al titular del certificado que permite verificarla y, verificada, que el documento no cambió desde la firma. Ambas presunciones admiten prueba en contrario; el no repudio técnico no impide impugnarla ni acredita capacidad o representación.",
+        "Validez digital, art. 9: exige creación durante la vigencia de un certificado válido, verificación correcta y certificado emitido o reconocido por certificador licenciado."
       ],
-      "ejemplos": ["Una empresa pretende cobrar con un documento que atribuye a una persona mediante firma electrónica. Si esa persona la desconoce, la empresa que la invoca debe acreditar su validez.", "Un documento digital puede satisfacer escritura; para exigir equivalencia con la firma manuscrita se analiza la firma digital y sus requisitos, no solo el formato del archivo."],
+      "ejemplos": ["Si una empresa reclama un pago invocando una firma electrónica desconocida por el supuesto firmante, debe acreditar su validez. Que el archivo sea digital no basta para equipararla con una firma manuscrita."],
       "ojo": "No atribuyas la carga probatoria al firmante por el solo hecho de serlo: en el art. 5 importa quién invoca la firma electrónica desconocida."
     },
     "ct_infraestructura": {
       "categoria": "Documentos y firmas",
       "titulo": "Claves, certificados y reglamentación",
-      "intro": ["La firma digital depende de procedimientos y certificados que permiten verificarla. Para estudiar su validez hay que atender a las condiciones al firmar y a la normativa vigente, sin convertir una lista histórica de organismos en información actual."],
+      "intro": ["Firma digital es el resultado de un procedimiento matemático que permite identificar al firmante y detectar alteraciones (Ley 25.506, art. 2). Su validez exige revisar las condiciones al firmar; una lista histórica de organismos no acredita su situación actual."],
       "notas": [
-        "Clave privada: componente que se utiliza para firmar y que debe mantenerse bajo control del firmante. No debe confundirse con el componente utilizado por quien verifica.",
-        "Clave pública: componente utilizado para verificar la firma; su función es distinta de la generación de la firma con la clave privada.",
+        "Claves: la privada genera la firma y debe mantenerse bajo control del firmante; la pública permite verificarla.",
         "Certificado digital: elemento de la infraestructura que vincula la verificación con su titular; deben controlarse emisor, vigencia y revocación. No es la clave privada ni el documento firmado.",
-        "Requisitos del art. 9: creación durante la vigencia del certificado válido, verificación correcta y certificado emitido o reconocido por un certificador licenciado. No basta que un archivo se presente como firmado digitalmente.",
+        "Requisitos del art. 9 de la Ley 25.506: creación durante la vigencia de un certificado válido, verificación correcta y certificado emitido o reconocido por certificador licenciado.",
         "Momento relevante: el vencimiento posterior del certificado no anula automáticamente las firmas anteriores. Hay que conservar elementos que permitan verificar las condiciones existentes al firmar.",
-        "Infraestructura de confianza: comprende autoridades, certificadores, registro, certificados y procedimientos. La nómina de certificadores y los nombres administrativos de 2020 se estudian como antecedentes históricos, no como listado actual comprobado.",
+        "Infraestructura de confianza: autoridades, certificadores, registro, certificados y procedimientos. Al corte normativo del material (22/11/2026), la nómina y los nombres administrativos de 2020 son antecedentes históricos, sin verificación de su vigencia actual.",
         "Reglamentación actualizada: el art. 5 del Decreto 182/2019 derogó el Decreto 2628/2002 citado en el apunte. Este último es antecedente histórico y no la reglamentación vigente que debe enseñarse."
       ],
-      "ejemplos": ["Al verificar un contrato se controla que la firma se haya creado durante la vigencia de un certificado válido y se comprueban los demás requisitos del art. 9; que el certificado venza después no basta para invalidarla."],
+      "ejemplos": ["Un certificado vencido hoy no invalida automáticamente una firma anterior: hay que comprobar su vigencia al firmar y los demás requisitos del art. 9."],
       "ojo": "Una firma técnicamente verificable no crea facultades de representación que la persona no tiene."
     }
   }

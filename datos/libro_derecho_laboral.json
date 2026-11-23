@@ -4,15 +4,15 @@
     "dl_glosario": {
       "categoria": "Empezá por acá",
       "titulo": "Palabras para entender el empleo",
-      "intro": ["El Derecho Laboral estudia principalmente el trabajo dependiente: una persona aporta su actividad dentro de una organización ajena y recibe una remuneración. Estas palabras permiten empezar a leer sus reglas sin conocimientos previos."],
+      "intro": ["El Derecho Laboral regula principalmente el trabajo dependiente: una persona aporta su actividad en una organización ajena a cambio de remuneración."],
       "notas": [
         "Trabajador dependiente: presta servicios dentro de la organización y dirección de un empleador; el nombre del acuerdo no decide por sí solo la situación.",
-        "Empleador: organiza la actividad, paga la remuneración y debe registrar, ingresar aportes y cuidar la seguridad y el trato digno.",
-        "LCT: Ley de Contrato de Trabajo, norma general del empleo privado dependiente; existen regímenes especiales que hay que identificar antes de aplicar sus reglas.",
+        "Empleador: organiza la actividad y debe pagar, registrar, ingresar aportes y garantizar seguridad y trato digno.",
+        "LCT: Ley de Contrato de Trabajo, norma general del empleo privado dependiente. Construcción, trabajo agrario y casas particulares tienen regímenes especiales; hay que identificar el aplicable.",
         "CCT: convenio colectivo de trabajo que establece condiciones para su ámbito, como categorías, salarios, adicionales, jornadas y licencias.",
-        "Remuneración: contraprestación laboral; el monto bruto y el dinero neto recibido después de descuentos son conceptos diferentes.",
+        "Remuneración: contraprestación laboral; bruto es el monto previo a descuentos y neto, el recibido después.",
         "SAC y ART: SAC significa sueldo anual complementario o aguinaldo; ART identifica a la aseguradora de riesgos del trabajo.",
-        "Fecha de lectura: el resumen y la normativa se contrastaron al 22/11/2026. Las novedades de la Ley 27.802 se estudian como texto publicado el 6/3/2026, sin afirmar aplicación judicial uniforme a todo expediente."
+        "Corte de verificación: el resumen registra consulta de fuentes oficiales al 22/11/2026. La LCT consultada incorpora la Ley 27.802, publicada el 6/3/2026; se estudia su texto sin afirmar aplicación judicial uniforme a cada expediente."
       ],
       "ejemplos": ["Una desarrolladora puede tener jefe y sueldo, estar encuadrada en un CCT y recibir SAC aunque su actividad cotidiana sea escribir código."],
       "ojo": "Identificá hechos, fechas, régimen y jurisdicción antes de trasladar una regla a un caso concreto."
@@ -20,165 +20,164 @@
     "dl_dependencia": {
       "categoria": "El vínculo de trabajo",
       "titulo": "Dependencia y hechos reales",
-      "intro": ["Para distinguir empleo de una actividad independiente hay que reconstruir cómo se trabaja. La subordinación técnica, económica y jurídica describe distintos aspectos del vínculo; se examinan en conjunto, sin que una factura o un título profesional resuelva el problema."],
+      "intro": ["La dependencia se determina por cómo se trabaja: se valoran conjuntamente la subordinación técnica, económica y jurídica. Una factura o un título profesional no resuelven el caso."],
       "notas": [
         "Subordinación técnica: instrucciones sobre tareas y procedimientos, como seguir el proceso interno de desarrollo. Un especialista puede conservar autonomía técnica y seguir siendo dependiente.",
         "Subordinación económica: trabajo por cuenta ajena, sin asumir el riesgo empresarial; por ejemplo, cobrar sueldo aunque el producto no se venda.",
         "Subordinación jurídica: inserción en una organización que dirige y controla, como tener jefe, horario y autorización de vacaciones.",
-        "Actividad independiente: organizar la propia actividad, fijar honorarios y asumir riesgos son indicios de independencia que deben valorarse junto con los demás hechos.",
-        "Primacía de la realidad: los hechos prevalecen frente a una apariencia fraudulenta; facturar como monotributista no permite descartar por sí solo una dependencia acreditada.",
-        "Presunción del art. 23: el texto reformado por la Ley 27.802, publicada el 6/3/2026, vincula la presunción a servicios en dependencia y contempla contrataciones independientes documentadas sin esa presunción. Su ausencia no vuelve imposible probar dependencia o fraude; este es el texto publicado, cuya aplicación exige examinar el expediente."
+        "Actividad independiente: organizar la actividad, fijar honorarios y asumir riesgos son indicios que deben contrastarse con los demás hechos.",
+        "Primacía de la realidad: prevalecen los hechos frente a una apariencia fraudulenta, aunque se facture como monotributista (Ley de Contrato de Trabajo, LCT, arts. 14 y 21 a 23).",
+        "Presunción del art. 23 de la LCT: la Ley 27.802, publicada el 6/3/2026, la vincula a servicios en dependencia y contempla contrataciones independientes documentadas sin esa presunción. Su ausencia no impide probar dependencia o fraude. Es el texto publicado; su aplicación exige examinar el expediente."
       ],
-      "ejemplos": ["María factura, pero cumple horario, pide permiso para faltar y cobra un monto mensual sin participar de pérdidas. Esos hechos requieren analizar dependencia; la factura no cierra la discusión.", "Un consultor acuerda resultados, organiza sus horarios, fija honorarios y asume el costo de corregir su propio trabajo: hay indicios que deben contrastarse con el funcionamiento real."],
+      "ejemplos": ["María factura, pero cumple horario, pide permiso para faltar y cobra un monto mensual sin asumir pérdidas: son indicios de dependencia que deben probarse."],
       "ojo": "No confundas ausencia de presunción legal con prohibición de producir prueba."
     },
     "dl_principios_cct": {
       "categoria": "Fuentes y protección",
       "titulo": "Mínimos, convenios y obligaciones",
-      "intro": ["La desigualdad de negociación explica que el Derecho Laboral establezca un piso protector. La Constitución, las leyes y los convenios colectivos orientan las condiciones del vínculo; firmar un acuerdo individual no permite borrar los mínimos legales o convencionales."],
+      "intro": ["El orden público laboral fija mínimos que una firma individual no elimina. El convenio colectivo de trabajo (CCT) regula categorías, salarios, adicionales, jornadas y licencias para su ámbito."],
       "notas": [
-        "Fundamento y fuentes: el art. 14 bis reconoce jornada limitada, descanso, vacaciones pagas, remuneración justa y protección contra el despido arbitrario. También son fuentes los tratados, convenios OIT, leyes, reglamentos, CCT y contrato individual.",
-        "Irrenunciabilidad: el art. 12 protege derechos de la ley, estatutos y CCT frente a renuncias individuales. Firmar que se deja de cobrar el SAC obligatorio no elimina ese mínimo.",
-        "Principio protectorio: busca compensar la desigualdad. Al estudiar el art. 9 del texto publicado consultado al 22/11/2026, la comparación de normas más favorables se hace por instituciones, sin armar una mezcla de cláusulas aisladas.",
-        "Continuidad: favorece conservar el vínculo y su duración indeterminada; no equivale a impedir que termine por una causa legal.",
-        "Buena fe e igualdad: ambas partes deben actuar lealmente. Se prohíben diferencias arbitrarias, sin excluir diferencias con justificación objetiva. La gratuidad facilita reclamar, pero no elimina toda consecuencia procesal.",
-        "Encuadramiento colectivo: para verificar un salario hacen falta actividad y CCT aplicable, tareas reales, categoría, escala del período y adicionales. El título de informático o el salario mínimo no determinan por sí solos el importe.",
-        "Derechos colectivos: libertad sindical comprende afiliarse o no hacerlo; delegados representan reclamos en el establecimiento y la negociación colectiva trata intereses comunes. La huelga tiene reconocimiento constitucional y límites legales.",
-        "Obligaciones recíprocas: el trabajador debe diligencia, cumplimiento de instrucciones legítimas y confidencialidad; el empleador debe pago, registro, aportes, ocupación, seguridad y trato digno. Una filtración exige prueba de autoría y responsabilidad.",
-        "Mejoras individuales: un beneficio contractual superior, como vacaciones adicionales, requiere examinar su incorporación contractual; no debe resolverse su modificación invocando de modo automático el art. 12."
+        "Fundamento y fuentes: el art. 14 bis de la Constitución reconoce condiciones dignas, jornada limitada, descanso, vacaciones pagas, remuneración justa, igualdad salarial, protección contra el despido arbitrario y derechos sindicales. Las reformas están sujetas al control constitucional. También son fuentes tratados, convenios de la Organización Internacional del Trabajo (OIT), leyes, reglamentos, CCT y contrato individual.",
+        "Irrenunciabilidad: la Ley de Contrato de Trabajo (LCT), arts. 12 y 13, protege mínimos de la ley, estatutos y CCT frente a renuncias individuales.",
+        "Principio protectorio: compensa la desigualdad de negociación (LCT, arts. 7 a 9 y 17 bis). El art. 9 consultado al 22/11/2026 compara normas por instituciones, sin mezclar cláusulas aisladas convenientes.",
+        "Continuidad: favorece conservar el vínculo y su duración indeterminada, sin impedir una extinción legal (LCT, arts. 10 y 90).",
+        "Buena fe e igualdad: conducta leal de ambas partes (arts. 62 y 63) y prohibición de diferencias arbitrarias, admitiendo justificaciones objetivas (arts. 17 y 81). La gratuidad facilita reclamar, sin eliminar toda consecuencia procesal (art. 20 de la LCT).",
+        "Encuadramiento colectivo: el salario exige identificar actividad, CCT aplicable, tareas reales, categoría, escala del período y adicionales. Las paritarias actualizan esas condiciones. Dos informáticos de actividades distintas pueden tener escalas diferentes; ni el título ni el salario mínimo fijan por sí solos el importe.",
+        "Derechos colectivos: libertad de afiliarse o no; delegados que representan reclamos en el establecimiento; negociación de intereses comunes y conflicto colectivo, como una disputa salarial de toda una actividad. La huelga tiene reconocimiento constitucional y límites legales (Ley 23.551, arts. 4, 40 y 47 a 52).",
+        "Obligaciones recíprocas: el trabajador debe cumplir tareas e instrucciones legítimas, actuar con diligencia y guardar confidencialidad; el empleador debe pago, registro, aportes, ocupación, seguridad y trato digno. Exportar clientes para un competidor puede comprometer fidelidad y buena fe; una filtración exige probar autoría y responsabilidad.",
+        "Mejoras individuales: vacaciones adicionales u otro beneficio superior requieren analizar su incorporación contractual; su modificación no se resuelve automáticamente con el art. 12."
       ],
-      "ejemplos": ["Dos programadores de actividades distintas no tienen necesariamente la misma escala: se revisa el CCT correspondiente a cada vínculo.", "Una empresa propone conservar el puesto a cambio de no pagar aguinaldo: la firma no suprime el mínimo legal."],
+      "ejemplos": ["Firmar que se renuncia al sueldo anual complementario (SAC o aguinaldo) obligatorio no elimina ese mínimo."],
       "ojo": "El convenio puede mejorar condiciones, pero primero hay que justificar por qué corresponde a ese trabajo."
     },
     "dl_contrato_prueba": {
       "categoria": "El vínculo de trabajo",
       "titulo": "Contrato, modalidades y prueba inicial",
-      "intro": ["Contrato y relación no son sinónimos: el primero es el acuerdo de prestar servicios dependientes remunerados y la segunda es su ejecución. La modalidad debe responder a una necesidad real; un nombre escrito no convierte un puesto permanente en una contratación temporal válida."],
+      "intro": ["El contrato es el acuerdo de prestar servicios dependientes remunerados; la relación es su ejecución. La modalidad debe responder a una necesidad real: una etiqueta no justifica contratar temporalmente un puesto permanente."],
       "notas": [
-        "Acuerdo y ejecución: puede existir empleo sin documento titulado contrato de trabajo. Un acuerdo de confidencialidad o la entrega de una computadora documentan aspectos particulares y no agotan la calificación del vínculo.",
+        "Acuerdo y ejecución: puede existir empleo sin contrato escrito. Acuerdos de confidencialidad, entrega de equipos y políticas informáticas documentan aspectos particulares, sin definir por sí solos el vínculo.",
         "Tiempo indeterminado: es la regla para necesidades permanentes, como mantener el equipo estable que desarrolla un sistema.",
         "Plazo fijo: exige duración escrita y justificación temporal; un reemplazo por licencia puede justificarlo. Encadenar plazos sin razón puede convertir el vínculo en indeterminado.",
         "Eventual: responde a una necesidad extraordinaria y transitoria, como un refuerzo para un evento; la etiqueta eventual no reemplaza esa justificación.",
         "Temporada: cubre una necesidad cíclica que se repite, con continuidad del vínculo y recesos entre ciclos.",
         "Pasantía y regímenes especiales: la pasantía tiene finalidad educativa, tutoría y tareas formativas, sin sustituir puestos ordinarios. El fondo de cese de la construcción no debe trasladarse a otras actividades de modo automático.",
-        "Art. 92 bis: el período general de prueba es de seis meses. El CCT puede ampliarlo hasta ocho meses en empresas de 6 a 100 trabajadores y hasta un año en empresas de hasta 5; no basta una decisión individual del empleador. Esta redacción se atribuye a la Ley 27.742 de 2024.",
+        "Art. 92 bis de la Ley de Contrato de Trabajo (LCT): prueba general de seis meses. El convenio colectivo de trabajo (CCT) puede ampliarla hasta ocho meses en empresas de 6 a 100 trabajadores y hasta un año en empresas de hasta 5; no basta la decisión del empleador. Esta redacción se atribuye a la Ley 27.742 de 2024.",
         "Derechos desde el inicio: hay salario, cobertura, aportes y cómputo de servicios durante prueba. Omitir la registración hace perder al empleador el período de prueba; no puede repetirlo con la misma persona ni usarlo abusivamente para rotar un puesto permanente."
       ],
-      "ejemplos": ["Una empresa de 30 personas no puede declarar por sí sola ocho meses de prueba: debe existir ampliación del CCT dentro del art. 92 bis.", "Cubrir por escrito la licencia temporal de otra persona y contratar sin fecha de finalización para una necesidad estable son modalidades que exigen fundamentos diferentes."],
+      "ejemplos": ["Una empresa de 30 personas necesita ampliación del CCT para establecer ocho meses de prueba; no puede decidirlos por sí sola."],
       "ojo": "El período de prueba es parte de un empleo con derechos, no una etapa gratuita o sin registro."
     },
     "dl_remuneracion": {
       "categoria": "Ingresos",
       "titulo": "Sueldo, recibo y aguinaldo",
-      "intro": ["La remuneración retribuye el trabajo y puede reunir varios componentes. Leer un recibo exige distinguir lo devengado, los descuentos y el monto que finalmente se cobra; también separar salario, reintegros y pagos por la terminación del vínculo."],
+      "intro": ["La remuneración retribuye el trabajo. El recibo permite distinguir conceptos devengados, descuentos y dinero cobrado, pero debe contrastarse con tareas y pagos reales."],
       "notas": [
         "Componentes salariales: pueden integrar la remuneración el básico, comisiones, premios, adicionales y horas extras, según su naturaleza.",
         "Bienes y reintegros: no todo beneficio o devolución de gastos es salario. Una notebook entregada para trabajar no equivale automáticamente a remuneración en especie.",
-        "Bruto y neto: bruto es el monto antes de descuentos; neto es lo que resulta después. El recibo se contrasta con tareas y pagos reales, no se toma como descripción infalible.",
-        "SAC: el sueldo anual complementario se paga en dos cuotas con vencimiento el 30 de junio y el 18 de diciembre, conforme a los arts. 121 a 123 de la LCT.",
+        "Bruto y neto: bruto es el monto antes de descuentos; neto es el que resulta después.",
+        "SAC: el sueldo anual complementario o aguinaldo se paga en dos cuotas, con vencimiento el 30 de junio y el 18 de diciembre (Ley de Contrato de Trabajo, LCT, arts. 121 a 123).",
         "Cálculo de la cuota: para un semestre completo es el 50 % de la mayor remuneración mensual devengada de ese semestre. Si corresponde, se proporciona al tiempo trabajado; diciembre requiere estimación y eventual ajuste.",
-        "Conceptos diferentes: la remuneración paga el trabajo, la indemnización responde a su supuesto legal y un reintegro devuelve gastos. No se obtiene una base indemnizatoria usando sin más el último sueldo neto."
+        "Conceptos diferentes: la remuneración paga el trabajo, la indemnización responde a su supuesto legal y el reintegro devuelve gastos. El último sueldo neto no determina por sí solo una base indemnizatoria."
       ],
-      "ejemplos": ["Con semestre completo y mayor remuneración mensual devengada de $2.000.000, la cuota bruta de SAC es $1.000.000.", "Una factura por un gasto laboral reembolsado y el básico mensual deben analizarse por separado: que ambos lleguen a la cuenta no los vuelve equivalentes."],
+      "ejemplos": ["Con semestre completo y mayor remuneración mensual devengada de $2.000.000, la cuota bruta de SAC es $1.000.000."],
       "ojo": "La regla del SAC usa la mayor remuneración mensual devengada, no el promedio de los depósitos netos."
     },
     "dl_jornada_guardias": {
       "categoria": "Tiempo de trabajo",
       "titulo": "Jornada, descansos y guardias",
-      "intro": ["La jornada incluye el tiempo de disponibilidad para el empleador y no se limita a los minutos de producción visible. Los límites, descansos y condiciones de una guardia deben analizarse con el régimen y el convenio; un correo fuera de hora no basta para liquidar una cantidad fija de extras."],
+      "intro": ["La jornada incluye disponibilidad para el empleador, no solo producción visible. Los límites y las guardias se analizan según régimen y convenio; un correo fuera de hora no acredita una cantidad fija de extras."],
       "notas": [
-        "Máximo general: la Ley 11.544 establece 8 horas diarias o 48 semanales; un CCT puede fijar menos. Deben considerarse el régimen y las excepciones aplicables.",
+        "Máximo general: la Ley 11.544, arts. 1 a 3, establece 8 horas diarias o 48 semanales; el convenio colectivo de trabajo (CCT) puede fijar menos. Hay que considerar régimen y excepciones aplicables.",
         "Nocturnidad e insalubridad: jornada nocturna íntegra, entre las 21 y las 6, tiene límite general de 7 horas. Para tareas declaradas insalubres, 6 diarias o 36 semanales; que una tarea resulte agotadora no sustituye esa declaración.",
-        "Descanso diario: deben mediar 12 horas entre jornadas; contar solamente las horas efectivamente tecleadas deja fuera otros tiempos de disponibilidad relevantes.",
+        "Descanso diario: deben mediar 12 horas entre jornadas (Ley de Contrato de Trabajo, LCT, arts. 197 a 204, sobre jornada y descansos).",
         "Descanso semanal: el general se extiende desde el sábado a las 13 hasta el domingo a las 24, con excepciones y descansos compensatorios.",
-        "Horas suplementarias: el art. 201 prevé recargo del 50 % en días comunes y del 100 % los sábados después de las 13, domingos y feriados. Antes de liquidar se debe determinar qué tiempo corresponde tratar como suplementario.",
-        "Texto publicado en 2026: la Ley 27.802 contempla compensación voluntaria escrita de horas extraordinarias con registro verificable y respeto de descansos, además de bancos de horas y promedios. Estudiar ese texto no implica admitir una aplicación judicial uniforme ni una habilitación unilateral ilimitada.",
-        "Guardia informática: hay que reconstruir disponibilidad, tareas, duración, convenio y acuerdo aplicable. Ni toda guardia equivale a actividad continua ni todo tiempo sin actividad puede descartarse de antemano."
+        "Horas suplementarias: el art. 201 de la LCT prevé recargo del 50 % en días comunes y del 100 % los sábados después de las 13, domingos y feriados. Primero debe determinarse qué tiempo es suplementario.",
+        "Texto publicado en 2026: la Ley 27.802, arts. 42 y 43, contempla compensación voluntaria escrita de horas extraordinarias, registro verificable y respeto de descansos, además de bancos de horas y promedios. No supone aplicación judicial uniforme ni habilitación unilateral ilimitada.",
+        "Guardia informática: deben reconstruirse disponibilidad, tareas, duración, convenio y acuerdo aplicable. No toda guardia es actividad continua ni todo tiempo sin actividad queda fuera de la jornada."
       ],
-      "ejemplos": ["Lucía atiende alertas de un servidor durante una guardia: horarios, instrucciones y registros ayudan a establecer su disponibilidad y trabajo real.", "Si una jornada termina a las 22 y la siguiente se fija a las 8, median 10 horas, menos que el descanso general de 12."],
+      "ejemplos": ["Entre una salida a las 22 y una entrada a las 8 median 10 horas, menos que las 12 de descanso general."],
       "ojo": "Una regla de recargo no reemplaza la prueba de las horas ni el análisis del sistema de jornada aplicable."
     },
     "dl_licencias": {
       "categoria": "Tiempo de descanso",
       "titulo": "Vacaciones y licencias pagas",
-      "intro": ["Las vacaciones son descanso remunerado y las licencias especiales cubren situaciones determinadas. Para resolver un caso hay que distinguir días corridos, antigüedad al 31 de diciembre, trabajo computable del año y mejoras del convenio; la escala por antigüedad no basta para todos los supuestos."],
+      "intro": ["Las vacaciones son descanso remunerado; las licencias especiales cubren situaciones determinadas. Su extensión exige revisar días corridos, antigüedad, trabajo computable del año y mejoras del convenio colectivo de trabajo (CCT)."],
       "notas": [
-        "Escala general de vacaciones: hasta 5 años inclusive, 14 días corridos; más de 5 y hasta 10, 21; más de 10 y hasta 20, 28; más de 20, 35. La antigüedad se considera al 31 de diciembre.",
+        "Escala general de vacaciones (Ley de Contrato de Trabajo, LCT, arts. 150 a 155): hasta 5 años inclusive, 14 días corridos; más de 5 y hasta 10, 21; más de 10 y hasta 20, 28; más de 20, 35. La antigüedad se considera al 31 de diciembre.",
         "Período completo o proporcional: para el completo se exige al menos la mitad de los días hábiles computables del año; de no alcanzarla, corresponde un día por cada veinte de trabajo computable. Para mensualizados, el art. 155 emplea sueldo dividido por 25.",
-        "Examen: el mínimo del art. 158 es de 2 días corridos por examen medio o universitario y hasta 10 por año. Se exige enseñanza reconocida y certificado; el convenio puede mejorar el beneficio.",
+        "Examen: la LCT, arts. 158 a 161, prevé 2 días corridos por examen medio o universitario y hasta 10 por año. Se exige enseñanza reconocida y certificado; el convenio puede mejorar las licencias especiales.",
         "Otras licencias especiales: nacimiento de hijo, 2 días corridos; matrimonio, 10; fallecimiento de cónyuge o conviviente en las condiciones legales, hijo o padres, 3; fallecimiento de hermano, 1. Nacimiento y fallecimientos deben incluir un hábil si coinciden con días no laborables.",
-        "Art. 154 publicado en 2026: la Ley 27.802 prevé aviso escrito mínimo de 30 días, salvo sistemas convencionales diferentes. Admite acuerdo para salir de octubre-abril y fraccionar en tramos mínimos de 7 días; no autoriza fraccionamiento unilateral irrestricto. Se estudia el texto publicado, sin decidir su aplicación uniforme a los expedientes.",
-        "Enfermedad inculpable: el art. 208 reconoce salario durante 3 o 6 meses según antigüedad, duplicados a 6 o 12 con cargas familiares; deben observarse aviso y control médico. Vencidos, el art. 211 prevé reserva de empleo por un año.",
-        "Maternidad: tiene un régimen propio de 90 días, con posibilidad legal de reducir el tramo previo hasta un mínimo de 10 días y acumular el resto después; no es la licencia por nacimiento de hijo de 2 días."
+        "Art. 154 publicado en 2026: la Ley 27.802, art. 41, prevé aviso escrito mínimo de 30 días, salvo sistemas convencionales diferentes. Admite acuerdo para vacaciones fuera de octubre-abril y fraccionamiento en tramos mínimos de 7 días, sin autorizarlo unilateralmente. Se estudia el texto publicado, sin afirmar aplicación judicial uniforme.",
+        "Enfermedad inculpable o común, sin origen laboral: el art. 208 reconoce salario durante 3 o 6 meses según antigüedad, duplicados a 6 o 12 con cargas familiares; exige aviso y control médico. Vencidos, el art. 211 prevé reserva de empleo por un año.",
+        "Maternidad: el art. 177 de la LCT prevé 90 días, con posibilidad legal de reducir el tramo anterior al parto hasta un mínimo de 10 días y acumular el resto después; es diferente de la licencia por nacimiento de hijo de 2 días."
       ],
-      "ejemplos": ["Con seis años al 31 de diciembre y trabajo computable suficiente para el período completo, corresponden 21 días corridos de vacaciones mínimas.", "Una estudiante que rinde en una universidad reconocida y acredita el examen puede usar 2 días corridos, dentro del máximo anual general de 10."],
+      "ejemplos": ["Con seis años al 31 de diciembre y trabajo computable suficiente, corresponden 21 días corridos de vacaciones mínimas."],
       "ojo": "El CCT puede mejorar las licencias; verificá además si corresponde período completo o proporcional."
     },
     "dl_extincion": {
       "categoria": "Fin del vínculo",
       "titulo": "Renuncia y formas de despido",
-      "intro": ["Para entender una extinción primero preguntá quién decide terminar el vínculo y por qué. Una renuncia voluntaria, un despido patronal y una ruptura del trabajador por una falta grave del empleador tienen requisitos y consecuencias distintas, aunque todas pongan fin al trabajo."],
+      "intro": ["La extinción exige identificar quién termina el vínculo y por qué: renuncia, despido patronal y ruptura por incumplimiento del empleador tienen requisitos y consecuencias diferentes (Ley de Contrato de Trabajo, LCT, arts. 240 a 246)."],
       "notas": [
-        "Renuncia: decide el trabajador; genera liquidación final y normalmente no indemnización por antigüedad. No equivale a atribuir al empleador un incumplimiento grave.",
-        "Formalidad del art. 240: al estudiar el texto publicado consultado al 22/11/2026, la renuncia requiere despacho telegráfico físico o digital del trabajador con validación de identidad, o actuación ante autoridad administrativa conforme reglamentación. Un mensaje informal no debe equipararse sin más a esa formalidad.",
+        "Renuncia: decide el trabajador; genera liquidación final y normalmente no indemnización por antigüedad.",
+        "Formalidad del art. 240: el texto publicado consultado al 22/11/2026 requiere despacho telegráfico físico o digital del trabajador con validación de identidad, o actuación ante autoridad administrativa conforme reglamentación. Un mensaje informal no equivale sin más a esa formalidad.",
         "Despido sin causa: lo decide el empleador sin imputar una injuria suficiente; deben distinguirse liquidación final e indemnizaciones aplicables.",
-        "Despido con causa: el empleador invoca incumplimiento grave del trabajador. Si lo acredita con los requisitos legales, no corresponde la indemnización del despido injustificado; no basta escribir con causa.",
+        "Despido con causa: el empleador invoca incumplimiento grave del trabajador; si lo acredita con los requisitos legales, no corresponde indemnización del despido injustificado.",
         "Despido indirecto: el trabajador rompe el vínculo por incumplimiento grave patronal. Si se justifica, corresponden las indemnizaciones de los arts. 232, 233 y 245, según sus presupuestos; ante falta de pago, el ejemplo requiere intimación previa y persistencia del incumplimiento.",
-        "Causa y prueba: los arts. 242 y 243 requieren gravedad, contexto, proporcionalidad y comunicación escrita clara. La causa comunicada no puede cambiarse después; una demora aislada no equivale a sabotaje deliberado.",
-        "Protecciones especiales: embarazo, matrimonio, discriminación y representación sindical exigen análisis particular. El art. 178 prevé presunción en los 7 meses y medio anteriores o posteriores al parto bajo sus requisitos.",
+        "Causa y prueba: la injuria o incumplimiento grave exige valorar gravedad, contexto, proporcionalidad y prueba; los arts. 242 y 243 requieren comunicación escrita clara, cuya causa no puede cambiarse después. Una demora aislada no equivale a sabotaje deliberado de un servidor.",
+        "Protecciones especiales: embarazo, matrimonio, discriminación y representación sindical exigen análisis particular. El art. 178 prevé presunción en los 7 meses y medio anteriores o posteriores al parto bajo sus requisitos; para matrimonio, véanse también los arts. 181 y 182 de la LCT.",
         "Prueba del motivo discriminatorio: el art. 245 bis atribuye esa prueba a quien lo invoca. Los indicios deben examinarse con las otras fuentes; no se promete inversión automática por alegar discriminación."
       ],
-      "ejemplos": ["Tras reclamar formalmente salarios impagos y persistir una falta grave, una trabajadora comunica una ruptura imputándola al empleador: hay que analizar despido indirecto, no tratarla como simple renuncia.", "Si se invocó por escrito un hecho determinado, no puede reemplazarse luego por otro distinto para sostener el despido con causa."],
+      "ejemplos": ["Tras intimar por salarios impagos, persiste una falta grave y la trabajadora rompe imputándola al empleador: se analiza despido indirecto, no simple renuncia."],
       "ojo": "Determinar quién puso fin al vínculo es el comienzo; todavía hay que acreditar requisitos, causa y fechas."
     },
     "dl_indemnizaciones": {
       "categoria": "Fin del vínculo",
       "titulo": "Liquidación, preaviso y antigüedad",
-      "intro": ["Los pagos al terminar el empleo cumplen funciones diferentes. La liquidación final reúne conceptos devengados y proporcionales, mientras que preaviso, integración e indemnización por antigüedad dependen de presupuestos propios; no se suman por intuición ni se calculan desde un sueldo neto aislado."],
+      "intro": ["La liquidación final reúne conceptos devengados y proporcionales; preaviso, integración e indemnización por antigüedad tienen presupuestos propios (Ley de Contrato de Trabajo, LCT, arts. 231 a 245)."],
       "notas": [
-        "Liquidación final: comprende salarios pendientes, SAC proporcional y compensación por vacaciones no gozadas, según corresponda. Es diferente de una indemnización por despido y puede existir tras una renuncia.",
-        "Preaviso: el trabajador debe dar 15 días; para el empleador son 1 mes hasta 5 años de antigüedad y 2 meses si los supera. Su omisión genera indemnización sustitutiva cuando corresponde.",
-        "Prueba y preaviso patronal: el art. 231 del texto publicado con la Ley 27.802 elimina la obligación patronal de preavisar durante prueba. Esta es una precisión del texto consultado al 22/11/2026 y no una conclusión sobre todo expediente.",
-        "Integración del mes: el art. 233 cubre los días hasta fin de mes si se despide sin preaviso antes del último día, con sus presupuestos. Se excluye durante prueba; no es el mismo rubro que el preaviso omitido.",
+        "Liquidación final: salarios pendientes, sueldo anual complementario (SAC o aguinaldo) proporcional y compensación por vacaciones no gozadas, según corresponda. Puede existir tras una renuncia; es distinta de la indemnización por despido.",
+        "Preaviso (arts. 231 y 232): aviso anticipado de la extinción. El trabajador debe dar 15 días; el empleador, 1 mes hasta 5 años de antigüedad y 2 meses si los supera. Omitirlo genera indemnización sustitutiva cuando corresponde.",
+        "Prueba y preaviso patronal: el art. 231, según la Ley 27.802 publicada el 6/3/2026 y consultada al 22/11/2026, elimina el preaviso patronal durante prueba. Se describe el texto, sin afirmar aplicación judicial uniforme.",
+        "Integración del mes: el art. 233 cubre días hasta fin de mes si se despide sin preaviso antes del último día, con sus presupuestos. Se excluye durante prueba y es distinta del preaviso omitido.",
         "Antigüedad del art. 245: fuera de prueba, un mes de base por año de servicio o fracción mayor de 3 meses, con mínimo de un mes. Una fracción de exactamente 3 meses no agrega otro período.",
         "Base del art. 245 publicado en 2026: parte de la mejor remuneración mensual normal y habitual del último año, o del tiempo menor trabajado. El texto de la Ley 27.802 exige conceptos devengados al menos seis meses para habitualidad; para variables usa el promedio de seis meses o del año si favorece al trabajador.",
-        "Exclusiones y topes del texto publicado: se excluyen pagos no mensuales, como SAC y premios no mensuales. Se contempla tope de tres veces el promedio salarial convencional con piso del 67 % de la remuneración computable. Estas reglas requieren recibos y análisis del contexto, no aplicación judicial automática.",
-        "Sistemas de cese: puede existir sustitución convencional por un sistema de cese; no alcanza con que la empresa decida copiar el fondo de la construcción para todo su personal.",
-        "Ejercicio acotado: con 3 años y 4 meses y base del art. 245 ya determinada de $1.000.000, el rubro antigüedad es $4.000.000. Con exactamente 3 años y 3 meses son 3 bases; estos ejercicios no calculan preaviso, integración, liquidación ni agravamientos."
+        "Exclusiones y topes del texto publicado: excluye pagos no mensuales, como SAC y premios no mensuales. El tope es tres veces el promedio salarial del convenio colectivo de trabajo (CCT), con piso del 67 % de la remuneración computable. Exige revisar recibos y contexto, sin tomar automáticamente el último sueldo neto ni presumir aplicación judicial uniforme.",
+        "Sistemas de cese: la sustitución por un sistema de cese requiere previsión convencional; no basta copiar por decisión empresarial el fondo de la construcción."
       ],
-      "ejemplos": ["Una renuncia puede dejar salarios y SAC proporcionales por pagar sin originar normalmente indemnización por antigüedad.", "En un ejercicio que ya fija la base en $1.000.000 y la antigüedad en 3 años y 4 meses, se computan cuatro bases para el art. 245, sin deducir de ello el total de una liquidación."],
+      "ejemplos": ["Con base ya determinada de $1.000.000, 3 años y 4 meses dan $4.000.000 por art. 245; exactamente 3 años y 3 meses dan 3 bases. No se calculan preaviso, integración, liquidación ni agravamientos."],
       "ojo": "Separá los rubros y pedí los datos necesarios para cada cálculo; un importe parcial no es el total del egreso."
     },
     "dl_riesgos": {
       "categoria": "Salud y seguridad",
       "titulo": "ART, prevención y trayecto",
-      "intro": ["El sistema de riesgos del trabajo combina prevención y prestaciones ante contingencias cubiertas. Tener una ART no reemplaza las obligaciones de seguridad del empleador ni convierte en profesional toda enfermedad que padezca alguien que trabaja con una computadora."],
+      "intro": ["La aseguradora de riesgos del trabajo (ART) brinda prestaciones ante contingencias cubiertas; la prevención sigue siendo obligación del empleador (Ley 24.557, arts. 4, 6, 20 y 21)."],
       "notas": [
         "Prevención: capacitar y asegurar condiciones adecuadas precede a la reparación; la cobertura de ART no libera al empleador de esas obligaciones.",
         "Accidente laboral: ocurre por el hecho o en ocasión del trabajo, como una lesión mientras se desarrolla una tarea asignada.",
-        "Accidente in itinere: corresponde al trayecto protegido entre domicilio y trabajo; se diferencia de la lesión producida durante una tarea dentro del establecimiento.",
+        "Accidente in itinere: corresponde al trayecto protegido entre domicilio y trabajo.",
         "Enfermedad profesional: exige vinculación laboral en los términos del sistema. La mera coincidencia entre una dolencia y el uso de computadora no establece automáticamente su reconocimiento.",
         "Prestaciones: la ART brinda asistencia, medicamentos, rehabilitación, prótesis y prestaciones económicas en los supuestos cubiertos.",
-        "Comisiones Médicas: intervienen en controversias como alta e incapacidad conforme al procedimiento aplicable; no deben confundirse con la negociación salarial colectiva."
+        "Comisiones Médicas: intervienen en controversias como alta e incapacidad, conforme al procedimiento aplicable."
       ],
-      "ejemplos": ["Una persona se lesiona en el trayecto protegido desde su casa al trabajo: debe examinarse la contingencia in itinere.", "Ante una discusión por el alta médica, corresponde identificar el procedimiento aplicable y la intervención de las Comisiones Médicas."],
+      "ejemplos": ["Una lesión en el trayecto protegido casa-trabajo se analiza como in itinere; si se discute el alta, se identifica el procedimiento ante Comisiones Médicas."],
       "ojo": "Una dolencia requiere analizar su vínculo con el trabajo; no basta la ocupación de la persona."
     },
     "dl_reclamos_prueba": {
       "categoria": "Reclamar y demostrar",
       "titulo": "SECLO, jurisdicción y prueba",
-      "intro": ["Un reclamo laboral necesita hechos demostrables y un procedimiento correspondiente a su jurisdicción. Conciliar permite intentar un acuerdo, mientras que producir prueba permite sostener una versión; ninguno de esos pasos autoriza a presumir resultados por una captura aislada o por una oferta de la empresa."],
+      "intro": ["Un reclamo necesita hechos demostrables y el procedimiento de su jurisdicción. Conciliar busca un acuerdo; la prueba permite sostener los hechos alegados."],
       "notas": [
-        "Ámbito del SECLO: atiende conflictos individuales y pluriindividuales de competencia de la Justicia Nacional del Trabajo. No es una instancia uniforme de todas las provincias.",
-        "Instancia previa: la Ley 24.635 establece conciliación previa obligatoria en su ámbito con excepciones, entre ellas amparos y cautelares. Hay asistencia letrada o sindical en las condiciones informadas y gratuidad para trabajador y derechohabientes.",
-        "Acuerdos: conciliar no obliga a aceptar una oferta. El acuerdo requiere control y homologación; si no se alcanza, queda habilitada la vía correspondiente.",
+        "SECLO: Servicio de Conciliación Laboral Obligatoria; atiende conflictos individuales y pluriindividuales de competencia de la Justicia Nacional del Trabajo, sin ser instancia uniforme de todas las provincias.",
+        "Instancia previa: la Ley 24.635, arts. 1 a 3, establece conciliación previa obligatoria en su ámbito, exceptuando entre otros amparos y cautelares. La información oficial consultada al 22/11/2026 indica asistencia letrada o sindical en las condiciones previstas y gratuidad para trabajador y derechohabientes.",
+        "Acuerdos: no es obligatorio aceptar una oferta. Se requiere control y homologación, es decir, aprobación por la autoridad; sin acuerdo queda habilitada la vía correspondiente (Ley 24.635, arts. 21 a 26).",
         "Conflictos distintos: la conciliación individual del SECLO no debe confundirse con conciliación de un conflicto colectivo de toda una actividad.",
-        "Medios de prueba: pueden servir recibos, comunicaciones, testigos, pericias, logs y accesos VPN; importan autenticidad, contexto y concordancia entre elementos.",
+        "Medios de prueba: recibos, comunicaciones, testigos, pericias, logs (registros de eventos) y accesos VPN (red privada virtual). Importan autenticidad, contexto y concordancia entre elementos.",
         "Alcance de un registro: un correo nocturno puede ser indicio, pero no prueba por sí solo dos horas extras diarias. Un acceso VPN tampoco demuestra sin contexto trabajo continuo durante toda la conexión.",
         "Protección provisional: una medida cautelar, como un embargo, exige acreditar sus requisitos; su función provisional no equivale a una decisión definitiva del reclamo.",
-        "Método: reconstruir hechos y fechas, examinar dependencia, régimen y CCT, reunir prueba, analizar extinción y protección especial, separar rubros y determinar jurisdicción. Facturación, embarazo y despido requieren estudio conjunto, sin automatismos."
+        "Método: reconstruir hechos y fechas; analizar dependencia, régimen y convenio colectivo de trabajo (CCT); reunir prueba; examinar causa de extinción y protección especial; separar liquidación e indemnizaciones y determinar jurisdicción y procedimiento."
       ],
-      "ejemplos": ["Para reclamar horas de guardia se comparan instrucciones, alertas, logs y testimonios; una captura con un correo a las 23 no acredita por sí sola toda la jornada alegada.", "Si el conflicto corresponde a justicia provincial, no se impone el SECLO por el solo hecho de ser laboral."],
+      "ejemplos": ["Una programadora factura y es despedida tras comunicar embarazo: dependencia, facturación, protección especial y despido se analizan conjuntamente, sin conclusiones automáticas."],
       "ojo": "La jurisdicción determina el procedimiento; una prueba aislada requiere contexto y corroboración."
     }
   }

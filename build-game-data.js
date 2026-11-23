@@ -11,57 +11,9 @@ const UNITS = [
   "derecho_y_estado", "derecho_penal", "delitos_informaticos", "proteccion_datos",
   "propiedad_intelectual", "contratos", "derecho_laboral", "ejercicio_profesional"
 ];
-const STUDY_SUMMARIES = {
-  propiedad_intelectual: "propiedad intelectual/resumen_propiedad_intelectual.md",
-  contratos: "contratos/resumen_contratos.md",
-  derecho_laboral: "derecho laboral/resumen_derecho_laboral.md",
-  ejercicio_profesional: "ejercicio profesional/resumen_ejercicio_profesional.md"
-};
 
 function readJson(file) {
   return JSON.parse(fs.readFileSync(path.join(DATA_DIR, file), "utf8"));
-}
-
-function buildStudySummary(unit) {
-  const archivoFuente = STUDY_SUMMARIES[unit.key];
-  const markdown = fs.readFileSync(path.join(DATA_DIR, "resumenes", path.basename(archivoFuente)), "utf8");
-  const plain = (text) => text
-    .replace(/\[([^\]]+)\]\((?:<[^>]+>|[^)]+)\)/g, "$1")
-    .replace(/\[([^\]]+)\]\[[^\]]+\]/g, "$1")
-    .replace(/\*\*|__|`|\*/g, "").trim();
-  const notas = [];
-  let heading = "Lectura";
-  let paragraph = [];
-  const flush = () => {
-    if (paragraph.length) notas.push(`${heading}: ${plain(paragraph.join(" "))}`);
-    paragraph = [];
-  };
-  for (const line of markdown.replace(/\r/g, "").split("\n")) {
-    if (/^#{1,6} /.test(line)) {
-      flush();
-      const section = plain(line.replace(/^#+\s+/, ""));
-      heading = section.slice(0, 110);
-      notas.push(`Sección: ${section}`);
-    } else if (!line.trim() || /^\|[\s:|\-]+\|$/.test(line) || /^\[[^\]]+\]:/.test(line)) {
-      flush();
-    } else if (/^\|/.test(line)) {
-      flush();
-      notas.push(`${heading}: ${line.split("|").slice(1, -1).map(plain).join(" · ")}`);
-    } else {
-      paragraph.push(line.replace(/^\s*[-+]\s+/, ""));
-    }
-  }
-  flush();
-  return {
-    unidad: unit.key,
-    categoria: "Resumen completo",
-    titulo: `Lectura completa de ${unit.titulo}`,
-    intro: ["Este es el resumen de estudio completo de la unidad. Conserva los conceptos, ejemplos, artículos y aclaraciones normativas del archivo de la materia, también disponibles sin conexión dentro del juego."],
-    notas,
-    ejemplos: [`Buscá una palabra clave del caso para localizar su explicación y su contexto en el resumen de ${unit.titulo}.`],
-    ojo: "Las precisiones, fechas y límites de verificación indicados en el resumen forman parte del material de estudio.",
-    archivoFuente
-  };
 }
 
 function buildReference() {
@@ -72,11 +24,6 @@ function buildReference() {
     for (const [key, entry] of Object.entries(book.entradas)) {
       if (reference.entradas[key]) throw new Error(`Entrada del libro duplicada: ${key}`);
       reference.entradas[key] = { unidad: unitKey, ...entry };
-    }
-    if (STUDY_SUMMARIES[unitKey]) {
-      const key = `${unitKey}_resumen_completo`;
-      if (reference.entradas[key]) throw new Error(`Entrada del libro duplicada: ${key}`);
-      reference.entradas[key] = buildStudySummary(book.unidad);
     }
   }
   return reference;

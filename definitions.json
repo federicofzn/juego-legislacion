@@ -3899,7 +3899,7 @@
     "explicacion": "Capacidad contractual: Aptitud para asumir el acuerdo conforme a las reglas que permiten tener derechos y ejercerlos. Ejemplo: Antes de contratar se revisan las restricciones aplicables a la persona que asumirá las obligaciones.",
     "referencia": {
       "tipo": "Acuerdo y validez",
-      "titulo": "Capacidad, objeto, causa y clases",
+      "titulo": "Validez, clases y efectos frente a terceros",
       "entradaLibro": "ct_validez"
     }
   },
@@ -3921,7 +3921,7 @@
     "explicacion": "Objeto del contrato: Prestación lícita, posible, determinada o determinable y valorable económicamente que se promete realizar. Ejemplo: Programar los módulos detallados en un anexo y pagar el precio integran lo debido en el desarrollo.",
     "referencia": {
       "tipo": "Acuerdo y validez",
-      "titulo": "Capacidad, objeto, causa y clases",
+      "titulo": "Validez, clases y efectos frente a terceros",
       "entradaLibro": "ct_validez"
     }
   },
@@ -3943,7 +3943,7 @@
     "explicacion": "Causa del contrato: Finalidad jurídica inmediata determinante del acuerdo, que debe ser lícita y subsistir durante su ejecución. Ejemplo: En el desarrollo remunerado se analiza la finalidad del intercambio, distinta de enumerar tareas y pagos.",
     "referencia": {
       "tipo": "Acuerdo y validez",
-      "titulo": "Capacidad, objeto, causa y clases",
+      "titulo": "Validez, clases y efectos frente a terceros",
       "entradaLibro": "ct_validez"
     }
   },
@@ -3965,7 +3965,7 @@
     "explicacion": "Contrato unilateral: Acuerdo que genera obligaciones para una de las partes, sin reciprocidad de prestaciones. Ejemplo: Intervienen dos partes, pero solo una asume la obligación prevista en el acuerdo.",
     "referencia": {
       "tipo": "Acuerdo y validez",
-      "titulo": "Capacidad, objeto, causa y clases",
+      "titulo": "Validez, clases y efectos frente a terceros",
       "entradaLibro": "ct_validez"
     }
   },
@@ -3987,7 +3987,7 @@
     "explicacion": "Contrato bilateral: Acuerdo que genera obligaciones recíprocas para las partes. Ejemplo: La desarrolladora se obliga a programar el módulo y el cliente se obliga a pagar el precio.",
     "referencia": {
       "tipo": "Acuerdo y validez",
-      "titulo": "Capacidad, objeto, causa y clases",
+      "titulo": "Validez, clases y efectos frente a terceros",
       "entradaLibro": "ct_validez"
     }
   },

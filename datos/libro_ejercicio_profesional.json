@@ -19,24 +19,24 @@
     "ep_habilitacion": {
       "categoria": "Habilitación",
       "titulo": "Título, alcances, matrícula y territorio",
-      "intro": ["Para decidir si una actuación está habilitada hay que mirar más que el diploma. Importan el título concreto, sus alcances, el acto que se realizará, la materia, la jurisdicción y la autoridad que recibirá el trabajo."],
+      "intro": ["La habilitación depende del título, sus alcances, el acto, la materia y la jurisdicción: el ámbito territorial y la autoridad aplicables al trabajo."],
       "notas": [
-        "Título universitario: acredita formación y una denominación profesional; no demuestra por sí solo autorización para firmar cada trabajo posible.",
+        "Título universitario: acredita formación y una denominación profesional; ni el diploma, la capacidad técnica ni una certificación privada autorizan por sí solos cualquier actuación.",
         "Alcances o incumbencias: delimitan las funciones correspondientes al título. La matrícula no los amplía por sí misma.",
         "Matrícula: inscripción ante el consejo o colegio competente para ejercer las actividades reguladas en su ámbito. Colegiatura es la pertenencia a esa institución con funciones públicas delegadas de registro, control y disciplina.",
-        "Jurisdicción del artículo 1: el Decreto-Ley 6070/1958, ratificado por Ley 14.467, comprende las profesiones indicadas en jurisdicción nacional o ante autoridades o tribunales nacionales. No establece una matrícula única para cualquier actividad tecnológica en toda provincia.",
+        "Jurisdicción del artículo 1: el Decreto-Ley 6070/1958, ratificado por Ley 14.467, comprende agrimensura, agronomía, arquitectura e ingeniería en jurisdicción nacional o ante autoridades o tribunales nacionales. No establece una matrícula única para toda actividad tecnológica en cualquier provincia.",
         "Ejercicio del artículo 2: incluye actividades gratuitas y remuneradas, como servicios, proyectos, asesoramientos, pericias, certificaciones, informes y cargos. Trabajar internamente para una empresa o sin cobrar no crea una exención general.",
         "Artículos 11 y 12: relacionan la matrícula, el consejo correspondiente y las funciones propias del título. Deben leerse junto con el ámbito del artículo 1 y la actividad del artículo 2.",
         "Chequeo concreto: identificar jurisdicción, título, acto, materia y destinatario antes de firmar. Una matrícula COPITEC no reemplaza automáticamente los registros provinciales.",
         "Límite de la conclusión: la amplitud del ejercicio regulado no permite afirmar que cualquier persona que programe deba matricularse. Se debe analizar su título, tarea y régimen aplicable."
       ],
-      "ejemplos": ["Un ingeniero ofrece una pericia ante una autoridad nacional: revisa el Decreto-Ley 6070/58 y los requisitos del destinatario. Si luego recibe un encargo provincial, vuelve a verificar el régimen territorial.", "Una auditoría interna gratuita puede ser una actividad comprendida; su carácter interno y gratuito no resuelve por sí solo la habilitación."],
+      "ejemplos": ["Una pericia ante una autoridad nacional exige revisar el Decreto-Ley 6070/58 y los requisitos del destinatario; un encargo provincial posterior requiere verificar su propio régimen."],
       "ojo": "No hay habilitación universal por diploma, matrícula nacional, trabajo interno ni gratuidad. Tampoco hay una obligación universal de matrícula deducible del solo hecho de programar."
     },
     "ep_instituciones": {
       "categoria": "Habilitación",
       "titulo": "Consejos, asociaciones y representación",
-      "intro": ["Las siglas parecidas pueden ocultar funciones jurídicas diferentes. Un consejo o colegio con funciones públicas de registro no equivale a una asociación voluntaria, un sindicato o una cámara de empresas."],
+      "intro": ["Un consejo o colegio con funciones públicas de registro difiere de una asociación voluntaria, un sindicato y una cámara de empresas. Las siglas no determinan su función jurídica."],
       "notas": [
         "COPITEC: Consejo Profesional de Ingeniería de Telecomunicaciones, Electrónica y Computación; referencia del apunte para esas especialidades en CABA y jurisdicción nacional. Hay que verificar título, actividad y requisitos del destinatario; su prestigio no crea superioridad jurídica sobre instituciones provinciales.",
         "Documentación COPITEC: el trámite exige, entre otros elementos, diploma, plan de estudios y alcances certificados. Una valoración favorable del consejo no sustituye el análisis de las funciones del título.",
@@ -47,55 +47,50 @@
         "CPCI de CABA: el material lo identifica como asociación civil voluntaria. Asociarse ofrece comunidad, formación y representación institucional, pero no acredita matrícula legal equivalente a COPITEC o CPCIBA.",
         "Sindicato y cámara empresaria: AGC, Unión Informática y CePETel aparecen como ejemplos sindicales, de representación laboral; CESSI es una cámara empresaria. Ninguna de esas afiliaciones habilita la firma profesional. Afiliación sindical y aplicación de un convenio colectivo son preguntas distintas, no verificadas para un empleo concreto en estas fuentes."
       ],
-      "ejemplos": ["Una persona asociada al CPCI de CABA recibe un encargo en PBA: su pertenencia voluntaria no sustituye el análisis de matrícula provincial.", "Una empresa de CESSI contrata una auditoría: la pertenencia empresarial no habilita a quien firma el informe."],
+      "ejemplos": ["Una persona asociada al CPCI de CABA recibe un encargo en PBA: su pertenencia voluntaria no sustituye el análisis de matrícula provincial."],
       "ojo": "Las siglas, el prestigio y la división informal software/hardware no determinan por sí solos el registro competente."
     },
     "ep_etica": {
       "categoria": "Ética",
       "titulo": "Firma, independencia, reserva y colegas",
-      "intro": ["El código aprobado por Decreto 1099/1984 se aplica a las profesiones comprendidas en el Decreto-Ley 6070/58, no exclusivamente a informática. Sus reglas orientan la relación con clientes, colegas y público, además del cumplimiento de la ley."],
+      "intro": ["El Decreto 1099/1984 aprueba el código para las profesiones del Decreto-Ley 6070/58, no exclusivamente para informática. Exige respetar la normativa y preservar el prestigio profesional; sus reglas no agotan los deberes de un ejercicio consciente y digno (1.1 y 1.2)."],
       "notas": [
-        "Buena técnica y competencia: no ejecutar actos contrarios a la buena técnica aunque los ordenen un cliente o una autoridad, ni prometer servicios de cumplimiento muy dudoso, imposible o ajeno a la capacidad personal.",
-        "Firma responsable: no firmar documentación que no se haya estudiado, ejecutado o controlado personalmente. Recibir un archivo o confiar en la reputación del autor no equivale a ese control.",
-        "Reserva profesional: guardar secreto salvo obligación legal. La conveniencia comercial, el permiso de un proveedor o el deseo de mostrar experiencia no son esa excepción.",
-        "Diligencia y errores: advertir errores del cliente, subsanar los propios y responder civilmente conforme a la ley. También corresponden probidad y rendiciones de cuentas claras, precisas y frecuentes.",
-        "Conflicto de intereses: existe cuando intereses o roles pueden comprometer la independencia. El código rechaza beneficios de proveedores interesados, prohíbe ser simultáneamente director y contratista de la misma obra y contempla incompatibilidades entre cargos públicos y privados vinculados.",
-        "Captación y conducta del cliente: no gestionar encomiendas mediante comisiones o beneficios ni usar publicidad exagerada o equívoca. Corresponde oponerse a incorrecciones profesionales del cliente y renunciar si no se pueden impedir.",
-        "Relación con colegas: no usar documentación ajena sin autorización ni difamar. Para reemplazar a un profesional se debe conocer fehacientemente su desvinculación, avisarle y advertir sobre honorarios pendientes sin juzgar su monto.",
-        "Consultas y críticas: una consulta sobre trabajo ajeno requiere conocimiento e invitación a intervenir al colega involucrado. Un juicio público adverso exige interés general ineludible o previa oportunidad de rectificación desaprovechada.",
-        "Concursos: se consultan bases éticamente dudosas. La invitación competitiva a dos o más profesionales constituye concurso salvo pago arancelario individual; el asesor no desarrolla después el trabajo salvo previsión en las bases ni acepta encomienda directa tras abandonarse el concurso en que fue consultado.",
-        "Colaboradores y jerarquía: remunerar adecuadamente, tratar con respeto y no desplazar o sancionar injustamente. La defensa del cliente no autoriza perjuicios parciales a terceros; los pagos del contratista al profesional requieren aprobación expresa total del cliente.",
-        "Honorarios y actualización: el Decreto 240/1999, artículo 1.a.1, identifica como derogado el punto 2.2.1.4 sobre renunciar o reducir honorarios arancelarios. El PDF conserva esa regla; no debe estudiarse como prohibición vigente. Tampoco corresponde aplicar aisladamente el punto 2.1.1.4 sin revisar la desregulación."
+        "Buena técnica y competencia: no ejecutar actos contrarios a la buena técnica aunque los ordenen un cliente o una autoridad (2.1.1.2), ni prometer servicios de cumplimiento muy dudoso, imposible o ajeno a la capacidad personal (2.3.1.1).",
+        "Firma responsable (2.1.1.6): no firmar documentación que no se haya estudiado, ejecutado o controlado personalmente. Recibir un archivo o confiar en la reputación del autor no equivale a ese control.",
+        "Reserva profesional (2.3.1.4): guardar secreto salvo obligación legal. La conveniencia comercial, el permiso de un proveedor o el deseo de mostrar experiencia no son esa excepción.",
+        "Diligencia y errores (2.3.1.5–7): advertir errores del cliente, subsanar los propios y responder civilmente conforme a la ley. También corresponden probidad y rendiciones de cuentas claras, precisas y frecuentes.",
+        "Conflicto de intereses: existe cuando intereses o roles pueden comprometer la independencia. El código rechaza beneficios de proveedores interesados y prohíbe ser simultáneamente director y contratista de la misma obra (2.3.1.2–3); contempla incompatibilidades entre cargos públicos y privados vinculados (2.1.1.3).",
+        "Captación y conducta del cliente (2.1.1.8–10): no gestionar encomiendas mediante comisiones o beneficios ni usar publicidad exagerada o equívoca. Corresponde oponerse a incorrecciones profesionales del cliente y renunciar si no se pueden impedir.",
+        "Relación con colegas (2.2.1.1–3): no usar documentación ajena sin autorización ni difamar. Para reemplazar a un profesional se debe conocer fehacientemente su desvinculación, avisarle y advertir sobre honorarios pendientes sin juzgar su monto.",
+        "Consultas y críticas (2.2.1.6–7): una consulta sobre trabajo ajeno requiere conocimiento e invitación a intervenir al colega involucrado. Un juicio público adverso exige interés general ineludible o previa oportunidad de rectificación desaprovechada.",
+        "Concursos (2.7.1–4): consultar bases éticamente dudosas. La invitación competitiva a dos o más profesionales constituye concurso salvo pago arancelario individual. El asesor no desarrolla después el trabajo salvo previsión en las bases ni acepta encomienda directa tras abandonarse el concurso en que fue consultado. Se exige respeto al jurado y concurrentes: no atribuirles conductas inadecuadas sin demostración concluyente (2.7.5).",
+        "Colaboradores y jerarquía (2.2.1.8 y 2.4–2.6): remunerar adecuadamente a colaboradores profesionales, tratar con respeto entre actividad pública y privada, no desplazar o sancionar injustamente ni beneficiarse sustituyendo al colega injustamente apartado. La defensa del cliente no autoriza perjuicios parciales a terceros; los pagos del contratista al profesional requieren aprobación expresa total del cliente.",
+        "Honorarios: el punto 2.2.1.4 prohibía renunciar o aceptar honorarios inferiores a los arancelarios, con excepciones por autorización de Junta Central, tareas terminadas o determinados familiares. El Decreto 240/1999, artículo 1.a.1, lo identifica como derogado: es una regla histórica, no una prohibición vigente. Tampoco aplicar el punto 2.1.1.4 sobre competencia por honorarios sin revisar la desregulación. Precisión contrastada al 22/11/2026."
       ],
-      "ejemplos": ["Un cliente pide firmar un informe de seguridad que la profesional no revisó: antes de asumir la firma necesita el estudio o control personal exigido.", "Un proveedor ofrece una comisión por elegir su firewall: la profesional rechaza ese beneficio por el interés del oferente.", "Una captura usada en publicidad puede revelar secretos del cliente aunque no muestre contraseñas."],
+      "ejemplos": ["Antes de firmar un informe ajeno, la profesional debe estudiarlo o controlarlo personalmente. Una captura usada en publicidad puede revelar secretos del cliente aunque no muestre contraseñas."],
       "ojo": "Una orden del cliente no elimina deberes éticos. Las reglas históricas de aranceles deben leerse con la derogación indicada en las fuentes."
     },
     "ep_disciplina": {
       "categoria": "Ética",
       "titulo": "Causa ética, sanciones y límites",
-      "intro": ["Una falta ética no se reduce a una mala relación comercial. El código contempla deberes expresos y conceptos éticos básicos, y prevé un procedimiento con defensa y decisiones institucionales. Los plazos siguientes pertenecen al texto estudiado."],
+      "intro": ["El código del Decreto 1099/1984 contempla faltas a deberes expresos y conceptos éticos básicos (2.8), con defensa y decisión institucional. Los plazos siguientes reproducen el texto estudiado; no certifican el procedimiento operativo actual."],
       "notas": [
-        "Inicio: ante el consejo de matrícula, por denuncia escrita, petición del propio profesional o de oficio. La denuncia identifica sujetos, hechos y prueba y requiere ratificación.",
-        "Ratificación y rechazo: la falta de ratificación puede conducir a caducidad tras tres meses de reserva, aunque cabe investigar de oficio. El rechazo manifiesto es apelable ante Junta Central en cinco días hábiles.",
-        "Defensa: el texto da diez días hábiles de descargo a domiciliados en Capital Federal, con ampliación razonable por distancia; contempla prueba y asistencia letrada. El informe posterior se traslada al denunciado por seis días para alegar.",
-        "Resolución: vencido el traslado, hay cinco días para elevar la causa. La Junta resuelve dentro de treinta días desde que las actuaciones quedan en estado, previo dictamen legal; el consejo ejecuta la sanción.",
-        "Prescripción del texto: tres años desde la falta, interrumpidos por sometimiento a causa ética. Para tramitar una causa real deben revisarse disposiciones complementarias y modificaciones administrativas; estos datos no certifican el procedimiento operativo actual.",
-        "Sanciones del artículo 28: advertencia, amonestación, censura pública, multa, suspensión de un mes a dos años y cancelación de matrícula. Censura pública es un reproche difundido; suspensión interrumpe temporalmente la habilitación y cancelación deja sin efecto la matrícula.",
-        "Importe histórico: el texto oficial expresa la multa nacional en $200 a $100.000 moneda nacional. No se verificó un importe operativo actual; no corresponde presentarlo como pesos actuales.",
         "Inicio y ratificación: la causa puede comenzar ante el consejo de matrícula por denuncia escrita, petición del profesional o de oficio. La denuncia identifica sujetos, hechos y prueba y requiere ratificación; su falta puede conducir a caducidad tras tres meses de reserva, aunque el consejo puede investigar de oficio.",
-        "Rechazo manifiesto: según el punto 3.1 del material es apelable ante Junta Central en cinco días hábiles; no es el plazo de descargo.",
-        "Defensa y alegato: el texto da diez días hábiles de descargo para domiciliados en Capital Federal, ampliables razonablemente por distancia, y contempla prueba y asistencia letrada. El informe posterior se traslada por seis días para alegar.",
-        "Elevación y decisión: vencido el alegato, hay cinco días para elevar la causa; la Junta resuelve dentro de treinta días desde que las actuaciones quedan en estado, previo dictamen legal. El consejo ejecuta la sanción.",
-        "Prescripción y límite de actualización: el texto establece tres años desde la falta, interrumpidos por sometimiento a causa ética. Estos plazos reproducen el material y no certifican el procedimiento operativo actual; para tramitar se revisan disposiciones complementarias y normas administrativas modificatorias.",
+        "Rechazo manifiesto (3.1): apelable ante Junta Central en cinco días hábiles; no es el plazo de descargo.",
+        "Defensa y alegato (3.2.3): diez días hábiles de descargo para domiciliados en Capital Federal, ampliables razonablemente por distancia, con prueba y asistencia letrada. El informe posterior se traslada al denunciado por seis días para alegar.",
+        "Elevación y decisión (3.2.4): vencido el traslado, hay cinco días para elevar la causa; la Junta resuelve dentro de treinta días desde que las actuaciones quedan en estado, previo dictamen legal. El consejo ejecuta la sanción.",
+        "Prescripción (3.2.7): tres años desde la falta, interrumpidos por sometimiento a causa ética. Para tramitar una causa real se deben revisar disposiciones complementarias y normas administrativas modificatorias.",
+        "Sanciones del artículo 28 del Decreto-Ley 6070/58: advertencia, amonestación, censura pública, multa, suspensión de un mes a dos años y cancelación de matrícula. Censura pública es un reproche difundido; suspensión interrumpe temporalmente la habilitación y cancelación deja sin efecto la matrícula.",
+        "Importe histórico: la multa nacional figura en $200 a $100.000 moneda nacional. No se verificó un importe operativo actual; no corresponde presentarlo como pesos actuales.",
         "Responsabilidades diferentes: una sanción disciplinaria concierne al ejercicio profesional; la responsabilidad civil y la penal tienen sus propios presupuestos. El listado disciplinario no convierte automáticamente una falta en un delito."
       ],
-      "ejemplos": ["Para estudiar el descargo de una persona domiciliada en Capital Federal se recuerdan diez días hábiles del texto; para tramitarlo hoy se revisan además las reglas complementarias.", "Una ficha de estudio distingue suspensión de hasta dos años de cancelación; no calcula una multa actual usando moneda nacional histórica."],
+      "ejemplos": ["Un descargo de una persona domiciliada en Capital Federal tiene diez días hábiles según el texto; para tramitarlo hoy se revisan además las reglas complementarias."],
       "ojo": "No intercambiar los plazos de descargo, alegato y apelación, ni confundir una escala monetaria histórica con una multa vigente cuantificada."
     },
     "ep_convenio": {
       "categoria": "Cooperación",
       "titulo": "Qué organiza el convenio UNDAV–COPITEC",
-      "intro": ["El convenio marco estudiado permite organizar cooperación en tecnologías de la información y las comunicaciones. Describe cómo planear proyectos entre instituciones, sin convertir a estudiantes o graduados en matriculados por ese solo acuerdo."],
+      "intro": ["El convenio entre la Universidad Nacional de Avellaneda (UNDAV) y el Consejo Profesional de Ingeniería de Telecomunicaciones, Electrónica y Computación (COPITEC) organiza cooperación en tecnologías de la información y las comunicaciones."],
       "notas": [
         "Objeto y anexo: la cláusula primera prevé cooperación; la segunda exige convenios específicos mediante Anexos Operativos Complementarios, firmados por representantes o personas facultadas, para cada actividad.",
         "Contenido operativo: la tercera pide objetivos, planes, plazos, aportes, derechos, obligaciones, responsables, recursos, financiamiento, eventuales utilidades, propiedad intelectual, personal, medios técnicos y jurisdicción.",
@@ -103,52 +98,52 @@
         "Información y propiedad: según la quinta se acuerdan difusión y transferencia con respeto de la confidencialidad. Los resultados quedan disponibles para ambas partes y son de propiedad común, salvo regulación específica de derechos intelectuales o industriales según aportes.",
         "No exclusividad: la cláusula sexta permite otras vinculaciones institucionales; no reserva toda cooperación a estas dos partes.",
         "Duración según cláusula séptima: tres años desde la firma, renovación automática y denuncia con treinta días corridos de anticipación. Son condiciones del texto, no prueba de que el convenio siga vigente en 2026.",
-        "Efectos de denunciar: no genera indemnización ni interrumpe acciones pendientes que no hayan sido expresamente rescindidas. La denuncia del convenio no equivale a borrar automáticamente cada proyecto en curso.",
+        "Efectos de denunciar: no genera indemnización ni interrumpe acciones pendientes que no hayan sido expresamente rescindidas.",
         "Controversias y documentación: la octava prioriza solución amistosa y menciona tribunales contencioso administrativos federales con asiento en Quilmes; la novena refiere a aprobación por COPITEC y la décima a domicilios.",
-        "Límite documental: la transcripción deja incompletas resolución aprobatoria y fecha completa de firma de 2020. Hay noticia institucional de firma, pero no se verificaron versión final suscripta, modificaciones ni eventual denuncia posterior. No se puede certificar vigencia actual ni afirmar que jamás se firmó.",
+        "Límite documental al 22/11/2026: faltan resolución aprobatoria y día/mes de firma de 2020. Hay noticia institucional de firma, pero no se verificaron versión final suscripta, modificaciones ni eventual denuncia posterior. No permite certificar vigencia actual ni afirmar que jamás se firmó.",
         "Sin habilitación automática: las cláusulas no otorgan matrícula, amplían incumbencias, eximen de requisitos ni garantizan empleo o beca a graduados."
       ],
-      "ejemplos": ["Para un laboratorio conjunto se redacta un anexo con responsables, equipos, fondos y reglas sobre resultados. Quien firme trabajos profesionales verifica además su habilitación.", "Al estudiar la finalización se recuerdan treinta días corridos de anticipación; no se infiere de la renovación automática que no haya existido denuncia posterior."],
+      "ejemplos": ["Un laboratorio conjunto requiere un anexo con responsables, equipos, fondos y reglas sobre resultados. Quien firme trabajos profesionales verifica además su habilitación."],
       "ojo": "Separá el contenido de las cláusulas de la evidencia necesaria para afirmar vigencia actual."
     },
     "ep_riesgo_cid": {
       "categoria": "Ciberseguridad",
       "titulo": "Información, tríada CID y riesgo",
-      "intro": ["Cuidar información no consiste solamente en impedir que alguien la lea. También importa que sea exacta y que esté disponible cuando se necesita. Para elegir medidas se identifican activos críticos, eventos posibles, debilidades e impactos."],
+      "intro": ["La tríada CID reúne confidencialidad, integridad y disponibilidad. Para protegerlas se identifican activos críticos, eventos posibles, debilidades e impactos."],
       "notas": [
         "Ámbitos: seguridad de la información comprende soportes físicos, información verbal y dimensiones humanas, organizativas y jurídicas. Seguridad informática se concentra en sistemas y procesamiento digital; ciberseguridad reúne políticas, procedimientos, tecnologías y controles para prevenir, detectar y responder a accesos, alteraciones, daños e interrupciones.",
         "Confidencialidad: acceso limitado a personas autorizadas. Leer una nómina sin autorización afecta este objetivo aunque el archivo permanezca intacto y utilizable.",
         "Integridad: información completa, exacta y sin alteraciones no autorizadas. Cambiar un importe sin permiso afecta este objetivo aunque nadie robe la base ni se caiga el sistema.",
         "Disponibilidad: acceso a información y sistemas cuando se necesitan. Una interrupción del portal puede afectar este objetivo sin demostrar lectura o modificación de datos.",
-        "Amenaza: evento potencialmente perjudicial, como un ataque o un error humano. Puede ser interna —errores, negligencia, sabotaje o abuso de privilegios— o externa —ciberdelincuencia, hacktivismo o actores estatales—.",
+        "Amenaza: evento potencialmente perjudicial. Puede ser interna —errores, negligencia, sabotaje o abuso de privilegios— o externa —ciberdelincuencia, hacktivismo o actores estatales—.",
         "Vulnerabilidad: debilidad explotable, como una configuración insegura o un componente sin parche. Su hallazgo no prueba que haya ocurrido un incidente.",
         "Riesgo: combina posibilidad de ocurrencia e impacto sobre los activos. Dos equipos con la misma debilidad pueden requerir prioridades distintas por las consecuencias de su falla.",
         "Secuencia de evaluación: identificar activos críticos, analizar eventos y debilidades, estimar posibilidad e impacto, elegir controles y revisar resultados. Una lista de fallas técnicas no reemplaza esa evaluación."
       ],
-      "ejemplos": ["En una clínica, una historia leída sin permiso afecta confidencialidad, una dosis cambiada sin autorización afecta integridad y el sistema inaccesible durante la guardia afecta disponibilidad.", "Un servidor sin actualizar es una debilidad; un atacante que podría aprovecharla representa una amenaza; la probabilidad y el impacto orientan el riesgo."],
+      "ejemplos": ["En una clínica, leer una historia sin permiso afecta confidencialidad, cambiar una dosis sin autorización afecta integridad y una caída durante la guardia afecta disponibilidad."],
       "ojo": "No confundir debilidad, evento posible y combinación de probabilidad e impacto. Detectar una falla no demuestra explotación."
     },
     "ep_controles": {
       "categoria": "Ciberseguridad",
       "titulo": "Prevenir, detectar y responder",
-      "intro": ["Los controles se eligen según lo que necesitan proteger y el momento en que ayudan. Una organización pequeña también necesita combinar medidas técnicas con hábitos de trabajo y preparación para actuar cuando algo falla."],
+      "intro": ["Los controles combinan medidas técnicas, hábitos de trabajo y preparación. Se eligen según qué protegen y si ayudan a prevenir, detectar o responder."],
       "notas": [
         "Control preventivo: reduce la posibilidad de que ocurra un evento perjudicial. Capacitación, parches, segmentación y mínimo privilegio son ejemplos; mínimo privilegio concede únicamente los accesos necesarios para la tarea.",
-        "Control detectivo: ayuda a descubrir actividad anómala mediante monitoreo, auditorías, registros o logs y SIEM. SIEM permite reunir y analizar eventos; una alerta no equivale por sí sola a contener el problema.",
+        "Control detectivo: descubre actividad anómala mediante monitoreo, auditorías, registros o logs y SIEM (gestión de información y eventos de seguridad), que reúne y analiza eventos. Una alerta no equivale a contener el problema.",
         "Control de respuesta: una vez advertido el incidente, permite contenerlo, remediar, restaurar y aprender. Aislar un equipo comprometido limita propagación y forma parte de la respuesta, sin reemplazar el análisis forense.",
         "Defensa en profundidad: combina barreras físicas, de red, de equipos, aplicaciones, datos, operación y personas. Antivirus o firewall aislados no cubren todos esos planos. Capa 8 y capa 9 son analogías sobre usuarios, políticas y organización, no capas oficiales adicionales del modelo OSI.",
         "Medidas para PYMES: antivirus y firewall, backups automáticos fuera del sitio, actualizaciones, segmentación, capacitación y políticas mínimas. Se agregan cifrado, revisión de terceros, control de cambios, logs y simulacros según el riesgo.",
         "Ingeniería social: manipulación de personas mediante phishing, spear-phishing, pretexting, baiting o vishing. Un mensaje dirigido a una persona concreta usa engaño y contexto; no es por ello una falla de cifrado.",
         "Amenazas técnicas del apunte: virus, troyanos, ransomware, spyware y adware, además de SQL injection, XSS, intermediación, suplantación DNS, DDoS y movimiento lateral. Un DDoS busca afectar disponibilidad; los controles deben atender el problema concreto.",
-        "Contraseñas según NIST SP 800-63B-4: al menos quince caracteres como factor único y ocho como mínimo dentro de MFA; no imponer mezcla obligatoria de clases ni cambios periódicos sin evidencia de compromiso. Ante evidencia de compromiso se fuerza el cambio. Es guía técnica, no ley argentina general."
+        "Contraseñas: el consejo histórico de más de doce caracteres, mezcla y expiración se corrige con NIST SP 800-63B-4: al menos quince como factor único y ocho dentro de autenticación multifactor (MFA). No imponer composición ni cambios periódicos sin evidencia de compromiso; ante compromiso se fuerza el cambio. Es guía técnica, no ley argentina general. Precisión contrastada al 22/11/2026."
       ],
-      "ejemplos": ["En una PYME se limita el acceso a facturación, se registran intentos fallidos y se prepara aislamiento ante intrusiones: cada medida cumple un papel distinto.", "Un correo que simula al gerente y pide transferir dinero exige verificar por otro canal y capacitar; cambiar el firewall no elimina por sí solo el engaño."],
+      "ejemplos": ["Limitar el acceso a facturación previene; registrar intentos fallidos ayuda a detectar; aislar un equipo comprometido responde al incidente."],
       "ojo": "Una barrera no reemplaza el resto; ni una guía técnica de contraseñas se convierte por sí sola en obligación legal general."
     },
     "ep_continuidad": {
       "categoria": "Ciberseguridad",
       "titulo": "Continuidad, recuperación, RTO y RPO",
-      "intro": ["Prepararse para una crisis requiere decidir cómo seguirá trabajando la organización y cómo recuperará sus servicios tecnológicos. Esas decisiones se expresan en planes y objetivos diferentes, que deben poder ponerse a prueba."],
+      "intro": ["Ante una crisis hay que sostener la actividad organizacional y recuperar la tecnología. Cada necesidad tiene planes y objetivos que deben ponerse a prueba."],
       "notas": [
         "BCP: plan de continuidad del negocio que sostiene el funcionamiento organizacional ante una crisis. Puede prever tareas manuales, personas responsables y sedes alternativas, además de tecnología.",
         "DRP: plan de recuperación ante desastres centrado en restaurar sistemas, datos y servicios tecnológicos. Se articula con el BCP, pero no cubre por sí solo toda la continuidad organizacional.",
@@ -157,29 +152,29 @@
         "Objetivos independientes: volver a operar en dos horas no garantiza recuperar datos de hace quince minutos. Frecuencia de copias y rapidez de restauración resuelven necesidades distintas.",
         "Preparación: backups automáticos fuera del sitio, restauraciones verificadas, responsables, recursos y simulacros ayudan a comprobar si el plan puede cumplir los objetivos. Tener una copia no demuestra por sí solo capacidad de recuperación o continuidad."
       ],
-      "ejemplos": ["Una farmacia atiende con un procedimiento manual durante una caída: sostiene continuidad. En paralelo, el equipo restaura servidores: ejecuta recuperación tecnológica.", "El comercio fija RTO de dos horas y RPO de quince minutos; debe probar tanto cuánto tarda en volver como cuántos registros puede recuperar."],
+      "ejemplos": ["Durante una caída, una farmacia atiende manualmente para sostener la continuidad mientras el equipo restaura servidores para recuperar la tecnología."],
       "ojo": "RTO mide interrupción; RPO orienta la antigüedad recuperable de la información. BCP y DRP tampoco son sinónimos."
     },
     "ep_equipos_ot": {
       "categoria": "Ciberseguridad",
       "titulo": "Equipos de seguridad y entorno industrial",
-      "intro": ["Las funciones ofensivas, defensivas y de colaboración se complementan cuando existe autorización y objetivos definidos. En entornos industriales, además, una falla digital puede modificar procesos físicos y afectar producción, máquinas y personas."],
+      "intro": ["Los equipos ofensivos y defensivos colaboran con autorización y objetivos definidos. En entornos industriales, una falla digital puede afectar producción, máquinas y personas."],
       "notas": [
         "Red Team: simula adversarios en una evaluación autorizada para probar defensas. El material evalúa objetivos alcanzados y brechas logradas; la autorización distingue el ejercicio de una intrusión sin permiso.",
         "Blue Team: monitorea, detecta, contiene y remedia. El material usa MTTD como tiempo medio de detección y MTTR como tiempo medio de respuesta para evaluar su desempeño.",
-        "Purple Team: colaboración entre Red y Blue para compartir hallazgos y mejorar detección y respuesta. No es una tercera intrusión independiente ni se define por reemplazar a los otros equipos.",
+        "Purple Team: colaboración entre Red y Blue para compartir hallazgos y mejorar detección y respuesta.",
         "Seguridad operativa: comprende accesos, roles, segregación de funciones y procedimientos cotidianos. No debe confundirse con seguridad industrial por la sola palabra operativa.",
-        "OT/ICS: protege procesos físicos y sistemas de control industrial, como SCADA y PLC. Enfrenta equipos antiguos e integración IT/OT; puede priorizar disponibilidad e integridad operativa por los efectos físicos de una falla.",
+        "Seguridad OT/ICS: protege tecnología de operación y sistemas de control industrial; SCADA supervisa, controla y adquiere datos, y PLC designa controladores lógicos programables. Enfrenta equipos antiguos e integración con tecnología de la información (IT); puede priorizar disponibilidad e integridad operativa por los efectos físicos de una falla.",
         "Controles industriales: segmentación IT/OT, gestión de firmware y evaluación del impacto físico de los cambios. No se deduce que parchar una oficina y modificar un controlador industrial requieran idéntico procedimiento.",
-        "Marcos de referencia: ISO/IEC 27001 trata un sistema de gestión de seguridad de la información y mejora continua. IEC 62443 se ocupa de seguridad industrial; sus ámbitos no se intercambian por semejanza de siglas."
+        "Marcos de referencia: ISO/IEC 27001 aborda un Sistema de Gestión de Seguridad de la Información (SGSI) y mejora continua. IEC 62443 trata seguridad industrial; sus ámbitos no son intercambiables."
       ],
-      "ejemplos": ["Durante una prueba autorizada, Red intenta un recorrido de ataque, Blue observa sus alertas y Purple organiza una revisión conjunta para cerrar brechas.", "Antes de actualizar un PLC de una planta se analiza cómo el cambio puede afectar la línea de producción y se segmenta su conexión con la red de oficinas."],
+      "ejemplos": ["En una prueba autorizada, Red intenta un recorrido de ataque, Blue observa sus alertas y Purple organiza la revisión conjunta. Actualizar un controlador industrial exige además evaluar el efecto físico del cambio."],
       "ojo": "La colaboración no elimina la autorización, y proteger un proceso físico requiere atender consecuencias que una oficina puede no tener."
     },
     "ep_normas_ciber": {
       "categoria": "Ciberseguridad",
       "titulo": "Marcos, obligaciones y responsabilidad",
-      "intro": ["Una recomendación técnica, una obligación legal y una regla de responsabilidad cumplen funciones distintas. Para fundamentar una decisión hay que identificar la fuente correcta y evitar convertir toda falla de seguridad en delito o responsabilidad automática."],
+      "intro": ["Una recomendación técnica, una obligación legal y una regla de responsabilidad cumplen funciones distintas. Las precisiones siguientes fueron contrastadas al 22/11/2026; no convierten toda falla de seguridad en delito o responsabilidad automática."],
       "notas": [
         "NIST CSF 2.0: tiene seis funciones: Gobernar, Identificar, Proteger, Detectar, Responder y Recuperar. Gobernar incorpora la orientación y gestión del riesgo; el esquema de cinco funciones del PDF corresponde a una versión anterior.",
         "Seguridad legal de datos: el artículo 9 de la Ley 25.326 exige medidas técnicas y organizativas para evitar alteración, pérdida y acceso o tratamiento no autorizado, y detectar desviaciones.",
@@ -188,10 +183,10 @@
         "Ley 27.401: contiene un catálogo específico sobre responsabilidad de personas jurídicas: cohecho y tráfico de influencias, negociaciones incompatibles, concusión, enriquecimiento ilícito y balances e informes falsos agravados. No cubre de modo general toda negligencia informática ni todos los delitos informáticos.",
         "Corrección CNV: la RG CNV 856/2020 regula restricciones y condiciones de operaciones con valores negociables. No respalda obligaciones de ciberseguridad o reporte de incidentes atribuidas por el apunte.",
         "Regulación sectorial: las fuentes no individualizan normas BCRA o ENACOM suficientes para afirmar sujetos, plazos o sanciones concretos. No corresponde inventar un reporte universal de incidentes ni un delito autónomo por ocultarlos.",
-        "Responsabilidad profesional: examinar deberes, medidas, incumplimiento, daño y causalidad y conservar evidencia. El artículo 1768 del CCyC establece responsabilidad subjetiva del profesional liberal salvo resultado concreto comprometido, con salvedad por vicio de cosas; no se traslada automáticamente el artículo 1757 a toda tarea informática.",
+        "Responsabilidad profesional: examinar deberes, medidas, incumplimiento, daño y causalidad y conservar evidencia. El artículo 1768 del Código Civil y Comercial (CCyC) establece responsabilidad subjetiva del profesional liberal salvo resultado concreto comprometido, con salvedad por vicio de cosas; no se traslada automáticamente el artículo 1757 a toda tarea informática.",
         "Incidentes y estándares: un incidente no demuestra por sí solo delito o responsabilidad. Adoptar estándares puede aportar evidencia de diligencia, pero no exonera por sí solo; reputación es un impacto empresarial y penalidades contractuales dependen de lo pactado y del régimen aplicable."
       ],
-      "ejemplos": ["Una auditoría de una base de clientes funda el deber de seguridad en el artículo 9 y utiliza AAIP 47/2018 como recomendación. No cita CNV 856/2020 como norma de ciberseguridad.", "Tras una caída se preservan registros y se analizan deberes y daños: el incidente por sí solo no determina responsabilidad civil ni un delito de la empresa."],
+      "ejemplos": ["Una auditoría de datos de clientes funda el deber de seguridad en el artículo 9 de la Ley 25.326 y usa AAIP 47/2018 como recomendación; CNV 856/2020 no respalda ese deber."],
       "ojo": "No memorizar como vigentes las cinco funciones NIST del PDF, ni atribuir ciberseguridad a CNV 856/2020 o todos los delitos a la Ley 27.401."
     }
   }
