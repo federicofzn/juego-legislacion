@@ -103,11 +103,16 @@ for (const [key, entry] of Object.entries(reference.entradas)) {
   }
 }
 
-for (const unit of reference.unidades) {
+for (const unit of reference.unidades.filter((unit) => unit.key !== "proteccion_datos")) {
   assert(
     Object.values(reference.entradas).some((entry) => entry.unidad === unit.key && entry.categoria === "Empezá por acá"),
     `la unidad ${unit.titulo} debe empezar con un glosario de palabras basicas`
   );
+}
+
+assert(!reference.entradas.pd_glosario, "Protección de Datos debe explicar los conceptos en sus apartados, sin una sección básica repetida");
+for (const label of ["Dato personal", "Dato sensible", "Dato estadístico (o disociado)", "Titular de los datos", "Base de datos", "Responsable de la base de datos", "Tratamiento de datos"]) {
+  assert(reference.entradas.pd_conceptos.notas.some((note) => note.startsWith(`${label}:`)), `el apartado de conceptos debe conservar la explicación de ${label}`);
 }
 
 console.log(`${questions.length} casos y ${Object.keys(reference.entradas).length} entradas del libro validados`);

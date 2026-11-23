@@ -2768,9 +2768,9 @@
     "pista": "Pensá en este ejemplo: Si un gimnasio guarda tu ficha, vos sos el titular.",
     "explicacion": "Titular de los datos: La persona a la que se refieren los datos y a quien le pertenecen. Ejemplo: Si un gimnasio guarda tu ficha, vos sos el titular.",
     "referencia": {
-      "tipo": "Empezá por acá",
-      "titulo": "Palabras básicas de Protección de Datos",
-      "entradaLibro": "pd_glosario"
+      "tipo": "Conceptos",
+      "titulo": "Dato personal, dato sensible y dato estadístico",
+      "entradaLibro": "pd_conceptos"
     }
   },
   {
@@ -2793,9 +2793,9 @@
     "pista": "Pensá en este ejemplo: el gimnasio que tiene las fichas de sus socios.",
     "explicacion": "Responsable de la base de datos: La persona o empresa que decide qué datos guardar y tiene que cuidarlos. Ejemplo: El gimnasio que guarda las fichas de sus socios.",
     "referencia": {
-      "tipo": "Empezá por acá",
-      "titulo": "Palabras básicas de Protección de Datos",
-      "entradaLibro": "pd_glosario"
+      "tipo": "Conceptos",
+      "titulo": "Dato personal, dato sensible y dato estadístico",
+      "entradaLibro": "pd_conceptos"
     }
   },
   {
@@ -3218,9 +3218,9 @@
     "pista": "Pensá en este ejemplo: Agencia de Acceso a la Información Pública.",
     "explicacion": "AAIP: Organismo del Estado argentino que controla que se cumpla la ley de datos personales. Ejemplo: Agencia de Acceso a la Información Pública.",
     "referencia": {
-      "tipo": "Empezá por acá",
-      "titulo": "Palabras básicas de Protección de Datos",
-      "entradaLibro": "pd_glosario"
+      "tipo": "Ley 25.326",
+      "titulo": "Ley 25.326: las reglas para usar datos ajenos",
+      "entradaLibro": "pd_ley_principios"
     }
   },
   {

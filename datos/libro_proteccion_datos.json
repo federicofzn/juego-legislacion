@@ -1,29 +1,6 @@
 {
   "unidad": { "key": "proteccion_datos", "titulo": "Protección de Datos Personales" },
   "entradas": {
-    "pd_glosario": {
-      "categoria": "Empezá por acá",
-      "titulo": "Palabras básicas de Protección de Datos",
-      "intro": [
-        "Estas palabras aparecen en toda la unidad. Si en otra entrada encontrás una que no entendés, volvé acá."
-      ],
-      "notas": [
-        "Dato personal: cualquier información sobre una persona que se pueda identificar. Ejemplo: tu nombre, tu DNI, tu dirección, tu mail, tu foto.",
-        "Titular de los datos: la persona a la que se refieren los datos. Si una empresa guarda tu nombre y tu mail, vos sos el titular.",
-        "Base de datos: cualquier conjunto ordenado de datos, en papel o digital. Ejemplo: la lista de clientes de un comercio, el sistema de pacientes de una clínica.",
-        "Responsable de la base de datos: la persona o empresa que decide qué datos guardar y para qué, y que tiene que cuidarlos.",
-        "Tratamiento de datos: cualquier cosa que se haga con los datos: pedirlos, guardarlos, ordenarlos, usarlos, compartirlos, borrarlos.",
-        "Consentimiento: la autorización que da el titular para que se usen sus datos.",
-        "Ley 25.326: la ley argentina de protección de datos personales, del año 2000.",
-        "AAIP (Agencia de Acceso a la Información Pública): el organismo del Estado que controla que se cumpla la ley de datos personales en la Argentina.",
-        "RGPD: el reglamento de protección de datos de la Unión Europea. En inglés se llama GDPR.",
-        "Habeas data: la acción judicial para defender tus datos personales (ver la unidad Derecho y Estado)."
-      ],
-      "ejemplos": [
-        "Te anotás en un gimnasio: vos sos el titular, el gimnasio es el responsable, la ficha de inscripción entra en su base de datos, y guardarla es un tratamiento de datos."
-      ],
-      "ojo": "Los datos pertenecen a su titular, no a la empresa que los guarda."
-    },
     "pd_conceptos": {
       "categoria": "Conceptos",
       "titulo": "Dato personal, dato sensible y dato estadístico",
@@ -35,7 +12,11 @@
         "Dato personal: información sobre una persona identificada (con nombre, DNI) o identificable (no se dice el nombre, pero cruzando datos se puede saber quién es). Ejemplos: nombre, DNI, domicilio, mail, teléfono, ubicación, una foto de la cara.",
         "Dato sensible: un tipo especial de dato personal que revela cosas muy íntimas, que podrían usarse para discriminar a alguien. Son: origen racial o étnico, opiniones políticas, creencias religiosas, filosóficas o morales, afiliación a un sindicato, información sobre la salud y sobre la vida sexual. La ley los protege más.",
         "Dato estadístico (o disociado): información sobre un grupo, expresada en números, que NO permite saber quién es cada persona. Ejemplo: «tres alumnos del curso faltaron por gripe», si no hay forma de saber quiénes fueron.",
-        "Privacidad: no es solo esconder cosas. Es poder CONTROLAR tu información: saber qué datos tuyos se juntan, para qué se usan, cuánto tiempo se guardan, con quién se comparten y cómo se protegen."
+        "Privacidad: no es solo esconder cosas. Es poder CONTROLAR tu información: saber qué datos tuyos se juntan, para qué se usan, cuánto tiempo se guardan, con quién se comparten y cómo se protegen.",
+        "Titular de los datos: la persona a la que se refieren los datos. Si una empresa guarda tu nombre y tu mail, vos sos el titular.",
+        "Base de datos: cualquier conjunto ordenado de datos, en papel o digital. Ejemplo: la lista de clientes de un comercio, el sistema de pacientes de una clínica.",
+        "Responsable de la base de datos: la persona o empresa que decide qué datos guardar y para qué, y que tiene que cuidarlos.",
+        "Tratamiento de datos: cualquier cosa que se haga con los datos: pedirlos, guardarlos, ordenarlos, usarlos, compartirlos, borrarlos."
       ],
       "pasos": [
         "¿Puedo saber a qué persona se refiere el dato? Si no → dato estadístico (no lo protege esta ley).",
@@ -44,7 +25,8 @@
       "ejemplos": [
         "«Juan, Ana y Pedro faltaron por gripe»: dato personal y sensible (salud de personas identificadas).",
         "«Tres alumnos faltaron por gripe», sin forma de saber quiénes: dato estadístico.",
-        "El mail de un cliente: dato personal, pero no sensible."
+        "El mail de un cliente: dato personal, pero no sensible.",
+        "Te anotás en un gimnasio: vos sos el titular, el gimnasio es el responsable, la ficha de inscripción entra en su base de datos, y guardarla es un tratamiento de datos."
       ],
       "ojo": "Un dato de salud deja de ser personal solo si es imposible saber a quién pertenece."
     },
@@ -52,10 +34,11 @@
       "categoria": "Ley 25.326",
       "titulo": "Ley 25.326: las reglas para usar datos ajenos",
       "intro": [
-        "La Ley 25.326 es la ley argentina de protección de datos personales. Se aplica a cualquier base de datos, pública o privada, que contenga información de personas.",
+        "La Ley 25.326, del año 2000, es la ley argentina de protección de datos personales. Se aplica a cualquier base de datos, pública o privada, que contenga información de personas.",
         "La ley no prohíbe usar datos: dice bajo qué REGLAS se pueden usar. Esas reglas se llaman «principios». Si una empresa no cumple alguno, está violando la ley."
       ],
       "notas": [
+        "AAIP (Agencia de Acceso a la Información Pública): el organismo del Estado que controla que se cumpla la ley de datos personales en la Argentina.",
         "Consentimiento (art. 5): para usar los datos de una persona, hace falta que ella lo autorice, y esa autorización tiene que ser LIBRE (sin presiones), EXPRESA (que diga claramente que sí, no que se suponga) e INFORMADA (sabiendo para qué se van a usar). Hay algunas excepciones en la ley. Una casilla que ya viene tildada, o el silencio, no son un consentimiento expreso.",
         "Finalidad: los datos solo se pueden usar para el objetivo para el que se pidieron. Si te pidieron el mail para mandarte la factura, no lo pueden usar para venderlo a otra empresa.",
         "Calidad: los datos que se guardan tienen que ser verdaderos, estar actualizados y ser los NECESARIOS para el objetivo, sin pedir de más. Pedir la religión para venderte zapatillas es pedir de más.",

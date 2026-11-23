@@ -5,7 +5,7 @@
     "definicion": "Agencia de Acceso a la Información Pública. Autoridad argentina de protección de datos personales.",
     "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))AAIP(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
     "definidoEn": [
-      "pd_glosario"
+      "pd_ley_principios"
     ],
     "tipo": "sigla"
   },
@@ -23,7 +23,6 @@
     "definicion": "Reglamento General de Protección de Datos de la Unión Europea (2016/679). GDPR es su sigla en inglés.",
     "source": "(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))(?:RGPD|GDPR)(?:(?<=[\\p{L}\\p{N}])(?![\\p{L}\\p{N}])|(?<![\\p{L}\\p{N}])(?=[\\p{L}\\p{N}]))",
     "definidoEn": [
-      "pd_glosario",
       "pd_rgpd"
     ],
     "tipo": "sigla"

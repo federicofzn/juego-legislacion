@@ -29,7 +29,7 @@
     "termino": "Titular de los datos",
     "definicion": "La persona a la que se refieren los datos y a quien le pertenecen.",
     "ejemplo": "Si un gimnasio guarda tu ficha, vos sos el titular.",
-    "libro": "pd_glosario"
+    "libro": "pd_conceptos"
   },
   {
     "id": "def-pd-responsable",
@@ -38,7 +38,7 @@
     "definicion": "La persona o empresa que decide qué datos guardar y tiene que cuidarlos.",
     "ejemplo": "El gimnasio que guarda las fichas de sus socios.",
     "pista": "Pensá en este ejemplo: el gimnasio que tiene las fichas de sus socios.",
-    "libro": "pd_glosario"
+    "libro": "pd_conceptos"
   },
   {
     "id": "def-pd-privacidad",
@@ -176,7 +176,7 @@
     "termino": "AAIP",
     "definicion": "Organismo del Estado argentino que controla que se cumpla la ley de datos personales.",
     "ejemplo": "Agencia de Acceso a la Información Pública.",
-    "libro": "pd_glosario"
+    "libro": "pd_ley_principios"
   },
   {
     "id": "def-pd-diseno",
